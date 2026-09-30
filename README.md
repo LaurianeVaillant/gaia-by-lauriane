@@ -17,7 +17,8 @@ Le serveur affiche son URL locale. `/` redirige vers `/fr/`.
 
 ## Modifier le site avec Codex
 
-- `src/components/Home.astro` : textes FR/EN et sections de la homepage, côte à côte pour cette première passe.
+- `src/data/home.ts` : tous les textes FR/EN de la homepage.
+- `src/components/Home.astro` : sections et composition de la homepage.
 - `src/data/site.ts` : marque, domaine, contact, liens, navigation, traductions des routes et descriptions SEO.
 - `src/styles/global.css` : tokens de marque, typographie et mise en page responsive.
 - `src/layouts/Base.astro` : structure commune, navigation, langues, pied de page et métadonnées.
@@ -35,7 +36,7 @@ Renseigner `bookingUrl`, `email`, `instagramUrl`, `whatsappUrl` dans `src/data/s
 
 ### Ajouter un lieu / service
 
-Les lieux de la homepage sont dans Home.astro ; ajouter uniquement des dates/adresses confirmées, puis centraliser ces données dans site.ts quand disponibles. Le futur lieu d’Auvers-sur-Oise est explicitement présenté comme en développement.
+Les lieux de la homepage sont dans Home.astro et les textes dans src/data/home.ts ; ajouter uniquement des dates/adresses confirmées, puis centraliser ces données dans site.ts quand disponibles. Le futur lieu d’Auvers-sur-Oise est explicitement présenté comme en développement.
 Pour un service, ajouter ses routes et labels FR/EN dans site.ts, puis sa présentation dans les composants. L’architecture n’impose aucun nombre fixe de services.
 
 ### Journal
