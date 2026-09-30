@@ -22,8 +22,8 @@ export const acupunctureFr = {
  reasonsIntro:'Quelques motifs qui peuvent vous amener à consulter :',
  careNote:'L’acupuncture traditionnelle ne remplace pas un diagnostic ni un suivi médical.',
  expectations:[
- {title:'La durée',copy:'Une séance dure généralement entre 1h et 1h15.'},
- {title:'Les aiguilles',copy:'Les aiguilles d’acupuncture sont très fines. Les sensations varient d’une personne à l’autre.'},
- {title:'Le rythme',copy:'Le nombre et le rythme des séances dépendent de la condition de chacun.'}
+ {title:'1h–1h15',copy:'Une séance dure généralement entre 1h et 1h15.'},
+ {title:'Aiguilles très fines',copy:'Les sensations varient d’une personne à l’autre.'},
+ {title:'Rythme adapté',copy:'Le nombre et le rythme des séances dépendent de la condition de chacun.'}
  ]
 };
