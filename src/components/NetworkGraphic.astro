@@ -1,4 +1,4 @@
 ---
-const {lang='fr'} = Astro.props;
+const {lang='fr',expressive=false} = Astro.props;
 ---
-<div class="map" role="img" aria-label={lang==='fr'?'Quelques lignes et points de connexion illustrant un réseau':'A few lines and connection points illustrating a network'}><svg viewBox="0 0 500 400" aria-hidden="true"><path d="M35 300C130 290 165 80 440 95" stroke="#6C32FF"/><path d="M60 75C235 90 215 300 465 315" stroke="#FF5A1F"/><path d="M115 370C180 250 345 210 365 30" stroke="#6C32FF"/>{[[205,159],[235,254],[322,164]].map(([cx,cy])=><circle cx={cx} cy={cy} r="4"/>)}</svg></div>
+<div class:list={['map',{'map-expressive':expressive}]} role="img" aria-label={lang==='fr'?'Quelques lignes et points de connexion illustrant un réseau':'A few lines and connection points illustrating a network'}><svg viewBox="0 0 500 400" aria-hidden="true"><path d="M35 300C130 290 165 80 440 95" stroke="#6C32FF"/><path d="M60 75C235 90 215 300 465 315" stroke={expressive?'#6C32FF':'#FF5A1F'}/><path d="M115 370C180 250 345 210 365 30" stroke="#6C32FF"/>{[[205,159],[235,254],[322,164]].map(([cx,cy])=><circle cx={cx} cy={cy} r={expressive?6:4}/>)}</svg></div>

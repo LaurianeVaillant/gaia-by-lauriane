@@ -1,6 +1,6 @@
 export const acupunctureFr = {
  title:'Acupuncture traditionnelle',
- subtitle:'Une approche du corps comme un réseau interconnecté.',
+ subtitle:'Le corps, les émotions et leurs interactions comme un réseau interconnecté.',
  intro:'Comprendre, relier, construire autour de ce qui s’exprime pour vous aujourd’hui.',
  approach:[
  'J’aime décrire mon approche de l’acupuncture comme celle d’une détective. Tout au long de la séance, mon objectif est d’apprendre à vous connaître et de comprendre vos différents fonctionnements. Une douleur, un sommeil perturbé, une digestion difficile ou une fatigue sont rarement des phénomènes isolés.',
@@ -11,14 +11,14 @@ export const acupunctureFr = {
  'Quand j’explique l’acupuncture, je la compare souvent au plan des transports parisiens.',
  'Il existe plusieurs lignes, plusieurs chemins, plusieurs façons de relier un point à un autre.',
  'Parfois un trajet est bloqué. Il faut alors comprendre le réseau dans son ensemble pour trouver une autre voie.',
- 'C’est cette logique de relations et de circulation qui me fascine dans l’acupuncture.'
+ 'C’est cette logique de relations et de circulation que je trouve fascinante dans l’acupuncture.'
  ],
  steps:[
  {title:'Échanger',copy:'La première partie de la séance dure généralement 15 à 20 minutes. Elle me permet de comprendre ce qui vous amène, votre histoire, votre contexte et les différents signes que votre corps exprime.'},
  {title:'Observer',copy:'Je complète cet échange par un bilan énergétique, notamment à travers la prise des pouls et l’observation de la langue.'},
  {title:'Agir',copy:'Je construis ensuite la séance et choisis les points en fonction du bilan réalisé et de ce que votre corps exprime ce jour-là.'}
  ],
- reasons:['Douleurs et tensions','Sommeil','Stress','Fatigue','Digestion','Cycle menstruel / santé féminine','Inconforts fonctionnels'],
+ reasons:['Douleurs et tensions','Sommeil','Stress','Fatigue','Digestion','Cycle menstruel','Santé féminine','Inconforts fonctionnels'],
  reasonsIntro:'Quelques motifs qui peuvent vous amener à consulter :',
  careNote:'L’acupuncture traditionnelle ne remplace pas un diagnostic ni un suivi médical.',
  expectations:[
