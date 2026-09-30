@@ -55,3 +55,9 @@ Les pages internes sont des bases transparentes, pas des pages finalisées. Pas 
 ## Page Acupuncture FR
 
 Textes : `src/data/acupuncture-fr.ts`. Mise en page : `src/components/Acupuncture.astro`. Photo fournie : `public/images/acupuncture-*.webp` (remplaçable comme les autres photos). Graphique partagé : `src/components/NetworkGraphic.astro`. La version anglaise reste une base en attente de validation et de traduction.
+
+## Page Santé féminine FR — V1
+
+Textes : `src/data/womens-health-fr.ts`. Composition : `src/components/WomensHealth.astro`. Photo réelle existante : `softness-*.webp`. La spécialisation est explicitement en développement. La version anglaise reste en attente de validation.
+
+Les sujets possèdent des clés stables et des ancres `sujet-cycle-menstruel`, `sujet-endometriose`, `sujet-sopk`, `sujet-fertilite`, etc. Ils ne sont pas des liens vers de fausses pages. Lorsque de vrais contenus éducatifs seront validés, ajouter une destination optionnelle dans ces données pour les relier aux pages ou au Journal. Aucun article ni contenu médical détaillé n’est créé en V1.
