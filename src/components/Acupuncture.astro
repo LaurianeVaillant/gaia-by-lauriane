@@ -1,0 +1,17 @@
+---
+import Photo from './Photo.astro';
+import NetworkGraphic from './NetworkGraphic.astro';
+import {acupunctureFr as c} from '../data/acupuncture-fr';
+import {url} from '../data/site';
+---
+<div class="acupuncture-page">
+<section class="acupuncture-hero section"><div class="acupuncture-hero-copy"><h1>{c.title}</h1><p class="acupuncture-subtitle">{c.subtitle}</p><p>{c.intro}</p><a class="button" href={url('fr','contact')}>Prendre rendez-vous</a></div><div class="acupuncture-hero-photo"><Photo name="acupuncture" hero width={1149} height={1368} alt="Détail de mains posant des aiguilles d’acupuncture sur le dos, dans une lumière naturelle chaleureuse"/></div></section>
+<section class="section acupuncture-approach"><div class="acupuncture-editorial"><h2 class="eyebrow">Mon approche</h2><div>{c.approach.map(p=><p>{p}</p>)}</div></div></section>
+<section class="section acupuncture-network"><h2 class="eyebrow">Your body is a network.</h2><div class="split"><p>{c.network}</p><NetworkGraphic lang="fr"/></div></section>
+<section class="section acupuncture-session"><h2 class="eyebrow">Comment se déroule une séance ?</h2><div class="session-steps">{c.steps.map(step=><div><h3>{step.title}</h3><p>{step.copy}</p></div>)}</div></section>
+<section class="section acupuncture-reasons"><div class="acupuncture-editorial"><h2 class="eyebrow">Pourquoi consulter ?</h2><div><p>{c.reasonsIntro}</p><ul class="consultation-reasons">{c.reasons.map(reason=><li>{reason==='Cycle menstruel / santé féminine'?<a href={url('fr','women')}>{reason}</a>:reason}</li>)}</ul><p class="care-note">{c.careNote}</p></div></div></section>
+<section class="section acupuncture-practice"><div class="acupuncture-editorial"><h2 class="eyebrow">Ma façon de pratiquer</h2><div>{c.practice.map(p=><p>{p}</p>)}<a class="text-link" href={url('fr','about')}>Découvrir mon parcours</a></div></div></section>
+<section class="section acupuncture-expectations"><div class="acupuncture-editorial"><h2 class="eyebrow">À quoi s’attendre ?</h2><div class="expectation-list">{c.expectations.map(item=><div><h3>{item.title}</h3><p>{item.copy}</p></div>)}</div></div></section>
+<section class="section locations"><h2 class="eyebrow">Où me trouver</h2><p class="locations-title">Paris <span>·</span> Val-d’Oise <span>·</span> Goa</p><p>{c.locations}</p><a class="text-link" href={url('fr','contact')}>Voir mes disponibilités</a></section>
+<section class="final-cta section"><h2>RECONNECT.</h2><p class="serif">Se reconnecter à ce qui a toujours été là.</p><a class="button" href={url('fr','contact')}>Prendre rendez-vous</a></section>
+</div>

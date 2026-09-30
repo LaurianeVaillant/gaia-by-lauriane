@@ -1,5 +1,5 @@
 ---
-interface Props {name:string; alt:string; hero?:boolean; class?:string;}
-const {name,alt,hero=false,class:className} = Astro.props;
+interface Props {name:string; alt:string; hero?:boolean; class?:string; width?:number; height?:number;}
+const {name,alt,hero=false,class:className,width=1200,height=name==='movement'?890:name==='softness'?800:1800} = Astro.props;
 ---
-<img class={className} src={`/images/${name}-1200.webp`} srcset={`/images/${name}-640.webp 640w, /images/${name}-1200.webp 1200w${hero ? `, /images/${name}-1800.webp 1800w` : ''}`} sizes={hero?'(max-width: 700px) 100vw, 50vw':'(max-width: 700px) 100vw, 45vw'} alt={alt} width="1200" height={name==='movement'?890:name==='softness'?800:1800} loading={hero?'eager':'lazy'} fetchpriority={hero?'high':'auto'} decoding="async" />
+<img class={className} src={`/images/${name}-1200.webp`} srcset={`/images/${name}-640.webp 640w, /images/${name}-1200.webp 1200w${hero ? `, /images/${name}-1800.webp 1800w` : ''}`} sizes={hero?'(max-width: 700px) 100vw, 50vw':'(max-width: 700px) 100vw, 45vw'} alt={alt} width={width} height={height} loading={hero?'eager':'lazy'} fetchpriority={hero?'high':'auto'} decoding="async" />

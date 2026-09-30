@@ -51,3 +51,7 @@ Le domaine cible est configuré dans astro.config.mjs et site.ts. Le domaine n�
 ## Limites de cette passe
 
 Les pages internes sont des bases transparentes, pas des pages finalisées. Pas de réservation réelle, de formulaire, de faux témoignage ou de données locales inventées. Performance Lighthouse à mesurer sur la version finale hébergée ; aucun score prétendu.
+
+## Page Acupuncture FR
+
+Textes : `src/data/acupuncture-fr.ts`. Mise en page : `src/components/Acupuncture.astro`. Photo fournie : `public/images/acupuncture-*.webp` (remplaçable comme les autres photos). Graphique partagé : `src/components/NetworkGraphic.astro`. La version anglaise reste une base en attente de validation et de traduction.
