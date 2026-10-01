@@ -69,3 +69,5 @@ Textes : `src/data/about-fr.ts`. Composition : `src/components/About.astro`. Qua
 ## Aculift FR — V1
 
 Textes : `src/data/aculift-fr.ts`. Composition : `src/components/Aculift.astro`. Hero : portrait existant `about-portrait-*.webp`, facilement remplaçable par une future photo de soin. Les textes ne nomment aucune technique complémentaire non confirmée et ne promettent aucun résultat. Anglais en attente de validation.
+
+Pranic Healing FR : textes dans `src/data/pranic-fr.ts`, composition dans `src/components/PranicHealing.astro`, visuel abstrait dans `src/components/CirculationGraphic.astro`. La version anglaise reste à valider.
