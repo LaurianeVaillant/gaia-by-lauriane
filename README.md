@@ -71,3 +71,12 @@ Textes : `src/data/about-fr.ts`. Composition : `src/components/About.astro`. Qua
 Textes : `src/data/aculift-fr.ts`. Composition : `src/components/Aculift.astro`. Hero : portrait existant `about-portrait-*.webp`, facilement remplaçable par une future photo de soin. Les textes ne nomment aucune technique complémentaire non confirmée et ne promettent aucun résultat. Anglais en attente de validation.
 
 Pranic Healing FR : textes dans `src/data/pranic-fr.ts`, composition dans `src/components/PranicHealing.astro`, visuel abstrait dans `src/components/CirculationGraphic.astro`. La version anglaise reste à valider.
+
+### Direction artistique GAIA — accueil V1
+Le système visuel est défini dans `src/styles/home-art.css` et appliqué dans `src/components/Home.astro`, sous `.gaia-home`. Les autres pages gardent leur composition actuelle en attendant validation.
+- `GaiaMark.astro` : soulignement ou cercle imparfait autour d’un texte existant ; décor masqué aux lecteurs d’écran.
+- `TextRibbon.astro` : bande typographique répétée, statique, sans JavaScript ; décor masqué aux lecteurs d’écran.
+- `OrganicField.astro` : fond de marque organique pour un élément graphique.
+- `PhotoMask.astro` : masque organique occasionnel pour une photographie, en conservant son texte alternatif.
+- `NetworkGraphic.astro` : réseau abstrait existant réutilisé.
+Fraunces reste la seule police expressive (Gaia et RECONNECT.), DM Sans porte la lecture et Cormorant les rares accents éditoriaux. Les échelles et espacements sont centralisés dans les variables `--art-section`, `--art-label`, `--art-large`.
