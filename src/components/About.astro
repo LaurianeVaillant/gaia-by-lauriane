@@ -1,0 +1,16 @@
+---
+import Photo from './Photo.astro';
+import {aboutFr as c} from '../data/about-fr';
+import {url} from '../data/site';
+---
+<div class="about-page">
+<section class="section about-hero"><div><h1>{c.title}</h1><p class="about-hero-statement">{c.statement}</p><p class="about-hero-intro">{c.intro}</p></div><div class="about-hero-photo"><Photo name="about-portrait" hero width={1024} height={1536} alt="Portrait de Lauriane au bord de la mer, dans la lumière dorée du soir"/></div></section>
+<section class="section about-path"><div class="about-editorial"><h2 class="eyebrow">Mon parcours</h2><div><p class="about-emphasis">{c.path[0]}</p>{c.path.slice(1).map(p=><p>{p}</p>)}</div></div></section>
+<section class="section about-india"><div class="about-story-split"><div class="about-india-photo"><Photo name="about-india" width={1086} height={1448} alt="Un temple au bord d’une rivière en Inde, entouré de collines boisées"/></div><div><h2 class="eyebrow">Le déclic de l’Inde</h2>{c.india.map(p=><p>{p}</p>)}</div></div></section>
+<section class="section about-yoga"><div class="about-story-split"><div><h2 class="eyebrow">Yoga, corps, énergie</h2>{c.yoga.map(p=><p>{p}</p>)}</div><div class="about-yoga-photo"><Photo name="about-yoga" width={1448} height={1086} alt="Lauriane dans une posture de yoga sur une plage au coucher du soleil"/></div></div></section>
+<section class="section about-acupuncture"><div class="about-story-split"><div class="about-practice-photo"><Photo name="about-practice" width={1086} height={1448} alt="Archive de pratique au Népal : Lauriane travaille sur les jambes d’une personne allongée, auprès d’un autre praticien"/></div><div><h2 class="eyebrow">La rencontre avec l’acupuncture</h2>{c.acupuncture.map(p=><p>{p}</p>)}<a class="text-link" href={url('fr','acupuncture')}>Découvrir mon approche de l’acupuncture</a></div></div></section>
+<section class="section about-training"><h2 class="eyebrow">Mes formations</h2><p>{c.trainingIntro}</p><div class="about-training-grid">{c.training.map(item=><div><h3>{item.title}</h3><p>{item.copy}</p></div>)}</div></section>
+<section class="section about-connection"><h2 class="eyebrow">Ce qui relie tout</h2><p class="about-connection-statement">Nothing works in silos.</p><div class="about-connection-copy">{c.connection.map(p=><p>{p}</p>)}</div></section>
+<section class="section about-today"><div class="about-editorial"><h2 class="eyebrow">GAIA aujourd’hui</h2><div><p>{c.todayOpening}</p><p class="about-linking-lines">{c.todayLines.map(line=><span>{line}</span>)}</p><p>{c.today}</p></div></div></section>
+<section class="final-cta section"><h2>RECONNECT.</h2><p class="about-final-support">Se reconnecter à ce qui a toujours été là.</p><a class="button" href={url('fr','contact')}>Prendre rendez-vous</a></section>
+</div>

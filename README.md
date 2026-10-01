@@ -61,3 +61,7 @@ Textes : `src/data/acupuncture-fr.ts`. Mise en page : `src/components/Acupunctur
 Textes : `src/data/womens-health-fr.ts`. Composition : `src/components/WomensHealth.astro`. Photo réelle existante : `softness-*.webp`. La spécialisation est explicitement en développement. La version anglaise reste en attente de validation.
 
 Les sujets possèdent des clés stables et des ancres `sujet-cycle-menstruel`, `sujet-endometriose`, `sujet-sopk`, `sujet-fertilite`, etc. Ils ne sont pas des liens vers de fausses pages. Lorsque de vrais contenus éducatifs seront validés, ajouter une destination optionnelle dans ces données pour les relier aux pages ou au Journal. Aucun article ni contenu médical détaillé n’est créé en V1.
+
+## À propos FR — V1
+
+Textes : `src/data/about-fr.ts`. Composition : `src/components/About.astro`. Quatre photos : `about-portrait`, `about-india`, `about-yoga`, `about-practice`, optimisées en WebP. Les formations reprennent uniquement les informations fournies par Lauriane ; aucun diplôme, certification ou date ajoutés. Anglais en attente de validation.
