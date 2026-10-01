@@ -1,5 +1,5 @@
 export const aboutFr = {
- title:'À propos de Lauriane',
+ title:'Mon histoire',
  statement:'I was looking for a way to connect the dots.',
  intro:'Un parcours construit entre mouvement, énergie, voyage et acupuncture.',
  path:[
@@ -8,11 +8,12 @@ export const aboutFr = {
  'Mais très vite, les voyages et les expériences en Asie ont commencé à ouvrir d’autres questions : comment mieux comprendre le corps, l’énergie, le mouvement et les liens entre eux ?'
  ],
  india:[
- 'Pendant mon semestre d’échange à Hong Kong, j’ai eu l’occasion de voyager en Asie.',
- 'À Singapour, je me suis retrouvée presque par hasard au milieu d’une pooja indienne.',
- 'Je ne connaissais presque rien à l’Inde, mais quelque chose a immédiatement accroché.',
- 'Quelques semaines plus tard, je partais en Inde.',
- 'Ce qui devait être une courte immersion dans un ashram s’est transformé en plusieurs mois.'
+ 'Pendant mon semestre d’échange à Hong Kong, j’ai eu l’occasion de beaucoup voyager en Asie.',
+ 'Je me souviens notamment d’un séjour à Singapour, un lendemain de soirée un peu festive. Pendant que mes amis dormaient encore, je suis partie découvrir la ville, appareil photo à la main.',
+ 'De fil en aiguille, je me suis retrouvée dans le quartier indien, au milieu d’une pooja. Je ne connaissais presque rien à l’Inde. J’étais comme une enfant : fascinée par les couleurs, les odeurs et la dévotion que j’observais autour de moi.',
+ 'Je me souviens avoir su à ce moment-là que j’irais en Inde.',
+ 'Une semaine plus tard, j’étais dans l’avion.',
+ 'Ce qui devait ensuite être une courte immersion dans un ashram s’est transformé en plusieurs mois.'
  ],
  yoga:[
  'Le yoga est devenu une pratique quotidienne.',
@@ -34,7 +35,5 @@ export const aboutFr = {
  'Je n’ai jamais cherché à accumuler les disciplines.',
  'Ce qui m’intéresse, c’est de comprendre comment elles peuvent dialoguer entre elles et ce qu’elles peuvent m’apprendre sur le fonctionnement du corps, de l’énergie et du mouvement.'
  ],
- todayOpening:'GAIA est né de cette envie de relier.',
- todayLines:['Relier les signes.','Relier les disciplines.','Relier le corps à ce qu’il exprime.'],
- today:'Aujourd’hui, GAIA prend forme autour de ma pratique de l’acupuncture, de l’Aculift et du Pranic Healing, avec l’envie de créer progressivement des espaces où l’on peut mieux comprendre son corps et se reconnecter à ce qui a toujours été là.'
+ closing:'C’est de cette envie de relier qu’est né GAIA.'
 };
