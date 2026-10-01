@@ -65,3 +65,7 @@ Les sujets possèdent des clés stables et des ancres `sujet-cycle-menstruel`, `
 ## À propos FR — V1
 
 Textes : `src/data/about-fr.ts`. Composition : `src/components/About.astro`. Quatre photos : `about-portrait`, `about-india`, `about-yoga`, `about-practice`, optimisées en WebP. Les formations reprennent uniquement les informations fournies par Lauriane ; aucun diplôme, certification ou date ajoutés. Anglais en attente de validation.
+
+## Aculift FR — V1
+
+Textes : `src/data/aculift-fr.ts`. Composition : `src/components/Aculift.astro`. Hero : portrait existant `about-portrait-*.webp`, facilement remplaçable par une future photo de soin. Les textes ne nomment aucune technique complémentaire non confirmée et ne promettent aucun résultat. Anglais en attente de validation.
