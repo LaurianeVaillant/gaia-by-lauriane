@@ -87,3 +87,5 @@ Les deux traitements photo sont accessibles avec `?hero=organic` (A) et `?hero=f
 Tous les textes éditoriaux restent dans `src/data/home.ts`. La phrase du projet reste disponible en HTML pour les lecteurs d’écran et apparaît en texte SVG sur la courbe.
 
 L’itération des références affine les contours des photos grâce à deux tracés SVG `clipPath` propres à l’accueil. `OrganicBoundary.astro` fournit une seule jonction colorée supplémentaire entre réseau et pratiques. Le réseau de l’accueil comporte trois lignes et quelques points de connexion. Les pages internes gardent leurs composants et styles. Les deux options du hero restent disponibles.
+
+La passe de cohésion ajoute `SoftBoundary.astro` pour les raccords courbes sans séparateurs rectilignes. La signature utilise désormais Herr Von Muellerhoff (licence OFL jointe), réservée aux mots « by Lauriane ». Le réseau accueille trois repères et Power & Softness compose le symbole avec deux courbes complémentaires, sans animation.
