@@ -1,0 +1,4 @@
+---
+const {kind}=Astro.props;
+---
+<div class="practice-pictogram" aria-hidden="true"><svg viewBox="0 0 100 100" fill="none" stroke="var(--orange)" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">{kind==='acupuncture'?<><path d="M31 19L29 72M26 20L35 20M26 26L34 26M26 32L34 32M50 30L49 85M45 31L54 30M45 37L54 36M45 43L54 42M72 15L68 68M67 16L77 17M67 23L76 24M67 29L76 30"/></>:kind==='aculift'?<><path d="M51 15C31 15 23 34 26 58C28 77 39 87 51 86C65 85 75 67 74 45C73 24 64 14 51 15M34 42Q40 39 45 42M58 42Q64 39 69 43M52 44L48 59Q52 62 57 59M42 70Q51 75 61 69"/></>:<><path d="M49 29C33 29 26 43 30 57C34 75 57 78 69 64C82 49 68 28 49 29M49 14L50 21M77 22L72 28M89 49L82 49M77 78L72 72M49 88L49 81M22 78L27 72M11 50L19 49M23 22L28 28"/><circle cx="51" cy="52" r="6"/></>}</svg></div>

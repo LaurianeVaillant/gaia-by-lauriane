@@ -80,3 +80,8 @@ Le système visuel est défini dans `src/styles/home-art.css` et appliqué dans 
 - `PhotoMask.astro` : masque organique occasionnel pour une photographie, en conservant son texte alternatif.
 - `NetworkGraphic.astro` : réseau abstrait existant réutilisé.
 Fraunces reste la seule police expressive (Gaia et RECONNECT.), DM Sans porte la lecture et Cormorant les rares accents éditoriaux. Les échelles et espacements sont centralisés dans les variables `--art-section`, `--art-label`, `--art-large`.
+
+### Accueil — itération contrôlée, octobre 2026
+Les deux traitements photo sont accessibles avec `?hero=organic` (A) et `?hero=fade` (B), sur `/fr/` et `/en/`. Sans paramètre, le traitement fondu existant reste affiché en attendant le choix ; les variantes conservent le même canonical.
+`FlowTransition.astro` remplace le ruban épais sur l’accueil, avec deux transitions fines adaptées séparément au mobile. `HomeNetwork.astro` porte le réseau simplifié propre à l’accueil et ne modifie pas le réseau des pages internes. `PracticePictogram.astro` fournit les trois petits pictogrammes orange. La police Allura, sous licence OFL incluse dans `public/fonts/Allura-LICENSE.txt`, est réservée à la signature « by Lauriane ».
+Tous les textes éditoriaux restent dans `src/data/home.ts`. La phrase du projet reste disponible en HTML pour les lecteurs d’écran et apparaît en texte SVG sur la courbe.
