@@ -93,3 +93,9 @@ body.gaia-home-shell{
  .gaia-home .final-cta h2{font-size:clamp(40px,12vw,56px)}
  .gaia-home .final-cta .closing-actions p{font-size:20px;white-space:normal;max-width:26ch}
 }
+
+/* Consistent display family and restrained emphasis; no composition changes. */
+.gaia-home .manifesto>.eyebrow,.gaia-home .network-title,.gaia-home .women-title,.gaia-home .power .eyebrow,.gaia-home .final-cta h2{font-family:var(--display);font-style:normal}
+.gaia-home .manifesto>.eyebrow,.gaia-home .network-title,.gaia-home .women-title,.gaia-home .power .eyebrow{font-weight:700;font-variation-settings:'wght' 700,'SOFT' 70,'WONK' 1}
+.gaia-home p strong{font-family:inherit;font-weight:600;color:inherit}
+.gaia-home .story-statement{font-family:var(--sans)}

@@ -1,0 +1,15 @@
+---
+interface Props { text:string; phrases?:readonly string[]; }
+const {text,phrases=[]}=Astro.props;
+// Render ordinary text nodes and semantic emphasis without HTML interpolation.
+const parts:{text:string;strong:boolean}[]=[];
+let cursor=0;
+while(cursor<text.length){
+ const matches=phrases.map(phrase=>({phrase,index:text.indexOf(phrase,cursor)})).filter(match=>match.index>=0).sort((a,b)=>a.index-b.index);
+ const match=matches[0];
+ if(!match){parts.push({text:text.slice(cursor),strong:false});break;}
+ if(match.index>cursor)parts.push({text:text.slice(cursor,match.index),strong:false});
+ parts.push({text:match.phrase,strong:true});cursor=match.index+match.phrase.length;
+}
+---
+{parts.map(part=>part.strong?<strong>{part.text}</strong>:part.text)}

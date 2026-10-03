@@ -1,5 +1,7 @@
 ---
 import Photo from './Photo.astro';
+import TextEmphasis from './TextEmphasis.astro';
+import {homeEmphasis} from '../data/home-emphasis';
 import GaiaMark from './GaiaMark.astro';
 import FlowTransition from './FlowTransition.astro';
 import OrganicBoundary from './OrganicBoundary.astro';
@@ -11,7 +13,7 @@ import '../styles/home-system.css';
 import HomeNetwork from './HomeNetwork.astro';
 import {url,labels,type Lang,type Page} from '../data/site';
 import {home} from '../data/home';
-const {lang} = Astro.props as {lang:Lang}; const fr=lang==='fr'; const t=labels[lang]; const c=home[lang]; const womenWord=fr?'féminité':'womanhood'; const womenParts=c.womenLabel.split(womenWord);
+const {lang} = Astro.props as {lang:Lang}; const fr=lang==='fr'; const t=labels[lang]; const c=home[lang]; const emphasis=homeEmphasis[lang]; const womenWord=fr?'féminité':'womanhood'; const womenParts=c.womenLabel.split(womenWord);
 ---
 <div class="gaia-home" data-hero-photo="fade" style={`--hero-mask:url(#hero-organic-${lang});--women-mask:url(#women-organic-${lang})`}>
 <svg class="gaia-mask-definitions" width="0" height="0" aria-hidden="true"><defs>
@@ -20,15 +22,15 @@ const {lang} = Astro.props as {lang:Lang}; const fr=lang==='fr'; const t=labels[
 </defs></svg>
 <section class="hero"><div class="hero-copy"><div class="wordmark">Gaia</div><p class="byline">by Lauriane</p><p class="hero-statement">{fr?<>Se <em><GaiaMark>reconnecter</GaiaMark></em><br/>à ce qui a toujours<br/>été là.</>:<><em><GaiaMark>Reconnect</GaiaMark></em> with<br/>what has always<br/>been there.</>}</p><div class="hero-details"><h1>{c.profession}</h1><p>Acupuncture · Aculift · Pranic Healing</p></div><a class="button" href={url(lang,'contact')}>{t.book}</a></div><div class="hero-photo"><Photo name="portrait" hero alt={fr?'Lauriane, les yeux fermés, dans la lumière dorée au bord de la mer':'Lauriane with her eyes closed in golden light by the sea'}/></div></section>
 <FlowTransition id={`hero-flow-${lang}`} text="NOTHING WORKS IN SILOS" class="hero-flow"/>
-<section class="manifesto section"><div class="manifesto-copy"><p>{fr?c.manifesto[0].split(/(?<=parties indépendantes\.)|(?<=Tout s’influence\.)/).map((part,i)=><>{i>0&&<br/>}{part}</>):c.manifesto[0]}</p><p class="separated">{c.manifesto[1]}</p></div><h2 class="eyebrow"><GaiaMark>Nothing works</GaiaMark><br/> in silos.</h2></section>
+<section class="manifesto section"><div class="manifesto-copy"><p>{fr?c.manifesto[0].split(/(?<=parties indépendantes\.)|(?<=Tout s’influence\.)/).map((part,i)=><>{i>0&&<br/>}<TextEmphasis text={part} phrases={emphasis.manifesto}/></>):<TextEmphasis text={c.manifesto[0]} phrases={emphasis.manifesto}/>}</p><p class="separated">{c.manifesto[1]}</p></div><h2 class="eyebrow"><GaiaMark>Nothing works</GaiaMark><br/> in silos.</h2></section>
 <SoftBoundary/>
 <section class="network section"><div class="network-copy"><h2 class="eyebrow network-title"><GaiaMark>Your body</GaiaMark><br/> is a network.</h2>{(Array.isArray(c.acupuncture)?c.acupuncture:[c.acupuncture]).map(p=><p>{p}</p>)}<a class="text-link" href={url(lang,'acupuncture')}>{t.discover}</a></div><HomeNetwork lang={lang}/></section>
 <OrganicBoundary/>
 <section class="practices section"><h2 class="eyebrow">{c.practicesLabel}</h2><div class="practice-grid">{c.practices.map(p=><article class="practice"><PracticePictogram kind={p.key}/><h3>{p.title}</h3><p>{p.description}</p><a class="text-link" href={url(lang,p.key as Page)}>{c.discover}<span class="sr-only"> — {p.title}</span></a></article>)}</div></section>
 <SoftBoundary/>
-<section class="women section"><PhotoMask class="women-photo"><Photo name="hands" alt={fr?'Détail des mains de Lauriane jointes, ornées de bagues et d’un bracelet coloré':'Detail of Lauriane’s joined hands with rings and a colourful bracelet'}/></PhotoMask><div><h2 class="eyebrow women-title">{womenParts[0]}<span class="violet"><GaiaMark>{womenWord}</GaiaMark></span>{womenParts[1]}</h2>{c.women.map(p=><p>{p}</p>)}<a class="text-link" href={url(lang,'women')}>{c.womenCta}</a></div></section>
+<section class="women section"><PhotoMask class="women-photo"><Photo name="hands" alt={fr?'Détail des mains de Lauriane jointes, ornées de bagues et d’un bracelet coloré':'Detail of Lauriane’s joined hands with rings and a colourful bracelet'}/></PhotoMask><div><h2 class="eyebrow women-title">{womenParts[0]}<span class="violet"><GaiaMark>{womenWord}</GaiaMark></span>{womenParts[1]}</h2>{c.women.map(p=><p><TextEmphasis text={p} phrases={emphasis.women}/></p>)}<a class="text-link" href={url(lang,'women')}>{c.womenCta}</a></div></section>
 <SoftBoundary from="var(--butter)" to="var(--soft)" reverse/>
-<section class="about section"><h2 class="eyebrow">I WAS LOOKING FOR A WAY TO CONNECT THE DOTS.</h2><div class="split"><div>{c.story.map(p=><p>{p}</p>)}{fr&&<p class="story-statement">Nothing works in silos.</p>}<a class="text-link" href={url(lang,'about')}>{c.storyCta}</a></div><div class="editorial-collage"><Photo name="movement" alt={fr?'Lauriane dans une posture de yoga sur une plage':'Lauriane practising yoga on a beach'}/></div></div></section>
+<section class="about section"><h2 class="eyebrow">I WAS LOOKING FOR A WAY TO CONNECT THE DOTS.</h2><div class="split"><div>{c.story.map(p=><p><TextEmphasis text={p} phrases={emphasis.story}/></p>)}{fr&&<p class="story-statement">Nothing works in silos.</p>}<a class="text-link" href={url(lang,'about')}>{c.storyCta}</a></div><div class="editorial-collage"><Photo name="movement" alt={fr?'Lauriane dans une posture de yoga sur une plage':'Lauriane practising yoga on a beach'}/></div></div></section>
 <SoftBoundary from="var(--soft)" to="var(--white)"/>
 <section class="power section"><div><h2 class="eyebrow">Power & Softness</h2>{c.power.map((p,i)=><><p>{p}</p>{fr&&i===0&&<div class="power-pairs"><p>YIN / YANG</p><p>SHIVA / SHAKTI</p><p>HA / THA</p><p>SOLEIL / LUNE</p></div>}</>)}</div><div class="power-dialogue"><svg class="power-orbits" viewBox="0 0 520 540" aria-hidden="true" fill="none"><path d="M38 414C98 473 222 452 270 343C328 211 353 87 492 97" stroke="var(--violet)"/><path d="M39 161C186 65 275 139 310 284C343 420 439 459 496 388" stroke="var(--orange)"/></svg><img class="gaia-symbol" src="/images/gaia-symbol.png" width="460" height="542" loading="lazy" decoding="async" alt={fr?'Symbole GAIA : un soleil et une lune entrelacés':'GAIA symbol: an intertwined sun and moon'}/></div></section>
 <SoftBoundary from="var(--white)" to="var(--butter)" reverse/>
