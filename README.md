@@ -96,3 +96,6 @@ La passe d’alignement unifie les titres du manifeste et Power & Softness avec 
 
 ### Typographie actuelle de l’accueil
 Le mot-symbole Gaia reste inchangé. L’accueil utilise Fraunces (700/800) pour ses titres expressifs, Instrument Sans (400/500) pour la navigation et le texte, et Italianno (400, alias CSS « GAIA Signature ») pour les signatures orange. Les fichiers locaux et leurs licences sont dans `public/fonts`. Ces règles sont limitées à `.gaia-home-shell` et `.gaia-home` ; les pages internes conservent leur système. Les tailles sont fluides avec `clamp`, le menu devient compact à 1050 px et les compositions se superposent à 700 px.
+
+### Homepage — structure approuvée et grille
+`src/styles/home-system.css` contient les tokens de largeur, d’espacement et de typographie de la homepage ainsi que ses règles responsive. Il est chargé après `home-art.css`, qui conserve les masques, tracés et composants graphiques. Les textes approuvés restent dans `src/data/home.ts` ; le H1 professionnel est distinct de la grande phrase visuelle du hero. Le détail de la hiérarchie et des échelles se trouve dans `previews/GAIA-homepage-master-report.md`.
