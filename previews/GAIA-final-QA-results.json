@@ -1,0 +1,734 @@
+{
+  "records": [
+    {
+      "width": 1440,
+      "scroll": 1440,
+      "display": [
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700",
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700",
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700",
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700",
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700",
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700"
+      ],
+      "bodyMin": 18,
+      "clipped": [],
+      "labels": [
+        {
+          "label": "Corps",
+          "pixels": 20
+        },
+        {
+          "label": "Esprit",
+          "pixels": 20
+        },
+        {
+          "label": "Émotions",
+          "pixels": 20
+        }
+      ],
+      "primary": [
+        {
+          "height": 48,
+          "padding": "12.8px 21.6px",
+          "font": "500 16px / 22.4px \"Instrument Sans\", sans-serif",
+          "fontSize": "16px",
+          "href": "/fr/contact/"
+        },
+        {
+          "height": 48,
+          "padding": "12.8px 21.6px",
+          "font": "500 16px / 22.4px \"Instrument Sans\", sans-serif",
+          "fontSize": "16px",
+          "href": "/fr/contact/"
+        },
+        {
+          "height": 48,
+          "padding": "12.8px 21.6px",
+          "font": "500 16px / 22.4px \"Instrument Sans\", sans-serif",
+          "fontSize": "16px",
+          "href": "/fr/contact/"
+        }
+      ],
+      "icons": [
+        [
+          112,
+          118
+        ],
+        [
+          112,
+          118
+        ],
+        [
+          112,
+          118
+        ]
+      ],
+      "headerOverlap": false,
+      "imageAttrs": [
+        {
+          "alt": "Lauriane, les yeux fermés, dans la lumière dorée au bord de la mer",
+          "width": 749,
+          "height": 900,
+          "loading": "eager",
+          "priority": "high"
+        },
+        {
+          "alt": "Détail des mains de Lauriane jointes, ornées de bagues et d’un bracelet coloré",
+          "width": 512,
+          "height": 640,
+          "loading": "lazy",
+          "priority": "auto"
+        },
+        {
+          "alt": "Lauriane dans une posture de yoga sur une plage",
+          "width": 597,
+          "height": 796,
+          "loading": "lazy",
+          "priority": "auto"
+        },
+        {
+          "alt": "Symbole GAIA : un soleil et une lune entrelacés",
+          "width": 202,
+          "height": 238,
+          "loading": "lazy",
+          "priority": "auto"
+        }
+      ],
+      "emphasis": [
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "width": 1280,
+      "scroll": 1280,
+      "display": [
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700",
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700",
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700",
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700",
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700",
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700"
+      ],
+      "bodyMin": 17,
+      "clipped": [],
+      "labels": [
+        {
+          "label": "Corps",
+          "pixels": 20
+        },
+        {
+          "label": "Esprit",
+          "pixels": 20
+        },
+        {
+          "label": "Émotions",
+          "pixels": 20
+        }
+      ],
+      "primary": [
+        {
+          "height": 48,
+          "padding": "12.8px 21.6px",
+          "font": "500 16px / 22.4px \"Instrument Sans\", sans-serif",
+          "fontSize": "16px",
+          "href": "/fr/contact/"
+        },
+        {
+          "height": 48,
+          "padding": "12.8px 21.6px",
+          "font": "500 16px / 22.4px \"Instrument Sans\", sans-serif",
+          "fontSize": "16px",
+          "href": "/fr/contact/"
+        },
+        {
+          "height": 48,
+          "padding": "12.8px 21.6px",
+          "font": "500 16px / 22.4px \"Instrument Sans\", sans-serif",
+          "fontSize": "16px",
+          "href": "/fr/contact/"
+        }
+      ],
+      "icons": [
+        [
+          112,
+          118
+        ],
+        [
+          112,
+          118
+        ],
+        [
+          112,
+          118
+        ]
+      ],
+      "headerOverlap": false,
+      "imageAttrs": [
+        {
+          "alt": "Lauriane, les yeux fermés, dans la lumière dorée au bord de la mer",
+          "width": 666,
+          "height": 900,
+          "loading": "eager",
+          "priority": "high"
+        },
+        {
+          "alt": "Détail des mains de Lauriane jointes, ornées de bagues et d’un bracelet coloré",
+          "width": 512,
+          "height": 640,
+          "loading": "lazy",
+          "priority": "auto"
+        },
+        {
+          "alt": "Lauriane dans une posture de yoga sur une plage",
+          "width": 530,
+          "height": 707,
+          "loading": "lazy",
+          "priority": "auto"
+        },
+        {
+          "alt": "Symbole GAIA : un soleil et une lune entrelacés",
+          "width": 202,
+          "height": 238,
+          "loading": "lazy",
+          "priority": "auto"
+        }
+      ],
+      "emphasis": [
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "width": 1024,
+      "scroll": 1024,
+      "display": [
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700",
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700",
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700",
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700",
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700",
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700"
+      ],
+      "bodyMin": 17,
+      "clipped": [],
+      "labels": [
+        {
+          "label": "Corps",
+          "pixels": 17.59970238095238
+        },
+        {
+          "label": "Esprit",
+          "pixels": 17.59970238095238
+        },
+        {
+          "label": "Émotions",
+          "pixels": 17.59970238095238
+        }
+      ],
+      "primary": [
+        {
+          "height": 48,
+          "padding": "12.8px 21.6px",
+          "font": "500 16px / 22.4px \"Instrument Sans\", sans-serif",
+          "fontSize": "16px",
+          "href": "/fr/contact/"
+        },
+        {
+          "height": 48,
+          "padding": "12.8px 21.6px",
+          "font": "500 16px / 22.4px \"Instrument Sans\", sans-serif",
+          "fontSize": "16px",
+          "href": "/fr/contact/"
+        }
+      ],
+      "icons": [
+        [
+          112,
+          118
+        ],
+        [
+          112,
+          118
+        ],
+        [
+          112,
+          118
+        ]
+      ],
+      "headerOverlap": false,
+      "imageAttrs": [
+        {
+          "alt": "Lauriane, les yeux fermés, dans la lumière dorée au bord de la mer",
+          "width": 532,
+          "height": 800,
+          "loading": "eager",
+          "priority": "high"
+        },
+        {
+          "alt": "Détail des mains de Lauriane jointes, ornées de bagues et d’un bracelet coloré",
+          "width": 440,
+          "height": 550,
+          "loading": "lazy",
+          "priority": "auto"
+        },
+        {
+          "alt": "Lauriane dans une posture de yoga sur une plage",
+          "width": 440,
+          "height": 587,
+          "loading": "lazy",
+          "priority": "auto"
+        },
+        {
+          "alt": "Symbole GAIA : un soleil et une lune entrelacés",
+          "width": 202,
+          "height": 238,
+          "loading": "lazy",
+          "priority": "auto"
+        }
+      ],
+      "emphasis": [
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "width": 768,
+      "scroll": 768,
+      "display": [
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700",
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700",
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700",
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700",
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700",
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700"
+      ],
+      "bodyMin": 17,
+      "clipped": [],
+      "labels": [
+        {
+          "label": "Corps",
+          "pixels": 20.79985119047619
+        },
+        {
+          "label": "Esprit",
+          "pixels": 20.79985119047619
+        },
+        {
+          "label": "Émotions",
+          "pixels": 20.79985119047619
+        }
+      ],
+      "primary": [
+        {
+          "height": 48,
+          "padding": "12.8px 21.6px",
+          "font": "500 16px / 22.4px \"Instrument Sans\", sans-serif",
+          "fontSize": "16px",
+          "href": "/fr/contact/"
+        },
+        {
+          "height": 48,
+          "padding": "12.8px 21.6px",
+          "font": "500 16px / 22.4px \"Instrument Sans\", sans-serif",
+          "fontSize": "16px",
+          "href": "/fr/contact/"
+        }
+      ],
+      "icons": [
+        [
+          112,
+          118
+        ],
+        [
+          112,
+          118
+        ],
+        [
+          112,
+          118
+        ]
+      ],
+      "headerOverlap": false,
+      "imageAttrs": [
+        {
+          "alt": "Lauriane, les yeux fermés, dans la lumière dorée au bord de la mer",
+          "width": 768,
+          "height": 520,
+          "loading": "eager",
+          "priority": "high"
+        },
+        {
+          "alt": "Détail des mains de Lauriane jointes, ornées de bagues et d’un bracelet coloré",
+          "width": 520,
+          "height": 650,
+          "loading": "lazy",
+          "priority": "auto"
+        },
+        {
+          "alt": "Lauriane dans une posture de yoga sur une plage",
+          "width": 640,
+          "height": 480,
+          "loading": "lazy",
+          "priority": "auto"
+        },
+        {
+          "alt": "Symbole GAIA : un soleil et une lune entrelacés",
+          "width": 202,
+          "height": 238,
+          "loading": "lazy",
+          "priority": "auto"
+        }
+      ],
+      "emphasis": [
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "width": 430,
+      "scroll": 430,
+      "display": [
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700",
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700",
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700",
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700",
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700",
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700"
+      ],
+      "bodyMin": 16,
+      "clipped": [],
+      "labels": [
+        {
+          "label": "Corps",
+          "pixels": 19.863690476190474
+        },
+        {
+          "label": "Esprit",
+          "pixels": 19.863690476190474
+        },
+        {
+          "label": "Émotions",
+          "pixels": 19.863690476190474
+        }
+      ],
+      "primary": [
+        {
+          "height": 48,
+          "padding": "12.8px 21.6px",
+          "font": "500 16px / 22.4px \"Instrument Sans\", sans-serif",
+          "fontSize": "16px",
+          "href": "/fr/contact/"
+        },
+        {
+          "height": 48,
+          "padding": "12.8px 21.6px",
+          "font": "500 16px / 22.4px \"Instrument Sans\", sans-serif",
+          "fontSize": "16px",
+          "href": "/fr/contact/"
+        }
+      ],
+      "icons": [
+        [
+          102,
+          108
+        ],
+        [
+          102,
+          108
+        ],
+        [
+          102,
+          108
+        ]
+      ],
+      "headerOverlap": false,
+      "imageAttrs": [
+        {
+          "alt": "Lauriane, les yeux fermés, dans la lumière dorée au bord de la mer",
+          "width": 430,
+          "height": 430,
+          "loading": "eager",
+          "priority": "high"
+        },
+        {
+          "alt": "Détail des mains de Lauriane jointes, ornées de bagues et d’un bracelet coloré",
+          "width": 382,
+          "height": 478,
+          "loading": "lazy",
+          "priority": "auto"
+        },
+        {
+          "alt": "Lauriane dans une posture de yoga sur une plage",
+          "width": 382,
+          "height": 287,
+          "loading": "lazy",
+          "priority": "auto"
+        },
+        {
+          "alt": "Symbole GAIA : un soleil et une lune entrelacés",
+          "width": 185,
+          "height": 218,
+          "loading": "lazy",
+          "priority": "auto"
+        }
+      ],
+      "emphasis": [
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "width": 390,
+      "scroll": 390,
+      "display": [
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700",
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700",
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700",
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700",
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700",
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700"
+      ],
+      "bodyMin": 16,
+      "clipped": [],
+      "labels": [
+        {
+          "label": "Corps",
+          "pixels": 18.009449404761906
+        },
+        {
+          "label": "Esprit",
+          "pixels": 18.009449404761906
+        },
+        {
+          "label": "Émotions",
+          "pixels": 18.009449404761906
+        }
+      ],
+      "primary": [
+        {
+          "height": 48,
+          "padding": "12.8px 21.6px",
+          "font": "500 16px / 22.4px \"Instrument Sans\", sans-serif",
+          "fontSize": "16px",
+          "href": "/fr/contact/"
+        },
+        {
+          "height": 48,
+          "padding": "12.8px 21.6px",
+          "font": "500 16px / 22.4px \"Instrument Sans\", sans-serif",
+          "fontSize": "16px",
+          "href": "/fr/contact/"
+        }
+      ],
+      "icons": [
+        [
+          102,
+          108
+        ],
+        [
+          102,
+          108
+        ],
+        [
+          102,
+          108
+        ]
+      ],
+      "headerOverlap": false,
+      "imageAttrs": [
+        {
+          "alt": "Lauriane, les yeux fermés, dans la lumière dorée au bord de la mer",
+          "width": 390,
+          "height": 430,
+          "loading": "eager",
+          "priority": "high"
+        },
+        {
+          "alt": "Détail des mains de Lauriane jointes, ornées de bagues et d’un bracelet coloré",
+          "width": 346,
+          "height": 433,
+          "loading": "lazy",
+          "priority": "auto"
+        },
+        {
+          "alt": "Lauriane dans une posture de yoga sur une plage",
+          "width": 346,
+          "height": 260,
+          "loading": "lazy",
+          "priority": "auto"
+        },
+        {
+          "alt": "Symbole GAIA : un soleil et une lune entrelacés",
+          "width": 185,
+          "height": 218,
+          "loading": "lazy",
+          "priority": "auto"
+        }
+      ],
+      "emphasis": [
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "width": 360,
+      "scroll": 360,
+      "display": [
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700",
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700",
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700",
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700",
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700",
+        "\"Fraunces Variable\", serif|700|\"SOFT\" 70, \"WONK\" 1, \"wght\" 700"
+      ],
+      "bodyMin": 16,
+      "clipped": [],
+      "labels": [
+        {
+          "label": "Corps",
+          "pixels": 16.623363095238094
+        },
+        {
+          "label": "Esprit",
+          "pixels": 16.623363095238094
+        },
+        {
+          "label": "Émotions",
+          "pixels": 16.623363095238094
+        }
+      ],
+      "primary": [
+        {
+          "height": 48,
+          "padding": "12.8px 21.6px",
+          "font": "500 16px / 22.4px \"Instrument Sans\", sans-serif",
+          "fontSize": "16px",
+          "href": "/fr/contact/"
+        },
+        {
+          "height": 48,
+          "padding": "12.8px 21.6px",
+          "font": "500 16px / 22.4px \"Instrument Sans\", sans-serif",
+          "fontSize": "16px",
+          "href": "/fr/contact/"
+        }
+      ],
+      "icons": [
+        [
+          102,
+          108
+        ],
+        [
+          102,
+          108
+        ],
+        [
+          102,
+          108
+        ]
+      ],
+      "headerOverlap": false,
+      "imageAttrs": [
+        {
+          "alt": "Lauriane, les yeux fermés, dans la lumière dorée au bord de la mer",
+          "width": 360,
+          "height": 430,
+          "loading": "eager",
+          "priority": "high"
+        },
+        {
+          "alt": "Détail des mains de Lauriane jointes, ornées de bagues et d’un bracelet coloré",
+          "width": 320,
+          "height": 400,
+          "loading": "lazy",
+          "priority": "auto"
+        },
+        {
+          "alt": "Lauriane dans une posture de yoga sur une plage",
+          "width": 320,
+          "height": 240,
+          "loading": "lazy",
+          "priority": "auto"
+        },
+        {
+          "alt": "Symbole GAIA : un soleil et une lune entrelacés",
+          "width": 179,
+          "height": 211,
+          "loading": "lazy",
+          "priority": "auto"
+        }
+      ],
+      "emphasis": [
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "lang": "fr",
+      "h1": 1,
+      "h1Text": "Lauriane — Praticienne en acupuncture traditionnelle",
+      "title": "GAIA by Lauriane | Acupuncture traditionnelle, Aculift & Pranic Healing",
+      "description": "Découvrez GAIA by Lauriane : acupuncture traditionnelle, Aculift et Pranic Healing, dans une approche qui relie le corps, l’énergie et nos différents fonctionnements.",
+      "titles": 1,
+      "descriptions": 1,
+      "canonical": "https://gaiabylauriane.com/fr/",
+      "alternates": [
+        "fr",
+        "en",
+        "x-default"
+      ],
+      "noindex": false,
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Lauriane",
+        "jobTitle": "Praticienne en acupuncture traditionnelle",
+        "url": "https://gaiabylauriane.com/fr/a-propos/"
+      }
+    },
+    {
+      "lang": "en",
+      "h1": 1,
+      "h1Text": "Lauriane — Traditional Acupuncture Practitioner",
+      "title": "GAIA by Lauriane — Traditional acupuncture & reconnection",
+      "description": "GAIA by Lauriane: traditional acupuncture, Aculift and Pranic Healing. An approach to the body rooted in connection.",
+      "titles": 1,
+      "descriptions": 1,
+      "canonical": "https://gaiabylauriane.com/en/",
+      "alternates": [
+        "fr",
+        "en",
+        "x-default"
+      ],
+      "noindex": false,
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Lauriane",
+        "jobTitle": "Traditional Acupuncture Practitioner",
+        "url": "https://gaiabylauriane.com/en/about/"
+      }
+    }
+  ],
+  "links": [
+    "/fr/",
+    "/fr/acupuncture/",
+    "/fr/a-propos/",
+    "/fr/journal/",
+    "/en/",
+    "/fr/contact/",
+    "/fr/aculift/",
+    "/fr/pranic-healing/",
+    "/fr/sante-feminine/",
+    "/fr/links/"
+  ]
+}

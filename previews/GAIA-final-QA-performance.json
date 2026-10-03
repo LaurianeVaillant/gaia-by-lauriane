@@ -1,0 +1,208 @@
+[
+  {
+    "width": 1440,
+    "vitals": {
+      "lcp": 2044,
+      "cls": 0.0005132033736617476,
+      "longTasks": 100
+    },
+    "fonts": [
+      {
+        "name": "fraunces-latin-wght-normal.ukD16Tqj.woff2",
+        "bytes": 36620
+      },
+      {
+        "name": "InstrumentSans-Latin-Variable.woff2",
+        "bytes": 29904
+      },
+      {
+        "name": "Italianno-Latin-Regular.woff2",
+        "bytes": 25292
+      }
+    ],
+    "scripts": [],
+    "hero": "http://127.0.0.1:4173/images/portrait-1200.webp",
+    "images": [
+      {
+        "loading": "eager",
+        "priority": "high",
+        "sizes": "(max-width: 900px) 100vw, 52vw",
+        "complete": true
+      },
+      {
+        "loading": "lazy",
+        "priority": "auto",
+        "sizes": "(max-width: 700px) calc(100vw - 48px), (max-width: 900px) 520px, (max-width: 1100px) calc((100vw - 144px) / 2), (max-width: 1440px) calc((100vw - 16vw) / 2), 592px",
+        "complete": false
+      },
+      {
+        "loading": "lazy",
+        "priority": "auto",
+        "sizes": "(max-width: 700px) calc(100vw - 48px), (max-width: 900px) 640px, (max-width: 1100px) calc((100vw - 144px) / 2), (max-width: 1440px) calc((100vw - 16vw) / 2), 592px",
+        "complete": false
+      },
+      {
+        "loading": "lazy",
+        "priority": "auto",
+        "sizes": "",
+        "complete": false
+      }
+    ],
+    "navigation": {
+      "name": "http://127.0.0.1:4173/fr/",
+      "entryType": "navigation",
+      "startTime": 0,
+      "duration": 2052.699999988079,
+      "navigationId": 979,
+      "initiatorType": "navigation",
+      "deliveryType": "",
+      "nextHopProtocol": "http/1.0",
+      "renderBlockingStatus": "non-blocking",
+      "contentType": "text/html",
+      "contentEncoding": "",
+      "workerStart": 0,
+      "workerRouterEvaluationStart": 0,
+      "workerCacheLookupStart": 0,
+      "workerMatchedSourceType": "",
+      "workerFinalSourceType": "",
+      "redirectStart": 0,
+      "redirectEnd": 0,
+      "fetchStart": 14.5,
+      "domainLookupStart": 14.5,
+      "domainLookupEnd": 14.5,
+      "connectStart": 14.5,
+      "secureConnectionStart": 0,
+      "connectEnd": 14.5,
+      "requestStart": 23,
+      "responseStart": 24.5,
+      "firstInterimResponseStart": 0,
+      "finalResponseHeadersStart": 24.5,
+      "responseEnd": 281.09999999403954,
+      "transferSize": 21014,
+      "encodedBodySize": 20714,
+      "decodedBodySize": 20714,
+      "responseStatus": 200,
+      "serverTiming": [],
+      "unloadEventStart": 0,
+      "unloadEventEnd": 0,
+      "domInteractive": 2050,
+      "domContentLoadedEventStart": 2050,
+      "domContentLoadedEventEnd": 2050.0999999940395,
+      "domComplete": 2052.699999988079,
+      "loadEventStart": 2052.699999988079,
+      "loadEventEnd": 2052.699999988079,
+      "type": "navigate",
+      "redirectCount": 0,
+      "activationStart": 0,
+      "criticalCHRestart": 0,
+      "notRestoredReasons": null,
+      "confidence": {
+        "randomizedTriggerRate": 0.4994798,
+        "value": "low"
+      }
+    }
+  },
+  {
+    "width": 390,
+    "vitals": {
+      "lcp": 1828,
+      "cls": 0.00042613846153846153,
+      "longTasks": 0
+    },
+    "fonts": [
+      {
+        "name": "fraunces-latin-wght-normal.ukD16Tqj.woff2",
+        "bytes": 36620
+      },
+      {
+        "name": "InstrumentSans-Latin-Variable.woff2",
+        "bytes": 29904
+      },
+      {
+        "name": "Italianno-Latin-Regular.woff2",
+        "bytes": 25292
+      }
+    ],
+    "scripts": [],
+    "hero": "http://127.0.0.1:4173/images/portrait-640.webp",
+    "images": [
+      {
+        "loading": "eager",
+        "priority": "high",
+        "sizes": "(max-width: 900px) 100vw, 52vw",
+        "complete": true
+      },
+      {
+        "loading": "lazy",
+        "priority": "auto",
+        "sizes": "(max-width: 700px) calc(100vw - 48px), (max-width: 900px) 520px, (max-width: 1100px) calc((100vw - 144px) / 2), (max-width: 1440px) calc((100vw - 16vw) / 2), 592px",
+        "complete": false
+      },
+      {
+        "loading": "lazy",
+        "priority": "auto",
+        "sizes": "(max-width: 700px) calc(100vw - 48px), (max-width: 900px) 640px, (max-width: 1100px) calc((100vw - 144px) / 2), (max-width: 1440px) calc((100vw - 16vw) / 2), 592px",
+        "complete": false
+      },
+      {
+        "loading": "lazy",
+        "priority": "auto",
+        "sizes": "",
+        "complete": false
+      }
+    ],
+    "navigation": {
+      "name": "http://127.0.0.1:4173/fr/",
+      "entryType": "navigation",
+      "startTime": 0,
+      "duration": 1796.0999999940395,
+      "navigationId": 2828,
+      "initiatorType": "navigation",
+      "deliveryType": "",
+      "nextHopProtocol": "http/1.0",
+      "renderBlockingStatus": "non-blocking",
+      "contentType": "text/html",
+      "contentEncoding": "",
+      "workerStart": 0,
+      "workerRouterEvaluationStart": 0,
+      "workerCacheLookupStart": 0,
+      "workerMatchedSourceType": "",
+      "workerFinalSourceType": "",
+      "redirectStart": 0,
+      "redirectEnd": 0,
+      "fetchStart": 13.800000011920929,
+      "domainLookupStart": 13.800000011920929,
+      "domainLookupEnd": 13.800000011920929,
+      "connectStart": 13.800000011920929,
+      "secureConnectionStart": 0,
+      "connectEnd": 13.800000011920929,
+      "requestStart": 16,
+      "responseStart": 16.900000005960464,
+      "firstInterimResponseStart": 0,
+      "finalResponseHeadersStart": 16.900000005960464,
+      "responseEnd": 268.5,
+      "transferSize": 21014,
+      "encodedBodySize": 20714,
+      "decodedBodySize": 20714,
+      "responseStatus": 200,
+      "serverTiming": [],
+      "unloadEventStart": 0,
+      "unloadEventEnd": 0,
+      "domInteractive": 1795.800000011921,
+      "domContentLoadedEventStart": 1795.800000011921,
+      "domContentLoadedEventEnd": 1795.9000000059605,
+      "domComplete": 1796.0999999940395,
+      "loadEventStart": 1796.0999999940395,
+      "loadEventEnd": 1796.0999999940395,
+      "type": "navigate",
+      "redirectCount": 0,
+      "activationStart": 0,
+      "criticalCHRestart": 0,
+      "notRestoredReasons": null,
+      "confidence": {
+        "randomizedTriggerRate": 0.4994798,
+        "value": "high"
+      }
+    }
+  }
+]

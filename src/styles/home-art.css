@@ -1,5 +1,5 @@
 /* Homepage-only GAIA art direction. Internal page styling is unchanged. */
-@font-face{font-family:'GAIA Signature';src:url('/fonts/Italianno-Regular.ttf') format('truetype');font-style:normal;font-weight:400;font-display:swap}
+@font-face{font-family:'GAIA Signature';src:url('/fonts/Italianno-Latin-Regular.woff2') format('woff2');font-style:normal;font-weight:400;font-display:swap}
 .gaia-home{--art-section:clamp(4rem,7.5vw,8rem);--art-label:clamp(1.1rem,1.4vw,1.35rem);--art-large:clamp(2.6rem,5.4vw,5.2rem)}
 .gaia-home .section{padding-top:var(--art-section);padding-bottom:var(--art-section)}
 .gaia-home .eyebrow{font-size:var(--art-label);font-weight:600;letter-spacing:.025em;margin-bottom:2.5rem}
@@ -82,7 +82,7 @@
 @media(max-width:700px){.gaia-home .about{padding-top:2.5rem;padding-bottom:2.5rem}.gaia-home .project-brand-title .project-the,.gaia-home .project-brand-title .project-tail{font-size:2.4rem}}
 
 /* Exact homepage font system. The Gaia wordmark settings stay unchanged. */
-@font-face{font-family:'Instrument Sans';src:url('/fonts/InstrumentSans-Variable.ttf') format('truetype');font-weight:400 700;font-style:normal;font-display:swap}
+@font-face{font-family:'Instrument Sans';src:url('/fonts/InstrumentSans-Latin-Variable.woff2') format('woff2');font-weight:400 600;font-style:normal;font-display:swap}
 body.gaia-home-shell{--sans:'Instrument Sans',sans-serif;--serif:'Fraunces Variable',serif;font-family:var(--sans);font-weight:400}
 .gaia-home-shell .desktop-nav,.gaia-home-shell .language,.gaia-home-shell .mobile-nav,.gaia-home-shell .button,.gaia-home-shell footer{font-family:var(--sans)}
 .gaia-home-shell .desktop-nav{font-weight:400}.gaia-home-shell .button{font-weight:500;white-space:nowrap}

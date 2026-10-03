@@ -155,3 +155,7 @@ body.gaia-home-shell{
  .gaia-home .project-display-title{font-size:var(--home-display)}
  .gaia-home .power-dialogue{max-width:330px}
 }
+
+/* Final technical QA: comfortable targets without changing the section layout. */
+.gaia-home-shell .desktop-nav a,.gaia-home-shell footer a{display:inline-flex;align-items:center;min-height:44px}
+.gaia-home-shell .language .active{font-weight:500}
