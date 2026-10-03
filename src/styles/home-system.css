@@ -120,3 +120,12 @@ body.gaia-home-shell{
  .gaia-home .power{--section-top:40px}
  .gaia-home .project{--section-top:72px;--section-bottom:72px}
 }
+
+/* UX consistency: keep the approved section padding and art assets intact. */
+.gaia-home .project-editorial-title{font-family:var(--sans);font-size:var(--home-label);font-weight:500;letter-spacing:.1em;text-transform:uppercase;color:var(--violet);line-height:1.55;margin:0;align-self:center}
+.gaia-home-shell .button,.gaia-home-shell .button.small{font-family:var(--sans);font-size:16px;font-weight:500;line-height:1.4;padding:.8rem 1.35rem;min-height:48px;border-radius:0;background:var(--violet);color:white}
+.gaia-home-shell .button:hover{background:#5421d6;text-decoration:none}
+.gaia-home .text-link{font-family:var(--sans);font-size:16px;font-weight:500;line-height:1.6;text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:6px;min-height:44px}
+.gaia-home .power-pairs p{font-family:var(--sans);font-size:var(--home-label);font-weight:500;line-height:1.6;letter-spacing:.1em}
+@media(max-width:900px){.gaia-home .project-editorial-title{align-self:start}}
+@media(max-width:700px){.gaia-home .network-labels{font-size:26px}}

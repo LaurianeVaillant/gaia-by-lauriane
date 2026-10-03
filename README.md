@@ -99,3 +99,5 @@ Le mot-symbole Gaia reste inchangé. L’accueil utilise Fraunces (700/800) pour
 
 ### Homepage — structure approuvée et grille
 `src/styles/home-system.css` contient les tokens de largeur, d’espacement et de typographie de la homepage ainsi que ses règles responsive. Il est chargé après `home-art.css`, qui conserve les masques, tracés et composants graphiques. Les textes approuvés restent dans `src/data/home.ts` ; le H1 professionnel est distinct de la grande phrase visuelle du hero. Le détail de la hiérarchie et des échelles se trouve dans `previews/GAIA-homepage-master-report.md`.
+
+La passe de cohérence UX conserve les espacements différenciés par section. « The GAIA Project » est désormais un libellé éditorial Instrument Sans, au lieu du traitement typographique en escalier. Les CTA primaires partagent leurs dimensions et les labels du réseau sont renforcés sur mobile. Les passages en gras sont centralisés dans `src/data/home-emphasis.ts` et rendus par `TextEmphasis.astro`, sans modifier les textes.
