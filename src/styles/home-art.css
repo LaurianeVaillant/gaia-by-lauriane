@@ -71,3 +71,12 @@
 .gaia-home[data-hero-photo='organic'] .hero-photo{mask-image:url('/images/hero-soft-mask.svg'),linear-gradient(to bottom,black 0%,black 70%,rgba(0,0,0,.4) 88%,transparent 100%);mask-composite:intersect}
 .gaia-home .practice-pictogram{width:112px;height:118px}.gaia-home .practice-pictogram svg{width:88px;height:88px}
 @media(max-width:700px){.gaia-home{--gaia-feature-title:3.2rem}.gaia-home .manifesto>.eyebrow{white-space:normal;max-width:none}.gaia-home .hero-photo{mask-image:linear-gradient(to bottom,transparent 0%,black 19%,black 60%,rgba(0,0,0,.55) 80%,transparent 98%),linear-gradient(to right,transparent 0%,black 8%,black 92%,transparent 100%);mask-composite:intersect}.gaia-home[data-hero-photo='organic'] .hero-photo{mask-image:url('/images/hero-soft-mask.svg'),linear-gradient(to bottom,black 0%,black 65%,rgba(0,0,0,.4) 86%,transparent 100%);mask-composite:intersect}.gaia-home .practice-pictogram{width:102px;height:108px}.gaia-home .practice-pictogram svg{width:79px;height:79px}}
+
+/* Line breaks, uniform power copy and the compact project wordmark. */
+.gaia-home .manifesto>.eyebrow{white-space:normal;justify-self:start;max-width:none;line-height:1.1}
+.gaia-home .power>div:first-child>p:first-of-type{font-size:inherit;line-height:inherit;letter-spacing:normal}
+.gaia-home .about{row-gap:1.6rem;padding-top:calc(var(--art-section) - 1rem);padding-bottom:calc(var(--art-section) - 1rem)}
+.gaia-home .project-brand-title{display:grid;grid-template-columns:max-content;justify-self:start;align-content:center;position:relative;max-width:none}
+.gaia-home .project-brand-title .project-the,.gaia-home .project-brand-title .project-tail{font-family:'GAIA Signature',cursive;font-size:2.7rem;font-weight:400;line-height:.75;letter-spacing:0;color:var(--ink);text-transform:none;position:relative;z-index:1}
+.gaia-home .project-brand-title .project-the{justify-self:start;margin:0 0 -.3rem .15rem}.gaia-home .project-brand-title .project-brand-word{margin:0;line-height:.98}.gaia-home .project-brand-title .project-tail{justify-self:end;margin:-.08rem -.2rem 0 0}
+@media(max-width:700px){.gaia-home .about{padding-top:2.5rem;padding-bottom:2.5rem}.gaia-home .project-brand-title .project-the,.gaia-home .project-brand-title .project-tail{font-size:2.4rem}}
