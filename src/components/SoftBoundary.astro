@@ -1,4 +1,10 @@
 ---
-const {from='var(--white)',to='var(--butter)',reverse=false}=Astro.props;
+interface Props {from?:string;to?:string;reverse?:boolean;intensity?:'strong'|'soft'|'calm';class?:string;}
+const {from='var(--white)',to='var(--butter)',reverse=false,intensity='soft',class:className=''}=Astro.props;
+const shapes={
+ strong:'M0 50C120 2 240 2 360 50S600 98 720 50S960 2 1080 50S1320 98 1440 50V100H0Z',
+ soft:'M0 50C240 20 480 80 720 50S1200 20 1440 50V100H0Z',
+ calm:'M0 50C240 40 480 60 720 50S1200 40 1440 50V100H0Z',
+};
 ---
-<div class:list={['gaia-soft-boundary',{reverse}]} style={`--boundary-from:${from};--boundary-to:${to}`} aria-hidden="true"><svg viewBox="0 0 1440 65" preserveAspectRatio="none"><path d="M0 28C240 4 480 52 720 28S1200 4 1440 28V65H0Z" fill="var(--boundary-to)"/></svg></div>
+<div class:list={['gaia-soft-boundary',`gaia-soft-boundary--${intensity}`,className,{reverse}]} style={`--boundary-from:${from};--boundary-to:${to}`} aria-hidden="true"><svg viewBox="0 0 1440 100" preserveAspectRatio="none"><path d={shapes[intensity]} fill="var(--boundary-to)"/></svg></div>

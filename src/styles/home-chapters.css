@@ -1,35 +1,82 @@
-/* Test art direction: full colour territories and one broad wave family. */
+/* Homepage art direction: colour surfaces, three boundary intensities,
+   integrated practice panels and one contained story composition. */
+body.gaia-home-shell {--violet:#5E1AF4;--orange:#FF6230;--ink:#171717}
 .gaia-home {
   --chapter-cream:#FFF4C7;
   --chapter-lavender:#D599FB;
-  --chapter-pink:#F8BCCA;
+  --chapter-pink:#F39ABB;
   --chapter-peach:#FFBE98;
   --chapter-orange:#FF6230;
   --chapter-violet:#5E1AF4;
 }
 .gaia-home .network {background:var(--chapter-lavender)}
-.gaia-home .practices,.gaia-home .about,.gaia-home .locations {background:var(--chapter-cream)}
+.gaia-home .practices,.gaia-home .about,.gaia-home .project,
+.gaia-home .project-flow,.gaia-home .locations {background:var(--chapter-cream)}
 .gaia-home .women {background:var(--chapter-pink)}
 .gaia-home .power {background:var(--chapter-peach)}
-.gaia-home .project,.gaia-home .project-flow {background:var(--chapter-orange)}
 .gaia-home .final-cta {background:var(--chapter-violet);color:var(--white)}
 .gaia-home .final-cta h2 {color:var(--white)}
 .gaia-home .final-cta .button {background:var(--chapter-cream);color:var(--chapter-violet)}
 .gaia-home .final-cta .button:hover {background:var(--white)}
-.gaia-home .project-display-title {color:var(--ink)}
-.gaia-home .project-display-title span {color:var(--white)}
-.gaia-home .project-flow svg text {fill:var(--ink)}
-.gaia-home .project-flow svg use {stroke:var(--ink)}
-.gaia-home .project-flow svg>path[stroke] {stroke:var(--ink)}
-.gaia-home .gaia-soft-boundary {height:48px;margin:-1px 0;overflow:hidden}
-.gaia-home .practice-grid {gap:0}
-.gaia-home .practice {padding:32px;min-width:0;background:var(--chapter-lavender)}
-.gaia-home .practice:nth-child(2) {background:var(--chapter-pink)}
-.gaia-home .practice:nth-child(3) {background:var(--chapter-peach)}
-.gaia-home .practice-pictogram:before {background:transparent}
+.gaia-home .project {grid-template-columns:minmax(0,1.25fr) minmax(0,1fr);gap:var(--space-6)}
+.gaia-home .project-display-title {font-size:clamp(52px,5vw,76px);color:var(--violet)}
+.gaia-home .project-display-title span {color:var(--orange)}
+.gaia-home .project-flow svg text {fill:var(--violet)}
+.gaia-home .project-flow svg use {stroke:var(--violet)}
+.gaia-home .project-flow svg>path[stroke] {stroke:var(--orange)}
+/* Every coloured path meets the adjacent surface; no spacer strips. */
+.gaia-home .gaia-soft-boundary {height:56px;margin:-1px 0;overflow:hidden}
+.gaia-home .gaia-soft-boundary--strong {height:104px}
+.gaia-home .gaia-soft-boundary--calm {height:32px}
+/* Three contiguous editorial territories, shared rows rather than cards. */
+.gaia-home .practices {padding-left:0;padding-right:0;padding-bottom:0}
+.gaia-home .practices>.eyebrow {margin-left:var(--gutter);margin-right:var(--gutter)}
+.gaia-home .practice-grid {gap:0;grid-template-rows:158px auto 1fr auto}
+.gaia-home .practice {grid-template-rows:subgrid;grid-row:span 4;padding:40px clamp(24px,3vw,48px);min-width:0;background:var(--chapter-lavender)}
+.gaia-home .practice:nth-child(2) {background:var(--chapter-orange)}
+.gaia-home .practice:nth-child(3) {background:var(--chapter-violet);color:var(--white)}
+.gaia-home .practice .text-link {color:inherit}
+.gaia-home .practice-pictogram:before {display:none}
+.gaia-home .practice-pictogram svg {stroke:currentColor}
+/* Avoid low-contrast small violet text on coloured surfaces. */
+.gaia-home .network .text-link,.gaia-home .network-labels {color:var(--ink);fill:var(--ink)}
+.gaia-home .women .text-link {color:var(--ink)}
+.gaia-home .practice-boundary {background:linear-gradient(to right,var(--chapter-lavender) 0 33.333333%,var(--chapter-orange) 33.333333% 66.666667%,var(--chapter-violet) 66.666667% 100%)}
+.gaia-home .power-pairs p {color:var(--ink)}
+.gaia-home .practice a:focus-visible {outline-color:currentColor}
+.gaia-home .final-cta a:focus-visible {outline-color:var(--chapter-cream)}
+/* Story is a single text/photo module, not two loose columns. */
+.gaia-home .about {display:block}
+.gaia-home .story-module {display:grid;grid-template-columns:repeat(2,minmax(0,1fr));column-gap:48px;row-gap:24px;padding:40px;background:var(--white);border-radius:24px}
+.gaia-home .story-module>.eyebrow {grid-column:1;grid-row:1;white-space:normal;margin:0}
+.gaia-home .about .split {display:contents}
+.gaia-home .about .split>div:first-child {grid-column:1;grid-row:2}
+.gaia-home .about .editorial-collage {grid-column:2;grid-row:1/3;position:relative;min-height:480px;align-self:stretch;padding:0;border-radius:16px;overflow:hidden}
+.gaia-home .about .editorial-collage img:first-child {position:absolute;inset:0;width:100%;height:100%;aspect-ratio:auto;object-fit:cover;object-position:50% 50%}
+.gaia-home .power-dialogue {max-width:380px}
+.gaia-home .power .power-dialogue .gaia-symbol {left:15%;top:5%;width:70%;height:auto;opacity:1}
 .gaia-home-shell footer {background:#FFF4C7}
-@media(max-width:900px){.gaia-home .practice-grid{gap:0}}
+@media(max-width:1100px){
+  .gaia-home .project-display-title{font-size:clamp(40px,5vw,56px)}
+  .gaia-home .story-module{padding:32px;column-gap:32px}
+}
+@media(max-width:900px){
+  .gaia-home .practice-grid{gap:0;grid-template-rows:none}
+  .gaia-home .practice-boundary{background:var(--chapter-violet)}
+  .gaia-home .practice{grid-row:auto;grid-template-rows:118px auto auto auto;padding:32px var(--gutter)}
+  .gaia-home .project{grid-template-columns:1fr;gap:var(--space-4)}
+  .gaia-home .story-module{display:block}
+  .gaia-home .story-module>.eyebrow{margin-bottom:24px}
+  .gaia-home .about .editorial-collage{min-height:0;margin-top:32px;max-width:none}
+  .gaia-home .about .editorial-collage img:first-child{position:static;height:auto;aspect-ratio:4/3}
+}
 @media(max-width:700px){
-  .gaia-home .gaia-soft-boundary{height:32px}
-  .gaia-home .practice{padding:24px}
+  .gaia-home .gaia-soft-boundary{height:40px}
+  .gaia-home .gaia-soft-boundary--strong{height:64px}
+  .gaia-home .gaia-soft-boundary--calm{height:24px}
+  .gaia-home .practice{padding:32px var(--gutter);grid-template-rows:108px auto auto auto}
+  .gaia-home .story-module{padding:24px;border-radius:20px}
+  .gaia-home .about .editorial-collage{border-radius:12px;margin-top:24px}
+  .gaia-home .project-display-title{font-size:var(--home-display)}
+  .gaia-home .power-dialogue{max-width:330px}
 }
