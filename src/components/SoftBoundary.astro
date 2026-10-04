@@ -8,5 +8,12 @@ const shapes={
  soft:'M0 50C240 20 480 80 720 50S1200 20 1440 50V100H0Z',
  calm:'M0 50C240 40 480 60 720 50S1200 40 1440 50V100H0Z',
 };
+const mobileShapes={
+ 'network-in':'M0 66C112 78 181 12 286 33C342 45 385 57 420 49V100H0Z',
+ 'network-out':'M0 42C126 20 221 83 322 60C360 51 397 38 420 52V100H0Z',
+ strong:'M0 68C110 7 210 12 285 38C346 60 390 69 420 51V100H0Z',
+ soft:'M0 58C110 20 249 36 420 62V100H0Z',
+ calm:'M0 53C154 34 246 64 420 49V100H0Z',
+};
 ---
-<div class:list={['gaia-soft-boundary',`gaia-soft-boundary--${intensity}`,className,{reverse}]} style={`--boundary-from:${from};--boundary-to:${to}`} aria-hidden="true"><svg viewBox="0 0 1440 100" preserveAspectRatio="none"><path d={shapes[intensity]} fill="var(--boundary-to)"/></svg></div>
+<div class:list={['gaia-soft-boundary',`gaia-soft-boundary--${intensity}`,className,{reverse}]} style={`--boundary-from:${from};--boundary-to:${to}`} aria-hidden="true"><svg viewBox="0 0 1440 100" preserveAspectRatio="none"><path d={shapes[intensity]} fill="var(--boundary-to)"/></svg><svg class="boundary-mobile" viewBox="0 0 420 100" preserveAspectRatio="none"><path d={mobileShapes[intensity]} fill="var(--boundary-to)"/></svg></div>

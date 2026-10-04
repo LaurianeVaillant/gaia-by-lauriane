@@ -12,6 +12,7 @@ import '../styles/home-system.css';
 import '../styles/home-typography.css';
 import '../styles/home-chapters.css';
 import '../styles/home-desktop.css';
+import '../styles/home-responsive.css';
 import HomeNetwork from './HomeNetwork.astro';
 import {url,labels,type Lang,type Page} from '../data/site';
 import {home} from '../data/home';
@@ -48,4 +49,11 @@ const {lang} = Astro.props as {lang:Lang}; const fr=lang==='fr'; const t=labels[
 <script is:inline>
 const gaiaPhotoOption = new URLSearchParams(window.location.search).get('hero');
 if (gaiaPhotoOption === 'organic') document.querySelector('.gaia-home').dataset.heroPhoto = 'organic';
+const gaiaMenu = document.querySelector('.mobile-nav');
+gaiaMenu?.addEventListener('keydown', event => {
+  if (event.key === 'Escape' && gaiaMenu.open) {
+    gaiaMenu.open = false;
+    gaiaMenu.querySelector('summary').focus();
+  }
+});
 </script>
