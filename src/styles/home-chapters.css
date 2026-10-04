@@ -11,7 +11,8 @@ body.gaia-home-shell {--violet:#5E1AF4;--orange:#FF6230;--ink:#171717}
 }
 .gaia-home .network {background:var(--chapter-lavender)}
 .gaia-home .practices,.gaia-home .about,.gaia-home .project,
-.gaia-home .project-flow,.gaia-home .locations {background:var(--chapter-cream)}
+.gaia-home .project-flow {background:var(--chapter-cream)}
+.gaia-home .locations {background:var(--white)}
 .gaia-home .women {background:var(--chapter-pink)}
 .gaia-home .power {background:var(--chapter-peach)}
 .gaia-home .final-cta {background:var(--chapter-violet);color:var(--white)}
@@ -19,7 +20,7 @@ body.gaia-home-shell {--violet:#5E1AF4;--orange:#FF6230;--ink:#171717}
 .gaia-home .final-cta .button {background:var(--chapter-cream);color:var(--chapter-violet)}
 .gaia-home .final-cta .button:hover {background:var(--white)}
 .gaia-home .project {grid-template-columns:minmax(0,1.25fr) minmax(0,1fr);gap:var(--space-6)}
-.gaia-home .project-display-title {font-size:clamp(52px,5vw,76px);color:var(--violet)}
+.gaia-home .project-display-title {font-size:clamp(56px,5.6vw,86px);color:var(--violet)}
 .gaia-home .project-display-title span {color:var(--orange)}
 .gaia-home .project-flow svg text {fill:var(--violet)}
 .gaia-home .project-flow svg use {stroke:var(--violet)}
@@ -28,20 +29,26 @@ body.gaia-home-shell {--violet:#5E1AF4;--orange:#FF6230;--ink:#171717}
 .gaia-home .gaia-soft-boundary {height:56px;margin:-1px 0;overflow:hidden}
 .gaia-home .gaia-soft-boundary--strong {height:104px}
 .gaia-home .gaia-soft-boundary--calm {height:32px}
-/* Three contiguous editorial territories, shared rows rather than cards. */
-.gaia-home .practices {padding-left:0;padding-right:0;padding-bottom:0}
-.gaia-home .practices>.eyebrow {margin-left:var(--gutter);margin-right:var(--gutter)}
-.gaia-home .practice-grid {gap:0;grid-template-rows:158px auto 1fr auto}
-.gaia-home .practice {grid-template-rows:subgrid;grid-row:span 4;padding:40px clamp(24px,3vw,48px);min-width:0;background:var(--chapter-lavender)}
-.gaia-home .practice:nth-child(2) {background:var(--chapter-orange)}
-.gaia-home .practice:nth-child(3) {background:var(--chapter-violet);color:var(--white)}
-.gaia-home .practice .text-link {color:inherit}
+/* Three aligned editorial panels: colour above, readable cream below. */
+.gaia-home .practices {padding-left:var(--gutter);padding-right:var(--gutter);padding-bottom:48px}
+.gaia-home .practices>.eyebrow {margin-left:0;margin-right:0}
+.gaia-home .practice-grid {gap:0;grid-template-rows:auto 1fr auto}
+.gaia-home .practice {grid-template-rows:subgrid;grid-row:span 3;padding:0;min-width:0;background:transparent;color:var(--ink)}
+.gaia-home .practice:nth-child(2),.gaia-home .practice:nth-child(3) {background:transparent;color:var(--ink)}
+.gaia-home .practice-heading {display:grid;grid-template-rows:118px auto;gap:24px;padding:32px;background:var(--chapter-lavender)}
+.gaia-home .practice-heading h3 {min-height:2.2em}
+.gaia-home .practice:nth-child(2) .practice-heading {background:var(--chapter-orange)}
+.gaia-home .practice:nth-child(3) .practice-heading {background:var(--chapter-violet);color:var(--white)}
+.gaia-home .practice p {padding:24px 32px 0}
+.gaia-home .practice .text-link {color:var(--violet);padding:16px 32px 24px;min-height:44px}
 .gaia-home .practice-pictogram:before {display:none}
 .gaia-home .practice-pictogram svg {stroke:currentColor}
+.gaia-home .network {--section-top:60px;--section-bottom:60px}
+.gaia-home .gaia-soft-boundary--network-in,.gaia-home .gaia-soft-boundary--network-out {height:56px}
 /* Avoid low-contrast small violet text on coloured surfaces. */
 .gaia-home .network .text-link,.gaia-home .network-labels {color:var(--ink);fill:var(--ink)}
 .gaia-home .women .text-link {color:var(--ink)}
-.gaia-home .practice-boundary {background:linear-gradient(to right,var(--chapter-lavender) 0 33.333333%,var(--chapter-orange) 33.333333% 66.666667%,var(--chapter-violet) 66.666667% 100%)}
+.gaia-home .practice-boundary {background:var(--chapter-cream)}
 .gaia-home .power-pairs p {color:var(--ink)}
 .gaia-home .practice a:focus-visible {outline-color:currentColor}
 .gaia-home .final-cta a:focus-visible {outline-color:var(--chapter-cream)}
@@ -62,8 +69,10 @@ body.gaia-home-shell {--violet:#5E1AF4;--orange:#FF6230;--ink:#171717}
 }
 @media(max-width:900px){
   .gaia-home .practice-grid{gap:0;grid-template-rows:none}
-  .gaia-home .practice-boundary{background:var(--chapter-violet)}
-  .gaia-home .practice{grid-row:auto;grid-template-rows:118px auto auto auto;padding:32px var(--gutter)}
+  .gaia-home .practice-boundary{background:var(--chapter-cream)}
+  .gaia-home .practice{grid-row:auto;grid-template-rows:auto auto auto;padding:0}
+  .gaia-home .practice-heading{padding:32px;grid-template-rows:118px auto}
+  .gaia-home .practice-grid{row-gap:24px}
   .gaia-home .project{grid-template-columns:1fr;gap:var(--space-4)}
   .gaia-home .story-module{display:block}
   .gaia-home .story-module>.eyebrow{margin-bottom:24px}
@@ -74,7 +83,12 @@ body.gaia-home-shell {--violet:#5E1AF4;--orange:#FF6230;--ink:#171717}
   .gaia-home .gaia-soft-boundary{height:40px}
   .gaia-home .gaia-soft-boundary--strong{height:64px}
   .gaia-home .gaia-soft-boundary--calm{height:24px}
-  .gaia-home .practice{padding:32px var(--gutter);grid-template-rows:108px auto auto auto}
+  .gaia-home .practice{padding:0;grid-template-rows:auto auto auto}
+  .gaia-home .practice-heading{padding:24px;grid-template-rows:108px auto}
+  .gaia-home .practice p{padding:24px 24px 0}
+  .gaia-home .practice .text-link{padding:16px 24px 24px}
+  .gaia-home .network{--section-top:40px;--section-bottom:40px}
+  .gaia-home .gaia-soft-boundary--network-in,.gaia-home .gaia-soft-boundary--network-out{height:40px}
   .gaia-home .story-module{padding:24px;border-radius:20px}
   .gaia-home .about .editorial-collage{border-radius:12px;margin-top:24px}
   .gaia-home .project-display-title{font-size:var(--home-display)}
