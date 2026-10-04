@@ -29,20 +29,20 @@ body.gaia-home-shell {--violet:#5E1AF4;--orange:#FF6230;--ink:#171717}
 .gaia-home .gaia-soft-boundary {height:56px;margin:-1px 0;overflow:hidden}
 .gaia-home .gaia-soft-boundary--strong {height:104px}
 .gaia-home .gaia-soft-boundary--calm {height:32px}
-/* Three aligned editorial panels: colour above, readable cream below. */
+/* Three equal editorial columns on cream, with orange icons in pale circles. */
 .gaia-home .practices {padding-left:var(--gutter);padding-right:var(--gutter);padding-bottom:48px}
 .gaia-home .practices>.eyebrow {margin-left:0;margin-right:0}
 .gaia-home .practice-grid {gap:0;grid-template-rows:auto 1fr auto}
 .gaia-home .practice {grid-template-rows:subgrid;grid-row:span 3;padding:0;min-width:0;background:transparent;color:var(--ink)}
 .gaia-home .practice:nth-child(2),.gaia-home .practice:nth-child(3) {background:transparent;color:var(--ink)}
-.gaia-home .practice-heading {display:grid;grid-template-rows:118px auto;gap:24px;padding:32px;background:var(--chapter-lavender)}
+.gaia-home .practice-heading {display:grid;grid-template-rows:118px auto;gap:24px;padding:32px;background:transparent}
 .gaia-home .practice-heading h3 {min-height:2.2em}
-.gaia-home .practice:nth-child(2) .practice-heading {background:var(--chapter-orange)}
-.gaia-home .practice:nth-child(3) .practice-heading {background:var(--chapter-violet);color:var(--white)}
+.gaia-home .practice:nth-child(2) .practice-heading {background:transparent}
+.gaia-home .practice:nth-child(3) .practice-heading {background:transparent;color:var(--ink)}
 .gaia-home .practice p {padding:24px 32px 0}
 .gaia-home .practice .text-link {color:var(--violet);padding:16px 32px 24px;min-height:44px}
-.gaia-home .practice-pictogram:before {display:none}
-.gaia-home .practice-pictogram svg {stroke:currentColor}
+.gaia-home .practice .practice-pictogram:before {display:block;inset:3px 0 auto;width:100%;height:auto;aspect-ratio:1;border-radius:50%;background:#FFFBEF;opacity:1}
+.gaia-home .practice-pictogram svg {stroke:var(--orange)}
 .gaia-home .network {--section-top:60px;--section-bottom:60px}
 .gaia-home .gaia-soft-boundary--network-in,.gaia-home .gaia-soft-boundary--network-out {height:56px}
 /* Avoid low-contrast small violet text on coloured surfaces. */
