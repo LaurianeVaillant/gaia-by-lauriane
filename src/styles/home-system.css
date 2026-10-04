@@ -5,52 +5,49 @@ body.gaia-home-shell{
  --space-1:8px;--space-2:16px;--space-3:24px;--space-4:32px;--space-6:48px;--space-8:64px;--space-12:96px;--space-16:128px;
  --home-section:clamp(96px,7.5vw,120px);--home-gap:clamp(64px,6vw,96px);
  --home-body:clamp(17px,1.25vw,18px);--home-display:clamp(52px,4.5vw,68px);--home-label:clamp(13px,1vw,15px);
- font-size:var(--home-body);line-height:1.6;
 }
 .gaia-home{--art-section:var(--home-section);--gaia-feature-title:var(--home-display)}
 .gaia-home-shell .header,.gaia-home-shell footer,.gaia-home .section{padding-left:var(--gutter);padding-right:var(--gutter)}
 .gaia-home .section,.gaia-home .about,.gaia-home .project{padding-top:var(--section-top,var(--home-section));padding-bottom:var(--section-bottom,var(--home-section))}
-.gaia-home p{font-family:var(--sans);font-size:var(--home-body);line-height:1.6;max-width:60ch;margin:0 0 var(--space-3);letter-spacing:normal}
-.gaia-home .eyebrow{font-size:var(--home-label);font-weight:500;letter-spacing:.1em;line-height:1.55;margin-bottom:var(--space-4);max-width:none}
+.gaia-home p{max-width:60ch;margin:0 0 var(--space-3)}
+.gaia-home .eyebrow{margin-bottom:var(--space-4);max-width:none}
 .gaia-home .manifesto,.gaia-home .network,.gaia-home .women,.gaia-home .power,.gaia-home .project{grid-template-columns:repeat(2,minmax(0,1fr));gap:var(--home-gap)}
-.gaia-home .manifesto-copy{max-width:60ch;font-size:var(--home-body);line-height:1.6;letter-spacing:normal}
-.gaia-home .manifesto-copy p,.gaia-home .manifesto-copy .separated{font-size:var(--home-body);max-width:60ch;line-height:1.6}
+.gaia-home .manifesto-copy{max-width:60ch}
+.gaia-home .manifesto-copy p,.gaia-home .manifesto-copy .separated{max-width:60ch}
 .gaia-home .manifesto-copy .separated{margin-top:var(--space-3);margin-bottom:0}
-.gaia-home .manifesto>.eyebrow,.gaia-home .network-title,.gaia-home .power .eyebrow{font-size:var(--home-display);line-height:1.1;letter-spacing:-.05em;text-transform:none;margin-bottom:var(--space-4)}
+.gaia-home .manifesto>.eyebrow,.gaia-home .network-title,.gaia-home .power .eyebrow{margin-bottom:var(--space-4)}
 .gaia-home .manifesto>.eyebrow{margin-bottom:0}
 .gaia-home .power .eyebrow{white-space:nowrap}
 .gaia-home .hero-copy{margin-left:var(--gutter)}
-.gaia-home .hero .hero-statement{font-family:var(--display);font-weight:700;font-variation-settings:'wght' 700,'SOFT' 70,'WONK' 1;font-size:clamp(46px,4.2vw,60px);line-height:1.1;letter-spacing:-.035em;margin-bottom:var(--space-4);max-width:20ch}
-.gaia-home .hero .hero-statement em{font-style:normal}
-.gaia-home .hero-details h1,.gaia-home .hero-details p{font-family:var(--sans);font-size:var(--home-body);font-weight:400;line-height:1.6;letter-spacing:normal;max-width:40ch;margin:0 0 var(--space-1)}
+.gaia-home .hero .hero-statement{margin-bottom:var(--space-4);max-width:20ch}
+.gaia-home .hero-details h1,.gaia-home .hero-details p{max-width:40ch;margin:0 0 var(--space-1)}
 .gaia-home .hero-details{margin-bottom:var(--space-3)}
-.gaia-home .byline{font-family:'GAIA Signature',cursive;font-size:clamp(2.6rem,3.1vw,3.25rem);line-height:.78;color:var(--orange);margin:-.35rem 0 1.7rem 1.1rem}
-.gaia-home .text-link{font-size:16px;margin-top:var(--space-1)}
-.gaia-home-shell .button{font-size:16px;min-height:48px}
+.gaia-home .byline{color:var(--orange);margin:-.35rem 0 1.7rem 1.1rem}
+.gaia-home .text-link{margin-top:var(--space-1)}
+.gaia-home-shell .button{min-height:48px}
 .gaia-home .practice-grid{gap:var(--space-6);margin-top:var(--space-4)}
 .gaia-home .practice{display:grid;grid-template-rows:118px minmax(2.2em,auto) 1fr auto;row-gap:var(--space-3);align-content:start}
 .gaia-home .practice-pictogram{margin:0}
-.gaia-home .practice h3{font-size:clamp(28px,2.3vw,36px);font-weight:500;line-height:1.1;min-height:0;margin:0;max-width:none}
-.gaia-home .practice p{font-size:var(--home-body);margin:0;max-width:32ch}
+.gaia-home .practice h3{min-height:0;margin:0;max-width:none}
+.gaia-home .practice p{margin:0;max-width:32ch}
 .gaia-home .practice .text-link{margin:0;justify-self:start}
-.gaia-home .women-title{font-size:clamp(36px,3.6vw,52px);line-height:1.1;margin-bottom:var(--space-4)}
+.gaia-home .women-title{margin-bottom:var(--space-4)}
 .gaia-home .women-photo{height:auto;aspect-ratio:4/5;max-height:640px}
 .gaia-home .about{grid-template-rows:auto 1fr;grid-template-columns:repeat(2,minmax(0,1fr));gap:var(--space-4) var(--home-gap)}
-.gaia-home .about>.eyebrow{font-size:var(--home-label);line-height:1.55;letter-spacing:.1em;white-space:nowrap;margin:0}
+.gaia-home .about>.eyebrow{white-space:nowrap;margin:0}
 .gaia-home .about .editorial-collage img:first-child{aspect-ratio:3/4}
-.gaia-home .story-statement{font-family:var(--display);font-size:clamp(24px,2.1vw,30px);line-height:1.2;font-weight:500;margin:var(--space-4) 0 var(--space-3)}
+.gaia-home .story-statement{margin:var(--space-4) 0 var(--space-3)}
 .gaia-home .power-pairs{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:var(--space-2) var(--space-3);margin:var(--space-4) 0}
-.gaia-home .power-pairs p{font-size:var(--home-label);font-weight:500;letter-spacing:.1em;color:var(--violet);margin:0}
+.gaia-home .power-pairs p{color:var(--violet);margin:0}
 .gaia-home .project-copy p{max-width:60ch}.gaia-home .project-copy p:last-child{margin-bottom:0}
 .gaia-home .project-brand-title{margin:0;align-self:center}
-.gaia-home .locations-title{font-size:clamp(36px,4.5vw,64px);line-height:1.2;margin-bottom:var(--space-4);max-width:none}
+.gaia-home .locations-title{margin-bottom:var(--space-4);max-width:none}
 .gaia-home .final-cta{padding-top:var(--space-16);padding-bottom:var(--space-16)}
-.gaia-home .final-cta h2{font-size:clamp(72px,6.67vw,96px);line-height:1.1;margin-bottom:var(--space-4)}
+.gaia-home .final-cta h2{margin-bottom:var(--space-4)}
 .gaia-home .closing-actions{gap:var(--space-3)}
-.gaia-home .final-cta .closing-actions p{font-family:var(--sans);font-size:clamp(20px,1.7vw,24px);line-height:1.5;max-width:none;margin:0;white-space:nowrap}
+.gaia-home .final-cta .closing-actions p{max-width:none;margin:0;white-space:nowrap}
 @media(max-width:1100px){
  body.gaia-home-shell{--home-pad:48px;--home-section:clamp(72px,8vw,96px);--home-gap:48px;--home-display:clamp(48px,5.2vw,58px)}
- .gaia-home .hero .hero-statement{font-size:clamp(40px,4.4vw,48px)}
  .gaia-home .hero-copy{width:58%}
  .gaia-home .practice-grid{gap:var(--space-4)}
  .gaia-home .power .eyebrow{white-space:normal}
@@ -80,25 +77,17 @@ body.gaia-home-shell{
 @media(max-width:700px){
  body.gaia-home-shell{--home-pad:clamp(20px,5.6vw,24px);--home-section:clamp(56px,15vw,72px);--home-gap:32px;--home-body:16px;--home-display:clamp(36px,10.5vw,48px);--home-label:13px}
  .gaia-home .hero-copy{padding-top:var(--space-4)}
- .gaia-home .hero .hero-statement{font-size:clamp(32px,8.6vw,42px);margin-bottom:var(--space-4)}
- .gaia-home .byline{font-size:2.7rem;margin:-.25rem 0 1.5rem .65rem}
+ .gaia-home .hero .hero-statement{margin-bottom:var(--space-4)}
+ .gaia-home .byline{margin:-.25rem 0 1.5rem .65rem}
  .gaia-home .hero-photo,.gaia-home[data-hero-photo='organic'] .hero-photo{height:430px}
- .gaia-home .manifesto,.gaia-home .network,.gaia-home .women,.gaia-home .power,.gaia-home .project{gap:var(--space-4)}
- .gaia-home .practice h3{font-size:28px}.gaia-home .practice{grid-template-rows:108px auto auto auto}
- .gaia-home .women-title{font-size:clamp(36px,9.5vw,44px)}
- .gaia-home .about>.eyebrow{font-size:var(--home-label);white-space:normal}
- .gaia-home .story-statement{font-size:24px}
- .gaia-home .locations-title{font-size:clamp(32px,8.3vw,40px)}
+ .gaia-home .manifesto,.gaia-home .network,.gaia-home .women,.gaia-home .power,.gaia-home .project{gap:var(--space-4)}.gaia-home .practice{grid-template-rows:108px auto auto auto}
+ .gaia-home .about>.eyebrow{white-space:normal}
  .gaia-home .final-cta{padding-top:72px;padding-bottom:72px}
- .gaia-home .final-cta h2{font-size:clamp(40px,12vw,56px)}
- .gaia-home .final-cta .closing-actions p{font-size:20px;white-space:normal;max-width:26ch}
+ .gaia-home .final-cta .closing-actions p{white-space:normal;max-width:26ch}
 }
 
 /* Consistent display family and restrained emphasis; no composition changes. */
-.gaia-home .manifesto>.eyebrow,.gaia-home .network-title,.gaia-home .women-title,.gaia-home .power .eyebrow,.gaia-home .final-cta h2{font-family:var(--display);font-style:normal}
-.gaia-home .manifesto>.eyebrow,.gaia-home .network-title,.gaia-home .women-title,.gaia-home .power .eyebrow{font-weight:700;font-variation-settings:'wght' 700,'SOFT' 70,'WONK' 1}
-.gaia-home p strong{font-family:inherit;font-weight:600;color:inherit}
-.gaia-home .story-statement{font-family:var(--sans)}
+.gaia-home p strong{color:inherit}
 
 /* Content-weighted vertical rhythm; network and closing space stay unchanged. */
 .gaia-home .manifesto,.gaia-home .practices,.gaia-home .locations{--section-top:80px;--section-bottom:80px}
@@ -122,21 +111,18 @@ body.gaia-home-shell{
 }
 
 /* UX consistency: keep the approved section padding and art assets intact. */
-.gaia-home .project-editorial-title{font-family:var(--sans);font-size:var(--home-label);font-weight:500;letter-spacing:.1em;text-transform:uppercase;color:var(--violet);line-height:1.55;margin:0;align-self:center}
-.gaia-home-shell .button,.gaia-home-shell .button.small{font-family:var(--sans);font-size:16px;font-weight:500;line-height:1.4;padding:.8rem 1.35rem;min-height:48px;border-radius:0;background:var(--violet);color:white}
+.gaia-home .project-editorial-title{color:var(--violet);margin:0;align-self:center}
+.gaia-home-shell .button,.gaia-home-shell .button.small{padding:.8rem 1.35rem;min-height:48px;border-radius:0;background:var(--violet);color:white}
 .gaia-home-shell .button:hover{background:#5421d6;text-decoration:none}
-.gaia-home .text-link{font-family:var(--sans);font-size:16px;font-weight:500;line-height:1.6;text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:6px;min-height:44px}
-.gaia-home .power-pairs p{font-family:var(--sans);font-size:var(--home-label);font-weight:500;line-height:1.6;letter-spacing:.1em}
+.gaia-home .text-link{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:6px;min-height:44px}
 @media(max-width:900px){.gaia-home .project-editorial-title{align-self:start}}
-@media(max-width:700px){.gaia-home .network-labels{font-size:26px}}
 
 /* Final density correction, limited to the lower four sections. */
 .gaia-home .about{--section-top:68px;--section-bottom:68px}
 .gaia-home .power{--section-top:56px;--section-bottom:56px}
 .gaia-home .project{--section-top:64px;--section-bottom:64px}
 .gaia-home .locations{--section-top:60px;--section-bottom:60px}
-.gaia-home .manifesto>.eyebrow,.gaia-home .network-title,.gaia-home .women-title,.gaia-home .power .eyebrow,.gaia-home .project-display-title,.gaia-home .final-cta h2{font-family:var(--display);font-weight:700;font-style:normal;font-variation-settings:'wght' 700,'SOFT' 70,'WONK' 1}
-.gaia-home .project-display-title{font-size:clamp(44px,4vw,58px);line-height:1.1;letter-spacing:-.05em;text-transform:none;color:var(--violet);white-space:nowrap;align-self:center;margin:0}
+.gaia-home .project-display-title{color:var(--violet);white-space:nowrap;align-self:center;margin:0}
 .gaia-home .project-display-title span{color:var(--orange)}
 .gaia-home .power-dialogue{max-width:360px}
 @media(max-width:1100px){
@@ -144,7 +130,6 @@ body.gaia-home-shell{
  .gaia-home .power{--section-top:48px;--section-bottom:48px}
  .gaia-home .project{--section-top:56px;--section-bottom:56px}
  .gaia-home .locations{--section-top:56px;--section-bottom:56px}
- .gaia-home .project-display-title{font-size:clamp(36px,4vw,44px)}
 }
 @media(max-width:900px){.gaia-home .project-display-title{align-self:start;white-space:normal}}
 @media(max-width:700px){
@@ -152,10 +137,8 @@ body.gaia-home-shell{
  .gaia-home .power{--section-top:40px;--section-bottom:40px}
  .gaia-home .project{--section-top:48px;--section-bottom:48px}
  .gaia-home .locations{--section-top:48px;--section-bottom:48px}
- .gaia-home .project-display-title{font-size:var(--home-display)}
  .gaia-home .power-dialogue{max-width:330px}
 }
 
 /* Final technical QA: comfortable targets without changing the section layout. */
 .gaia-home-shell .desktop-nav a,.gaia-home-shell footer a{display:inline-flex;align-items:center;min-height:44px}
-.gaia-home-shell .language .active{font-weight:500}

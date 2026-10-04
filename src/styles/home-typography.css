@@ -1,0 +1,515 @@
+/* Homepage typography only. Preserve cascade order and responsive sizes.
+   Display: Fraunces 700; UI/body: Instrument Sans; signature: Italianno.
+   The inherited Gaia wordmark variation settings remain in global.css. */
+
+@font-face  {
+  font-family: 'GAIA Signature';
+  src: url('/fonts/Italianno-Latin-Regular.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+.gaia-home .byline {
+  font: 400 2.7rem/1.05 'GAIA Signature',cursive;
+  letter-spacing: 0;
+}
+
+.gaia-flow {
+  line-height: 0;
+}
+
+.gaia-flow text {
+  font: 500 17px var(--sans);
+  letter-spacing: .07em;
+}
+
+.gaia-home .project-flow text {
+  font-size: 18px;
+  letter-spacing: .01em;
+}
+
+.gaia-home .women-title {
+  text-transform: none;
+}
+
+.gaia-home .final-cta p.serif {
+  font-family: var(--sans);
+  font-size: clamp(1.1rem,1.7vw,1.6rem);
+  letter-spacing: -.02em;
+}
+
+@media (max-width:1050px) {
+  .gaia-home .practice h3 {
+    font-size: 1.7rem;
+  }
+}
+
+@media (max-width:700px) {
+  .gaia-flow text {
+    font-size: 13px;
+    letter-spacing: .025em;
+  }
+  .gaia-home .project-flow text {
+    font-size: 12px;
+    letter-spacing: 0;
+  }
+  .gaia-home .women-title {
+    line-height: 1.05;
+  }
+  .gaia-home .locations-title {
+    line-height: 1.2;
+  }
+}
+
+.gaia-organic-boundary {
+  line-height: 0;
+}
+
+@media (max-width:1050px) {
+  .gaia-home .network-title {
+    font-size: 2.8rem;
+  }
+}
+
+@media (max-width:700px) {
+  .gaia-home .network-title {
+    font-size: 3rem;
+  }
+}
+
+.gaia-soft-boundary {
+  line-height: 0;
+}
+
+.gaia-home .network-labels {
+  letter-spacing: .015em;
+}
+
+.gaia-home .project>p {
+  font-size: clamp(1.25rem,1.75vw,1.65rem);
+  line-height: 1.55;
+}
+
+.gaia-home .final-cta h2 {
+  letter-spacing: -.07em;
+}
+
+@media (max-width:1050px) {
+  .gaia-home .project>p {
+    font-size: 1.3rem;
+  }
+  .gaia-home .final-cta h2 {
+    font-size: 10.7vw;
+  }
+}
+
+@media (max-width:700px) {
+  .gaia-home .power>div:first-child>p:first-of-type {
+    font-size: 1.3rem;
+  }
+  .gaia-home .project>p {
+    font-size: 1.3rem;
+  }
+}
+
+@media (max-width:1050px) {
+  .gaia-home .manifesto>.eyebrow {
+    font-size: 2.6rem;
+  }
+  .gaia-home .power .eyebrow {
+    font-size: 2.65rem;
+  }
+  .gaia-home .about>.eyebrow {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width:700px) {
+  .gaia-home .manifesto>.eyebrow {
+    font-size: 2.6rem;
+    line-height: 1.12;
+  }
+  .gaia-home .power .eyebrow {
+    font-size: 2.6rem;
+    line-height: 1.12;
+  }
+  .gaia-home .manifesto-copy {
+    font-size: 1.3rem;
+  }
+  .gaia-home .manifesto-copy .separated {
+    font-size: 1.05rem;
+  }
+  .gaia-home .about>.eyebrow {
+    line-height: 1.5;
+  }
+}
+
+.gaia-home .power>div:first-child>p:first-of-type {
+  font-size: inherit;
+  line-height: inherit;
+  letter-spacing: normal;
+}
+
+@font-face  {
+  font-family: 'Instrument Sans';
+  src: url('/fonts/InstrumentSans-Latin-Variable.woff2') format('woff2');
+  font-weight: 400 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+body.gaia-home-shell {
+  --sans: 'Instrument Sans',sans-serif;
+  --serif: 'Fraunces Variable',serif;
+  font-family: var(--sans);
+  font-weight: 400;
+}
+
+.gaia-home-shell .desktop-nav {
+  font-family: var(--sans);
+}
+
+.gaia-home-shell .language {
+  font-family: var(--sans);
+}
+
+.gaia-home-shell .mobile-nav {
+  font-family: var(--sans);
+}
+
+.gaia-home-shell footer {
+  font-family: var(--sans);
+}
+
+.gaia-home-shell .desktop-nav {
+  font-weight: 400;
+}
+
+.gaia-home-shell .eyebrow {
+  font-family: var(--sans);
+  font-weight: 500;
+  letter-spacing: .1em;
+}
+
+.gaia-home .women-title {
+  letter-spacing: -.05em;
+}
+
+.gaia-home .byline {
+  font-weight: 400;
+}
+
+.gaia-home .network-labels {
+  font-family: var(--sans);
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.gaia-home .practice h3 {
+  font-family: var(--sans);
+}
+
+.gaia-home .about>.eyebrow {
+  font-family: var(--sans);
+  font-weight: 500;
+}
+
+.gaia-home .final-cta .closing-actions p {
+  font-weight: 500;
+}
+
+@media (max-width:1050px) {
+  .gaia-home-shell .mobile-nav summary {
+    font-size: 1rem;
+  }
+  .gaia-home-shell .mobile-nav nav a[href$='/contact/'] {
+    font-weight: 500;
+  }
+  .gaia-home .hero .hero-statement {
+    font-size: clamp(2.8rem,4.2vw,3.6rem);
+  }
+  .gaia-home .byline {
+    font-size: 2.8rem;
+  }
+  .gaia-home .women-title {
+    font-size: clamp(2.5rem,4.2vw,3.3rem);
+  }
+}
+
+@media (max-width:700px) {
+  .gaia-home .hero .hero-statement {
+    line-height: 1.12;
+  }
+  .gaia-home .about>.eyebrow {
+    letter-spacing: .1em;
+  }
+}
+
+body.gaia-home-shell .mini-logo span {
+  font: 400 1.35rem/.95 'GAIA Signature',cursive;
+  letter-spacing: 0;
+}
+
+body.gaia-home-shell .footer-brand span {
+  font: 400 1.35rem/.95 'GAIA Signature',cursive;
+  letter-spacing: 0;
+}
+
+body.gaia-home-shell {
+  font-size: var(--home-body);
+  line-height: 1.6;
+}
+
+.gaia-home p {
+  font-family: var(--sans);
+  font-size: var(--home-body);
+  line-height: 1.6;
+  letter-spacing: normal;
+}
+
+.gaia-home .eyebrow {
+  font-size: var(--home-label);
+  font-weight: 500;
+  letter-spacing: .1em;
+  line-height: 1.55;
+}
+
+.gaia-home .manifesto-copy {
+  font-size: var(--home-body);
+  line-height: 1.6;
+  letter-spacing: normal;
+}
+
+.gaia-home .manifesto-copy p {
+  font-size: var(--home-body);
+  line-height: 1.6;
+}
+
+.gaia-home .manifesto-copy .separated {
+  font-size: var(--home-body);
+  line-height: 1.6;
+}
+
+.gaia-home .manifesto>.eyebrow {
+  font-size: var(--home-display);
+  line-height: 1.1;
+  letter-spacing: -.05em;
+  text-transform: none;
+}
+
+.gaia-home .network-title {
+  font-size: var(--home-display);
+  line-height: 1.1;
+  letter-spacing: -.05em;
+  text-transform: none;
+}
+
+.gaia-home .power .eyebrow {
+  font-size: var(--home-display);
+  line-height: 1.1;
+  letter-spacing: -.05em;
+  text-transform: none;
+}
+
+.gaia-home .hero .hero-statement {
+  font-family: var(--display);
+  font-weight: 700;
+  font-variation-settings: 'wght' 700,'SOFT' 70,'WONK' 1;
+  font-size: clamp(46px,4.2vw,60px);
+  line-height: 1.1;
+  letter-spacing: -.035em;
+}
+
+.gaia-home .hero .hero-statement em {
+  font-style: normal;
+}
+
+.gaia-home .hero-details h1 {
+  font-family: var(--sans);
+  font-size: var(--home-body);
+  font-weight: 400;
+  line-height: 1.6;
+  letter-spacing: normal;
+}
+
+.gaia-home .hero-details p {
+  font-family: var(--sans);
+  font-size: var(--home-body);
+  font-weight: 400;
+  line-height: 1.6;
+  letter-spacing: normal;
+}
+
+.gaia-home .byline {
+  font-family: 'GAIA Signature',cursive;
+  font-size: clamp(2.6rem,3.1vw,3.25rem);
+  line-height: .78;
+}
+
+.gaia-home .practice h3 {
+  font-size: clamp(28px,2.3vw,36px);
+  font-weight: 500;
+  line-height: 1.1;
+}
+
+.gaia-home .practice p {
+  font-size: var(--home-body);
+}
+
+.gaia-home .women-title {
+  font-size: clamp(36px,3.6vw,52px);
+  line-height: 1.1;
+}
+
+.gaia-home .about>.eyebrow {
+  font-size: var(--home-label);
+  line-height: 1.55;
+  letter-spacing: .1em;
+}
+
+.gaia-home .story-statement {
+  font-size: clamp(24px,2.1vw,30px);
+  line-height: 1.2;
+  font-weight: 500;
+}
+
+.gaia-home .locations-title {
+  font-size: clamp(36px,4.5vw,64px);
+  line-height: 1.2;
+}
+
+.gaia-home .final-cta h2 {
+  font-size: clamp(72px,6.67vw,96px);
+  line-height: 1.1;
+}
+
+.gaia-home .final-cta .closing-actions p {
+  font-family: var(--sans);
+  font-size: clamp(20px,1.7vw,24px);
+  line-height: 1.5;
+}
+
+@media (max-width:1100px) {
+  .gaia-home .hero .hero-statement {
+    font-size: clamp(40px,4.4vw,48px);
+  }
+}
+
+@media (max-width:700px) {
+  .gaia-home .hero .hero-statement {
+    font-size: clamp(32px,8.6vw,42px);
+  }
+  .gaia-home .byline {
+    font-size: 2.7rem;
+  }
+  .gaia-home .practice h3 {
+    font-size: 28px;
+  }
+  .gaia-home .women-title {
+    font-size: clamp(36px,9.5vw,44px);
+  }
+  .gaia-home .about>.eyebrow {
+    font-size: var(--home-label);
+  }
+  .gaia-home .story-statement {
+    font-size: 24px;
+  }
+  .gaia-home .locations-title {
+    font-size: clamp(32px,8.3vw,40px);
+  }
+  .gaia-home .final-cta h2 {
+    font-size: clamp(40px,12vw,56px);
+  }
+  .gaia-home .final-cta .closing-actions p {
+    font-size: 20px;
+  }
+}
+
+.gaia-home p strong {
+  font-family: inherit;
+  font-weight: 600;
+}
+
+.gaia-home .story-statement {
+  font-family: var(--sans);
+}
+
+.gaia-home-shell .button {
+  font-family: var(--sans);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+.gaia-home-shell .button.small {
+  font-family: var(--sans);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+.gaia-home .text-link {
+  font-family: var(--sans);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.6;
+}
+
+.gaia-home .power-pairs p {
+  font-family: var(--sans);
+  font-size: var(--home-label);
+  font-weight: 500;
+  line-height: 1.6;
+  letter-spacing: .1em;
+}
+
+@media (max-width:700px) {
+  .gaia-home .network-labels {
+    font-size: 26px;
+  }
+}
+
+.gaia-home .project-display-title {
+  font-size: clamp(44px,4vw,58px);
+  line-height: 1.1;
+  letter-spacing: -.05em;
+  text-transform: none;
+}
+
+@media (max-width:1100px) {
+  .gaia-home .project-display-title {
+    font-size: clamp(36px,4vw,44px);
+  }
+}
+
+@media (max-width:700px) {
+  .gaia-home .project-display-title {
+    font-size: var(--home-display);
+  }
+}
+
+.gaia-home-shell .language .active {
+  font-weight: 500;
+}
+
+.gaia-home .women-title.eyebrow {
+  font-family: var(--display);
+  font-weight: 700;
+  font-variation-settings: 'wght' 700,'SOFT' 70,'WONK' 1;
+  letter-spacing: -.05em;
+  line-height: 1.1;
+}
+
+.gaia-home .manifesto>.eyebrow,
+.gaia-home .network-title,
+.gaia-home .women-title,
+.gaia-home .power .eyebrow,
+.gaia-home .project-display-title,
+.gaia-home .final-cta h2 {
+  font-family: var(--display);
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings: 'wght' 700,'SOFT' 70,'WONK' 1;
+}

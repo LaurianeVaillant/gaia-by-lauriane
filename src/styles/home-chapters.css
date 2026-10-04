@@ -1,0 +1,35 @@
+/* Test art direction: full colour territories and one broad wave family. */
+.gaia-home {
+  --chapter-cream:#FFF4C7;
+  --chapter-lavender:#D599FB;
+  --chapter-pink:#F8BCCA;
+  --chapter-peach:#FFBE98;
+  --chapter-orange:#FF6230;
+  --chapter-violet:#5E1AF4;
+}
+.gaia-home .network {background:var(--chapter-lavender)}
+.gaia-home .practices,.gaia-home .about,.gaia-home .locations {background:var(--chapter-cream)}
+.gaia-home .women {background:var(--chapter-pink)}
+.gaia-home .power {background:var(--chapter-peach)}
+.gaia-home .project,.gaia-home .project-flow {background:var(--chapter-orange)}
+.gaia-home .final-cta {background:var(--chapter-violet);color:var(--white)}
+.gaia-home .final-cta h2 {color:var(--white)}
+.gaia-home .final-cta .button {background:var(--chapter-cream);color:var(--chapter-violet)}
+.gaia-home .final-cta .button:hover {background:var(--white)}
+.gaia-home .project-display-title {color:var(--ink)}
+.gaia-home .project-display-title span {color:var(--white)}
+.gaia-home .project-flow svg text {fill:var(--ink)}
+.gaia-home .project-flow svg use {stroke:var(--ink)}
+.gaia-home .project-flow svg>path[stroke] {stroke:var(--ink)}
+.gaia-home .gaia-soft-boundary {height:48px;margin:-1px 0;overflow:hidden}
+.gaia-home .practice-grid {gap:0}
+.gaia-home .practice {padding:32px;min-width:0;background:var(--chapter-lavender)}
+.gaia-home .practice:nth-child(2) {background:var(--chapter-pink)}
+.gaia-home .practice:nth-child(3) {background:var(--chapter-peach)}
+.gaia-home .practice-pictogram:before {background:transparent}
+.gaia-home-shell footer {background:#FFF4C7}
+@media(max-width:900px){.gaia-home .practice-grid{gap:0}}
+@media(max-width:700px){
+  .gaia-home .gaia-soft-boundary{height:32px}
+  .gaia-home .practice{padding:24px}
+}
