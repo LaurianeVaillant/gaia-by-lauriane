@@ -85,10 +85,30 @@
   .gaia-home-shell footer .legal {max-width:44ch}
 }
 @media (max-width:700px) {
-  body.gaia-home-shell {--home-pad:clamp(20px,5.6vw,24px);--home-body:16px;--home-label:12px;--home-display:clamp(36px,10.25vw,46px)}
-  .gaia-home-shell .header-actions {gap:8px}
+  body.gaia-home-shell {--home-pad:clamp(20px,5.6vw,24px);--home-body:clamp(16.5px,4.36vw,17px);--home-label:12px;--home-display:clamp(36px,10.25vw,46px)}
+  .gaia-home-shell .header-actions {gap:10px}
+  .gaia-home-shell .mini-logo {font-size:2.45rem}
+  .gaia-home-shell .language {font-size:15px}
+  .gaia-home-shell .mobile-nav summary {font-size:16px;padding:0 6px}
+  .gaia-home-shell .mobile-nav summary span {font-size:18px}
+  body.gaia-home-shell {line-height:1.55}
+  .gaia-home p,.gaia-home .manifesto-copy p {line-height:1.55}
+  .gaia-home p {margin-bottom:20px}
+  .gaia-home .text-link {font-size:17px;line-height:1.5}
+  .gaia-home .manifesto {gap:20px}
+  .gaia-home .network {gap:8px}
+  .gaia-home .network-title {margin-bottom:20px}
+  .gaia-home .home-network-art {width:calc(100% + 16px);max-width:none;margin:-8px -8px 0}
+  .gaia-home .network-copy .text-link {margin-top:0}
+  .gaia-home .practice-grid {gap:32px}
+  .gaia-home .women-title {margin-bottom:20px}
+  .gaia-home .women {gap:24px}
+  .gaia-home .about {padding-left:14px;padding-right:14px}
+  .gaia-home .power {gap:4px;--section-bottom:32px}
+  .gaia-home .power .power-dialogue .gaia-symbol {left:10%;top:0;width:80%}
+  .gaia-home .project {gap:20px}
   .gaia-home .hero-copy {padding-top:24px}
-  .gaia-home .hero .wordmark {font-size:clamp(120px,35vw,154px)}
+  .gaia-home .hero .wordmark {font-size:clamp(112px,32.5vw,144px)}
   .gaia-home .hero .byline {font-size:42px;margin-bottom:24px}
   .gaia-home .hero .hero-statement {font-size:clamp(34px,9.6vw,42px)}
   .gaia-home .hero-photo,.gaia-home[data-hero-photo='organic'] .hero-photo {height:clamp(330px,90vw,400px)}
@@ -98,11 +118,11 @@
   .gaia-home .practice-pictogram svg {width:68px;height:68px}
   .gaia-home .practice-heading h3 {font-size:clamp(24px,6.7vw,28px)}
   .gaia-home .women-title {font-size:clamp(34px,9.2vw,40px)}
-  .gaia-home .story-module {padding:20px;border-radius:16px}
+  .gaia-home .story-module {padding:18px;border-radius:14px}
   .gaia-home .story-module>.eyebrow {font-size:12px}
   .gaia-home .story-statement {font-size:24px}
   .gaia-home .about .editorial-collage {margin-top:20px;border-radius:10px}
-  .gaia-home .power-dialogue {max-width:260px}
+  .gaia-home .power-dialogue {max-width:280px}
   .gaia-home .project-display-title {font-size:clamp(36px,9.7vw,42px)}
   .gaia-home .locations-title {font-size:clamp(34px,9.2vw,40px)}
   .gaia-home .final-cta h2 {font-size:clamp(52px,14.2vw,64px);letter-spacing:-.07em}
