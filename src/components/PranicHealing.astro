@@ -5,8 +5,32 @@ import {pranicFr as c} from '../data/pranic-fr';
 import {url} from '../data/site';
 ---
 <div class="pranic-page">
-<section class="section pranic-hero"><div><h1>{c.title}</h1><p class="pranic-subtitle">{c.subtitle}</p><p>{c.intro}</p><a class="button" href={url('fr','contact')}>Prendre rendez-vous</a></div><CirculationGraphic/></section>
+<section class="section pranic-hero"><div><h1>{c.title}</h1><p class="pranic-subtitle">{c.subtitle}</p><p>{c.intro}</p><a class="button" href={url('fr','contact')}>Prendre rendez-vous</a></div><div class="pranic-energy-visual">
+  <img src="/images/pranic-meditation-1000.webp" srcset="/images/pranic-meditation-600.webp 600w, /images/pranic-meditation-1000.webp 1000w" sizes="(max-width:700px) calc(100vw - 40px), 42vw" width="1000" height="1500" alt="Lauriane assise en tailleur sur les rochers, les yeux fermés, dans la lumière du coucher de soleil" loading="eager" fetchpriority="high" decoding="async"/>
+  <svg class="pranic-energy-layers" viewBox="0 0 540 640" fill="none" aria-hidden="true">
+    <path d="M77 410C15 315 48 149 151 84C257 16 420 53 486 177C540 279 481 446 398 520C291 615 142 540 77 410Z" fill="var(--lavender)" opacity=".1"/>
+    <path d="M150 460C72 370 123 213 240 203C365 192 471 263 447 398C426 524 253 564 150 460Z" fill="var(--orange)" opacity=".055"/>
+    <g stroke="var(--violet)" stroke-width="1.6" stroke-linecap="round" opacity=".75">
+      <path d="M46 385C-4 251 56 110 163 69C294 18 438 75 484 206"/>
+      <path d="M490 287C492 405 405 544 273 564C162 581 74 514 51 453"/>
+      <path d="M135 425C84 344 115 230 197 201C302 163 427 226 444 329"/>
+      <path d="M421 424C365 527 240 526 173 482"/>
+      <path d="M132 321C210 348 191 429 285 441S409 393 491 445"/>
+    </g>
+    <circle cx="132" cy="321" r="5" fill="var(--butter)" stroke="var(--violet)" stroke-width="1.6"/>
+    <circle cx="285" cy="441" r="5" fill="var(--orange)"/>
+    <circle cx="444" cy="329" r="5" fill="var(--butter)" stroke="var(--violet)" stroke-width="1.6"/>
+  </svg>
+</div></section>
 <section class="section pranic-understanding"><div class="pranic-editorial"><h2 class="eyebrow">Comprendre le Pranic Healing</h2><div>{c.understanding.map(p=><p>{p}</p>)}<p class="pranic-framework">L’aura et les chakras sont ici des repères du modèle du Pranic Healing, et non une description de l’anatomie médicale.</p></div></div></section>
+<section class="section pranic-origin" aria-labelledby="pranic-origin-title">
+  <h2 id="pranic-origin-title">Une méthode développée par Grand Master Choa Kok Sui</h2>
+  <div class="pranic-origin-copy">
+    <p>Le Pranic Healing moderne a été développé par Grand Master Choa Kok Sui, aux Philippines.</p>
+    <p>Son enseignement s’est depuis diffusé internationalement et est aujourd’hui présent dans plus de 126 pays.</p>
+    <a class="text-link pranic-origin-link" href="https://pranichealingfrance.com/" target="_blank" rel="noopener noreferrer">En savoir plus sur le Pranic Healing et son enseignement <span aria-hidden="true">→</span><span class="sr-only"> (nouvel onglet)</span></a>
+  </div>
+</section>
 <section class="section pranic-network"><div><h2 class="eyebrow">Les chakras comme des ronds-points</h2>{c.network.map(p=><p>{p}</p>)}</div><CirculationGraphic compact/></section>
 <section class="section pranic-reasons"><h2 class="eyebrow">Pour quels besoins ?</h2><p>Le Pranic Healing peut accompagner différents types de problématiques et s’intégrer dans une approche globale, de manière indépendante ou en complément de l’acupuncture.</p><ul class="pranic-topic-grid">{c.reasons.map(reason=><li>{reason}</li>)}</ul><p class="pranic-disclaimer">Le Pranic Healing ne remplace pas un diagnostic ni un suivi médical.</p></section>
 <section class="section pranic-combined" aria-labelledby="pranic-formats-title">

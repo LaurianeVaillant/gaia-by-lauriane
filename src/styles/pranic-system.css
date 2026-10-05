@@ -15,3 +15,17 @@
 .pranic-page .pranic-format-flow{position:absolute;right:-20px;top:50%;transform:translateY(-50%);width:40px;height:180px;color:var(--violet);z-index:1;pointer-events:none}
 @media(max-width:1050px){.pranic-page .pranic-format-panel{padding:36px 32px}.pranic-page .pranic-format-panel h3{font-size:25px}}
 @media(max-width:720px){.pranic-page .section.pranic-combined{padding-top:36px;padding-bottom:36px}.pranic-page .pranic-combined h2{font-size:36px;margin-bottom:24px}.pranic-page .pranic-format-block{grid-template-columns:1fr;border-radius:22px}.pranic-page .pranic-format-panel{padding:32px 28px}.pranic-page .pranic-format-panel h3{font-size:26px;margin-bottom:20px}.pranic-page .pranic-format-panel p{font-size:17px}.pranic-page .pranic-format-flow{right:22px;top:auto;bottom:-44px;transform:none;height:88px;width:24px}}
+
+/* A photograph remains primary; open paths suggest connected experience layers. */
+.pranic-page .section.pranic-hero{padding-top:28px;padding-bottom:40px}
+.pranic-page .pranic-energy-visual{position:relative;width:100%;max-width:520px;height:560px;justify-self:center;isolation:isolate}
+.pranic-page .pranic-energy-visual img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:50% 65%;border-radius:46% 42% 34% 39% / 25% 33% 30% 28%}
+.pranic-page .pranic-energy-layers{position:absolute;inset:-3% -4%;width:108%;height:106%;pointer-events:none}
+.pranic-page .section.pranic-understanding,.pranic-page .section.pranic-network,.pranic-page .section.pranic-reasons{padding-top:48px;padding-bottom:48px}
+.pranic-page .section.pranic-origin{display:grid;grid-template-columns:1fr 1.25fr;gap:9%;align-items:start;padding-top:32px;padding-bottom:36px;background:var(--white)}
+.pranic-page .pranic-origin h2{font:700 clamp(28px,2.4vw,36px)/1.13 var(--display);font-variation-settings:'wght' 700,'SOFT' 70,'WONK' 1;letter-spacing:-.04em;color:var(--violet);max-width:23ch}
+.pranic-page .pranic-origin-copy p{font-size:17px;line-height:1.6;margin-bottom:16px;max-width:53ch}
+.pranic-page .pranic-origin-link{font-size:16px;line-height:1.5;max-width:50ch}
+.pranic-page .pranic-origin-link span[aria-hidden]{color:var(--orange);margin-left:4px}
+@media(max-width:1050px){.pranic-page .pranic-energy-visual{height:510px}.pranic-page .section.pranic-origin{gap:6%}}
+@media(max-width:700px){.pranic-page .pranic-energy-visual{height:auto;aspect-ratio:4/5;max-width:430px}.pranic-page .pranic-energy-visual img{object-position:50% 70%}.pranic-page .section.pranic-understanding,.pranic-page .section.pranic-network,.pranic-page .section.pranic-reasons{padding-top:32px;padding-bottom:32px}.pranic-page .section.pranic-origin{grid-template-columns:1fr;gap:20px;padding-top:28px;padding-bottom:28px}.pranic-page .pranic-origin h2{font-size:29px;max-width:25ch}.pranic-page .pranic-origin-copy p{font-size:17px}.pranic-page .pranic-origin-link{font-size:16px}.pranic-page .section.pranic-hero{padding-top:24px;padding-bottom:32px}}
