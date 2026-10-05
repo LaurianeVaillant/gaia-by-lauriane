@@ -29,3 +29,35 @@
 .pranic-page .pranic-origin-link span[aria-hidden]{color:var(--orange);margin-left:4px}
 @media(max-width:1050px){.pranic-page .pranic-energy-visual{height:510px}.pranic-page .section.pranic-origin{gap:6%}}
 @media(max-width:700px){.pranic-page .pranic-energy-visual{height:auto;aspect-ratio:4/5;max-width:430px}.pranic-page .pranic-energy-visual img{object-position:50% 70%}.pranic-page .section.pranic-understanding,.pranic-page .section.pranic-network,.pranic-page .section.pranic-reasons{padding-top:32px;padding-bottom:32px}.pranic-page .section.pranic-origin{grid-template-columns:1fr;gap:20px;padding-top:28px;padding-bottom:28px}.pranic-page .pranic-origin h2{font-size:29px;max-width:25ch}.pranic-page .pranic-origin-copy p{font-size:17px}.pranic-page .pranic-origin-link{font-size:16px}.pranic-page .section.pranic-hero{padding-top:24px;padding-bottom:32px}}
+
+/* Page-specific rhythm: fields, an off-axis hub, and compact editorial modules. */
+.pranic-page .section.pranic-understanding{padding-top:36px;padding-bottom:28px;background:var(--white)}
+.pranic-page .pranic-understanding .pranic-editorial{grid-template-columns:1fr 1.2fr;gap:7%}
+.pranic-page .pranic-understanding h2,.pranic-page .pranic-network h2,.pranic-page .pranic-reasons h2{font:700 clamp(30px,2.8vw,42px)/1.12 var(--display);font-variation-settings:'wght' 700,'SOFT' 70,'WONK' 1;letter-spacing:-.04em;text-transform:none;max-width:19ch;margin-bottom:24px}
+.pranic-page .pranic-understanding p{max-width:48ch;margin-bottom:16px}
+.pranic-page .pranic-framework{margin-top:16px}
+.pranic-page .section.pranic-origin{display:block;padding-top:16px;padding-bottom:32px}
+.pranic-page .pranic-origin-module{display:grid;grid-template-columns:1fr 1.25fr;gap:7%;padding:28px 32px;border-radius:20px;background:#F1E8FC}
+.pranic-page .pranic-origin h2{font-size:28px;max-width:25ch}
+.pranic-page .pranic-origin h2:after{content:'';display:block;width:6px;height:6px;border-radius:50%;background:var(--orange);margin-top:18px}
+.pranic-page .section.pranic-network{background:#EADCFB;padding-top:32px;padding-bottom:24px;gap:6%}
+.pranic-page .pranic-network p{font-size:17px;line-height:1.55;margin-bottom:16px}
+.pranic-page .pranic-hub{width:100%;max-width:450px;justify-self:center}
+.pranic-page .pranic-hub svg{display:block;width:100%;height:auto}
+.pranic-page .gaia-soft-boundary{height:32px;background:var(--boundary-from);line-height:0}
+.pranic-page .gaia-soft-boundary svg{width:100%;height:100%;display:block}
+.pranic-page .gaia-soft-boundary .boundary-mobile{display:none}
+.pranic-page .gaia-soft-boundary--calm{height:20px}
+.pranic-page .section.pranic-reasons{padding-top:32px;padding-bottom:32px}
+.pranic-page .pranic-topic-grid{font:500 23px/1.35 var(--sans);gap:22px 40px;margin:28px 0;align-items:start}
+.pranic-page .pranic-topic-grid li:nth-child(1),.pranic-page .pranic-topic-grid li:nth-child(5){color:var(--violet)}
+.pranic-page .pranic-reasons h2:after{content:'';display:inline-block;width:6px;height:6px;border-radius:50%;background:var(--orange);margin-left:10px}
+.pranic-page .final-cta.section{background:var(--violet);padding-top:48px;padding-bottom:48px;position:relative;overflow:hidden}
+.pranic-page .final-cta h2{color:var(--white);font-size:clamp(46px,6vw,86px)}
+.pranic-page .final-cta h2 span{color:var(--orange)}
+.pranic-page .pranic-final-support{color:var(--white);font-size:21px;max-width:46ch;margin:24px auto}
+.pranic-page .final-cta .button{background:var(--white);color:var(--violet)}
+.pranic-page .final-cta a:focus-visible{outline-color:var(--white)}
+@media(max-width:800px){.pranic-page .pranic-origin-module{grid-template-columns:1fr;gap:18px;padding:24px}.pranic-page .pranic-origin h2{max-width:30ch}.pranic-page .pranic-topic-grid{grid-template-columns:1fr 1fr;font-size:22px;gap:20px 24px}}
+@media(max-width:700px){.pranic-page .pranic-understanding .pranic-editorial{grid-template-columns:1fr;gap:0}.pranic-page .pranic-understanding h2,.pranic-page .pranic-network h2,.pranic-page .pranic-reasons h2{font-size:32px;max-width:23ch}.pranic-page .section.pranic-origin{padding-top:8px;padding-bottom:24px}.pranic-page .pranic-hub{max-width:290px;margin-top:12px}.pranic-page .pranic-topic-grid{grid-template-columns:1fr;font-size:22px;gap:16px}.pranic-page .pranic-origin h2{font-size:26px}.pranic-page .gaia-soft-boundary>svg:not(.boundary-mobile){display:none}.pranic-page .gaia-soft-boundary .boundary-mobile{display:block}.pranic-page .final-cta.section{padding-top:40px;padding-bottom:40px}.pranic-page .pranic-final-support{font-size:19px}.pranic-page .pranic-energy-layers path{stroke-width:1.5}}
+@media(max-width:700px){.pranic-page .section.pranic-understanding,.pranic-page .section.pranic-network,.pranic-page .section.pranic-reasons{padding-top:24px;padding-bottom:24px}.pranic-page .pranic-understanding h2,.pranic-page .pranic-network h2,.pranic-page .pranic-reasons h2{margin-bottom:18px}.pranic-page .pranic-origin-module{padding:20px;gap:14px}.pranic-page .pranic-origin h2:after{margin-top:12px}.pranic-page .final-cta.section{padding-top:28px;padding-bottom:28px}}
