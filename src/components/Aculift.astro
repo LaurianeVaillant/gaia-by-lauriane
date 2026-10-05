@@ -23,9 +23,9 @@ import {url} from '../data/site';
     <div class="aculift-face" aria-hidden="true"><img src="/images/aculift-face.webp" alt="" width="1024" height="1024" loading="lazy" decoding="async"/></div>
   </section>
   <section class="section aculift-session">
-    <h2>Comment se déroule une séance ?</h2><div class="aculift-step-grid">{c.steps.map(step=><div><h3>{step.title}</h3><p>{step.copy}</p></div>)}</div>
+    <h2>Comment se déroule une séance ?</h2><div class="aculift-step-grid"><svg class="aculift-session-contour" viewBox="0 0 160 48" fill="none" aria-hidden="true"><path d="M4 32C28 32 28 8 63 10S109 43 156 20" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/><circle cx="84" cy="18" r="3" fill="var(--orange)"/></svg>{c.steps.map(step=><div><h3>{step.title}</h3><p>{step.copy}</p></div>)}</div>
   </section>
-  <section class="section aculift-closing">
+  <section class="section aculift-closing"><svg class="aculift-closing-contour" viewBox="0 0 100 240" fill="none" aria-hidden="true"><path d="M18 6C80 36 83 92 49 121S23 189 84 234" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
     <h2>Prendre rendez-vous<span>.</span></h2><p>{c.closing}</p><a class="button" href={url('fr','contact')}>Prendre rendez-vous</a>
   </section>
 </div>
