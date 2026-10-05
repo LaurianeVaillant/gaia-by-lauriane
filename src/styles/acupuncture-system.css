@@ -1,0 +1,57 @@
+/* Approved GAIA internal-page system. Scoped to French Acupuncture only. */
+@font-face{font-family:'Instrument Sans';src:url('/fonts/InstrumentSans-Latin-Variable.woff2') format('woff2');font-weight:100 900;font-display:swap}
+@font-face{font-family:'GAIA Signature';src:url('/fonts/Italianno-Latin-Regular.woff2') format('woff2');font-weight:400;font-display:swap}
+body.gaia-internal-shell{--sans:'Instrument Sans',sans-serif;--violet:#5E1AF4;--orange:#FF6230;--ink:#171717;--butter:#FFF4C7;--white:#FFFDF7;--lavender:#D599FB;--gutter:max(64px,calc((100vw - 1280px)/2));font-family:var(--sans);background:var(--butter);font-size:18px;line-height:1.6}
+.gaia-internal-shell .header{font-size:16px}.gaia-internal-shell .mini-logo,.gaia-internal-shell .footer-brand{font-variation-settings:'wght' 900,'SOFT' 100,'WONK' 1}
+.gaia-internal-shell .mini-logo span,.gaia-internal-shell .footer-brand span{font:400 26px/1 'GAIA Signature',cursive;color:var(--orange);letter-spacing:0;margin-top:4px}
+.gaia-internal-shell .button{border-radius:3px;font:500 17px/1.4 var(--sans);min-height:48px}
+.gaia-internal-shell footer{background:var(--butter)}
+.acupuncture-page .section:not(.final-cta){padding:72px var(--gutter)}
+.acupuncture-page h1,.acupuncture-page h2.eyebrow,.acupuncture-page .final-cta h2{font-family:var(--display);font-weight:700;font-variation-settings:'wght' 700,'SOFT' 70,'WONK' 1;letter-spacing:-.05em;line-height:1.04;text-transform:none}
+.acupuncture-page h2.eyebrow{font-size:clamp(36px,3.7vw,54px);max-width:24ch;margin-bottom:40px;color:var(--violet)}
+.acupuncture-page p{font:400 18px/1.6 var(--sans)}
+.acupuncture-page .acupuncture-hero{grid-template-columns:1fr 1fr;gap:7%;padding-top:32px;padding-bottom:64px;align-items:center;background:var(--butter)}
+.acupuncture-page .acupuncture-hero h1{font-size:clamp(54px,5.7vw,84px);max-width:15ch;margin-bottom:28px;color:var(--ink)}
+.acupuncture-page .acupuncture-subtitle{font-size:24px;line-height:1.35;max-width:30ch;margin-bottom:24px}
+.acupuncture-page .acupuncture-hero-copy>p:not(.acupuncture-subtitle){max-width:38ch}
+.acupuncture-page .acupuncture-hero-photo{height:590px;max-height:none}
+.acupuncture-page .acupuncture-hero-photo img{height:100%;object-fit:cover;object-position:50% 55%}
+.acupuncture-page .acupuncture-approach{background:var(--white)}
+.acupuncture-page .acupuncture-editorial{grid-template-columns:.8fr 1.4fr;gap:9%}
+.acupuncture-page .approach-blocks p{max-width:65ch;margin:0 0 26px}
+.acupuncture-page .approach-blocks p:last-child{margin-bottom:0}
+.acupuncture-page .clues-prefix,.acupuncture-page .clues-emphasis{display:inline;font:inherit;letter-spacing:inherit;margin:0}
+.acupuncture-page .clues-emphasis{font-weight:500;color:var(--orange)}
+.acupuncture-page .acupuncture-network{background:var(--lavender);padding-top:36px!important;padding-bottom:36px!important}
+.acupuncture-page .acupuncture-network .split{grid-template-columns:1fr 1fr;gap:10%;align-items:center}
+.acupuncture-page .acupuncture-network p{max-width:45ch;margin-bottom:20px}
+.acupuncture-page .acupuncture-network p:last-child{margin-bottom:0}
+.acupuncture-page .map-expressive{width:100%;max-width:520px;justify-self:center}
+.acupuncture-page .map-expressive path{stroke:var(--violet);stroke-width:2;fill:none}
+.acupuncture-page .map-expressive path:nth-child(2){stroke:var(--orange)}
+.acupuncture-page .map-expressive circle{fill:var(--lavender);stroke:var(--violet);stroke-width:2}
+.acupuncture-page .map-expressive circle:last-child{fill:var(--orange);stroke:var(--orange)}
+.acupuncture-page .acupuncture-session,.acupuncture-page .acupuncture-expectations{background:var(--butter)}
+.acupuncture-page .session-steps,.acupuncture-page .expectation-list{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:5%;margin-top:0}
+.acupuncture-page .session-steps h3{font:500 28px/1.2 var(--sans);letter-spacing:-.025em;color:var(--ink);text-transform:uppercase;margin-bottom:22px}
+.acupuncture-page .session-steps p,.acupuncture-page .expectation-list p{font-size:18px;line-height:1.6;max-width:34ch;margin-bottom:0}
+.acupuncture-page .acupuncture-reasons{background:var(--white)}
+.acupuncture-page .consultation-reasons{grid-template-columns:repeat(3,minmax(0,1fr));gap:25px 36px;font:500 24px/1.35 var(--sans);letter-spacing:-.025em;list-style:none;padding:0;margin:32px 0}
+.acupuncture-page .consultation-reasons li{font:inherit;color:var(--ink)}
+.acupuncture-page .consultation-reasons .reason-1,.acupuncture-page .consultation-reasons .reason-6{color:var(--violet)}
+.acupuncture-page .consultation-reasons a{display:inline-block;min-height:44px;text-decoration:underline;text-underline-offset:6px;text-decoration-thickness:1px}
+.acupuncture-page .care-note,.acupuncture-page .care-note em{font-size:14px;line-height:1.5;font-style:italic;color:#4A4A4A;max-width:none;margin:0}
+.acupuncture-page .expectation-list h3{font:500 28px/1.2 var(--sans);letter-spacing:-.025em;color:var(--ink);min-height:2.4em;margin-bottom:16px}
+.acupuncture-page .expectation-list>div:first-child h3{color:var(--orange)}
+.acupuncture-page .final-cta{background:var(--violet);padding:80px var(--gutter) 88px;display:flex;flex-direction:column;align-items:center;gap:28px}
+.acupuncture-page .final-cta h2{color:var(--white);font-size:clamp(62px,10vw,144px)}
+.acupuncture-page .final-cta h2 span{color:var(--orange)}
+.acupuncture-page .final-cta .button{background:var(--white);color:var(--violet)}
+.acupuncture-page .final-support{color:var(--white);font-size:19px;margin:0;max-width:none}
+.acupuncture-page .gaia-soft-boundary{height:56px;background:var(--boundary-from);line-height:0}
+.acupuncture-page .gaia-soft-boundary svg{display:block;width:100%;height:100%}
+.acupuncture-page .gaia-soft-boundary .boundary-mobile{display:none}
+.acupuncture-page .gaia-soft-boundary--calm{height:28px}
+@media(max-width:1050px){body.gaia-internal-shell{--gutter:40px}.gaia-internal-shell .desktop-nav{display:none}.gaia-internal-shell .header{height:80px;justify-content:space-between}.gaia-internal-shell .mobile-nav{display:block}.acupuncture-page .acupuncture-hero-photo{height:500px}.acupuncture-page .acupuncture-hero h1{font-size:58px}.acupuncture-page .consultation-reasons{font-size:22px}}
+@media(max-width:800px){body.gaia-internal-shell{--gutter:24px;font-size:17px}.acupuncture-page .section:not(.final-cta){padding:48px var(--gutter)}.acupuncture-page .acupuncture-hero{grid-template-columns:1fr;gap:32px;padding-top:24px}.acupuncture-page .acupuncture-hero h1{font-size:clamp(46px,8vw,64px)}.acupuncture-page .acupuncture-hero-photo{height:auto;aspect-ratio:1.15}.acupuncture-page .acupuncture-subtitle{font-size:23px;max-width:38ch}.acupuncture-page .acupuncture-editorial,.acupuncture-page .acupuncture-network .split{grid-template-columns:1fr;gap:24px}.acupuncture-page h2.eyebrow{font-size:40px;margin-bottom:28px}.acupuncture-page p,.acupuncture-page .session-steps p,.acupuncture-page .expectation-list p{font-size:17px}.acupuncture-page .map-expressive{max-width:420px}.acupuncture-page .consultation-reasons{grid-template-columns:repeat(2,minmax(0,1fr));gap:22px}.acupuncture-page .session-steps,.acupuncture-page .expectation-list{grid-template-columns:1fr;gap:32px}.acupuncture-page .session-steps h3,.acupuncture-page .expectation-list h3{font-size:26px;min-height:0;margin-bottom:12px}.acupuncture-page .session-steps p,.acupuncture-page .expectation-list p{max-width:60ch}.acupuncture-page .gaia-soft-boundary{height:40px}.acupuncture-page .gaia-soft-boundary>svg:not(.boundary-mobile){display:none}.acupuncture-page .gaia-soft-boundary .boundary-mobile{display:block}.acupuncture-page .gaia-soft-boundary--calm{height:20px}.acupuncture-page .final-cta{padding:64px var(--gutter);gap:24px}.acupuncture-page .final-cta h2{font-size:clamp(46px,10vw,76px)}.acupuncture-page .final-support{font-size:17px}}
+@media(max-width:480px){body.gaia-internal-shell{--gutter:20px}.acupuncture-page .acupuncture-hero-photo{aspect-ratio:4/5}.acupuncture-page h2.eyebrow{font-size:36px}.acupuncture-page .consultation-reasons{font-size:20px;gap:22px 16px}.acupuncture-page .map-expressive{max-width:330px}.gaia-internal-shell .header-actions{gap:12px}.gaia-internal-shell footer{align-items:flex-start;flex-direction:column}.acupuncture-page .care-note,.acupuncture-page .care-note em{font-size:14px}}
