@@ -5,13 +5,64 @@ import Photo from './Photo.astro';
 import NetworkGraphic from './NetworkGraphic.astro';
 import {acupunctureFr as c} from '../data/acupuncture-fr';
 import {url} from '../data/site';
+const [clueSentence,clueReading]=c.approach[1].split('. ');
+const [clueLead,clueList]=clueSentence.split(' : ');
+const clues=clueList.split(', ');
 ---
 <div class="acupuncture-page">
-<section class="acupuncture-hero section"><div class="acupuncture-hero-copy"><h1>{c.title}</h1><p class="acupuncture-subtitle">{c.subtitle}</p><p>{c.intro}</p><a class="button" href={url('fr','contact')}>Prendre rendez-vous</a></div><div class="acupuncture-hero-photo"><Photo name="acupuncture" hero width={1149} height={1368} alt="Détail de mains posant des aiguilles d’acupuncture sur le dos, dans une lumière naturelle chaleureuse"/></div></section>
-<section class="section acupuncture-approach"><div class="acupuncture-editorial"><h2 class="eyebrow">Mon approche</h2><div class="approach-blocks"><p class="approach-opening">{c.approach[0]}</p><p class="approach-clues"><span class="clues-prefix">Je cherche à </span><span class="clues-emphasis">relier les indices : </span>{c.approach[1].split('Je cherche à relier les indices : ')[1]}</p><p class="approach-closing">{c.approach[2]}</p></div></div></section>
-<SoftBoundary from="var(--white)" to="var(--lavender)" intensity="network-in"/><section class="section acupuncture-network"><h2 class="eyebrow">Your body is a network.</h2><div class="split"><div>{c.network.map(p=><p>{p}</p>)}</div><NetworkGraphic lang="fr" expressive/></div></section>
-<SoftBoundary from="var(--lavender)" to="var(--butter)" intensity="network-out"/><section class="section acupuncture-session"><h2 class="eyebrow">Comment se déroule une séance ?</h2><div class="session-steps">{c.steps.map(step=><div><h3>{step.title}</h3><p>{step.copy}</p></div>)}</div></section>
-<section class="section acupuncture-reasons"><h2 class="eyebrow">Pourquoi consulter ?</h2><div class="reasons-composition"><p>{c.reasonsIntro}</p><ul class="consultation-reasons">{c.reasons.map(reason=><li class={`reason-${c.reasons.indexOf(reason)}`}>{reason==='Santé féminine'?<a href={url('fr','women')}>{reason}</a>:reason}</li>)}</ul><p class="care-note"><em>{c.careNote}</em></p></div></section>
-<section class="section acupuncture-expectations"><h2 class="eyebrow">À quoi s’attendre ?</h2><div class="expectation-list">{c.expectations.map(item=><div><h3>{item.title}</h3><p>{item.copy}</p></div>)}</div></section>
-<SoftBoundary from="var(--butter)" to="var(--violet)" intensity="calm"/><section class="final-cta section"><h2>RECONNECT<span>.</span></h2><a class="button" href={url('fr','contact')}>Prendre rendez-vous</a><p class="final-support">Se reconnecter à ce qui a toujours été là.</p></section>
+  <section class="acupuncture-hero section">
+    <div class="acupuncture-hero-copy">
+      <h1>{c.title}</h1>
+      <p class="acupuncture-subtitle">{c.subtitle}</p>
+      <p>{c.intro}</p>
+      <a class="button" href={url('fr','contact')}>Prendre rendez-vous</a>
+    </div>
+    <div class="acupuncture-hero-photo"><Photo name="acupuncture" hero width={1149} height={1368} alt="Détail de mains posant des aiguilles d’acupuncture sur le dos, dans une lumière naturelle chaleureuse"/></div>
+  </section>
+
+  <section class="section acupuncture-approach">
+    <h2 class="eyebrow">Mon approche</h2>
+    <div class="approach-investigation">
+      <p class="approach-opening">{c.approach[0]}</p>
+      <div class="approach-clues">
+        <p class="clue-sentence"><span class="clue-lead">{clueLead} : </span><span class="clue-map"><svg class="clue-path" viewBox="0 0 600 230" preserveAspectRatio="none" aria-hidden="true"><path d="M10 20C100 20 125 22 210 20S380 20 410 20M10 20C10 95 105 125 210 135S340 150 410 135M210 20C215 75 170 105 210 135M410 20C465 75 440 100 410 135"/></svg>{clues.map((clue,i)=><span class="clue">{clue}{i===clues.length-1?'.':', '}</span>)}</span></p>
+        <p class="clue-reading">{clueReading}</p>
+      </div>
+    </div>
+    <p class="approach-closing">{c.approach[2]}</p>
+  </section>
+
+  <SoftBoundary from="var(--white)" to="var(--butter)" intensity="network-in"/>
+  <section class="section acupuncture-network">
+    <h2 class="eyebrow">Your body is a network.</h2>
+    <div class="network-investigation">
+      <NetworkGraphic lang="fr"/>
+      <div class="network-reading">{c.network.map(p=><p>{p}</p>)}</div>
+    </div>
+  </section>
+
+  <section class="section acupuncture-session">
+    <h2 class="eyebrow">Comment se déroule une séance ?</h2>
+    <div class="session-journey">
+      <svg class="session-path" viewBox="0 0 1200 200" preserveAspectRatio="none" aria-hidden="true"><path d="M20 24C200 24 210 114 432 114S750 54 846 54L1180 54"/></svg>
+      <ol class="session-steps">{c.steps.map(step=><li><h3>{step.title}</h3><p>{step.copy}</p></li>)}</ol>
+    </div>
+  </section>
+
+  <section class="section acupuncture-reasons">
+    <div class="reasons-heading"><h2 class="eyebrow">Pourquoi consulter ?</h2><p>{c.reasonsIntro}</p></div>
+    <ul class="consultation-reasons">{c.reasons.map((reason,i)=><li class={`reason-${i}`}>{reason==='Santé féminine'?<a href={url('fr','women')}>{reason}</a>:reason}</li>)}</ul>
+    <p class="care-note"><em>{c.careNote}</em></p>
+  </section>
+
+  <section class="section acupuncture-expectations">
+    <h2 class="eyebrow">À quoi s’attendre ?</h2>
+    <div class="expectation-list">{c.expectations.map(item=><div><h3>{item.title}</h3><p>{item.copy}</p></div>)}</div>
+  </section>
+
+  <SoftBoundary from="var(--white)" to="var(--violet)" intensity="calm"/>
+  <section class="final-cta section">
+    <h2>Prendre<br/> rendez-vous<span>.</span></h2>
+    <div class="service-closing"><p class="final-support">{c.intro}</p><a class="button" href={url('fr','contact')}>Prendre rendez-vous</a></div>
+  </section>
 </div>

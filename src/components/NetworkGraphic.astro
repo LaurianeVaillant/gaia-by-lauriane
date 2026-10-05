@@ -1,4 +1,21 @@
 ---
-const {lang='fr',expressive=false} = Astro.props;
+const {lang='fr'} = Astro.props;
+const names=lang==='fr'?['Corps','Sommeil','Digestion','Émotions']:['Body','Sleep','Digestion','Emotions'];
 ---
-<div class:list={['map',{'map-expressive':expressive}]} role="img" aria-label={lang==='fr'?'Quelques lignes et points de connexion illustrant un réseau':'A few lines and connection points illustrating a network'}><svg viewBox="0 0 500 400" aria-hidden="true"><path d="M35 300C130 290 165 80 440 95" stroke="#6C32FF"/><path d="M60 75C235 90 215 300 465 315" stroke={expressive?'#6C32FF':'#FF5A1F'}/><path d="M115 370C180 250 345 210 365 30" stroke="#6C32FF"/>{[[205,159],[235,254],[322,164]].map(([cx,cy])=><circle cx={cx} cy={cy} r={expressive?6:4}/>)}</svg></div>
+<div class="acupuncture-route-map" role="img" aria-label={lang==='fr'?'Réseau de lignes et de points reliant le corps, le sommeil, la digestion et les émotions':'A network of routes and points connecting body, sleep, digestion and emotions'}>
+  <svg viewBox="0 0 600 440" aria-hidden="true">
+    <path class="network-surface" d="M62 80C116 9 283 48 359 24C444-1 554 79 565 170C581 279 519 403 392 405C259 407 240 433 147 392C40 346 8 168 62 80Z"/>
+    <g class="route-lines">
+      <path d="M90 96C201 80 225 171 302 208S409 318 507 344"/>
+      <path d="M98 349C180 346 206 262 302 208S408 76 490 89"/>
+      <path class="orange-route" d="M65 217C134 153 204 175 247 222S348 317 417 249S479 186 534 186"/>
+      <path d="M190 62C158 127 167 166 247 222S410 207 417 249S438 328 382 381"/>
+    </g>
+    <g class="route-nodes">{[[90,96],[507,344],[98,349],[490,89],[190,62],[382,381],[302,208],[247,222],[417,249]].map(([cx,cy])=><circle cx={cx} cy={cy} r={cx===302?8:5}/>)}</g>
+    <g class="orange-nodes"><circle cx="65" cy="217" r="6"/><circle cx="534" cy="186" r="6"/></g>
+  </svg>
+  <span class="route-label route-label--body" aria-hidden="true">{names[0]}</span>
+  <span class="route-label route-label--sleep" aria-hidden="true">{names[1]}</span>
+  <span class="route-label route-label--digestion" aria-hidden="true">{names[2]}</span>
+  <span class="route-label route-label--emotions" aria-hidden="true">{names[3]}</span>
+</div>
