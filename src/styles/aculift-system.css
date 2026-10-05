@@ -23,13 +23,13 @@
 .aculift-page .aculift-reasons-intro{max-width:52ch;margin-bottom:24px}
 .aculift-page .aculift-topic-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:26px 40px;margin:0;padding:0;list-style:none;font:500 25px/1.35 var(--sans);letter-spacing:-.025em}
 .aculift-page .aculift-topic-grid li{font:inherit;color:var(--ink);min-width:0}
-.aculift-page .aculift-topic-grid li:first-child,.aculift-page .aculift-topic-grid li:nth-child(4){color:var(--violet)}
+.aculift-page .aculift-topic-grid li:first-child,.aculift-page .aculift-topic-grid li:nth-child(5){color:var(--violet)}
 .aculift-page .section.aculift-personal{display:grid;grid-template-columns:1fr 1fr;gap:8%;align-items:center;background:var(--butter);padding-top:16px;padding-bottom:16px}
 .aculift-page .aculift-personal h2{max-width:17ch}
 .aculift-page .aculift-personal p{max-width:43ch}
 .aculift-page .aculift-personal p:first-of-type{font-size:22px;line-height:1.4;font-weight:500;max-width:34ch}
 .aculift-page .aculift-personal p:last-child{margin-bottom:0}
-.aculift-page .aculift-face{width:100%;max-width:420px;justify-self:end}
+.aculift-page .aculift-face{width:100%;max-width:420px;justify-self:end;transform:translateY(-6px)}
 .aculift-page .aculift-face img{display:block;aspect-ratio:1;object-fit:contain}
 .aculift-page .aculift-session{background:var(--white)}
 .aculift-page .aculift-session h2{max-width:none}
@@ -61,11 +61,12 @@
 .aculift-page .aculift-reasons-intro{margin-bottom:16px}
 .aculift-page .section.aculift-reasons{padding-top:24px;padding-bottom:24px}
 .aculift-page .aculift-step-grid{position:relative}
-.aculift-page .aculift-session-contour{position:absolute;left:44%;top:0;width:12%;height:48px;color:var(--violet);pointer-events:none}
+.aculift-page .aculift-session-contour{position:absolute;left:44.8%;top:-7px;width:10.4%;height:56px;color:var(--violet);pointer-events:none}
 .aculift-page .section.aculift-closing{position:relative;overflow:hidden}
-.aculift-page .aculift-closing-contour{position:absolute;right:3%;top:14%;width:76px;height:72%;color:var(--aculift-peach);opacity:.25;pointer-events:none}
 .aculift-page .aculift-closing>h2,.aculift-page .aculift-closing>p,.aculift-page .aculift-closing>.button{position:relative}
 @media(max-width:1050px){.aculift-page .aculift-topic-grid{column-gap:28px}.aculift-page .aculift-session-contour{left:46%;width:8%}}
-@media(max-width:800px){.aculift-page .aculift-topic-grid{gap:20px 28px}.aculift-page .aculift-topic-grid li{min-height:0}.aculift-page .aculift-session-contour{left:auto;right:0;top:calc(50% - 28px);width:50px;height:28px;transform:rotate(90deg);transform-origin:center}.aculift-page .aculift-closing-contour{right:1%;width:35px;opacity:.18}}
+@media(max-width:800px){.aculift-page .aculift-topic-grid{gap:20px 28px}.aculift-page .aculift-topic-grid li{min-height:0}.aculift-page .aculift-session-contour{position:static;grid-row:2;justify-self:end;width:96px;height:24px;transform:none}}
 
 @media(max-width:800px){.aculift-page .section.aculift-definition,.aculift-page .section.aculift-session{padding-top:32px;padding-bottom:32px}.aculift-page .aculift-closing h2{margin-bottom:20px}}
+
+@media(max-width:800px){.aculift-page .aculift-face{transform:none}.aculift-page .aculift-step-grid{gap:0}.aculift-page .aculift-step-grid>div:first-of-type{grid-row:1}.aculift-page .aculift-step-grid>div:last-of-type{grid-row:3}}
