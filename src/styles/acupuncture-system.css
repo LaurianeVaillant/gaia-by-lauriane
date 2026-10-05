@@ -1,11 +1,5 @@
-/* Approved GAIA internal-page system. Scoped to French Acupuncture only. */
-@font-face{font-family:'Instrument Sans';src:url('/fonts/InstrumentSans-Latin-Variable.woff2') format('woff2');font-weight:100 900;font-display:swap}
-@font-face{font-family:'GAIA Signature';src:url('/fonts/Italianno-Latin-Regular.woff2') format('woff2');font-weight:400;font-display:swap}
-body.gaia-internal-shell{--sans:'Instrument Sans',sans-serif;--violet:#5E1AF4;--orange:#FF6230;--ink:#171717;--butter:#FFF4C7;--white:#FFFDF7;--lavender:#D599FB;--gutter:max(64px,calc((100vw - 1280px)/2));font-family:var(--sans);background:var(--butter);font-size:18px;line-height:1.6}
-.gaia-internal-shell .header{font-size:16px}.gaia-internal-shell .mini-logo,.gaia-internal-shell .footer-brand{font-variation-settings:'wght' 900,'SOFT' 100,'WONK' 1}
-.gaia-internal-shell .mini-logo span,.gaia-internal-shell .footer-brand span{font:400 26px/1 'GAIA Signature',cursive;color:var(--orange);letter-spacing:0;margin-top:4px}
-.gaia-internal-shell .button{border-radius:3px;font:500 17px/1.4 var(--sans);min-height:48px}
-.gaia-internal-shell footer{background:var(--butter)}
+/* Acupuncture composition, using the shared internal-page shell. */
+@import './internal-system.css';
 .acupuncture-page .section:not(.final-cta){padding:72px var(--gutter)}
 .acupuncture-page h1,.acupuncture-page h2.eyebrow,.acupuncture-page .final-cta h2{font-family:var(--display);font-weight:700;font-variation-settings:'wght' 700,'SOFT' 70,'WONK' 1;letter-spacing:-.05em;line-height:1.04;text-transform:none}
 .acupuncture-page h2.eyebrow{font-size:clamp(36px,3.7vw,54px);max-width:24ch;margin-bottom:40px;color:var(--violet)}

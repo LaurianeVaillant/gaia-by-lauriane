@@ -1,0 +1,11 @@
+/* Shared GAIA internal-page shell. Page composition stays in page styles. */
+@font-face{font-family:'Instrument Sans';src:url('/fonts/InstrumentSans-Latin-Variable.woff2') format('woff2');font-weight:100 900;font-display:swap}
+@font-face{font-family:'GAIA Signature';src:url('/fonts/Italianno-Latin-Regular.woff2') format('woff2');font-weight:400;font-display:swap}
+body.gaia-internal-shell{--sans:'Instrument Sans',sans-serif;--violet:#5E1AF4;--orange:#FF6230;--ink:#171717;--butter:#FFF4C7;--white:#FFFDF7;--lavender:#D599FB;--gutter:max(64px,calc((100vw - 1280px)/2));font-family:var(--sans);background:var(--butter);font-size:18px;line-height:1.6}
+.gaia-internal-shell .header{font-size:16px}.gaia-internal-shell .mini-logo,.gaia-internal-shell .footer-brand{font-variation-settings:'wght' 900,'SOFT' 100,'WONK' 1}
+.gaia-internal-shell .mini-logo span,.gaia-internal-shell .footer-brand span{font:400 26px/1 'GAIA Signature',cursive;color:var(--orange);letter-spacing:0;margin-top:4px}
+.gaia-internal-shell .button{border-radius:3px;font:500 17px/1.4 var(--sans);min-height:48px}
+.gaia-internal-shell footer{background:var(--butter)}
+@media(max-width:1050px){body.gaia-internal-shell{--gutter:40px}.gaia-internal-shell .desktop-nav{display:none}.gaia-internal-shell .header{height:80px;justify-content:space-between}.gaia-internal-shell .mobile-nav{display:block}.gaia-internal-shell .mobile-nav summary{list-style:none;font-size:14px;min-height:44px;display:flex;align-items:center;gap:10px;cursor:pointer}.gaia-internal-shell .mobile-nav summary::-webkit-details-marker{display:none}.gaia-internal-shell .mobile-nav nav{position:absolute;left:0;right:0;top:80px;background:var(--butter);padding:16px var(--gutter) 24px;display:grid;gap:8px}.gaia-internal-shell .mobile-nav nav a{padding:10px 0;min-height:44px}}
+@media(max-width:800px){body.gaia-internal-shell{--gutter:24px;font-size:17px}}
+@media(max-width:480px){body.gaia-internal-shell{--gutter:20px}.gaia-internal-shell .header-actions{gap:12px}.gaia-internal-shell footer{align-items:flex-start;flex-direction:column}}
