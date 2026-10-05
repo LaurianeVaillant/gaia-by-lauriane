@@ -14,7 +14,7 @@ export const acupunctureFr = {
  'C’est cette logique de relations et de circulation que je trouve fascinante dans l’acupuncture.'
  ],
  steps:[
- {title:'Échanger',copy:'La première partie de la séance dure généralement 15 à 20 minutes. Elle me permet de comprendre ce qui vous amène, votre histoire, votre contexte et les différents signes que votre corps exprime.'},
+ {title:'Échanger',copy:'La première partie de la séance dure généralement 15 à 20 minutes. Elle me permet de comprendre ce qui vous amène, votre histoire, votre contexte et les signes que votre corps exprime.'},
  {title:'Diagnostiquer',copy:'Je complète cet échange par un bilan énergétique, notamment à travers la prise des pouls et l’observation de la langue.'},
  {title:'Agir',copy:'Je construis ensuite la séance et choisis les points en fonction du bilan réalisé et de ce que votre corps exprime ce jour-là.'}
  ],
