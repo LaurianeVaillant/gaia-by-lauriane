@@ -37,7 +37,7 @@ const clues=clueList.split(', ');
     <h2 class="eyebrow">Your system is a network.</h2>
     <div class="network-investigation">
       <NetworkGraphic lang="fr"/>
-      <div class="network-reading">{c.network.map(p=><p>{p}</p>)}</div>
+      <div class="network-reading">{c.network.map((p,i)=><p>{i===2?<>{p.split('Il faut')[0]}<strong>Il faut{p.split('Il faut')[1]}</strong></>:p}</p>)}</div>
     </div>
   </section>
 
