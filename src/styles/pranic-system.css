@@ -1,0 +1,17 @@
+@import './internal-system.css';
+/* Pranic Healing: a single two-part editorial field for practical formats. */
+.pranic-page .pranic-hero h1,.pranic-page .final-cta h2,.pranic-page .pranic-combined h2{font-family:var(--display);font-weight:700;font-variation-settings:'wght' 700,'SOFT' 70,'WONK' 1;letter-spacing:-.05em;line-height:1.08}
+.pranic-page .section.pranic-combined{padding-top:48px;padding-bottom:48px;background:var(--butter)}
+.pranic-page .pranic-combined h2{font-size:clamp(36px,3.6vw,52px);color:var(--violet);max-width:30ch;margin:0 0 32px;text-transform:none}
+.pranic-page .pranic-format-block{display:grid;grid-template-columns:1fr 1fr;border-radius:28px;overflow:hidden;isolation:isolate}
+.pranic-page .pranic-format-panel{position:relative;padding:44px 48px;min-width:0}
+.pranic-page .pranic-format-presence{background:var(--white)}
+.pranic-page .pranic-format-complementary{background:#EADCFB}
+.pranic-page .pranic-format-panel h3{font:500 28px/1.2 var(--sans);letter-spacing:-.025em;color:var(--violet);max-width:22ch;margin:0 0 24px}
+.pranic-page .pranic-format-panel p{font:400 18px/1.6 var(--sans);max-width:43ch;margin:0 0 20px}
+.pranic-page .pranic-format-panel p:last-child{margin-bottom:0}
+.pranic-page .pranic-format-panel .pranic-duration{font-weight:500;color:var(--violet)}
+.pranic-page .pranic-format-panel .text-link{font-size:17px;margin-top:4px}
+.pranic-page .pranic-format-flow{position:absolute;right:-20px;top:50%;transform:translateY(-50%);width:40px;height:180px;color:var(--violet);z-index:1;pointer-events:none}
+@media(max-width:1050px){.pranic-page .pranic-format-panel{padding:36px 32px}.pranic-page .pranic-format-panel h3{font-size:25px}}
+@media(max-width:720px){.pranic-page .section.pranic-combined{padding-top:36px;padding-bottom:36px}.pranic-page .pranic-combined h2{font-size:36px;margin-bottom:24px}.pranic-page .pranic-format-block{grid-template-columns:1fr;border-radius:22px}.pranic-page .pranic-format-panel{padding:32px 28px}.pranic-page .pranic-format-panel h3{font-size:26px;margin-bottom:20px}.pranic-page .pranic-format-panel p{font-size:17px}.pranic-page .pranic-format-flow{right:22px;top:auto;bottom:-44px;transform:none;height:88px;width:24px}}

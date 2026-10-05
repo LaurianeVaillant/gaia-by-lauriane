@@ -20,9 +20,7 @@ export const pranicFr = {
  'À distance, il suffit d’être au calme, disponible et réceptif pendant la séance. Il n’y a rien de particulier à faire de votre côté.'
  ],
  complementary:[
- 'Le Pranic Healing et l’acupuncture sont deux approches différentes, mais je les trouve particulièrement complémentaires.',
- 'Avec l’accord de la personne, il m’arrive d’utiliser le Pranic Healing pendant le temps de pose des aiguilles.',
- 'L’acupuncture permet alors de travailler à travers les points et les réseaux du corps, tandis que le Pranic Healing me permet d’aborder plus directement la circulation énergétique, l’aura et la dimension émotionnelle.'
- ],
- practical:[{title:'Durée',copy:'45 minutes à 1 heure.'},{title:'Format',copy:'Présentiel ou à distance.'},{title:'De votre côté',copy:'Être au calme, disponible et réceptif pendant la séance.'}]
+ 'Le Pranic Healing et l’acupuncture sont deux approches différentes, que je peux utiliser de manière complémentaire lorsque cela semble pertinent.',
+ 'Avec votre accord, il m’arrive d’utiliser le Pranic Healing pendant le temps de pose des aiguilles.'
+ ]
 };
