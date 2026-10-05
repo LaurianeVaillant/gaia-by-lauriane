@@ -7,14 +7,16 @@
 .aculift-page p{font:400 18px/1.6 var(--sans);margin:0 0 22px}
 .aculift-page .section.aculift-hero{display:grid;grid-template-columns:1.1fr .9fr;gap:10%;align-items:center;padding-top:28px;padding-bottom:44px;background:var(--butter)}
 .aculift-page .aculift-hero h1{font-size:clamp(80px,8.5vw,124px);margin-bottom:26px;color:var(--ink);max-width:none}
-.aculift-page .aculift-subtitle{font-size:26px;font-weight:500;line-height:1.35;max-width:30ch;margin-bottom:24px}
-.aculift-page .aculift-intro{max-width:40ch;margin-bottom:20px}
-.aculift-page .aculift-factual{font-size:16px;font-weight:500;max-width:40ch;margin-bottom:28px}
+.aculift-page .aculift-subtitle{font-size:26px;font-weight:500;line-height:1.35;max-width:30ch;margin-bottom:22px}
+.aculift-page .aculift-intro{max-width:40ch;margin-bottom:18px}
+.aculift-page .aculift-factual{font-size:16px;font-weight:500;max-width:40ch;margin-bottom:26px}
 .aculift-page .aculift-photo{height:560px;max-width:470px;width:100%;justify-self:end}
 .aculift-page .aculift-photo img{height:100%;object-fit:cover;object-position:50% 35%}
 .aculift-page .aculift-definition{background:var(--white)}
 .aculift-page .aculift-editorial{display:grid;grid-template-columns:.8fr 1.2fr;gap:10%;align-items:start}
 .aculift-page .aculift-definition-copy{max-width:57ch}
+.aculift-page .section.aculift-definition,.aculift-page .section.aculift-session{padding-top:36px;padding-bottom:36px}
+.aculift-page .aculift-definition-copy p{margin-bottom:18px}
 .aculift-page .aculift-definition-copy p:first-child{font-size:22px;line-height:1.4;font-weight:500;max-width:42ch}
 .aculift-page .text-link{font-family:var(--sans);font-size:17px;font-weight:500}
 .aculift-page .section.aculift-reasons{background:var(--aculift-pink);padding-top:28px;padding-bottom:30px}
@@ -22,7 +24,7 @@
 .aculift-page .aculift-topic-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:26px 40px;margin:0;padding:0;list-style:none;font:500 25px/1.35 var(--sans);letter-spacing:-.025em}
 .aculift-page .aculift-topic-grid li{font:inherit;color:var(--ink);min-width:0}
 .aculift-page .aculift-topic-grid li:first-child,.aculift-page .aculift-topic-grid li:nth-child(4){color:var(--violet)}
-.aculift-page .section.aculift-personal{display:grid;grid-template-columns:1fr 1fr;gap:8%;align-items:center;background:var(--butter);padding-top:18px;padding-bottom:18px}
+.aculift-page .section.aculift-personal{display:grid;grid-template-columns:1fr 1fr;gap:8%;align-items:center;background:var(--butter);padding-top:16px;padding-bottom:16px}
 .aculift-page .aculift-personal h2{max-width:17ch}
 .aculift-page .aculift-personal p{max-width:43ch}
 .aculift-page .aculift-personal p:first-of-type{font-size:22px;line-height:1.4;font-weight:500;max-width:34ch}
@@ -31,13 +33,13 @@
 .aculift-page .aculift-face img{display:block;aspect-ratio:1;object-fit:contain}
 .aculift-page .aculift-session{background:var(--white)}
 .aculift-page .aculift-session h2{max-width:none}
-.aculift-page .aculift-step-grid{display:grid;grid-template-columns:1fr 1fr;gap:12%;margin-top:24px}
+.aculift-page .aculift-step-grid{display:grid;grid-template-columns:1fr 1fr;gap:12%;margin-top:20px}
 .aculift-page .aculift-step-grid h3{font:500 26px/1.2 var(--sans);text-transform:uppercase;letter-spacing:-.025em;margin-bottom:18px;color:var(--ink)}
 .aculift-page .aculift-step-grid p{max-width:43ch;margin:0}
 .aculift-page .section.aculift-closing{background:var(--violet);text-align:center;padding-top:44px;padding-bottom:44px}
-.aculift-page .aculift-closing h2{font-size:clamp(48px,6.2vw,90px);color:var(--white);max-width:none;margin-bottom:26px}
+.aculift-page .aculift-closing h2{font-size:clamp(48px,6.2vw,90px);color:var(--white);max-width:none;margin-bottom:22px}
 .aculift-page .aculift-closing h2 span{color:var(--orange)}
-.aculift-page .aculift-closing p{font-size:22px;line-height:1.4;color:var(--white);max-width:42ch;margin:0 auto 28px}
+.aculift-page .aculift-closing p{font-size:22px;line-height:1.4;color:var(--white);max-width:42ch;margin:0 auto 24px}
 .aculift-page .aculift-closing .button{background:var(--white);color:var(--violet)}
 .aculift-page .aculift-closing a:focus-visible{outline-color:var(--white);outline-offset:6px}
 .aculift-page .gaia-soft-boundary{height:44px;background:var(--boundary-from);line-height:0}
@@ -45,7 +47,7 @@
 .aculift-page .gaia-soft-boundary .boundary-mobile{display:none}
 .aculift-page .gaia-soft-boundary--calm{height:28px}
 @media(max-width:1050px){.aculift-page .section.aculift-hero{gap:7%}.aculift-page .aculift-photo{height:510px}.aculift-page .aculift-editorial{gap:7%}.aculift-page .aculift-topic-grid{font-size:23px;gap:24px 28px}.aculift-page .section.aculift-personal{gap:6%}.aculift-page .aculift-step-grid{gap:8%}}
-@media(max-width:800px){.aculift-page .section[class*="aculift-"]{padding:36px var(--gutter)}.aculift-page h2{font-size:40px;margin-bottom:24px}.aculift-page p{font-size:17px}.aculift-page .section.aculift-hero{grid-template-columns:1fr;gap:28px;padding-top:24px}.aculift-page .aculift-hero h1{font-size:88px}.aculift-page .aculift-subtitle{font-size:24px;max-width:34ch}.aculift-page .aculift-photo{height:auto;max-width:none;aspect-ratio:1.15}.aculift-page .aculift-editorial{grid-template-columns:1fr;gap:0}.aculift-page .aculift-definition-copy{max-width:60ch}.aculift-page .aculift-topic-grid{grid-template-columns:repeat(2,minmax(0,1fr));font-size:23px}.aculift-page .section.aculift-personal{grid-template-columns:1fr;gap:24px;padding-top:24px}.aculift-page .aculift-personal-copy{max-width:65ch}.aculift-page .aculift-personal p{max-width:60ch}.aculift-page .aculift-face{width:85%;max-width:360px;justify-self:center}.aculift-page .aculift-step-grid{grid-template-columns:1fr;gap:24px;margin-top:20px}.aculift-page .aculift-step-grid h3{font-size:25px}.aculift-page .aculift-step-grid p{max-width:55ch}.aculift-page .section.aculift-closing{padding-top:44px;padding-bottom:44px}.aculift-page .aculift-closing h2{font-size:clamp(46px,8vw,64px);max-width:17ch;margin:0 auto 24px}.aculift-page .aculift-closing p{font-size:20px}.aculift-page .gaia-soft-boundary{height:32px}.aculift-page .gaia-soft-boundary>svg:not(.boundary-mobile){display:none}.aculift-page .gaia-soft-boundary .boundary-mobile{display:block}.aculift-page .gaia-soft-boundary--calm{height:20px}}
+@media(max-width:800px){.aculift-page .section[class*="aculift-"]{padding:36px var(--gutter)}.aculift-page h2{font-size:40px;margin-bottom:24px}.aculift-page p{font-size:17px}.aculift-page .section.aculift-hero{grid-template-columns:1fr;gap:28px;padding-top:24px}.aculift-page .aculift-hero h1{font-size:88px}.aculift-page .aculift-subtitle{font-size:24px;max-width:34ch}.aculift-page .aculift-photo{height:auto;max-width:none;aspect-ratio:1.15}.aculift-page .aculift-editorial{grid-template-columns:1fr;gap:0}.aculift-page .aculift-definition-copy{max-width:60ch}.aculift-page .aculift-topic-grid{grid-template-columns:repeat(2,minmax(0,1fr));font-size:23px}.aculift-page .section.aculift-personal{grid-template-columns:1fr;gap:20px;padding-top:20px}.aculift-page .aculift-personal-copy{max-width:65ch}.aculift-page .aculift-personal p{max-width:60ch}.aculift-page .aculift-face{width:85%;max-width:360px;justify-self:center}.aculift-page .aculift-step-grid{grid-template-columns:1fr;gap:24px;margin-top:20px}.aculift-page .aculift-step-grid h3{font-size:25px}.aculift-page .aculift-step-grid p{max-width:55ch}.aculift-page .section.aculift-closing{padding-top:44px;padding-bottom:44px}.aculift-page .aculift-closing h2{font-size:clamp(46px,8vw,64px);max-width:17ch;margin:0 auto 24px}.aculift-page .aculift-closing p{font-size:20px}.aculift-page .gaia-soft-boundary{height:32px}.aculift-page .gaia-soft-boundary>svg:not(.boundary-mobile){display:none}.aculift-page .gaia-soft-boundary .boundary-mobile{display:block}.aculift-page .gaia-soft-boundary--calm{height:20px}}
 @media(max-width:480px){.aculift-page h2{font-size:36px}.aculift-page .aculift-photo{aspect-ratio:4/5}.aculift-page .aculift-topic-grid{grid-template-columns:1fr;font-size:23px;gap:20px}.aculift-page .aculift-face{width:100%;max-width:320px}.aculift-page .aculift-subtitle{font-size:23px}.aculift-page .aculift-personal p:first-of-type{font-size:21px}}
 
 /* Two restrained accents: a contour underline and factual punctuation. */
@@ -54,9 +56,9 @@
 .aculift-page .aculift-factual:after{content:'';display:inline-block;width:6px;height:6px;margin-left:8px;border-radius:50%;background:var(--orange);vertical-align:middle}
 
 /* Editorial alignment and light contours, kept inside existing section space. */
-.aculift-page .aculift-topic-grid{align-items:start;gap:20px 48px}
-.aculift-page .aculift-topic-grid li{min-height:2.7em}
-.aculift-page .aculift-reasons-intro{margin-bottom:20px}
+.aculift-page .aculift-topic-grid{align-items:start;gap:16px 48px}
+.aculift-page .aculift-topic-grid li{min-height:2.6em;text-wrap:pretty}
+.aculift-page .aculift-reasons-intro{margin-bottom:16px}
 .aculift-page .section.aculift-reasons{padding-top:24px;padding-bottom:24px}
 .aculift-page .aculift-step-grid{position:relative}
 .aculift-page .aculift-session-contour{position:absolute;left:44%;top:0;width:12%;height:48px;color:var(--violet);pointer-events:none}
@@ -65,3 +67,5 @@
 .aculift-page .aculift-closing>h2,.aculift-page .aculift-closing>p,.aculift-page .aculift-closing>.button{position:relative}
 @media(max-width:1050px){.aculift-page .aculift-topic-grid{column-gap:28px}.aculift-page .aculift-session-contour{left:46%;width:8%}}
 @media(max-width:800px){.aculift-page .aculift-topic-grid{gap:20px 28px}.aculift-page .aculift-topic-grid li{min-height:0}.aculift-page .aculift-session-contour{left:auto;right:0;top:calc(50% - 28px);width:50px;height:28px;transform:rotate(90deg);transform-origin:center}.aculift-page .aculift-closing-contour{right:1%;width:35px;opacity:.18}}
+
+@media(max-width:800px){.aculift-page .section.aculift-definition,.aculift-page .section.aculift-session{padding-top:32px;padding-bottom:32px}.aculift-page .aculift-closing h2{margin-bottom:20px}}
