@@ -15,7 +15,7 @@ export const acupunctureFr = {
  ],
  steps:[
  {title:'Échanger',copy:'La première partie de la séance dure généralement 15 à 20 minutes. Elle me permet de comprendre ce qui vous amène, votre histoire, votre contexte et les différents signes que votre corps exprime.'},
- {title:'Observer',copy:'Je complète cet échange par un bilan énergétique, notamment à travers la prise des pouls et l’observation de la langue.'},
+ {title:'Diagnostiquer',copy:'Je complète cet échange par un bilan énergétique, notamment à travers la prise des pouls et l’observation de la langue.'},
  {title:'Agir',copy:'Je construis ensuite la séance et choisis les points en fonction du bilan réalisé et de ce que votre corps exprime ce jour-là.'}
  ],
  reasons:['Douleurs et tensions','Sommeil','Stress','Fatigue','Digestion','Cycle menstruel','Santé féminine','Inconforts fonctionnels'],
