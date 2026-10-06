@@ -144,3 +144,13 @@
 .womens-health-page .feminine-development .feminine-editorial>div{max-width:55ch}
 .womens-health-page .feminine-development .feminine-evolution-note{font-size:16px;line-height:1.55;margin:18px 0 0;max-width:55ch}
 @media(max-width:700px){.womens-health-page .feminine-hero h1{margin-bottom:20px}.womens-health-page .feminine-hero-photo img{border-radius:28px}.womens-health-page .feminine-statement{text-wrap:balance}.womens-health-page .feminine-why-statement{margin-top:26px}.womens-health-page .feminine-cycle-composition{grid-template-columns:1fr;row-gap:20px}.womens-health-page .feminine-cycle h2{grid-row:1;font-size:clamp(28px,8.2vw,32px);max-width:20ch}.womens-health-page .feminine-cycle .feminine-pull{grid-row:2;font-size:clamp(22px,6vw,25px);max-width:25ch}.womens-health-page .feminine-cycle-reading{grid-row:3;max-width:35ch}.womens-health-page .feminine-cycle-trajectory path:first-child{stroke-width:13px}.womens-health-page .feminine-topic-grid{font-size:clamp(17px,4.8vw,19px);row-gap:16px}.womens-health-page .feminine-development .feminine-editorial{grid-template-columns:1fr;row-gap:16px}.womens-health-page .feminine-development h2{max-width:none}.womens-health-page .feminine-development{padding-top:28px;padding-bottom:28px}}
+
+/* Final micro-polish: a closer grid and a lighter trace below the text. */
+.womens-health-page .feminine-cycle{min-height:315px;padding-bottom:64px}
+.womens-health-page .feminine-cycle-composition{grid-template-columns:1.08fr 1fr;column-gap:5%;row-gap:32px}
+.womens-health-page .feminine-cycle-reading{margin-top:0;max-width:45ch}
+.womens-health-page .feminine-cycle-trajectory{top:auto;bottom:8px;height:calc(100% - 8px)}
+.womens-health-page .feminine-cycle-trajectory path:first-child{stroke-width:13px}
+.womens-health-page .feminine-cycle-trajectory path:not(:first-child){stroke-width:1.5px;opacity:.55}
+@media(max-width:700px){.womens-health-page .feminine-cycle{min-height:0;padding-bottom:36px}.womens-health-page .feminine-cycle-composition{grid-template-columns:1fr;row-gap:20px}.womens-health-page .feminine-cycle .feminine-pull{margin-top:4px}.womens-health-page .feminine-cycle-trajectory{height:40px;bottom:4px}.womens-health-page .feminine-cycle-trajectory path:first-child{stroke-width:10px}.womens-health-page .feminine-cycle-trajectory path:not(:first-child){stroke-width:1.5px}}
+@media(max-width:700px){.womens-health-page .feminine-cycle-trajectory path:first-child{stroke-width:2px;vector-effect:non-scaling-stroke}}
