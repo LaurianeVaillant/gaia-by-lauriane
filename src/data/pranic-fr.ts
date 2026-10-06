@@ -1,6 +1,6 @@
 export const pranicFr = {
  title:'Pranic Healing',
- subtitle:'Une approche énergétique qui travaille sur la circulation, l’aura et les différents niveaux d’expérience.',
+ subtitle:'Une approche énergétique qui travaille sur la circulation, l’aura et les différentes couches énergétiques.',
  intro:'Physique, émotionnel, énergétique.',
  understanding:[
  'Le Pranic Healing est une pratique énergétique qui travaille sur la circulation de l’énergie à travers différents niveaux : physique, émotionnel et plus subtil.',
