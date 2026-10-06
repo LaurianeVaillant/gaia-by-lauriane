@@ -101,3 +101,25 @@
 .womens-health-page .feminine-cycle-composition{row-gap:22px}
 @media(max-width:700px){.womens-health-page .feminine-hero h1{font-size:clamp(44px,12vw,52px)}.womens-health-page .feminine-statement{font-size:32px}.womens-health-page .feminine-why-statement{font-size:clamp(32px,8.7vw,38px);margin-top:18px}.womens-health-page .feminine-why h2{font-size:clamp(26px,7.5vw,30px)}.womens-health-page .feminine-cycle h2{font-size:clamp(28px,8.2vw,32px);max-width:20ch}.womens-health-page .feminine-cycle .feminine-pull{font-size:clamp(22px,6.2vw,26px);max-width:26ch}.womens-health-page .feminine-topic-grid{font-size:clamp(17px,4.8vw,19px);gap:16px;margin-top:20px}.womens-health-page .feminine-cycle{min-height:0;padding-bottom:88px}.womens-health-page .feminine-cycle-composition{row-gap:20px}.womens-health-page .feminine-topics h2,.womens-health-page .feminine-development h2{font-size:13px;margin-bottom:16px}}
 @media(max-width:700px){.womens-health-page .feminine-why h2{text-wrap:balance}}
+
+/* Final alignment and rhythm corrections, scoped to Santé féminine. */
+.womens-health-page .feminine-why .feminine-editorial h2{margin-bottom:26px}
+.womens-health-page .feminine-why .feminine-editorial>div{align-items:start;gap:7%}
+.womens-health-page .feminine-why-statement{margin-top:34px;margin-bottom:10px;max-width:34ch;text-wrap:balance}
+.womens-health-page .feminine-cycle-composition{column-gap:7%;row-gap:26px;align-items:start}
+.womens-health-page .feminine-cycle-reading{margin-top:0}
+.womens-health-page .feminine-cycle .feminine-pull{font-size:clamp(26px,1.95vw,28px);max-width:27ch;line-height:1.22}
+.womens-health-page .feminine-cycle-trajectory path:first-child{stroke-width:21px}
+.womens-health-page .feminine-topics{padding-top:34px;padding-bottom:32px}
+.womens-health-page .feminine-topics h2{margin-bottom:16px}
+.womens-health-page .feminine-topics>p{margin-bottom:0}
+.womens-health-page .feminine-topic-grid{margin-left:0;margin-top:26px;row-gap:20px;grid-auto-rows:1fr}
+.womens-health-page .feminine-development{display:flow-root;padding-top:34px;padding-bottom:34px}
+.womens-health-page .feminine-development .feminine-editorial{grid-template-columns:.78fr 1.22fr;gap:7%;align-items:start}
+.womens-health-page .feminine-development h2{max-width:29ch;margin:0;line-height:1.7}
+.womens-health-page .feminine-development .feminine-editorial>div{max-width:57ch}
+.womens-health-page .feminine-development .feminine-editorial>div>p:first-child{font-weight:500;max-width:52ch;margin-bottom:18px}
+.womens-health-page .feminine-development .feminine-note{margin-top:22px}
+.womens-health-page .final-cta h2{text-wrap:balance}
+@media(max-width:700px){.womens-health-page .feminine-why .feminine-editorial h2{margin-bottom:22px}.womens-health-page .feminine-why-statement{margin-top:26px;margin-bottom:8px}.womens-health-page .feminine-cycle .feminine-pull{font-size:clamp(22px,6vw,25px);max-width:27ch}.womens-health-page .feminine-cycle-trajectory path:first-child{stroke-width:16px}.womens-health-page .feminine-topic-grid{grid-auto-rows:auto;row-gap:16px;margin-top:22px}.womens-health-page .feminine-topics{padding-top:28px;padding-bottom:28px}.womens-health-page .feminine-development{padding-top:30px;padding-bottom:30px}.womens-health-page .feminine-development .feminine-editorial{grid-template-columns:1fr;gap:18px}.womens-health-page .feminine-development h2{max-width:none}.womens-health-page .feminine-development .feminine-editorial>div>p:first-child{margin-bottom:16px}}
+.womens-health-page .feminine-development{position:relative;isolation:isolate}
