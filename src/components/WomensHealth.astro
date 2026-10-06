@@ -1,14 +1,17 @@
 ---
-import Photo from './Photo.astro';
+import OpenCycle from './OpenCycle.astro';
+import SoftBoundary from './SoftBoundary.astro';
+import '../styles/women-system.css';
 import {womensHealthFr as c} from '../data/womens-health-fr';
 import {url} from '../data/site';
 ---
 <div class="womens-health-page">
-<section class="section feminine-hero"><div><h1>{c.title}</h1><p class="feminine-statement">{c.statement}</p><p>{c.intro}</p><a class="button" href="#approche-sante-feminine">Découvrir mon approche</a></div><div class="feminine-hero-photo"><Photo name="softness" alt="Lauriane au bord de la mer, les mains près du visage dans la lumière du coucher de soleil"/></div></section>
-<section class="section feminine-why" id="approche-sante-feminine"><div class="feminine-editorial"><h2 class="eyebrow">Pourquoi la santé féminine ?</h2><div>{c.why.map(p=><p>{p}</p>)}<p class="feminine-pull">{c.whyClosing}</p></div></div></section>
-<section class="section feminine-cycle"><div class="feminine-editorial"><h2 class="eyebrow">Se reconnecter à son cycle</h2><div>{c.cycle.map(p=><p>{p}</p>)}<p class="feminine-pull">{c.nonlinear}</p><p>{c.rhythms}</p><p class="feminine-symbolism">{c.symbolism}</p></div></div></section>
-<section class="section feminine-topics"><h2 class="eyebrow">Les sujets que j’approfondis</h2><p>{c.topicsIntro}</p><ul class="feminine-topic-grid">{c.topics.map(topic=><li id={`sujet-${topic.key}`}>{topic.title}</li>)}</ul></section>
-<section class="section feminine-development"><div class="feminine-editorial"><h2 class="eyebrow">Une spécialisation en développement</h2><div><p>{c.development[0]}</p><p>Cette démarche vient enrichir ma pratique de <a class="feminine-inline-link" href={url('fr','acupuncture')}>l’acupuncture traditionnelle</a> et ma manière d’observer les liens entre le cycle, le corps et les différents signes exprimés par chaque femme.</p></div></div></section>
-<section class="section feminine-next"><h2>{c.nextTitle}</h2><p>{c.next}</p></section>
-<section class="final-cta section"><h2>RECONNECT.</h2><p class="feminine-final-support">Se reconnecter à ce qui a toujours été là.</p><a class="button" href={url('fr','contact')}>Prendre rendez-vous</a></section>
+<section class="section feminine-hero"><div><h1>{c.title}</h1><p class="feminine-statement">{c.statement}</p><p>{c.intro}</p><a class="button" href="#approche-sante-feminine">Découvrir mon approche</a></div><div class="feminine-hero-photo"><img src="/images/softness-1200.webp" srcset="/images/softness-640.webp 640w, /images/softness-1200.webp 1200w" sizes="(max-width:700px) 100vw, 45vw" width="1200" height="800" loading="eager" fetchpriority="high" decoding="async" alt="Lauriane au bord de la mer, les mains près du visage dans la lumière du coucher de soleil"/></div></section>
+<section class="section feminine-why" id="approche-sante-feminine"><div class="feminine-editorial"><h2>Pourquoi la santé féminine ?</h2><div>{c.why.map(p=><p>{p}</p>)}</div></div><p class="feminine-pull feminine-why-statement">{c.whyClosing}</p></section>
+<SoftBoundary from="#FFFDF7" to="#F8BCCA" intensity="network-in"/>
+<section class="section feminine-cycle"><div><h2>Se reconnecter à son cycle</h2><p>Les cycles peuvent devenir une manière d’observer son corps, ses rythmes et ses changements, et un outil de compréhension de soi.</p><p>{c.rhythms}</p><p class="feminine-pull">{c.nonlinear}</p></div><OpenCycle/></section>
+<SoftBoundary from="#F8BCCA" to="#FFFDF7" intensity="network-out"/>
+<section class="section feminine-topics"><h2>Les sujets que j’approfondis<span class="feminine-dot" aria-hidden="true">.</span></h2><p>{c.topicsIntro}</p><ul class="feminine-topic-grid">{c.topics.map(topic=><li id={`sujet-${topic.key}`}>{topic.title}</li>)}</ul></section>
+<section class="section feminine-development"><div class="feminine-editorial"><h2>Une spécialisation en développement</h2><div><p>{c.development[0]}</p><p>Cette démarche vient enrichir ma pratique de <a class="feminine-inline-link" href={url('fr','acupuncture')}>l’acupuncture traditionnelle</a> et ma manière d’observer les liens entre le cycle, le corps et les différents signes exprimés par chaque femme.</p><aside class="feminine-note"><p class="eyebrow">{c.nextTitle}</p><p>{c.next}</p></aside></div></div></section>
+<section class="final-cta section"><h2>Prendre rendez-vous<span class="feminine-dot">.</span></h2><p class="feminine-final-support">{c.whyClosing}</p><a class="button" href={url('fr','contact')}>Prendre rendez-vous</a></section>
 </div>
