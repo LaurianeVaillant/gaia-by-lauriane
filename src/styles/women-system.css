@@ -90,3 +90,14 @@
 .womens-health-page .feminine-cycle .feminine-pull{font-size:clamp(28px,2.1vw,30px);font-weight:500;font-variation-settings:'wght' 500,'SOFT' 70,'WONK' 1;line-height:1.18;letter-spacing:-.035em;max-width:25ch}
 .womens-health-page .feminine-topics h2,.womens-health-page .feminine-development h2{font-family:var(--sans);font-size:14px;font-weight:500;font-variation-settings:normal;line-height:1.5;letter-spacing:.1em;text-transform:uppercase;max-width:none;margin-bottom:24px}
 @media(max-width:700px){.womens-health-page .feminine-hero h1{font-size:clamp(44px,12vw,64px)}.womens-health-page .feminine-why h2{font-size:30px}.womens-health-page .feminine-cycle h2{font-size:34px;max-width:18ch}.womens-health-page .feminine-cycle .feminine-pull{font-size:28px;max-width:24ch}.womens-health-page .feminine-topics h2,.womens-health-page .feminine-development h2{font-size:13px;letter-spacing:.08em;margin-bottom:20px}}
+
+/* Final fluid scale and compact spacing, without changing the composition. */
+.womens-health-page .feminine-statement{font-size:clamp(34px,2.9vw,42px)}
+.womens-health-page .feminine-topic-grid{font-size:clamp(18px,1.55vw,22px);line-height:1.4;gap:18px 48px;margin-top:22px}
+.womens-health-page .feminine-why .feminine-editorial h2{margin-bottom:20px}
+.womens-health-page .feminine-why-statement{margin-top:22px}
+.womens-health-page .feminine-topics h2,.womens-health-page .feminine-development h2{margin-bottom:18px}
+.womens-health-page .feminine-cycle{min-height:360px;padding-bottom:88px}
+.womens-health-page .feminine-cycle-composition{row-gap:22px}
+@media(max-width:700px){.womens-health-page .feminine-hero h1{font-size:clamp(44px,12vw,52px)}.womens-health-page .feminine-statement{font-size:32px}.womens-health-page .feminine-why-statement{font-size:clamp(32px,8.7vw,38px);margin-top:18px}.womens-health-page .feminine-why h2{font-size:clamp(26px,7.5vw,30px)}.womens-health-page .feminine-cycle h2{font-size:clamp(28px,8.2vw,32px);max-width:20ch}.womens-health-page .feminine-cycle .feminine-pull{font-size:clamp(22px,6.2vw,26px);max-width:26ch}.womens-health-page .feminine-topic-grid{font-size:clamp(17px,4.8vw,19px);gap:16px;margin-top:20px}.womens-health-page .feminine-cycle{min-height:0;padding-bottom:88px}.womens-health-page .feminine-cycle-composition{row-gap:20px}.womens-health-page .feminine-topics h2,.womens-health-page .feminine-development h2{font-size:13px;margin-bottom:16px}}
+@media(max-width:700px){.womens-health-page .feminine-why h2{text-wrap:balance}}
