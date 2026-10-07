@@ -15,7 +15,7 @@ const clues=clueList.split(', ');
       <h1>{c.title}</h1>
       <p class="acupuncture-subtitle">{c.subtitle}</p>
       <p>{c.intro}</p>
-      <a class="button" href={url('fr','contact')}>Prendre rendez-vous</a>
+      <a class="button" href="/prendre-rendez-vous/">Prendre rendez-vous</a>
     </div>
     <div class="acupuncture-hero-photo"><Photo name="acupuncture" hero width={1149} height={1368} alt="Détail de mains posant des aiguilles d’acupuncture sur le dos, dans une lumière naturelle chaleureuse"/></div>
   </section>
@@ -63,6 +63,6 @@ const clues=clueList.split(', ');
   <SoftBoundary from="var(--white)" to="var(--violet)" intensity="calm"/>
   <section class="final-cta section">
     <h2>Prendre<br/> rendez-vous<span>.</span></h2>
-    <div class="service-closing"><p class="final-support">{c.intro}</p><a class="button" href={url('fr','contact')}>Prendre rendez-vous</a></div>
+    <div class="service-closing"><p class="final-support">{c.intro}</p><a class="button" href="/prendre-rendez-vous/">Prendre rendez-vous</a></div>
   </section>
 </div>

@@ -7,7 +7,7 @@ import {url} from '../data/site';
 ---
 <div class="aculift-page">
   <section class="section aculift-hero">
-    <div class="aculift-hero-copy"><h1>{c.title}</h1><p class="aculift-subtitle">{c.subtitle}</p><p class="aculift-intro">{c.intro}</p><p class="aculift-factual">{c.factual}</p><a class="button" href={url('fr','contact')}>Prendre rendez-vous</a></div>
+    <div class="aculift-hero-copy"><h1>{c.title}</h1><p class="aculift-subtitle">{c.subtitle}</p><p class="aculift-intro">{c.intro}</p><p class="aculift-factual">{c.factual}</p><a class="button" href="/prendre-rendez-vous/">Prendre rendez-vous</a></div>
     <div class="aculift-photo"><Photo name="about-portrait" hero width={1024} height={1536} alt="Portrait rapproché de Lauriane dans une lumière naturelle dorée, une main près du visage"/></div>
   </section>
   <section class="section aculift-definition">
@@ -26,6 +26,6 @@ import {url} from '../data/site';
     <h2>Comment se déroule une séance ?</h2><div class="aculift-step-grid"><svg class="aculift-session-contour" viewBox="0 0 160 64" fill="none" aria-hidden="true"><path d="M4 46C29 45 25 12 59 13C80 14 83 42 110 40C128 39 140 30 156 26" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><circle cx="88" cy="31" r="3" fill="var(--orange)"/></svg>{c.steps.map(step=><div><h3>{step.title}</h3><p>{step.copy}</p></div>)}</div>
   </section>
   <section class="section aculift-closing">
-    <h2>Prendre rendez-vous<span>.</span></h2><p>{c.closing}</p><a class="button" href={url('fr','contact')}>Prendre rendez-vous</a>
+    <h2>Prendre rendez-vous<span>.</span></h2><p>{c.closing}</p><a class="button" href="/prendre-rendez-vous/">Prendre rendez-vous</a>
   </section>
 </div>
