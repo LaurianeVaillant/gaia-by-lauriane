@@ -1,0 +1,9 @@
+---
+interface Props {slotName:string;name:string;alt:string;caption?:string;hero?:boolean;width?:number;height?:number;class?:string;}
+const {slotName,name,alt,caption,hero=false,width=1200,height=1600,class:className}=Astro.props;
+---
+<figure class:list={['aj-photo',className]} data-photo-slot={slotName}>
+<div class="aj-photo-frame"><img src={`/images/${name}-1200.webp`} srcset={`/images/${name}-640.webp 640w, /images/${name}-1200.webp 1200w`} sizes="(max-width:700px) 100vw, 45vw" alt={alt} width={width} height={height} loading={hero?'eager':'lazy'} fetchpriority={hero?'high':'auto'} decoding="async"/></div>
+{caption&&<figcaption>{caption}</figcaption>}
+{import.meta.env.DEV&&<span class="aj-dev-slot">{slotName}</span>}
+</figure>

@@ -1,39 +1,39 @@
 export const aboutFr = {
- title:'Mon histoire',
- statement:'I was looking for a way to connect the dots.',
- intro:'Un parcours construit entre mouvement, énergie, voyage et acupuncture.',
- path:[
- 'Mon parcours n’a jamais vraiment été linéaire.',
- 'J’ai commencé par un chemin assez classique : classe préparatoire, école de commerce, puis CDI.',
- 'Mais très vite, les voyages et les expériences en Asie ont commencé à ouvrir d’autres questions : comment mieux comprendre le corps, l’énergie, le mouvement et les liens entre eux ?'
- ],
- india:[
- 'Pendant mon semestre d’échange à Hong Kong, j’ai eu l’occasion de beaucoup voyager en Asie.',
- 'Je me souviens notamment d’un séjour à Singapour, un lendemain de soirée un peu festive. Pendant que mes amis dormaient encore, je suis partie découvrir la ville, appareil photo à la main.',
- 'De fil en aiguille, je me suis retrouvée dans le quartier indien, au milieu d’une pooja. Je ne connaissais presque rien à l’Inde. J’étais comme une enfant : fascinée par les couleurs, les odeurs et la dévotion que j’observais autour de moi.',
- 'Je me souviens avoir su à ce moment-là que j’irais en Inde.',
- 'Une semaine plus tard, j’étais dans l’avion.',
- 'Ce qui devait ensuite être une courte immersion dans un ashram s’est transformé en plusieurs mois.'
- ],
- yoga:[
- 'Le yoga est devenu une pratique quotidienne.',
- 'Il m’a donné envie d’explorer davantage les liens entre le corps, le mouvement, l’énergie et l’esprit.',
- 'Cette recherche n’a jamais vraiment quitté ma façon de regarder le corps aujourd’hui.'
- ],
- acupuncture:[
- 'Long story short, j’ai ensuite croisé le chemin d’un acupuncteur qui m’a recommandé l’école dans laquelle je me suis formée.',
- 'C’est là que beaucoup de choses ont commencé à se relier.',
- 'L’acupuncture m’a offert un langage pour penser le corps comme un réseau : observer, relier les signes et comprendre comment différents systèmes peuvent s’influencer les uns les autres.'
- ],
- trainingIntro:'Mon parcours s’est construit entre plusieurs disciplines qui continuent aujourd’hui à nourrir ma pratique.',
- training:[
- {title:'Acupuncture traditionnelle taoïste',copy:'Formation de 3 ans au Centre Imhotep à Paris.'},
- {title:'Réflexologie japonaise',copy:'Module de formation suivi en Inde.'},
- {title:'Yoga',copy:'Formation de professeure de yoga auprès de Talia Sutra.'}
- ],
- connection:[
- 'Je n’ai jamais cherché à accumuler les disciplines.',
- 'Ce qui m’intéresse, c’est de comprendre comment elles peuvent dialoguer entre elles et ce qu’elles peuvent m’apprendre sur le fonctionnement du corps, de l’énergie et du mouvement.'
- ],
- closing:'C’est de cette envie de relier qu’est né GAIA.'
+  "chapters": [
+    [
+      "Je n’ai pas commencé par l’acupuncture.",
+      "Classe préparatoire, Ecole de commerce, CDI... J’ai longtemps suivi une voie comme qui dirait assez \"classique\", tout en étant, depuis toujours et dans à peu près tous mes cercles la sorcière bien aimée !",
+      "J’ai aussi la chance d’avoir une maman qui nous a très tôt planté la graine du voyage , à mes frères et moi. Ajouté à ça de la curiosité, l'envie de découvrir et l’intuition qui m'ont amenée à vivre et voyager à l’étranger pendant quelques années.",
+      "Et quelque part au milieu de tout ça, les lignes ont commencé à bouger."
+    ],
+    [
+      "Je crois que mon parcours s’est construit autour de deux choses : mon intuition et les rencontres.",
+      "Des thérapeutes, des enseignants, des amis. Des personnes arrivées parfois exactement au moment où j’avais besoin d’entendre, de voir ou de comprendre quelque chose. Coincidences ? Pas sûre !",
+      "Une cérémonie indienne découverte presque par hasard en Asie. Quelques semaines plus tard, un départ pour l’Inde. Ce qui devait être une courte immersion dans un ashram s’est transformé en plusieurs mois.",
+      "Le yoga est suite à ça devenu une pratique quotidienne. Puis je me suis intéressée à l’énergétique. Puis à l’acupuncture.",
+      "De fil en aiguille (littéralement cette fois) je me suis retrouvée à étudier un nouveau langage du corps et de ses fonctionnements.",
+      "Et certaines des personnes croisées sur ce chemin continuent encore aujourd’hui à nourrir ma manière de réfléchir, d’apprendre et de pratiquer."
+    ],
+    [
+      "Je crois que, fondamentalement, j’aime les gens.",
+      "Ça peut paraître un peu culcul la praline dit comme ça, mais l’idée d’aider quelqu’un à aller mieux, à comprendre ce qu’il traverse ou simplement à se sentir écouté me nourrit énormément.",
+      "Quand je pratique, je ne vois pas le temps passer. Et je crois que c’est plutôt bon signe non ?",
+      "En réalité j’essaie d’être la thérapeute que j’aimerais avoir face à moi.",
+      "À l’écoute, pour de vrai. Pas seulement attendre mon tour pour parler, mais écouter activement, poser des questions, essayer de comprendre.",
+      "Non jugeante. Accessible. Curieuse.",
+      "Et suffisamment humble pour savoir que je continuerai probablement à apprendre toute ma vie.",
+      "Je n’ai pas envie d’appliquer une recette à quelqu’un. J’ai envie de comprendre la personne que j’ai devant moi, les liens entre ce qu’elle ressent, ce que son corps exprime, son histoire et son contexte."
+    ],
+    [
+      "GAIA a toujours été une évidence pour moi.",
+      "Je crois beaucoup à la symbolique des choses.",
+      "Donner à ma marque le nom de Gaïa, figure primordiale de la Terre dans la mythologie, porte quelque chose de très fort pour moi.",
+      "D’abord : la puissance.",
+      "Mais aussi l’ancrage, la création, le vivant, les cycles et l’idée que tout existe en relation avec autre chose.",
+      "C’est exactement ce que j’ai envie de construire avec GAIA.",
+      "Aujourd’hui, GAIA prend forme autour de ma pratique. Acupuncture, Pranic Healing, Aculift, santé féminine.",
+      "Demain, j’aimerais que ce soit encore plus large : un espace où différentes disciplines, différentes approches et différentes personnes puissent dialoguer.",
+      "GAIA creates spaces for reconnection."
+    ]
+  ]
 };

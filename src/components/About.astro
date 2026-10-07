@@ -1,15 +1,32 @@
 ---
-import Photo from './Photo.astro';
+import AboutPhoto from './AboutPhoto.astro';
+import '../styles/about-system.css';
 import {aboutFr as c} from '../data/about-fr';
 import {url} from '../data/site';
+const [origin,encounters,therapist,gaia]=c.chapters;
+const external={target:'_blank',rel:'noopener noreferrer'};
 ---
-<div class="about-page">
-<section class="section about-hero"><div><h1>{c.title}</h1><p class="about-hero-statement">{c.statement}</p><p class="about-hero-intro">{c.intro}</p></div><div class="about-hero-photo"><Photo name="about-portrait" hero width={1024} height={1536} alt="Portrait de Lauriane au bord de la mer, dans la lumière dorée du soir"/></div></section>
-<section class="section about-path"><div class="about-editorial"><h2 class="eyebrow">Mon cheminement</h2><div><p class="about-emphasis">{c.path[0]}</p>{c.path.slice(1).map(p=><p>{p}</p>)}</div></div></section>
-<section class="section about-india"><div class="about-story-split"><div class="about-india-photo"><Photo name="about-india" width={1086} height={1448} alt="Un temple au bord d’une rivière en Inde, entouré de collines boisées"/></div><div><h2 class="eyebrow">Le déclic de l’Inde</h2>{c.india.map((p,index)=><p class:list={[{'about-india-emphasis':index===4}]}>{p}</p>)}</div></div></section>
-<section class="section about-yoga"><div class="about-story-split"><div><h2 class="eyebrow">Yoga, corps, énergie</h2>{c.yoga.map(p=><p>{p}</p>)}</div><div class="about-yoga-photo"><Photo name="about-yoga" width={1448} height={1086} alt="Lauriane dans une posture de yoga sur une plage au coucher du soleil"/></div></div></section>
-<section class="section about-acupuncture"><div class="about-story-split"><div class="about-practice-photo"><Photo name="about-practice" width={1086} height={1448} alt="Archive de pratique au Népal : Lauriane travaille sur les jambes d’une personne allongée, auprès d’un autre praticien"/></div><div><h2 class="eyebrow">La rencontre avec l’acupuncture</h2>{c.acupuncture.map(p=><p>{p}</p>)}<a class="text-link" href={url('fr','acupuncture')}>Découvrir mon approche de l’acupuncture</a></div></div></section>
-<section class="section about-training"><h2 class="eyebrow">Mes formations</h2><p>{c.trainingIntro}</p><div class="about-training-grid">{c.training.map(item=><div><h3>{item.title}</h3><p>{item.copy}</p></div>)}</div></section>
-<section class="section about-connection"><h2 class="eyebrow">Ce qui relie tout</h2><p class="about-connection-statement">Nothing works in silos.</p><div class="about-connection-copy">{c.connection.map(p=><p>{p}</p>)}<p class="about-closing-line">{c.closing}</p></div></section>
-<section class="final-cta section"><h2>RECONNECT.</h2><p class="about-final-support">Se reconnecter à ce qui a toujours été là.</p><a class="button" href={url('fr','contact')}>Prendre rendez-vous</a></section>
+<div class="about-journal">
+<section class="aj-section aj-hero" aria-labelledby="about-title">
+<div class="aj-hero-copy"><p class="aj-label">À PROPOS</p><h1 id="about-title">Lauriane</h1><p class="aj-profession">Praticienne en acupuncture traditionnelle</p><p class="aj-hero-quote">Je n’ai pas commencé<br class="aj-desktop-break"/> par l’acupuncture.</p><p class="aj-geography">Paris · Val-d’Oise · Goa</p></div>
+<AboutPhoto slotName="ABOUT_HERO" name="journal-hero" hero width={1080} height={1076} alt="Lauriane souriante, assise en extérieur au milieu de la végétation" class="aj-portrait"/>
+</section>
+<section class="aj-section aj-origin" aria-labelledby="about-origin">
+<div class="aj-origin-copy"><h2 id="about-origin">{origin[0]}</h2>{origin.slice(1).map(p=><p>{p}</p>)}</div>
+<AboutPhoto slotName="ABOUT_TRAVEL_01" name="journal-travel" width={1080} height={1338} alt="Lauriane de dos, sur une rive de galets en Inde, face au fleuve et aux collines" caption="Inde" class="aj-travel"/>
+</section>
+<section class="aj-section aj-encounters" aria-labelledby="about-encounters">
+<div class="aj-encounters-heading"><p class="aj-label">LE CHEMIN</p><h2 id="about-encounters">L’intuition, les rencontres…<br/> et les “coïncidences”</h2></div>
+<div class="aj-encounters-layout"><div class="aj-archive"><AboutPhoto slotName="ABOUT_INDIA_01" name="journal-india" width={1080} height={2340} alt="Une cérémonie au bord du Gange en Inde, face au fleuve et aux montagnes" caption="Quelques semaines devenues plusieurs mois" class="aj-ceremony"/><AboutPhoto slotName="ABOUT_INDIA_02" name="journal-yoga" width={960} height={1280} alt="Lauriane pratiquant une posture de yoga avec une sangle, accompagnée par un enseignant en Inde" caption="Inde · Pratique quotidienne" class="aj-small-archive"/></div><div class="aj-encounters-copy">{encounters.map(p=><p>{p}</p>)}</div></div>
+</section>
+<section class="aj-statement" aria-label="Ce qui relie les disciplines"><p>Nothing works<br/> in silos<span>.</span></p><p class="aj-statement-support">Corps. Energie. Emotions. Environnement.</p></section>
+<section class="aj-section aj-therapist" aria-labelledby="about-therapist"><div class="aj-therapist-heading"><p class="aj-label">DANS MA PRATIQUE</p><h2 id="about-therapist">La thérapeute<br/> que j’essaie d’être</h2></div><div class="aj-therapist-layout"><div class="aj-therapist-copy">{therapist.map((p,i)=><p class:list={{'aj-intimate':i===0,'aj-emphasis':i===4||i===5}}>{p}</p>)}</div><AboutPhoto slotName="ABOUT_PRACTICE_01" name="journal-practice" width={1536} height={2048} alt="Lauriane en pratique, les mains sur le dos d’une personne allongée dans un centre de soins au Népal" caption="Népal · En pratique" class="aj-practice"/></div></section>
+<section class="aj-section aj-training" aria-labelledby="about-training"><h2 id="about-training" class="aj-label">QUELQUES ÉTAPES DU CHEMIN</h2><div class="aj-training-layout"><div class="aj-training-index">
+<div class="aj-training-item"><h3>ACUPUNCTURE TRADITIONNELLE</h3><div><p>3 années de formation au Centre Imhotep, Paris</p><a {...external} href="https://centre-imhotep.com/">Centre Imhotep <span aria-hidden="true">↗</span><span class="sr-only"> (nouvel onglet)</span></a></div></div>
+<div class="aj-training-item"><h3>PRANIC HEALING</h3><div><p>Formée à Katmandou, Népal</p><ul><li>Basic Pranic Healing</li><li>Advanced Pranic Healing</li><li>Pranic Psychotherapy</li><li>Achieving Oneness with the Higher Soul</li></ul><p>Selon l’enseignement de Master Choa Kok Sui</p><p>Katmandou, Nepal</p><a {...external} href="https://pranichealingnepal.com/">Pranic Healing Nepal <span aria-hidden="true">↗</span><span class="sr-only"> (nouvel onglet)</span></a></div></div>
+<div class="aj-training-item"><h3>YOGA</h3><div><p>200H TTC<br/>“Love and All Is Coming”<br/>School by Talia Sutra</p><a {...external} href="https://laaictrainings.com/">Love and All Is Coming <span aria-hidden="true">↗</span><span class="sr-only"> (nouvel onglet)</span></a></div></div>
+<div class="aj-training-item"><h3>APPROCHES COMPLÉMENTAIRES</h3><div><p>Acupuncture japonaise, formations autour du corps et du mouvement…</p></div></div>
+</div><AboutPhoto slotName="ABOUT_TRAINING_01" name="journal-training" width={1200} height={1600} alt="Lauriane étudiant la pratique des bols sonores, assise devant des bols et un gong" class="aj-study"/></div></section>
+<section class="aj-section aj-gaia" aria-labelledby="about-gaia"><div class="aj-gaia-heading"><h2 id="about-gaia">Pourquoi GAIA ?</h2><div class="aj-gaia-wordmark" aria-hidden="true">Gaia</div></div><div class="aj-gaia-copy">{gaia.map((p,i)=><p class:list={{'aj-gaia-lead':i===0,'aj-gaia-power':i===3,'aj-gaia-closing':i===gaia.length-1}}>{p}</p>)}</div></section>
+<section class="aj-section aj-ending" aria-labelledby="about-ending"><AboutPhoto slotName="ABOUT_NOW_01" name="about-yoga" width={1448} height={1086} alt="Lauriane dans une posture de yoga sur la plage, face à la mer au coucher du soleil" caption="Le mouvement continue." class="aj-now"/><div class="aj-ending-copy"><h2 id="about-ending">Découvrir<br/> mon approche<span>.</span></h2><ul class="aj-service-links"><li><a href={url('fr','acupuncture')}>Acupuncture <span aria-hidden="true">↗</span></a></li><li><a href={url('fr','aculift')}>Aculift <span aria-hidden="true">↗</span></a></li><li><a href={url('fr','pranic')}>Pranic Healing <span aria-hidden="true">↗</span></a></li><li><a href={url('fr','women')}>Santé féminine <span aria-hidden="true">↗</span></a></li></ul><a class="button" href={url('fr','contact')}>Prendre rendez-vous</a></div></section>
 </div>
