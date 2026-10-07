@@ -1,0 +1,16 @@
+@font-face{font-family:'Instrument Sans';src:url('/fonts/InstrumentSans-Latin-Variable.woff2') format('woff2');font-weight:100 900;font-display:swap}
+.header .desktop-nav,.header .mobile-nav{font-family:'Instrument Sans',sans-serif}
+.header .desktop-nav{align-items:center;white-space:nowrap}
+.header .practice-menu{position:relative}
+.header .practice-menu>summary,.header .mobile-practices>summary{list-style:none;display:flex;align-items:center;gap:9px;min-height:44px;cursor:pointer;font-size:inherit;font-weight:400}
+.header summary::-webkit-details-marker{display:none}
+.header .nav-chevron{width:7px;height:7px;border-right:1px solid currentColor;border-bottom:1px solid currentColor;transform:rotate(45deg);margin-top:-4px}
+.header details[open]>summary .nav-chevron{transform:rotate(225deg);margin-top:3px}
+.header .nav-active,.header a[aria-current=page],.header .practice-menu[open]>summary{color:var(--violet);text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:6px}
+.header .practice-dropdown{position:absolute;top:calc(100% + 8px);left:-18px;min-width:262px;padding:12px 18px;background:#FFFDF7;box-shadow:0 8px 22px #1717170d;color:var(--violet);border-radius:2px}
+.header .practice-dropdown a{display:flex;min-height:44px;align-items:center;font-size:16px;white-space:nowrap}
+.header .practice-dropdown a:hover,.header .mobile-practice-links a:hover{text-decoration-color:var(--orange)}
+.header a:focus-visible,.header summary:focus-visible{outline:2px solid var(--violet);outline-offset:4px}
+@media(min-width:1051px) and (max-width:1280px){body .header{gap:20px}body .header .desktop-nav{gap:24px;font-size:16px}body .header .header-actions{gap:16px}}
+@media(max-width:1050px){body .header{height:80px;justify-content:space-between}body .header .desktop-nav{display:none}body .header .mobile-nav{display:block}body .header .header-actions{margin-left:auto}body .header .header-actions>.language,body .header .header-actions>.button{display:none}body .header .mobile-nav>summary{list-style:none;display:flex;align-items:center;gap:10px;min-height:44px;cursor:pointer}body .header .mobile-nav>nav{position:absolute;top:80px;left:0;right:0;background:#FFFDF7;color:var(--violet);padding:16px var(--gutter) 24px;display:grid;gap:4px;max-height:calc(100dvh - 80px);overflow-y:auto}body .header .mobile-nav nav>a{display:flex;align-items:center;min-height:44px;padding:10px 0}body .header .mobile-practices>summary{justify-content:space-between;padding:10px 0;min-height:44px}body .header .mobile-practice-links{padding:4px 0 8px 18px}body .header .mobile-practice-links a{display:flex;align-items:center;min-height:44px;padding:10px 0;font-size:16px}body .header .mobile-nav .mobile-language{display:flex;justify-content:flex-start;gap:8px}body .header .mobile-nav .mobile-booking{display:flex;justify-content:center;color:white;padding:12px 20px;min-height:48px;width:fit-content;margin-top:8px}body .header .mobile-nav .nav-chevron{margin-right:4px}}
+body .header .desktop-nav .practice-dropdown a{display:flex;width:100%;min-height:44px}
