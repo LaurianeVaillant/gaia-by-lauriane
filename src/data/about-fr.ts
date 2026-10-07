@@ -27,8 +27,8 @@ export const aboutFr = {
     [
       "GAIA a toujours été une évidence pour moi.",
       "Je crois beaucoup à la symbolique des choses.",
-      "Donner à ma marque le nom de Gaïa, figure primordiale de la Terre dans la mythologie, porte quelque chose de très fort pour moi.",
-      "D’abord : la puissance.",
+      "Donner à ma marque le nom de Gaïa, figure primordiale de la Terre dans la mythologie, fait vraiment sens !",
+      "D’abord : sa puissance.",
       "Mais aussi l’ancrage, la création, le vivant, les cycles et l’idée que tout existe en relation avec autre chose.",
       "C’est exactement ce que j’ai envie de construire avec GAIA.",
       "Aujourd’hui, GAIA prend forme autour de ma pratique. Acupuncture, Pranic Healing, Aculift, santé féminine.",

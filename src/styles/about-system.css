@@ -104,3 +104,9 @@
 @media(min-width:701px){.aj-small-archive{transform:translateX(10px);margin-top:-50px!important}}
 @media(max-width:700px){.aj-name{margin-bottom:22px}.aj-name h1{margin-bottom:0}.aj-name svg{height:14px;bottom:-9px}.aj-small-archive::before{display:none}.aj-statement .aj-statement-support{transform:none}}
 @media(prefers-reduced-motion:reduce){.about-journal .button,.aj-service-links span,.aj-training-item a span[aria-hidden]{transition:none}}
+
+/* Why GAIA: a little air between the approved paragraphs. */
+.about-journal .aj-gaia-copy>p{margin-bottom:23px}
+.about-journal .aj-gaia-copy>.aj-gaia-power{margin-top:4px;margin-bottom:27px}
+.about-journal .aj-gaia-copy>.aj-gaia-closing{margin-top:40px;margin-bottom:0}
+@media(max-width:700px){.about-journal .aj-gaia-copy>p{margin-bottom:20px}.about-journal .aj-gaia-copy>.aj-gaia-power{margin-top:3px;margin-bottom:24px}.about-journal .aj-gaia-copy>.aj-gaia-closing{margin-top:32px;margin-bottom:0}}
