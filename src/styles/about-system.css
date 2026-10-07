@@ -89,3 +89,18 @@
 @media(min-width:701px){.aj-gaia-copy{transform:translateY(-3px)}}
 @media(min-width:701px) and (max-width:1050px){.about-journal .aj-encounters{padding-bottom:40px}}
 @media(max-width:700px){.about-journal .aj-encounters{padding-bottom:32px}}
+
+/* Selective personality: the same orange mark language, never a decorative layer. */
+.aj-name{position:relative;display:table;margin-bottom:24px}
+.aj-name h1{margin-bottom:0}
+.aj-name svg{position:absolute;width:95%;height:18px;left:2%;bottom:-12px;overflow:visible;pointer-events:none}
+.about-journal .aj-cheeky{font-weight:700;text-decoration:underline;text-decoration-color:var(--orange);text-decoration-thickness:2px;text-underline-offset:4px}
+.aj-small-archive::before{content:"";position:absolute;left:-24px;top:-22px;width:24px;height:40px;border-left:1.5px solid var(--orange);border-bottom:1.5px solid var(--orange);border-bottom-left-radius:28px;pointer-events:none}
+.aj-listening{font-weight:600;text-decoration:underline;text-decoration-color:var(--orange);text-decoration-thickness:2px;text-underline-offset:5px}
+.aj-statement .aj-statement-support{transform:translateX(10px)}
+.aj-service-links span,.aj-training-item a span[aria-hidden]{transition:transform 160ms ease}
+.about-journal .button{transition:transform 160ms ease,background-color 160ms ease}
+@media(hover:hover) and (prefers-reduced-motion:no-preference){.aj-service-links a:hover span,.aj-training-item a:hover span[aria-hidden]{transform:translate(3px,-2px)}.about-journal .button:hover{transform:translateY(-2px)}}
+@media(min-width:701px){.aj-small-archive{transform:translateX(10px);margin-top:-50px!important}}
+@media(max-width:700px){.aj-name{margin-bottom:22px}.aj-name h1{margin-bottom:0}.aj-name svg{height:14px;bottom:-9px}.aj-small-archive::before{display:none}.aj-statement .aj-statement-support{transform:none}}
+@media(prefers-reduced-motion:reduce){.about-journal .button,.aj-service-links span,.aj-training-item a span[aria-hidden]{transition:none}}
