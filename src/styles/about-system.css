@@ -11,18 +11,19 @@
 .about-journal figure{margin:0;min-width:0;position:relative}
 .aj-photo-frame{overflow:hidden;background:#F1E8FC}
 .aj-photo img{height:100%;width:100%;object-fit:cover}
-.aj-photo figcaption{font-size:14px;line-height:1.5;margin-top:12px;color:var(--muted)}
+.aj-photo figcaption{font-size:14px;line-height:1.5;margin-top:9px;color:var(--muted)}
 .aj-dev-slot{display:block;font:500 11px/1.4 var(--sans);letter-spacing:.08em;color:var(--violet);margin-top:5px}
 .about-journal .aj-hero{background:var(--butter);display:grid;grid-template-columns:1fr 1fr;gap:8%;align-items:center;padding-top:36px;padding-bottom:64px}
-.aj-hero h1{margin-bottom:20px}
-.aj-hero .aj-profession{font-size:17px;margin-bottom:40px;max-width:30ch}
-.aj-hero .aj-hero-quote{font-family:var(--display);font-size:clamp(29px,2.55vw,36px);font-weight:500;line-height:1.2;letter-spacing:-.035em;max-width:24ch;color:var(--ink);margin-bottom:32px}
+.aj-hero h1{margin-bottom:18px}
+.aj-hero .aj-profession{font-size:17px;margin-bottom:32px;max-width:30ch}
+.aj-hero .aj-hero-quote{font-family:var(--display);font-size:clamp(29px,2.55vw,36px);font-weight:500;line-height:1.24;letter-spacing:-.035em;max-width:24ch;color:var(--ink);margin-bottom:28px}
 .aj-hero .aj-geography{font-size:14px;color:var(--violet);letter-spacing:.04em}
 .aj-portrait .aj-photo-frame{aspect-ratio:1.05}
 .aj-portrait img{object-position:50% 15%;transform:scale(1.04)}
 .aj-origin{display:grid;grid-template-columns:1.06fr 1fr;gap:10%;align-items:center}
 .aj-origin h2{max-width:19ch}
-.aj-travel{width:88%;justify-self:end}
+.about-journal .aj-origin{padding-top:64px;padding-bottom:60px}
+.aj-travel{width:90%;justify-self:end}
 .aj-travel .aj-photo-frame{aspect-ratio:1}
 .aj-travel img{object-position:50% 52%;transform:scale(1.04)}
 .about-journal .aj-encounters{background:var(--butter);padding-top:64px;padding-bottom:64px}
@@ -32,50 +33,53 @@
 .aj-encounters-layout{display:grid;grid-template-columns:.9fr 1fr;gap:10%;align-items:start}
 .aj-archive{padding-top:5px;display:grid;grid-template-columns:1fr}
 .aj-ceremony{width:88%}
-.aj-ceremony .aj-photo-frame{aspect-ratio:4/5}
+.aj-ceremony .aj-photo-frame{aspect-ratio:4/4.7}
 .aj-ceremony img{object-position:50% 50%}
-.aj-ceremony figcaption{max-width:24ch}
-.aj-small-archive{width:54%;justify-self:end;margin-top:-40px!important}
+.aj-ceremony figcaption{max-width:54%}
+.aj-small-archive{width:50%;justify-self:end;margin-top:-32px!important}
 .aj-small-archive .aj-photo-frame{aspect-ratio:3/4}
 .aj-small-archive figcaption{font-size:13px}
-.aj-statement{background:var(--violet);padding:56px var(--gutter);text-align:center}
-.aj-statement>p:first-child{font-family:var(--display);font-size:clamp(44px,4.5vw,56px);font-weight:700;line-height:1.08;letter-spacing:-.045em;color:var(--white);max-width:none;margin:0 0 24px}
+.aj-statement{background:var(--violet);padding:52px var(--gutter);text-align:center}
+.aj-statement>p:first-child{font-family:var(--display);font-size:clamp(44px,4.5vw,56px);font-weight:700;line-height:1.1;letter-spacing:-.045em;color:var(--white);max-width:none;margin:0 0 20px}
 .aj-statement>p:first-child span{color:var(--orange)}
 .aj-statement .aj-statement-support{font-size:16px;color:var(--white);max-width:none;margin:0}
 .aj-therapist-heading{margin-bottom:36px}
 .aj-therapist-heading .aj-label{margin-bottom:16px}
 .aj-therapist-heading h2{margin:0}
+.aj-therapist-copy{max-width:52ch}
 .aj-therapist-layout{display:grid;grid-template-columns:1.1fr .9fr;gap:10%;align-items:start}
 .aj-therapist .aj-intimate{font-size:22px;line-height:1.45;color:var(--violet);margin-bottom:24px}
 .aj-therapist .aj-emphasis{font-weight:500;color:var(--violet)}
-.aj-practice{margin-top:26px!important}
-.aj-practice .aj-photo-frame{aspect-ratio:3/4}
+.aj-practice{margin-top:8px!important}
+.aj-practice .aj-photo-frame{aspect-ratio:4/5}
 .about-journal .aj-training{background:#F1E8FC;padding-top:48px;padding-bottom:56px}
 .aj-training-layout{display:grid;grid-template-columns:1.65fr .65fr;gap:8%;align-items:start}
-.aj-training-item{display:grid;grid-template-columns:.9fr 1.35fr;gap:7%;margin-top:28px}
+.aj-training-item{display:grid;grid-template-columns:.9fr 1.35fr;gap:7%;margin-top:26px}
 .aj-training-item:first-child{margin-top:8px}
 .aj-training-item h3{font:600 14px/1.5 var(--sans);letter-spacing:.04em;color:var(--violet)}
 .aj-training-item p,.aj-training-item li,.aj-training-item a{font-size:17px;line-height:1.55}
 .aj-training-item p{margin-bottom:10px}
-.aj-training-item ul{list-style:none;margin:0 0 12px;padding:0}
-.aj-training-item a{display:inline-block;color:var(--violet);text-decoration:underline;text-underline-offset:5px;min-height:44px;padding:8px 0}
+.aj-training-item ul{list-style:none;margin:0 0 12px;padding:0;line-height:1.6}
+.aj-training-item li{line-height:1.6}
+.aj-training-item a{display:inline-block;color:var(--violet);text-decoration:underline;text-underline-offset:5px;text-decoration-thickness:1px;min-height:44px;padding:8px 0}
 .aj-training-item a span[aria-hidden]{display:inline-block;padding-left:6px;color:var(--orange)}
 .aj-study{margin-top:8px!important}
 .aj-study .aj-photo-frame{aspect-ratio:3/4}
 .about-journal .aj-gaia{background:var(--violet);color:var(--white);display:grid;grid-template-columns:.85fr 1.15fr;gap:11%;padding-top:64px;padding-bottom:64px}
 .aj-gaia h2{color:var(--white);font-size:34px}
-.aj-gaia-wordmark{font-family:var(--display);font-variation-settings:'wght' 900,'SOFT' 100,'WONK' 1;font-size:clamp(100px,13vw,180px);line-height:.9;letter-spacing:-.095em;color:var(--orange);margin-left:-.035em;margin-top:40px}
+.aj-gaia-wordmark{font-family:var(--display);font-variation-settings:'wght' 900,'SOFT' 100,'WONK' 1;font-size:clamp(100px,13vw,180px);line-height:.9;letter-spacing:-.095em;color:var(--orange);margin-left:-.035em;margin-top:32px}
+.aj-gaia-copy{max-width:51ch;text-wrap:pretty}
 .aj-gaia .aj-gaia-lead{font-size:22px;line-height:1.4}
 .aj-gaia .aj-gaia-power{color:var(--orange);font-size:24px;font-weight:500}
 .aj-gaia .aj-gaia-closing{font-family:var(--display);font-size:30px;font-weight:600;line-height:1.2;letter-spacing:-.03em;margin-top:32px}
-.about-journal .aj-ending{background:var(--butter);display:grid;grid-template-columns:1.05fr 1fr;gap:9%;align-items:center;padding-top:64px;padding-bottom:72px}
+.about-journal .aj-ending{background:var(--butter);display:grid;grid-template-columns:1.05fr 1fr;gap:9%;align-items:center;padding-top:60px;padding-bottom:60px}
 .aj-now .aj-photo-frame{aspect-ratio:1.1}
 .aj-now img{object-position:51% 50%}
 .aj-ending h2{font-size:clamp(38px,3.8vw,52px);font-weight:700;max-width:18ch;margin-bottom:24px}
 .aj-ending h2 span{color:var(--orange)}
-.aj-service-links{list-style:none;padding:0;margin:0 0 28px;display:grid;grid-template-columns:1fr 1fr;column-gap:24px;row-gap:4px}
+.aj-service-links{list-style:none;padding:0;margin:0 0 26px;display:grid;grid-template-columns:1fr 1fr;column-gap:28px;row-gap:6px;max-width:480px}
 .aj-service-links a{display:flex;justify-content:space-between;align-items:center;gap:12px;min-height:48px;color:var(--violet);font-size:18px}
-.aj-service-links span{color:var(--orange)}
+.aj-service-links span{color:var(--orange);flex:none}
 .about-journal a:focus-visible{outline:3px solid var(--orange);outline-offset:5px}
 @media(min-width:701px) and (max-width:1050px){.about-journal .aj-section{padding-top:56px;padding-bottom:56px}.aj-hero .aj-hero-quote{font-size:29px}.aj-hero .aj-profession{margin-bottom:24px}.aj-encounters-heading{margin-left:45%}.aj-encounters-layout,.aj-therapist-layout{gap:7%}.aj-training-layout{grid-template-columns:1fr .4fr;gap:6%}.aj-training-item{grid-template-columns:.8fr 1.2fr;gap:5%}.aj-service-links{grid-template-columns:1fr}.aj-gaia-wordmark{font-size:120px}}
-@media(max-width:700px){.about-journal{font-size:17px;line-height:1.6}.about-journal .aj-section{padding:44px var(--gutter)}.about-journal h1{font-size:clamp(48px,13vw,58px)}.about-journal h2{font-size:clamp(29px,8vw,34px);margin-bottom:24px}.about-journal .aj-label{font-size:13px;margin-bottom:18px}.about-journal p{margin-bottom:18px;max-width:none}.about-journal .aj-hero{display:grid;grid-template-columns:1fr;gap:28px;padding-top:26px;padding-bottom:36px}.aj-hero h1{margin-bottom:16px}.aj-hero .aj-profession{font-size:16px;margin-bottom:26px;max-width:none}.aj-hero .aj-hero-quote{font-size:28px;margin-bottom:20px;max-width:23ch}.aj-desktop-break{display:none}.aj-hero .aj-geography{font-size:13px}.aj-portrait .aj-photo-frame{aspect-ratio:1.05}.aj-origin{grid-template-columns:1fr;gap:28px}.aj-travel{width:90%;justify-self:end}.aj-photo figcaption{font-size:13px;margin-top:10px}.aj-encounters-heading{margin:0 0 28px}.aj-encounters-heading h2{margin:0;max-width:22ch}.aj-encounters-layout{display:flex;flex-direction:column;gap:28px}.aj-encounters-copy{order:0}.aj-archive{order:1;width:100%;padding:0;gap:22px}.aj-ceremony{width:100%}.aj-ceremony figcaption{max-width:none}.aj-ceremony .aj-photo-frame{aspect-ratio:4/5}.aj-small-archive{width:74%;margin-top:0!important}.aj-statement{padding:42px var(--gutter)}.aj-statement>p:first-child{font-size:clamp(42px,11.2vw,50px);margin-bottom:20px}.aj-statement .aj-statement-support{font-size:15px;max-width:26ch;margin:auto}.aj-therapist-heading{margin-bottom:26px}.aj-therapist-layout{grid-template-columns:1fr;gap:28px}.aj-therapist .aj-intimate{font-size:21px;margin-bottom:20px}.aj-practice{margin-top:0!important;width:100%}.aj-practice .aj-photo-frame{aspect-ratio:4/5}.aj-training-layout{display:flex;flex-direction:column;gap:30px}.aj-training-item{grid-template-columns:1fr;gap:10px;margin-top:24px}.aj-training-item:first-child{margin-top:2px}.aj-training-item h3{font-size:14px;max-width:28ch}.aj-training-item p,.aj-training-item li,.aj-training-item a{font-size:17px}.aj-study{width:74%;align-self:end;margin-top:0!important}.about-journal .aj-gaia{grid-template-columns:1fr;gap:30px}.aj-gaia h2{font-size:30px;margin-bottom:24px}.aj-gaia-wordmark{font-size:130px;margin-top:0}.aj-gaia .aj-gaia-lead{font-size:21px}.aj-gaia .aj-gaia-power{font-size:23px}.aj-gaia .aj-gaia-closing{font-size:28px;margin-top:26px}.about-journal .aj-ending{grid-template-columns:1fr;gap:34px}.aj-now .aj-photo-frame{aspect-ratio:1.15}.aj-ending h2{font-size:clamp(36px,9.5vw,42px)}.aj-service-links{grid-template-columns:1fr 1fr;gap:4px 20px;margin-bottom:24px}.aj-service-links a{font-size:17px}.aj-dev-slot{font-size:11px}}
+@media(max-width:700px){.about-journal{font-size:17px;line-height:1.6}.about-journal .aj-section{padding:44px var(--gutter)}.about-journal h1{font-size:clamp(48px,13vw,58px)}.about-journal h2{font-size:clamp(29px,8vw,34px);margin-bottom:24px}.about-journal .aj-label{font-size:13px;margin-bottom:18px}.about-journal p{margin-bottom:18px;max-width:none}.about-journal .aj-hero{display:grid;grid-template-columns:1fr;gap:28px;padding-top:26px;padding-bottom:36px}.aj-hero h1{margin-bottom:16px}.aj-hero .aj-profession{font-size:16px;margin-bottom:26px;max-width:none}.aj-hero .aj-hero-quote{font-size:28px;margin-bottom:20px;max-width:23ch}.aj-desktop-break{display:none}.aj-hero .aj-geography{font-size:13px}.aj-portrait .aj-photo-frame{aspect-ratio:1.05}.about-journal .aj-origin{padding:40px var(--gutter)}.aj-origin{grid-template-columns:1fr;gap:26px}.aj-travel{width:90%;justify-self:end}.aj-photo figcaption{font-size:13px;margin-top:8px}.aj-encounters-heading{margin:0 0 28px}.aj-encounters-heading h2{margin:0;max-width:22ch}.aj-encounters-layout{display:flex;flex-direction:column;gap:28px}.aj-encounters-copy{order:0}.aj-archive{order:1;width:100%;padding:0;gap:22px}.aj-ceremony{width:100%}.aj-ceremony figcaption{max-width:none}.aj-ceremony .aj-photo-frame{aspect-ratio:4/5}.aj-small-archive{width:74%;margin-top:0!important}.aj-statement{padding:42px var(--gutter)}.aj-statement>p:first-child{font-size:clamp(42px,11.2vw,50px);margin-bottom:20px}.aj-statement .aj-statement-support{font-size:15px;max-width:26ch;margin:auto}.aj-therapist-heading{margin-bottom:26px}.aj-therapist-layout{grid-template-columns:1fr;gap:28px}.aj-therapist .aj-intimate{font-size:21px;margin-bottom:20px}.aj-practice{margin-top:0!important;width:100%}.aj-practice .aj-photo-frame{aspect-ratio:4/5}.aj-training-layout{display:flex;flex-direction:column;gap:30px}.aj-training-item{grid-template-columns:1fr;gap:10px;margin-top:24px}.aj-training-item:first-child{margin-top:2px}.aj-training-item h3{font-size:14px;max-width:28ch}.aj-training-item p,.aj-training-item li,.aj-training-item a{font-size:17px}.aj-study{width:74%;align-self:end;margin-top:0!important}.about-journal .aj-gaia{grid-template-columns:1fr;gap:30px}.aj-gaia h2{font-size:30px;margin-bottom:24px}.aj-gaia-wordmark{font-size:130px;margin-top:0}.aj-gaia .aj-gaia-lead{font-size:21px}.aj-gaia .aj-gaia-power{font-size:23px}.aj-gaia .aj-gaia-closing{font-size:28px;margin-top:26px}.about-journal .aj-ending{grid-template-columns:1fr;gap:34px}.aj-now .aj-photo-frame{aspect-ratio:1.15}.aj-ending h2{font-size:clamp(36px,9.5vw,42px)}.aj-service-links{grid-template-columns:1fr 1fr;gap:4px 20px;margin-bottom:24px}.aj-service-links a{font-size:17px}.aj-dev-slot{font-size:11px}}
