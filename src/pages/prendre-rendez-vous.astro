@@ -11,7 +11,7 @@ const practices = [['Acupuncture traditionnelle','acupuncture'],['Aculift','acul
 <h1 id="booking-title">Prendre<br class="bk-desktop-break"/> rendez-vous<span>.</span></h1>
 <div class="bk-intro"><p>Pour le moment, les rendez-vous se prennent directement avec moi sur WhatsApp.</p><p>Les lieux et disponibilités peuvent varier selon les périodes — je vous confirme tout directement.</p></div>
 <a class="button bk-whatsapp" href={bookingLink}>Écrire sur WhatsApp <span aria-hidden="true">↗</span></a>
-<p class="bk-cities">Paris · Val-d’Oise · Goa</p><p class="bk-location-note">Les lieux de consultation varient selon mes périodes de présence et mes collaborations.</p>
+<p class="bk-cities">Paris · Val-d’Oise · Goa — selon mes périodes de présence.</p>
 </section>
 <section class="bk-practices bk-section" aria-labelledby="practice-title"><div><h2 id="practice-title">Pour quelle pratique ?</h2></div><ul>{practices.map(([title,slug])=><li><a href={`/fr/${slug}/`}>{title}<span aria-hidden="true">↗</span></a></li>)}</ul><p class="bk-note">Vous ne savez pas quelle approche choisir ? Écrivez-moi simplement ce qui vous amène, et nous verrons ensemble ce qui semble le plus adapté.</p></section>
 <section class="bk-how bk-section" aria-labelledby="how-title"><h2 id="how-title">Comment ça se passe ?</h2><ol><li>Écrivez-moi sur WhatsApp.</li><li>Dites-moi la pratique qui vous intéresse et, si vous le souhaitez, en quelques mots ce qui vous amène.</li><li>Je vous propose un créneau et vous confirme le lieu.</li></ol></section>

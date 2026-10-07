@@ -14,5 +14,16 @@
 .bk-closing{background:var(--violet);display:flex;align-items:center;justify-content:space-between;gap:40px;padding-top:64px;padding-bottom:64px}.bk-closing h2{color:var(--bk-cream);font-size:clamp(42px,4.8vw,64px)}.bk-closing p{color:var(--bk-cream);font-size:18px;margin-top:18px}.booking-page .bk-closing .button{background:var(--bk-cream);color:var(--violet);flex-shrink:0}.booking-page a:focus-visible{outline:3px solid var(--orange);outline-offset:5px}.booking-page [aria-disabled=true]{opacity:.65;cursor:default}
 @media(max-width:800px){.bk-hero{display:block;padding-top:32px;padding-bottom:40px}.bk-desktop-break{display:none}.bk-intro{margin-top:24px;font-size:17px}.bk-hero .button{margin-top:22px}.bk-section{padding-top:40px;padding-bottom:40px}.bk-practices{grid-template-columns:1fr;gap:24px}.bk-practices a{font-size:19px;min-height:52px}.bk-how ol{grid-template-columns:1fr;gap:20px;margin:26px 0 28px;font-size:17px}.bk-closing{display:block}.bk-closing .button{margin-top:26px}.bk-closing p{font-size:17px}.booking-page .bk-label{font-size:12px;margin-bottom:16px}}
 
-.booking-page .bk-location-note{grid-column:2;font-size:14px;line-height:1.5;max-width:500px;margin-top:8px;color:#514951}.bk-practices .bk-note{grid-column:2;margin-top:20px}.bk-practices{row-gap:0}
-@media(max-width:800px){.bk-practices{row-gap:24px}.bk-practices .bk-note{grid-column:1;margin-top:0}.booking-page .bk-location-note{font-size:13px;max-width:350px}.bk-closing .bk-whatsapp{width:100%}}
+.bk-practices .bk-note{grid-column:2;margin-top:20px}.bk-practices{row-gap:0}
+@media(max-width:800px){.bk-practices{row-gap:24px}.bk-practices .bk-note{grid-column:1;margin-top:0}.bk-closing .bk-whatsapp{width:100%}}
+
+/* Small movement and more natural spacing, confined to the booking page. */
+.bk-practices a span{transition:transform 140ms ease-out}
+.bk-practices a:hover span,.bk-practices a:focus-visible span{transform:translateX(4px)}
+.bk-how ol{column-gap:48px;align-items:start}
+.bk-how li{padding-right:12px}
+.booking-page .bk-whatsapp{transition:background-color 140ms ease-out, color 140ms ease-out}
+.booking-page .bk-hero .bk-whatsapp:hover{background:#4711C7}
+.booking-page .bk-closing .bk-whatsapp:hover{background:#FFE6AE;color:var(--violet)}
+@media(max-width:800px){.bk-how ol{row-gap:22px}.bk-how li{padding-right:0}.booking-page .bk-cities{line-height:1.5;max-width:360px}}
+@media(prefers-reduced-motion:reduce){.bk-practices a span,.booking-page .bk-whatsapp{transition:none}.bk-practices a:hover span,.bk-practices a:focus-visible span{transform:none}}
