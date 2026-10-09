@@ -1,0 +1,26 @@
+[
+  {
+    "lang": "fr",
+    "exactCopy": true,
+    "whatsAppNumberUnchanged": true,
+    "prefill": "Bonjour Lauriane, je souhaiterais prendre rendez-vous. Pouvez-vous me dire vos prochaines disponibilités ?",
+    "practiceLinks": [
+      "/fr/acupuncture/",
+      "/fr/aculift/",
+      "/fr/pranic-healing/",
+      "/fr/sante-feminine/"
+    ]
+  },
+  {
+    "lang": "en",
+    "exactCopy": true,
+    "whatsAppNumberUnchanged": true,
+    "prefill": "Hi Lauriane, I’d like to book an appointment. Could you let me know your next availabilities?",
+    "practiceLinks": [
+      "/en/acupuncture/",
+      "/en/aculift/",
+      "/en/pranic-healing/",
+      "/en/womens-health/"
+    ]
+  }
+]
