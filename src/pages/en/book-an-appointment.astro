@@ -2,7 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import {englishBookingLink as bookingLink} from '../../data/booking';
 import '../../styles/booking-system.css';
-const practices = [['Traditional Acupuncture','acupuncture'],['Aculift','aculift'],['Pranic Healing','pranic-healing'],['Women’s Health','womens-health']];
+const practices = [['Traditional Acupuncture','acupuncture'],['Aculift','aculift'],['Pranic Healing','pranic-healing']];
 ---
 <Base lang="en" page="contact" title="Book an appointment — GAIA by Lauriane" booking>
 <div class="booking-page">
@@ -13,8 +13,8 @@ const practices = [['Traditional Acupuncture','acupuncture'],['Aculift','aculift
 <a class="button bk-whatsapp" href={bookingLink}>Message me on WhatsApp <span aria-hidden="true">↗</span></a>
 <p class="bk-cities">Paris · Val-d’Oise · Goa — depending on where I am.</p>
 </section>
-<section class="bk-practices bk-section" aria-labelledby="practice-title"><div><h2 id="practice-title">Which practice?</h2></div><ul>{practices.map(([title,slug])=><li><a href={`/en/${slug}/`}>{title}<span aria-hidden="true">↗</span></a></li>)}</ul><p class="bk-note">Not sure what to choose? Just tell me what brings you in and we’ll figure it out together.</p></section>
+<section class="bk-practices bk-section" aria-labelledby="practice-title"><div><h2 id="practice-title">Which practice?</h2></div><ul>{practices.map(([title,slug])=><li><a href={`/en/${slug}/`}>{title}<span aria-hidden="true">↗</span></a></li>)}</ul><p class="bk-note">Not sure what to choose? Just tell me what brings you in.</p></section>
 <section class="bk-how bk-section" aria-labelledby="how-title"><h2 id="how-title">How does it work?</h2><ol><li>Message me on WhatsApp.</li><li>Tell me what brings you in and, if you already know, which practice you’re interested in.</li><li>I’ll suggest a time and confirm the location.</li></ol></section>
-<section class="bk-closing bk-section" aria-labelledby="closing-title"><div><h2 id="closing-title">Want to talk about it?</h2><p>Send me a message and we’ll figure it out together.</p></div><a class="button bk-whatsapp" href={bookingLink}>Message me on WhatsApp <span aria-hidden="true">↗</span></a></section>
+<section class="bk-closing bk-section" aria-labelledby="closing-title"><div><h2 id="closing-title">Want to talk about it?</h2><p>Send me a message.</p></div><a class="button bk-whatsapp" href={bookingLink}>Message me on WhatsApp <span aria-hidden="true">↗</span></a></section>
 </div>
 </Base>

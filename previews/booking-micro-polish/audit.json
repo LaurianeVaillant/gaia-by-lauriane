@@ -1,0 +1,3411 @@
+[
+  {
+    "page": "fr",
+    "path": "/prendre-rendez-vous/",
+    "width": 1440,
+    "height": 1539,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Prendre rendez-vous.",
+        "x": 80,
+        "y": 196.1875,
+        "w": 596.609375,
+        "h": 181.4375,
+        "size": "84px",
+        "line": "90.72px"
+      },
+      {
+        "text": "Pour quelle pratique ?",
+        "x": 80,
+        "y": 563.765625,
+        "w": 582.40625,
+        "h": 45.359375,
+        "size": "42px",
+        "line": "45.36px"
+      },
+      {
+        "text": "Comment ça se passe ?",
+        "x": 80,
+        "y": 920.140625,
+        "w": 1280,
+        "h": 45.359375,
+        "size": "42px",
+        "line": "45.36px"
+      },
+      {
+        "text": "On en parle ?",
+        "x": 80,
+        "y": 1179.09375,
+        "w": 377.1875,
+        "h": 69.109375,
+        "size": "64px",
+        "line": "69.12px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "PRENDRE RENDEZ-VOUS",
+        "size": "13px"
+      },
+      {
+        "text": "© 2026 GAIA by LaurianePratiques complémentaires, sans substitution au suivi médical.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [],
+    "images": [],
+    "sections": [
+      {
+        "class": "bk-hero",
+        "x": 0,
+        "y": 100,
+        "w": 1440,
+        "h": 403.765625,
+        "padding": [
+          "58px",
+          "64px"
+        ]
+      },
+      {
+        "class": "bk-practices bk-section",
+        "x": 0,
+        "y": 503.765625,
+        "w": 1440,
+        "h": 356.375,
+        "padding": [
+          "60px",
+          "60px"
+        ]
+      },
+      {
+        "class": "bk-how bk-section",
+        "x": 0,
+        "y": 860.140625,
+        "w": 1440,
+        "h": 254.953125,
+        "padding": [
+          "60px",
+          "60px"
+        ]
+      },
+      {
+        "class": "bk-closing bk-section",
+        "x": 0,
+        "y": 1115.09375,
+        "w": 1440,
+        "h": 243.90625,
+        "padding": [
+          "64px",
+          "64px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLiens\n\n© 2026 GAIA by Lauriane\nPratiques complémentaires, sans substitution au suivi médical.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Prendre rendez-vous.",
+          "lines": [
+            "Prendre",
+            "rendez-vous."
+          ]
+        },
+        {
+          "text": "Pour quelle pratique ?",
+          "lines": [
+            "Pour quelle pratique ?"
+          ]
+        },
+        {
+          "text": "Comment ça se passe ?",
+          "lines": [
+            "Comment ça se passe ?"
+          ]
+        },
+        {
+          "text": "On en parle ?",
+          "lines": [
+            "On en parle ?"
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Liens",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Santé féminine",
+          "h": 44
+        },
+        {
+          "text": "À propos",
+          "h": 44
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(73, 64, 78)",
+        "rgb(255, 244, 199)",
+        "rgb(74, 74, 74)"
+      ],
+      "language": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "booking": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "https://wa.me/33673740261?text=Bonjour%20Lauriane%2C%20je%20souhaiterais%20prendre%20rendez-vous.%20Pouvez-vous%20me%20dire%20vos%20prochaines%20disponibilit%C3%A9s%20%3F",
+        "https://wa.me/33673740261?text=Bonjour%20Lauriane%2C%20je%20souhaiterais%20prendre%20rendez-vous.%20Pouvez-vous%20me%20dire%20vos%20prochaines%20disponibilit%C3%A9s%20%3F"
+      ],
+      "captions": []
+    },
+    "dropdown": {
+      "x": 450.46875,
+      "y": 80,
+      "width": 262,
+      "height": 156
+    },
+    "escape": true
+  },
+  {
+    "page": "fr",
+    "path": "/prendre-rendez-vous/",
+    "width": 1280,
+    "height": 1534,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Prendre rendez-vous.",
+        "x": 64,
+        "y": 196.1875,
+        "w": 536.9375,
+        "h": 171.40625,
+        "size": "79.36px",
+        "line": "85.7088px"
+      },
+      {
+        "text": "Pour quelle pratique ?",
+        "x": 64,
+        "y": 563.765625,
+        "w": 524.15625,
+        "h": 42.859375,
+        "size": "39.68px",
+        "line": "42.8544px"
+      },
+      {
+        "text": "Comment ça se passe ?",
+        "x": 64,
+        "y": 920.140625,
+        "w": 1152,
+        "h": 42.859375,
+        "size": "39.68px",
+        "line": "42.8544px"
+      },
+      {
+        "text": "On en parle ?",
+        "x": 64,
+        "y": 1176.59375,
+        "w": 362.09375,
+        "h": 66.34375,
+        "size": "61.44px",
+        "line": "66.3552px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "PRENDRE RENDEZ-VOUS",
+        "size": "13px"
+      },
+      {
+        "text": "© 2026 GAIA by LaurianePratiques complémentaires, sans substitution au suivi médical.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [],
+    "images": [],
+    "sections": [
+      {
+        "class": "bk-hero",
+        "x": 0,
+        "y": 100,
+        "w": 1280,
+        "h": 403.765625,
+        "padding": [
+          "58px",
+          "64px"
+        ]
+      },
+      {
+        "class": "bk-practices bk-section",
+        "x": 0,
+        "y": 503.765625,
+        "w": 1280,
+        "h": 356.375,
+        "padding": [
+          "60px",
+          "60px"
+        ]
+      },
+      {
+        "class": "bk-how bk-section",
+        "x": 0,
+        "y": 860.140625,
+        "w": 1280,
+        "h": 252.453125,
+        "padding": [
+          "60px",
+          "60px"
+        ]
+      },
+      {
+        "class": "bk-closing bk-section",
+        "x": 0,
+        "y": 1112.59375,
+        "w": 1280,
+        "h": 241.140625,
+        "padding": [
+          "64px",
+          "64px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLiens\n\n© 2026 GAIA by Lauriane\nPratiques complémentaires, sans substitution au suivi médical.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Prendre rendez-vous.",
+          "lines": [
+            "Prendre",
+            "rendez-vous."
+          ]
+        },
+        {
+          "text": "Pour quelle pratique ?",
+          "lines": [
+            "Pour quelle pratique ?"
+          ]
+        },
+        {
+          "text": "Comment ça se passe ?",
+          "lines": [
+            "Comment ça se passe ?"
+          ]
+        },
+        {
+          "text": "On en parle ?",
+          "lines": [
+            "On en parle ?"
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Liens",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Santé féminine",
+          "h": 44
+        },
+        {
+          "text": "À propos",
+          "h": 44
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(73, 64, 78)",
+        "rgb(255, 244, 199)",
+        "rgb(74, 74, 74)"
+      ],
+      "language": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "booking": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "https://wa.me/33673740261?text=Bonjour%20Lauriane%2C%20je%20souhaiterais%20prendre%20rendez-vous.%20Pouvez-vous%20me%20dire%20vos%20prochaines%20disponibilit%C3%A9s%20%3F",
+        "https://wa.me/33673740261?text=Bonjour%20Lauriane%2C%20je%20souhaiterais%20prendre%20rendez-vous.%20Pouvez-vous%20me%20dire%20vos%20prochaines%20disponibilit%C3%A9s%20%3F"
+      ],
+      "captions": []
+    },
+    "dropdown": {
+      "x": 376.28125,
+      "y": 80,
+      "width": 262,
+      "height": 156
+    },
+    "escape": true
+  },
+  {
+    "page": "fr",
+    "path": "/prendre-rendez-vous/",
+    "width": 1024,
+    "height": 1550,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Prendre rendez-vous.",
+        "x": 40,
+        "y": 176.1875,
+        "w": 439.984375,
+        "h": 137.125,
+        "size": "63.488px",
+        "line": "68.567px"
+      },
+      {
+        "text": "Pour quelle pratique ?",
+        "x": 40,
+        "y": 572.5625,
+        "w": 429.515625,
+        "h": 34.28125,
+        "size": "31.744px",
+        "line": "34.2835px"
+      },
+      {
+        "text": "Comment ça se passe ?",
+        "x": 40,
+        "y": 928.9375,
+        "w": 944,
+        "h": 34.28125,
+        "size": "31.744px",
+        "line": "34.2835px"
+      },
+      {
+        "text": "On en parle ?",
+        "x": 40,
+        "y": 1205.609375,
+        "w": 289.671875,
+        "h": 53.078125,
+        "size": "49.152px",
+        "line": "53.0842px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "PRENDRE RENDEZ-VOUS",
+        "size": "13px"
+      },
+      {
+        "text": "© 2026 GAIA by LaurianePratiques complémentaires, sans substitution au suivi médical.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Pratiques",
+        "x": 964.46875,
+        "y": 158,
+        "w": 103.78125,
+        "h": 44
+      },
+      {
+        "text": "Acupuncture traditionnelle",
+        "x": 982.46875,
+        "y": 206,
+        "w": 85.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "Aculift",
+        "x": 982.46875,
+        "y": 277.1875,
+        "w": 85.78125,
+        "h": 45.59375
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 982.46875,
+        "y": 322.78125,
+        "w": 85.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "Santé féminine",
+        "x": 964.46875,
+        "y": 206,
+        "w": 103.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "À propos",
+        "x": 964.46875,
+        "y": 281.1875,
+        "w": 103.78125,
+        "h": 45.59375
+      },
+      {
+        "text": "FR/EN",
+        "x": 964.46875,
+        "y": 330.78125,
+        "w": 103.78125,
+        "h": 44
+      },
+      {
+        "text": "Prendre rendez-vous",
+        "x": 964.46875,
+        "y": 386.78125,
+        "w": 103.78125,
+        "h": 95.390625
+      }
+    ],
+    "images": [],
+    "sections": [
+      {
+        "class": "bk-hero",
+        "x": 0,
+        "y": 80,
+        "w": 1024,
+        "h": 432.5625,
+        "padding": [
+          "58px",
+          "64px"
+        ]
+      },
+      {
+        "class": "bk-practices bk-section",
+        "x": 0,
+        "y": 512.5625,
+        "w": 1024,
+        "h": 356.375,
+        "padding": [
+          "60px",
+          "60px"
+        ]
+      },
+      {
+        "class": "bk-how bk-section",
+        "x": 0,
+        "y": 868.9375,
+        "w": 1024,
+        "h": 272.671875,
+        "padding": [
+          "60px",
+          "60px"
+        ]
+      },
+      {
+        "class": "bk-closing bk-section",
+        "x": 0,
+        "y": 1141.609375,
+        "w": 1024,
+        "h": 227.875,
+        "padding": [
+          "64px",
+          "64px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLiens\n\n© 2026 GAIA by Lauriane\nPratiques complémentaires, sans substitution au suivi médical.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Prendre rendez-vous.",
+          "lines": [
+            "Prendre",
+            "rendez-vous."
+          ]
+        },
+        {
+          "text": "Pour quelle pratique ?",
+          "lines": [
+            "Pour quelle pratique ?"
+          ]
+        },
+        {
+          "text": "Comment ça se passe ?",
+          "lines": [
+            "Comment ça se passe ?"
+          ]
+        },
+        {
+          "text": "On en parle ?",
+          "lines": [
+            "On en parle ?"
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Liens",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Santé féminine",
+          "h": 0
+        },
+        {
+          "text": "À propos",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(73, 64, 78)",
+        "rgb(255, 244, 199)",
+        "rgb(74, 74, 74)"
+      ],
+      "language": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "booking": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "https://wa.me/33673740261?text=Bonjour%20Lauriane%2C%20je%20souhaiterais%20prendre%20rendez-vous.%20Pouvez-vous%20me%20dire%20vos%20prochaines%20disponibilit%C3%A9s%20%3F",
+        "https://wa.me/33673740261?text=Bonjour%20Lauriane%2C%20je%20souhaiterais%20prendre%20rendez-vous.%20Pouvez-vous%20me%20dire%20vos%20prochaines%20disponibilit%C3%A9s%20%3F"
+      ],
+      "captions": []
+    },
+    "nav": {
+      "w": 1024,
+      "h": 439.96875,
+      "scroll": 440,
+      "client": 440,
+      "links": [
+        {
+          "label": "Acupuncture traditionnelle",
+          "height": 45.59375
+        },
+        {
+          "label": "Aculift",
+          "height": 45.59375
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 45.59375
+        },
+        {
+          "label": "Santé féminine",
+          "height": 45.59375
+        },
+        {
+          "label": "À propos",
+          "height": 45.59375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Prendre rendez-vous",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "fr",
+    "path": "/prendre-rendez-vous/",
+    "width": 768,
+    "height": 1578,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Prendre rendez-vous.",
+        "x": 24,
+        "y": 144.796875,
+        "w": 720,
+        "h": 51.828125,
+        "size": "48px",
+        "line": "51.84px"
+      },
+      {
+        "text": "Pour quelle pratique ?",
+        "x": 24,
+        "y": 555.375,
+        "w": 720,
+        "h": 32.390625,
+        "size": "30px",
+        "line": "32.4px"
+      },
+      {
+        "text": "Comment ça se passe ?",
+        "x": 24,
+        "y": 898.953125,
+        "w": 720,
+        "h": 32.390625,
+        "size": "30px",
+        "line": "32.4px"
+      },
+      {
+        "text": "On en parle ?",
+        "x": 24,
+        "y": 1190.90625,
+        "w": 720,
+        "h": 45.359375,
+        "size": "42px",
+        "line": "45.36px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "PRENDRE RENDEZ-VOUS",
+        "size": "12px"
+      },
+      {
+        "text": "© 2026 GAIA by LaurianePratiques complémentaires, sans substitution au suivi médical.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Pratiques",
+        "x": 708.46875,
+        "y": 158,
+        "w": 103.78125,
+        "h": 44
+      },
+      {
+        "text": "Acupuncture traditionnelle",
+        "x": 726.46875,
+        "y": 206,
+        "w": 85.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "Aculift",
+        "x": 726.46875,
+        "y": 277.1875,
+        "w": 85.78125,
+        "h": 45.59375
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 726.46875,
+        "y": 322.78125,
+        "w": 85.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "Santé féminine",
+        "x": 708.46875,
+        "y": 206,
+        "w": 103.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "À propos",
+        "x": 708.46875,
+        "y": 281.1875,
+        "w": 103.78125,
+        "h": 45.59375
+      },
+      {
+        "text": "FR/EN",
+        "x": 708.46875,
+        "y": 330.78125,
+        "w": 103.78125,
+        "h": 44
+      },
+      {
+        "text": "Prendre rendez-vous",
+        "x": 708.46875,
+        "y": 386.78125,
+        "w": 103.78125,
+        "h": 95.390625
+      }
+    ],
+    "images": [],
+    "sections": [
+      {
+        "class": "bk-hero",
+        "x": 0,
+        "y": 80,
+        "w": 768,
+        "h": 435.375,
+        "padding": [
+          "32px",
+          "40px"
+        ]
+      },
+      {
+        "class": "bk-practices bk-section",
+        "x": 0,
+        "y": 515.375,
+        "w": 768,
+        "h": 343.578125,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "bk-how bk-section",
+        "x": 0,
+        "y": 858.953125,
+        "w": 768,
+        "h": 291.953125,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "bk-closing bk-section",
+        "x": 0,
+        "y": 1150.90625,
+        "w": 768,
+        "h": 246.546875,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLiens\n\n© 2026 GAIA by Lauriane\nPratiques complémentaires, sans substitution au suivi médical.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Prendre rendez-vous.",
+          "lines": [
+            "Prendre rendez-vous."
+          ]
+        },
+        {
+          "text": "Pour quelle pratique ?",
+          "lines": [
+            "Pour quelle pratique ?"
+          ]
+        },
+        {
+          "text": "Comment ça se passe ?",
+          "lines": [
+            "Comment ça se passe ?"
+          ]
+        },
+        {
+          "text": "On en parle ?",
+          "lines": [
+            "On en parle ?"
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Liens",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Santé féminine",
+          "h": 0
+        },
+        {
+          "text": "À propos",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(73, 64, 78)",
+        "rgb(255, 244, 199)",
+        "rgb(74, 74, 74)"
+      ],
+      "language": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "booking": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "https://wa.me/33673740261?text=Bonjour%20Lauriane%2C%20je%20souhaiterais%20prendre%20rendez-vous.%20Pouvez-vous%20me%20dire%20vos%20prochaines%20disponibilit%C3%A9s%20%3F",
+        "https://wa.me/33673740261?text=Bonjour%20Lauriane%2C%20je%20souhaiterais%20prendre%20rendez-vous.%20Pouvez-vous%20me%20dire%20vos%20prochaines%20disponibilit%C3%A9s%20%3F"
+      ],
+      "captions": []
+    },
+    "nav": {
+      "w": 768,
+      "h": 439.96875,
+      "scroll": 440,
+      "client": 440,
+      "links": [
+        {
+          "label": "Acupuncture traditionnelle",
+          "height": 45.59375
+        },
+        {
+          "label": "Aculift",
+          "height": 45.59375
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 45.59375
+        },
+        {
+          "label": "Santé féminine",
+          "height": 45.59375
+        },
+        {
+          "label": "À propos",
+          "height": 45.59375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Prendre rendez-vous",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "fr",
+    "path": "/prendre-rendez-vous/",
+    "width": 430,
+    "height": 1908,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Prendre rendez-vous.",
+        "x": 20,
+        "y": 144.796875,
+        "w": 390,
+        "h": 103.65625,
+        "size": "48px",
+        "line": "51.84px"
+      },
+      {
+        "text": "Pour quelle pratique ?",
+        "x": 20,
+        "y": 634.390625,
+        "w": 390,
+        "h": 32.390625,
+        "size": "30px",
+        "line": "32.4px"
+      },
+      {
+        "text": "Comment ça se passe ?",
+        "x": 20,
+        "y": 1005.15625,
+        "w": 390,
+        "h": 32.390625,
+        "size": "30px",
+        "line": "32.4px"
+      },
+      {
+        "text": "On en parle ?",
+        "x": 20,
+        "y": 1351.484375,
+        "w": 390,
+        "h": 45.359375,
+        "size": "42px",
+        "line": "45.36px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "PRENDRE RENDEZ-VOUS",
+        "size": "12px"
+      },
+      {
+        "text": "© 2026 GAIA by LaurianePratiques complémentaires, sans substitution au suivi médical.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Pratiques",
+        "x": 370.46875,
+        "y": 158,
+        "w": 103.78125,
+        "h": 44
+      },
+      {
+        "text": "Acupuncture traditionnelle",
+        "x": 388.46875,
+        "y": 206,
+        "w": 85.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "Aculift",
+        "x": 388.46875,
+        "y": 277.1875,
+        "w": 85.78125,
+        "h": 45.59375
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 388.46875,
+        "y": 322.78125,
+        "w": 85.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "Santé féminine",
+        "x": 370.46875,
+        "y": 206,
+        "w": 103.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "À propos",
+        "x": 370.46875,
+        "y": 281.1875,
+        "w": 103.78125,
+        "h": 45.59375
+      },
+      {
+        "text": "FR/EN",
+        "x": 370.46875,
+        "y": 330.78125,
+        "w": 103.78125,
+        "h": 44
+      },
+      {
+        "text": "Prendre rendez-vous",
+        "x": 370.46875,
+        "y": 386.78125,
+        "w": 103.78125,
+        "h": 95.390625
+      }
+    ],
+    "images": [],
+    "sections": [
+      {
+        "class": "bk-hero",
+        "x": 0,
+        "y": 80,
+        "w": 430,
+        "h": 514.390625,
+        "padding": [
+          "32px",
+          "40px"
+        ]
+      },
+      {
+        "class": "bk-practices bk-section",
+        "x": 0,
+        "y": 594.390625,
+        "w": 430,
+        "h": 370.765625,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "bk-how bk-section",
+        "x": 0,
+        "y": 965.15625,
+        "w": 430,
+        "h": 346.328125,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "bk-closing bk-section",
+        "x": 0,
+        "y": 1311.484375,
+        "w": 430,
+        "h": 246.546875,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLiens\n\n© 2026 GAIA by Lauriane\nPratiques complémentaires, sans substitution au suivi médical.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Prendre rendez-vous.",
+          "lines": [
+            "Prendre rendez-",
+            "vous."
+          ]
+        },
+        {
+          "text": "Pour quelle pratique ?",
+          "lines": [
+            "Pour quelle pratique ?"
+          ]
+        },
+        {
+          "text": "Comment ça se passe ?",
+          "lines": [
+            "Comment ça se passe ?"
+          ]
+        },
+        {
+          "text": "On en parle ?",
+          "lines": [
+            "On en parle ?"
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Liens",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Santé féminine",
+          "h": 0
+        },
+        {
+          "text": "À propos",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(73, 64, 78)",
+        "rgb(255, 244, 199)",
+        "rgb(74, 74, 74)"
+      ],
+      "language": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "booking": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "https://wa.me/33673740261?text=Bonjour%20Lauriane%2C%20je%20souhaiterais%20prendre%20rendez-vous.%20Pouvez-vous%20me%20dire%20vos%20prochaines%20disponibilit%C3%A9s%20%3F",
+        "https://wa.me/33673740261?text=Bonjour%20Lauriane%2C%20je%20souhaiterais%20prendre%20rendez-vous.%20Pouvez-vous%20me%20dire%20vos%20prochaines%20disponibilit%C3%A9s%20%3F"
+      ],
+      "captions": []
+    },
+    "nav": {
+      "w": 430,
+      "h": 439.96875,
+      "scroll": 440,
+      "client": 440,
+      "links": [
+        {
+          "label": "Acupuncture traditionnelle",
+          "height": 45.59375
+        },
+        {
+          "label": "Aculift",
+          "height": 45.59375
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 45.59375
+        },
+        {
+          "label": "Santé féminine",
+          "height": 45.59375
+        },
+        {
+          "label": "À propos",
+          "height": 45.59375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Prendre rendez-vous",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "fr",
+    "path": "/prendre-rendez-vous/",
+    "width": 390,
+    "height": 1963,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Prendre rendez-vous.",
+        "x": 20,
+        "y": 144.796875,
+        "w": 350,
+        "h": 103.65625,
+        "size": "48px",
+        "line": "51.84px"
+      },
+      {
+        "text": "Pour quelle pratique ?",
+        "x": 20,
+        "y": 661.578125,
+        "w": 350,
+        "h": 32.390625,
+        "size": "30px",
+        "line": "32.4px"
+      },
+      {
+        "text": "Comment ça se passe ?",
+        "x": 20,
+        "y": 1032.34375,
+        "w": 350,
+        "h": 32.390625,
+        "size": "30px",
+        "line": "32.4px"
+      },
+      {
+        "text": "On en parle ?",
+        "x": 20,
+        "y": 1405.859375,
+        "w": 350,
+        "h": 45.359375,
+        "size": "42px",
+        "line": "45.36px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "PRENDRE RENDEZ-VOUS",
+        "size": "12px"
+      },
+      {
+        "text": "© 2026 GAIA by LaurianePratiques complémentaires, sans substitution au suivi médical.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Pratiques",
+        "x": 330.46875,
+        "y": 158,
+        "w": 103.78125,
+        "h": 44
+      },
+      {
+        "text": "Acupuncture traditionnelle",
+        "x": 348.46875,
+        "y": 206,
+        "w": 85.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "Aculift",
+        "x": 348.46875,
+        "y": 277.1875,
+        "w": 85.78125,
+        "h": 45.59375
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 348.46875,
+        "y": 322.78125,
+        "w": 85.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "Santé féminine",
+        "x": 330.46875,
+        "y": 206,
+        "w": 103.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "À propos",
+        "x": 330.46875,
+        "y": 281.1875,
+        "w": 103.78125,
+        "h": 45.59375
+      },
+      {
+        "text": "FR/EN",
+        "x": 330.46875,
+        "y": 330.78125,
+        "w": 103.78125,
+        "h": 44
+      },
+      {
+        "text": "Prendre rendez-vous",
+        "x": 330.46875,
+        "y": 386.78125,
+        "w": 103.78125,
+        "h": 95.390625
+      }
+    ],
+    "images": [],
+    "sections": [
+      {
+        "class": "bk-hero",
+        "x": 0,
+        "y": 80,
+        "w": 390,
+        "h": 541.578125,
+        "padding": [
+          "32px",
+          "40px"
+        ]
+      },
+      {
+        "class": "bk-practices bk-section",
+        "x": 0,
+        "y": 621.578125,
+        "w": 390,
+        "h": 370.765625,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "bk-how bk-section",
+        "x": 0,
+        "y": 992.34375,
+        "w": 390,
+        "h": 373.515625,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "bk-closing bk-section",
+        "x": 0,
+        "y": 1365.859375,
+        "w": 390,
+        "h": 246.546875,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLiens\n\n© 2026 GAIA by Lauriane\nPratiques complémentaires, sans substitution au suivi médical.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Prendre rendez-vous.",
+          "lines": [
+            "Prendre",
+            "rendez-vous."
+          ]
+        },
+        {
+          "text": "Pour quelle pratique ?",
+          "lines": [
+            "Pour quelle pratique ?"
+          ]
+        },
+        {
+          "text": "Comment ça se passe ?",
+          "lines": [
+            "Comment ça se passe ?"
+          ]
+        },
+        {
+          "text": "On en parle ?",
+          "lines": [
+            "On en parle ?"
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Liens",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Santé féminine",
+          "h": 0
+        },
+        {
+          "text": "À propos",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(73, 64, 78)",
+        "rgb(255, 244, 199)",
+        "rgb(74, 74, 74)"
+      ],
+      "language": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "booking": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "https://wa.me/33673740261?text=Bonjour%20Lauriane%2C%20je%20souhaiterais%20prendre%20rendez-vous.%20Pouvez-vous%20me%20dire%20vos%20prochaines%20disponibilit%C3%A9s%20%3F",
+        "https://wa.me/33673740261?text=Bonjour%20Lauriane%2C%20je%20souhaiterais%20prendre%20rendez-vous.%20Pouvez-vous%20me%20dire%20vos%20prochaines%20disponibilit%C3%A9s%20%3F"
+      ],
+      "captions": []
+    },
+    "nav": {
+      "w": 390,
+      "h": 439.96875,
+      "scroll": 440,
+      "client": 440,
+      "links": [
+        {
+          "label": "Acupuncture traditionnelle",
+          "height": 45.59375
+        },
+        {
+          "label": "Aculift",
+          "height": 45.59375
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 45.59375
+        },
+        {
+          "label": "Santé féminine",
+          "height": 45.59375
+        },
+        {
+          "label": "À propos",
+          "height": 45.59375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Prendre rendez-vous",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "fr",
+    "path": "/prendre-rendez-vous/",
+    "width": 360,
+    "height": 1963,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Prendre rendez-vous.",
+        "x": 20,
+        "y": 144.796875,
+        "w": 320,
+        "h": 103.65625,
+        "size": "48px",
+        "line": "51.84px"
+      },
+      {
+        "text": "Pour quelle pratique ?",
+        "x": 20,
+        "y": 661.578125,
+        "w": 320,
+        "h": 32.390625,
+        "size": "30px",
+        "line": "32.4px"
+      },
+      {
+        "text": "Comment ça se passe ?",
+        "x": 20,
+        "y": 1032.34375,
+        "w": 320,
+        "h": 32.390625,
+        "size": "30px",
+        "line": "32.4px"
+      },
+      {
+        "text": "On en parle ?",
+        "x": 20,
+        "y": 1405.859375,
+        "w": 320,
+        "h": 45.359375,
+        "size": "42px",
+        "line": "45.36px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "PRENDRE RENDEZ-VOUS",
+        "size": "12px"
+      },
+      {
+        "text": "© 2026 GAIA by LaurianePratiques complémentaires, sans substitution au suivi médical.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Pratiques",
+        "x": 300.46875,
+        "y": 158,
+        "w": 103.78125,
+        "h": 44
+      },
+      {
+        "text": "Acupuncture traditionnelle",
+        "x": 318.46875,
+        "y": 206,
+        "w": 85.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "Aculift",
+        "x": 318.46875,
+        "y": 277.1875,
+        "w": 85.78125,
+        "h": 45.59375
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 318.46875,
+        "y": 322.78125,
+        "w": 85.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "Santé féminine",
+        "x": 300.46875,
+        "y": 206,
+        "w": 103.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "À propos",
+        "x": 300.46875,
+        "y": 281.1875,
+        "w": 103.78125,
+        "h": 45.59375
+      },
+      {
+        "text": "FR/EN",
+        "x": 300.46875,
+        "y": 330.78125,
+        "w": 103.78125,
+        "h": 44
+      },
+      {
+        "text": "Prendre rendez-vous",
+        "x": 300.46875,
+        "y": 386.78125,
+        "w": 103.78125,
+        "h": 95.390625
+      }
+    ],
+    "images": [],
+    "sections": [
+      {
+        "class": "bk-hero",
+        "x": 0,
+        "y": 80,
+        "w": 360,
+        "h": 541.578125,
+        "padding": [
+          "32px",
+          "40px"
+        ]
+      },
+      {
+        "class": "bk-practices bk-section",
+        "x": 0,
+        "y": 621.578125,
+        "w": 360,
+        "h": 370.765625,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "bk-how bk-section",
+        "x": 0,
+        "y": 992.34375,
+        "w": 360,
+        "h": 373.515625,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "bk-closing bk-section",
+        "x": 0,
+        "y": 1365.859375,
+        "w": 360,
+        "h": 246.546875,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLiens\n\n© 2026 GAIA by Lauriane\nPratiques complémentaires, sans substitution au suivi médical.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Prendre rendez-vous.",
+          "lines": [
+            "Prendre",
+            "rendez-vous."
+          ]
+        },
+        {
+          "text": "Pour quelle pratique ?",
+          "lines": [
+            "Pour quelle pratique ?"
+          ]
+        },
+        {
+          "text": "Comment ça se passe ?",
+          "lines": [
+            "Comment ça se passe ?"
+          ]
+        },
+        {
+          "text": "On en parle ?",
+          "lines": [
+            "On en parle ?"
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Liens",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Santé féminine",
+          "h": 0
+        },
+        {
+          "text": "À propos",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(73, 64, 78)",
+        "rgb(255, 244, 199)",
+        "rgb(74, 74, 74)"
+      ],
+      "language": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "booking": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "https://wa.me/33673740261?text=Bonjour%20Lauriane%2C%20je%20souhaiterais%20prendre%20rendez-vous.%20Pouvez-vous%20me%20dire%20vos%20prochaines%20disponibilit%C3%A9s%20%3F",
+        "https://wa.me/33673740261?text=Bonjour%20Lauriane%2C%20je%20souhaiterais%20prendre%20rendez-vous.%20Pouvez-vous%20me%20dire%20vos%20prochaines%20disponibilit%C3%A9s%20%3F"
+      ],
+      "captions": []
+    },
+    "nav": {
+      "w": 360,
+      "h": 439.96875,
+      "scroll": 440,
+      "client": 440,
+      "links": [
+        {
+          "label": "Acupuncture traditionnelle",
+          "height": 45.59375
+        },
+        {
+          "label": "Aculift",
+          "height": 45.59375
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 45.59375
+        },
+        {
+          "label": "Santé féminine",
+          "height": 45.59375
+        },
+        {
+          "label": "À propos",
+          "height": 45.59375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Prendre rendez-vous",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "en",
+    "path": "/en/book-an-appointment/",
+    "width": 1440,
+    "height": 1483,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Book an appointment.",
+        "x": 80,
+        "y": 196.1875,
+        "w": 596.609375,
+        "h": 181.4375,
+        "size": "84px",
+        "line": "90.72px"
+      },
+      {
+        "text": "Which practice?",
+        "x": 80,
+        "y": 534.96875,
+        "w": 582.40625,
+        "h": 45.359375,
+        "size": "42px",
+        "line": "45.36px"
+      },
+      {
+        "text": "How does it work?",
+        "x": 80,
+        "y": 864.15625,
+        "w": 1280,
+        "h": 45.359375,
+        "size": "42px",
+        "line": "45.36px"
+      },
+      {
+        "text": "Want to talk about it?",
+        "x": 80,
+        "y": 1123.109375,
+        "w": 622.734375,
+        "h": 69.109375,
+        "size": "64px",
+        "line": "69.12px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "BOOK AN APPOINTMENT",
+        "size": "13px"
+      },
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [],
+    "images": [],
+    "sections": [
+      {
+        "class": "bk-hero",
+        "x": 0,
+        "y": 100,
+        "w": 1440,
+        "h": 374.96875,
+        "padding": [
+          "58px",
+          "64px"
+        ]
+      },
+      {
+        "class": "bk-practices bk-section",
+        "x": 0,
+        "y": 474.96875,
+        "w": 1440,
+        "h": 329.1875,
+        "padding": [
+          "60px",
+          "60px"
+        ]
+      },
+      {
+        "class": "bk-how bk-section",
+        "x": 0,
+        "y": 804.15625,
+        "w": 1440,
+        "h": 254.953125,
+        "padding": [
+          "60px",
+          "60px"
+        ]
+      },
+      {
+        "class": "bk-closing bk-section",
+        "x": 0,
+        "y": 1059.109375,
+        "w": 1440,
+        "h": 243.90625,
+        "padding": [
+          "64px",
+          "64px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLinks\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Book an appointment.",
+          "lines": [
+            "Book an",
+            "appointment."
+          ]
+        },
+        {
+          "text": "Which practice?",
+          "lines": [
+            "Which practice?"
+          ]
+        },
+        {
+          "text": "How does it work?",
+          "lines": [
+            "How does it work?"
+          ]
+        },
+        {
+          "text": "Want to talk about it?",
+          "lines": [
+            "Want to talk about it?"
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 44
+        },
+        {
+          "text": "About",
+          "h": 44
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(73, 64, 78)",
+        "rgb(255, 244, 199)",
+        "rgb(74, 74, 74)"
+      ],
+      "language": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "https://wa.me/33673740261?text=Hi%20Lauriane%2C%20I%E2%80%99d%20like%20to%20book%20an%20appointment.%20Could%20you%20let%20me%20know%20your%20next%20availabilities%3F",
+        "https://wa.me/33673740261?text=Hi%20Lauriane%2C%20I%E2%80%99d%20like%20to%20book%20an%20appointment.%20Could%20you%20let%20me%20know%20your%20next%20availabilities%3F"
+      ],
+      "captions": []
+    },
+    "dropdown": {
+      "x": 454.296875,
+      "y": 80,
+      "width": 262,
+      "height": 156
+    },
+    "escape": true
+  },
+  {
+    "page": "en",
+    "path": "/en/book-an-appointment/",
+    "width": 1280,
+    "height": 1507,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Book an appointment.",
+        "x": 64,
+        "y": 196.1875,
+        "w": 536.9375,
+        "h": 171.40625,
+        "size": "79.36px",
+        "line": "85.7088px"
+      },
+      {
+        "text": "Which practice?",
+        "x": 64,
+        "y": 563.765625,
+        "w": 524.15625,
+        "h": 42.859375,
+        "size": "39.68px",
+        "line": "42.8544px"
+      },
+      {
+        "text": "How does it work?",
+        "x": 64,
+        "y": 892.953125,
+        "w": 1152,
+        "h": 42.859375,
+        "size": "39.68px",
+        "line": "42.8544px"
+      },
+      {
+        "text": "Want to talk about it?",
+        "x": 64,
+        "y": 1149.40625,
+        "w": 597.828125,
+        "h": 66.34375,
+        "size": "61.44px",
+        "line": "66.3552px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "BOOK AN APPOINTMENT",
+        "size": "13px"
+      },
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [],
+    "images": [],
+    "sections": [
+      {
+        "class": "bk-hero",
+        "x": 0,
+        "y": 100,
+        "w": 1280,
+        "h": 403.765625,
+        "padding": [
+          "58px",
+          "64px"
+        ]
+      },
+      {
+        "class": "bk-practices bk-section",
+        "x": 0,
+        "y": 503.765625,
+        "w": 1280,
+        "h": 329.1875,
+        "padding": [
+          "60px",
+          "60px"
+        ]
+      },
+      {
+        "class": "bk-how bk-section",
+        "x": 0,
+        "y": 832.953125,
+        "w": 1280,
+        "h": 252.453125,
+        "padding": [
+          "60px",
+          "60px"
+        ]
+      },
+      {
+        "class": "bk-closing bk-section",
+        "x": 0,
+        "y": 1085.40625,
+        "w": 1280,
+        "h": 241.140625,
+        "padding": [
+          "64px",
+          "64px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLinks\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Book an appointment.",
+          "lines": [
+            "Book an",
+            "appointment."
+          ]
+        },
+        {
+          "text": "Which practice?",
+          "lines": [
+            "Which practice?"
+          ]
+        },
+        {
+          "text": "How does it work?",
+          "lines": [
+            "How does it work?"
+          ]
+        },
+        {
+          "text": "Want to talk about it?",
+          "lines": [
+            "Want to talk about it?"
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 44
+        },
+        {
+          "text": "About",
+          "h": 44
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(73, 64, 78)",
+        "rgb(255, 244, 199)",
+        "rgb(74, 74, 74)"
+      ],
+      "language": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "https://wa.me/33673740261?text=Hi%20Lauriane%2C%20I%E2%80%99d%20like%20to%20book%20an%20appointment.%20Could%20you%20let%20me%20know%20your%20next%20availabilities%3F",
+        "https://wa.me/33673740261?text=Hi%20Lauriane%2C%20I%E2%80%99d%20like%20to%20book%20an%20appointment.%20Could%20you%20let%20me%20know%20your%20next%20availabilities%3F"
+      ],
+      "captions": []
+    },
+    "dropdown": {
+      "x": 380.4375,
+      "y": 80,
+      "width": 262,
+      "height": 156
+    },
+    "escape": true
+  },
+  {
+    "page": "en",
+    "path": "/en/book-an-appointment/",
+    "width": 1024,
+    "height": 1521,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Book an appointment.",
+        "x": 40,
+        "y": 176.1875,
+        "w": 439.984375,
+        "h": 137.125,
+        "size": "63.488px",
+        "line": "68.567px"
+      },
+      {
+        "text": "Which practice?",
+        "x": 40,
+        "y": 543.765625,
+        "w": 429.515625,
+        "h": 34.28125,
+        "size": "31.744px",
+        "line": "34.2835px"
+      },
+      {
+        "text": "How does it work?",
+        "x": 40,
+        "y": 900.140625,
+        "w": 944,
+        "h": 34.28125,
+        "size": "31.744px",
+        "line": "34.2835px"
+      },
+      {
+        "text": "Want to talk about it?",
+        "x": 40,
+        "y": 1176.8125,
+        "w": 478.234375,
+        "h": 53.078125,
+        "size": "49.152px",
+        "line": "53.0842px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "BOOK AN APPOINTMENT",
+        "size": "13px"
+      },
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Practices",
+        "x": 964.46875,
+        "y": 158,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Traditional Acupuncture",
+        "x": 982.46875,
+        "y": 206,
+        "w": 125.296875,
+        "h": 71.1875
+      },
+      {
+        "text": "Aculift",
+        "x": 982.46875,
+        "y": 277.1875,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 982.46875,
+        "y": 322.78125,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Women’s Health",
+        "x": 964.46875,
+        "y": 206,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "About",
+        "x": 964.46875,
+        "y": 255.59375,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "FR/EN",
+        "x": 964.46875,
+        "y": 305.1875,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Book an appointment",
+        "x": 964.46875,
+        "y": 361.1875,
+        "w": 143.296875,
+        "h": 71.59375
+      }
+    ],
+    "images": [],
+    "sections": [
+      {
+        "class": "bk-hero",
+        "x": 0,
+        "y": 80,
+        "w": 1024,
+        "h": 403.765625,
+        "padding": [
+          "58px",
+          "64px"
+        ]
+      },
+      {
+        "class": "bk-practices bk-section",
+        "x": 0,
+        "y": 483.765625,
+        "w": 1024,
+        "h": 356.375,
+        "padding": [
+          "60px",
+          "60px"
+        ]
+      },
+      {
+        "class": "bk-how bk-section",
+        "x": 0,
+        "y": 840.140625,
+        "w": 1024,
+        "h": 272.671875,
+        "padding": [
+          "60px",
+          "60px"
+        ]
+      },
+      {
+        "class": "bk-closing bk-section",
+        "x": 0,
+        "y": 1112.8125,
+        "w": 1024,
+        "h": 227.875,
+        "padding": [
+          "64px",
+          "64px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLinks\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Book an appointment.",
+          "lines": [
+            "Book an",
+            "appointment."
+          ]
+        },
+        {
+          "text": "Which practice?",
+          "lines": [
+            "Which practice?"
+          ]
+        },
+        {
+          "text": "How does it work?",
+          "lines": [
+            "How does it work?"
+          ]
+        },
+        {
+          "text": "Want to talk about it?",
+          "lines": [
+            "Want to talk about it?"
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 0
+        },
+        {
+          "text": "About",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(73, 64, 78)",
+        "rgb(255, 244, 199)",
+        "rgb(74, 74, 74)"
+      ],
+      "language": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "https://wa.me/33673740261?text=Hi%20Lauriane%2C%20I%E2%80%99d%20like%20to%20book%20an%20appointment.%20Could%20you%20let%20me%20know%20your%20next%20availabilities%3F",
+        "https://wa.me/33673740261?text=Hi%20Lauriane%2C%20I%E2%80%99d%20like%20to%20book%20an%20appointment.%20Could%20you%20let%20me%20know%20your%20next%20availabilities%3F"
+      ],
+      "captions": []
+    },
+    "nav": {
+      "w": 1024,
+      "h": 439.96875,
+      "scroll": 440,
+      "client": 440,
+      "links": [
+        {
+          "label": "Traditional Acupuncture",
+          "height": 45.59375
+        },
+        {
+          "label": "Aculift",
+          "height": 45.59375
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 45.59375
+        },
+        {
+          "label": "Women’s Health",
+          "height": 45.59375
+        },
+        {
+          "label": "About",
+          "height": 45.59375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Book an appointment",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "en",
+    "path": "/en/book-an-appointment/",
+    "width": 768,
+    "height": 1530,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Book an appointment.",
+        "x": 24,
+        "y": 144.796875,
+        "w": 720,
+        "h": 51.828125,
+        "size": "48px",
+        "line": "51.84px"
+      },
+      {
+        "text": "Which practice?",
+        "x": 24,
+        "y": 507.1875,
+        "w": 720,
+        "h": 32.390625,
+        "size": "30px",
+        "line": "32.4px"
+      },
+      {
+        "text": "How does it work?",
+        "x": 24,
+        "y": 850.765625,
+        "w": 720,
+        "h": 32.390625,
+        "size": "30px",
+        "line": "32.4px"
+      },
+      {
+        "text": "Want to talk about it?",
+        "x": 24,
+        "y": 1142.71875,
+        "w": 720,
+        "h": 45.359375,
+        "size": "42px",
+        "line": "45.36px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "BOOK AN APPOINTMENT",
+        "size": "12px"
+      },
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Practices",
+        "x": 708.46875,
+        "y": 158,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Traditional Acupuncture",
+        "x": 726.46875,
+        "y": 206,
+        "w": 125.296875,
+        "h": 71.1875
+      },
+      {
+        "text": "Aculift",
+        "x": 726.46875,
+        "y": 277.1875,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 726.46875,
+        "y": 322.78125,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Women’s Health",
+        "x": 708.46875,
+        "y": 206,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "About",
+        "x": 708.46875,
+        "y": 255.59375,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "FR/EN",
+        "x": 708.46875,
+        "y": 305.1875,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Book an appointment",
+        "x": 708.46875,
+        "y": 361.1875,
+        "w": 143.296875,
+        "h": 71.59375
+      }
+    ],
+    "images": [],
+    "sections": [
+      {
+        "class": "bk-hero",
+        "x": 0,
+        "y": 80,
+        "w": 768,
+        "h": 387.1875,
+        "padding": [
+          "32px",
+          "40px"
+        ]
+      },
+      {
+        "class": "bk-practices bk-section",
+        "x": 0,
+        "y": 467.1875,
+        "w": 768,
+        "h": 343.578125,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "bk-how bk-section",
+        "x": 0,
+        "y": 810.765625,
+        "w": 768,
+        "h": 291.953125,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "bk-closing bk-section",
+        "x": 0,
+        "y": 1102.71875,
+        "w": 768,
+        "h": 246.546875,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLinks\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Book an appointment.",
+          "lines": [
+            "Book an appointment."
+          ]
+        },
+        {
+          "text": "Which practice?",
+          "lines": [
+            "Which practice?"
+          ]
+        },
+        {
+          "text": "How does it work?",
+          "lines": [
+            "How does it work?"
+          ]
+        },
+        {
+          "text": "Want to talk about it?",
+          "lines": [
+            "Want to talk about it?"
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 0
+        },
+        {
+          "text": "About",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(73, 64, 78)",
+        "rgb(255, 244, 199)",
+        "rgb(74, 74, 74)"
+      ],
+      "language": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "https://wa.me/33673740261?text=Hi%20Lauriane%2C%20I%E2%80%99d%20like%20to%20book%20an%20appointment.%20Could%20you%20let%20me%20know%20your%20next%20availabilities%3F",
+        "https://wa.me/33673740261?text=Hi%20Lauriane%2C%20I%E2%80%99d%20like%20to%20book%20an%20appointment.%20Could%20you%20let%20me%20know%20your%20next%20availabilities%3F"
+      ],
+      "captions": []
+    },
+    "nav": {
+      "w": 768,
+      "h": 439.96875,
+      "scroll": 440,
+      "client": 440,
+      "links": [
+        {
+          "label": "Traditional Acupuncture",
+          "height": 45.59375
+        },
+        {
+          "label": "Aculift",
+          "height": 45.59375
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 45.59375
+        },
+        {
+          "label": "Women’s Health",
+          "height": 45.59375
+        },
+        {
+          "label": "About",
+          "height": 45.59375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Book an appointment",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "en",
+    "path": "/en/book-an-appointment/",
+    "width": 430,
+    "height": 1906,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Book an appointment.",
+        "x": 20,
+        "y": 144.796875,
+        "w": 390,
+        "h": 103.65625,
+        "size": "48px",
+        "line": "51.84px"
+      },
+      {
+        "text": "Which practice?",
+        "x": 20,
+        "y": 613.390625,
+        "w": 390,
+        "h": 32.390625,
+        "size": "30px",
+        "line": "32.4px"
+      },
+      {
+        "text": "How does it work?",
+        "x": 20,
+        "y": 984.15625,
+        "w": 390,
+        "h": 32.390625,
+        "size": "30px",
+        "line": "32.4px"
+      },
+      {
+        "text": "Want to talk about it?",
+        "x": 20,
+        "y": 1303.296875,
+        "w": 390,
+        "h": 90.71875,
+        "size": "42px",
+        "line": "45.36px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "BOOK AN APPOINTMENT",
+        "size": "12px"
+      },
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Practices",
+        "x": 370.46875,
+        "y": 158,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Traditional Acupuncture",
+        "x": 388.46875,
+        "y": 206,
+        "w": 125.296875,
+        "h": 71.1875
+      },
+      {
+        "text": "Aculift",
+        "x": 388.46875,
+        "y": 277.1875,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 388.46875,
+        "y": 322.78125,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Women’s Health",
+        "x": 370.46875,
+        "y": 206,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "About",
+        "x": 370.46875,
+        "y": 255.59375,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "FR/EN",
+        "x": 370.46875,
+        "y": 305.1875,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Book an appointment",
+        "x": 370.46875,
+        "y": 361.1875,
+        "w": 143.296875,
+        "h": 71.59375
+      }
+    ],
+    "images": [],
+    "sections": [
+      {
+        "class": "bk-hero",
+        "x": 0,
+        "y": 80,
+        "w": 430,
+        "h": 493.390625,
+        "padding": [
+          "32px",
+          "40px"
+        ]
+      },
+      {
+        "class": "bk-practices bk-section",
+        "x": 0,
+        "y": 573.390625,
+        "w": 430,
+        "h": 370.765625,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "bk-how bk-section",
+        "x": 0,
+        "y": 944.15625,
+        "w": 430,
+        "h": 319.140625,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "bk-closing bk-section",
+        "x": 0,
+        "y": 1263.296875,
+        "w": 430,
+        "h": 291.90625,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLinks\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Book an appointment.",
+          "lines": [
+            "Book an",
+            "appointment."
+          ]
+        },
+        {
+          "text": "Which practice?",
+          "lines": [
+            "Which practice?"
+          ]
+        },
+        {
+          "text": "How does it work?",
+          "lines": [
+            "How does it work?"
+          ]
+        },
+        {
+          "text": "Want to talk about it?",
+          "lines": [
+            "Want to talk about",
+            "it?"
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 0
+        },
+        {
+          "text": "About",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(73, 64, 78)",
+        "rgb(255, 244, 199)",
+        "rgb(74, 74, 74)"
+      ],
+      "language": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "https://wa.me/33673740261?text=Hi%20Lauriane%2C%20I%E2%80%99d%20like%20to%20book%20an%20appointment.%20Could%20you%20let%20me%20know%20your%20next%20availabilities%3F",
+        "https://wa.me/33673740261?text=Hi%20Lauriane%2C%20I%E2%80%99d%20like%20to%20book%20an%20appointment.%20Could%20you%20let%20me%20know%20your%20next%20availabilities%3F"
+      ],
+      "captions": []
+    },
+    "nav": {
+      "w": 430,
+      "h": 439.96875,
+      "scroll": 440,
+      "client": 440,
+      "links": [
+        {
+          "label": "Traditional Acupuncture",
+          "height": 45.59375
+        },
+        {
+          "label": "Aculift",
+          "height": 45.59375
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 45.59375
+        },
+        {
+          "label": "Women’s Health",
+          "height": 45.59375
+        },
+        {
+          "label": "About",
+          "height": 45.59375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Book an appointment",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "en",
+    "path": "/en/book-an-appointment/",
+    "width": 390,
+    "height": 1960,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Book an appointment.",
+        "x": 20,
+        "y": 144.796875,
+        "w": 350,
+        "h": 103.65625,
+        "size": "48px",
+        "line": "51.84px"
+      },
+      {
+        "text": "Which practice?",
+        "x": 20,
+        "y": 613.390625,
+        "w": 350,
+        "h": 32.390625,
+        "size": "30px",
+        "line": "32.4px"
+      },
+      {
+        "text": "How does it work?",
+        "x": 20,
+        "y": 984.15625,
+        "w": 350,
+        "h": 32.390625,
+        "size": "30px",
+        "line": "32.4px"
+      },
+      {
+        "text": "Want to talk about it?",
+        "x": 20,
+        "y": 1357.671875,
+        "w": 350,
+        "h": 90.71875,
+        "size": "42px",
+        "line": "45.36px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "BOOK AN APPOINTMENT",
+        "size": "12px"
+      },
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Practices",
+        "x": 330.46875,
+        "y": 158,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Traditional Acupuncture",
+        "x": 348.46875,
+        "y": 206,
+        "w": 125.296875,
+        "h": 71.1875
+      },
+      {
+        "text": "Aculift",
+        "x": 348.46875,
+        "y": 277.1875,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 348.46875,
+        "y": 322.78125,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Women’s Health",
+        "x": 330.46875,
+        "y": 206,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "About",
+        "x": 330.46875,
+        "y": 255.59375,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "FR/EN",
+        "x": 330.46875,
+        "y": 305.1875,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Book an appointment",
+        "x": 330.46875,
+        "y": 361.1875,
+        "w": 143.296875,
+        "h": 71.59375
+      }
+    ],
+    "images": [],
+    "sections": [
+      {
+        "class": "bk-hero",
+        "x": 0,
+        "y": 80,
+        "w": 390,
+        "h": 493.390625,
+        "padding": [
+          "32px",
+          "40px"
+        ]
+      },
+      {
+        "class": "bk-practices bk-section",
+        "x": 0,
+        "y": 573.390625,
+        "w": 390,
+        "h": 370.765625,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "bk-how bk-section",
+        "x": 0,
+        "y": 944.15625,
+        "w": 390,
+        "h": 373.515625,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "bk-closing bk-section",
+        "x": 0,
+        "y": 1317.671875,
+        "w": 390,
+        "h": 291.90625,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLinks\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Book an appointment.",
+          "lines": [
+            "Book an",
+            "appointment."
+          ]
+        },
+        {
+          "text": "Which practice?",
+          "lines": [
+            "Which practice?"
+          ]
+        },
+        {
+          "text": "How does it work?",
+          "lines": [
+            "How does it work?"
+          ]
+        },
+        {
+          "text": "Want to talk about it?",
+          "lines": [
+            "Want to talk",
+            "about it?"
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 0
+        },
+        {
+          "text": "About",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(73, 64, 78)",
+        "rgb(255, 244, 199)",
+        "rgb(74, 74, 74)"
+      ],
+      "language": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "https://wa.me/33673740261?text=Hi%20Lauriane%2C%20I%E2%80%99d%20like%20to%20book%20an%20appointment.%20Could%20you%20let%20me%20know%20your%20next%20availabilities%3F",
+        "https://wa.me/33673740261?text=Hi%20Lauriane%2C%20I%E2%80%99d%20like%20to%20book%20an%20appointment.%20Could%20you%20let%20me%20know%20your%20next%20availabilities%3F"
+      ],
+      "captions": []
+    },
+    "nav": {
+      "w": 390,
+      "h": 439.96875,
+      "scroll": 440,
+      "client": 440,
+      "links": [
+        {
+          "label": "Traditional Acupuncture",
+          "height": 45.59375
+        },
+        {
+          "label": "Aculift",
+          "height": 45.59375
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 45.59375
+        },
+        {
+          "label": "Women’s Health",
+          "height": 45.59375
+        },
+        {
+          "label": "About",
+          "height": 45.59375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Book an appointment",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "en",
+    "path": "/en/book-an-appointment/",
+    "width": 360,
+    "height": 1981,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Book an appointment.",
+        "x": 20,
+        "y": 144.796875,
+        "w": 320,
+        "h": 103.65625,
+        "size": "48px",
+        "line": "51.84px"
+      },
+      {
+        "text": "Which practice?",
+        "x": 20,
+        "y": 634.390625,
+        "w": 320,
+        "h": 32.390625,
+        "size": "30px",
+        "line": "32.4px"
+      },
+      {
+        "text": "How does it work?",
+        "x": 20,
+        "y": 1005.15625,
+        "w": 320,
+        "h": 32.390625,
+        "size": "30px",
+        "line": "32.4px"
+      },
+      {
+        "text": "Want to talk about it?",
+        "x": 20,
+        "y": 1378.671875,
+        "w": 320,
+        "h": 90.71875,
+        "size": "42px",
+        "line": "45.36px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "BOOK AN APPOINTMENT",
+        "size": "12px"
+      },
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Practices",
+        "x": 300.46875,
+        "y": 158,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Traditional Acupuncture",
+        "x": 318.46875,
+        "y": 206,
+        "w": 125.296875,
+        "h": 71.1875
+      },
+      {
+        "text": "Aculift",
+        "x": 318.46875,
+        "y": 277.1875,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 318.46875,
+        "y": 322.78125,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Women’s Health",
+        "x": 300.46875,
+        "y": 206,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "About",
+        "x": 300.46875,
+        "y": 255.59375,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "FR/EN",
+        "x": 300.46875,
+        "y": 305.1875,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Book an appointment",
+        "x": 300.46875,
+        "y": 361.1875,
+        "w": 143.296875,
+        "h": 71.59375
+      }
+    ],
+    "images": [],
+    "sections": [
+      {
+        "class": "bk-hero",
+        "x": 0,
+        "y": 80,
+        "w": 360,
+        "h": 514.390625,
+        "padding": [
+          "32px",
+          "40px"
+        ]
+      },
+      {
+        "class": "bk-practices bk-section",
+        "x": 0,
+        "y": 594.390625,
+        "w": 360,
+        "h": 370.765625,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "bk-how bk-section",
+        "x": 0,
+        "y": 965.15625,
+        "w": 360,
+        "h": 373.515625,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "bk-closing bk-section",
+        "x": 0,
+        "y": 1338.671875,
+        "w": 360,
+        "h": 291.90625,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLinks\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Book an appointment.",
+          "lines": [
+            "Book an",
+            "appointment."
+          ]
+        },
+        {
+          "text": "Which practice?",
+          "lines": [
+            "Which practice?"
+          ]
+        },
+        {
+          "text": "How does it work?",
+          "lines": [
+            "How does it work?"
+          ]
+        },
+        {
+          "text": "Want to talk about it?",
+          "lines": [
+            "Want to talk",
+            "about it?"
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 0
+        },
+        {
+          "text": "About",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(73, 64, 78)",
+        "rgb(255, 244, 199)",
+        "rgb(74, 74, 74)"
+      ],
+      "language": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "https://wa.me/33673740261?text=Hi%20Lauriane%2C%20I%E2%80%99d%20like%20to%20book%20an%20appointment.%20Could%20you%20let%20me%20know%20your%20next%20availabilities%3F",
+        "https://wa.me/33673740261?text=Hi%20Lauriane%2C%20I%E2%80%99d%20like%20to%20book%20an%20appointment.%20Could%20you%20let%20me%20know%20your%20next%20availabilities%3F"
+      ],
+      "captions": []
+    },
+    "nav": {
+      "w": 360,
+      "h": 439.96875,
+      "scroll": 440,
+      "client": 440,
+      "links": [
+        {
+          "label": "Traditional Acupuncture",
+          "height": 45.59375
+        },
+        {
+          "label": "Aculift",
+          "height": 45.59375
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 45.59375
+        },
+        {
+          "label": "Women’s Health",
+          "height": 45.59375
+        },
+        {
+          "label": "About",
+          "height": 45.59375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Book an appointment",
+          "height": 48
+        }
+      ]
+    }
+  }
+]
