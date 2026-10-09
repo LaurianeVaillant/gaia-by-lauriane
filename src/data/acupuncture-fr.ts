@@ -5,7 +5,7 @@ export const acupunctureFr = {
   "approach": [
     "J’aime décrire mon approche de l’acupuncture comme celle d’une détective.",
     "Pendant la séance, je cherche à faire le lien entre les différentes pièces du puzzle : ce que vous ressentez, votre histoire, votre rythme de vie, votre énergie, votre sommeil, votre digestion, vos cycles… bref, vous !",
-    "Une douleur, une fatigue, un stress qui s’installe ou un inconfort fonctionnel ne sortent jamais de nulle part.",
+    "Une douleur, une fatigue, un stress qui s’installe ou un inconfort fonctionnel ne sortent pas forcément de nulle part.",
     "Je m’appuie pour cela sur l’échange, l’observation, la prise des pouls et de la langue.",
     "L’idée n’est pas juste de faire taire un symptôme, mais de comprendre ce qu’il raconte.",
     "Et c’est cette lecture d’ensemble qui guide ensuite ma façon de construire la séance."
@@ -13,7 +13,8 @@ export const acupunctureFr = {
   "network": [
     "Quand j’explique l’acupuncture, je la compare souvent au plan des transports parisiens.",
     "Il y a plusieurs lignes, plusieurs trajets, plusieurs manières de relier un point A à un point B. Mais il y a aussi des contraintes.",
-    "En acupuncture traditionnelle, ces lignes sont les méridiens : des trajets à travers lesquels on décrit la circulation du Qi, l’énergie vitale dans la lecture traditionnelle chinoise. Les contraintes, elles, peuvent être vues comme des blocages énergétiques.",
+    "En acupuncture traditionnelle, ces lignes sont les méridiens : des trajets à travers lesquels on décrit la circulation du Qi, l’énergie vitale dans la lecture traditionnelle chinoise.",
+    "Les contraintes, elles, peuvent être vues comme des blocages énergétiques.",
     "Quand quelque chose se bloque ou circule moins bien, le déséquilibre ne se manifeste pas forcément exactement là où il commence.",
     "C’est aussi pour ça qu’on ne regarde pas seulement “où ça fait mal”, mais comment l’ensemble fonctionne : histoire, sommeil, digestion, émotions, cycle, énergie, rythme de vie, mais aussi adaptation aux saisons et à l’environnement.",
     "L’acupuncture cherche à lire ce réseau, pas seulement un symptôme isolé.",
@@ -22,7 +23,7 @@ export const acupunctureFr = {
   "steps": [
     {
       "title": "ÉCHANGER",
-      "copy": "La première partie de la séance permet de comprendre ce qui vous amène, votre histoire, votre contexte et ce que votre corps exprime aujourd’hui."
+      "copy": "La première partie de la séance permet de comprendre ce qui vous amène, votre histoire et votre contexte."
     },
     {
       "title": "OBSERVER & COMPRENDRE",
@@ -30,7 +31,7 @@ export const acupunctureFr = {
     },
     {
       "title": "AGIR",
-      "copy": "Je construis ensuite la séance à partir de tout ça, en choisissant les points en fonction du bilan du jour et de ce que votre corps exprime."
+      "copy": "Je construis ensuite la séance à partir du bilan du jour, en choisissant les points en fonction de ce que j’ai observé."
     }
   ],
   "reasons": [
