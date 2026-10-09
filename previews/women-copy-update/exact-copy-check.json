@@ -1,0 +1,40 @@
+[
+  {
+    "lang": "fr",
+    "exactCopy": true,
+    "passages": 27,
+    "cycleParagraphs": 2,
+    "hrefs": [
+      "#approche-sante-feminine",
+      "/fr/acupuncture/",
+      "/prendre-rendez-vous/"
+    ],
+    "sections": [
+      "section feminine-hero",
+      "section feminine-why",
+      "section feminine-cycle",
+      "section feminine-topics",
+      "section feminine-development",
+      "final-cta section"
+    ]
+  },
+  {
+    "lang": "en",
+    "exactCopy": true,
+    "passages": 27,
+    "cycleParagraphs": 2,
+    "hrefs": [
+      "#approche-sante-feminine",
+      "/en/acupuncture/",
+      "/en/book-an-appointment/"
+    ],
+    "sections": [
+      "section feminine-hero",
+      "section feminine-why",
+      "section feminine-cycle",
+      "section feminine-topics",
+      "section feminine-development",
+      "final-cta section"
+    ]
+  }
+]
