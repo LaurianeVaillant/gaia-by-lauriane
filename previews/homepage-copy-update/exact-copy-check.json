@@ -1,0 +1,38 @@
+[
+  {
+    "lang": "fr",
+    "approvedPassages": 39,
+    "allCopyPresent": true,
+    "ctaDestinationsUnchanged": true,
+    "sections": [
+      "hero",
+      "manifesto section",
+      "network section",
+      "practices section",
+      "women section",
+      "about section",
+      "power section",
+      "project section",
+      "locations section",
+      "final-cta section"
+    ]
+  },
+  {
+    "lang": "en",
+    "approvedPassages": 41,
+    "allCopyPresent": true,
+    "ctaDestinationsUnchanged": true,
+    "sections": [
+      "hero",
+      "manifesto section",
+      "network section",
+      "practices section",
+      "women section",
+      "about section",
+      "power section",
+      "project section",
+      "locations section",
+      "final-cta section"
+    ]
+  }
+]
