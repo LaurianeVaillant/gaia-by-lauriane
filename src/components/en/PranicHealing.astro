@@ -1,5 +1,6 @@
 ---
 import PranicCirculation from '../PranicCirculation.astro';
+import TextEmphasis from '../TextEmphasis.astro';
 import SoftBoundary from '../SoftBoundary.astro';
 import '../../styles/pranic-system.css';
 import {pranicEn as c} from '../../data/pranic-en';
@@ -19,33 +20,32 @@ import {url} from '../../data/site';
     </g><circle cx="53" cy="354" r="5" fill="var(--orange)"/><circle cx="465" cy="309" r="5" fill="var(--butter)" stroke="var(--violet)" stroke-width="1.6"/>
   </svg>
 </div></section>
-<section class="section pranic-understanding"><div class="pranic-editorial"><h2 class="eyebrow">Understanding <span class="keep-together">Pranic Healing</span></h2><div>{c.understanding.map(p=><p>{p}</p>)}<p class="pranic-framework">The aura and chakras are reference points within the Pranic Healing model here, rather than a description of medical anatomy.</p></div></div></section>
+<section class="section pranic-understanding"><div class="pranic-editorial"><h2 class="eyebrow">Understanding <span class="keep-together">Pranic Healing</span></h2><div>{c.understanding.map(p=><p><TextEmphasis text={p} phrases={c.understandingEmphasis}/></p>)}<p class="pranic-framework">{c.framework}</p></div></div></section>
 <section class="section pranic-origin" aria-labelledby="pranic-origin-title">
   <div class="pranic-origin-module"><h2 id="pranic-origin-title">A method developed by Grand Master Choa Kok Sui</h2>
   <div class="pranic-origin-copy">
-    <p>Modern Pranic Healing was developed by Grand Master Choa Kok Sui in the Philippines.</p>
-    <p>His teaching has since spread internationally and is now present in more than 126 countries.</p>
-    <a class="text-link pranic-origin-link" href="https://pranichealingfrance.com/" target="_blank" rel="noopener noreferrer">Learn more about Pranic Healing and its teaching <span aria-hidden="true">→</span><span class="sr-only"> (opens in a new tab)</span></a>
+    {c.origin.map(p=><p>{p}</p>)}
+    <a class="text-link pranic-origin-link" href="https://pranichealingfrance.com/" target="_blank" rel="noopener noreferrer">Learn more about Pranic Healing and its teachings <span aria-hidden="true">→</span><span class="sr-only"> (opens in a new tab)</span></a>
   </div></div>
 </section>
 <SoftBoundary from="var(--white)" to="#EADCFB" intensity="calm"/>
-<section class="section pranic-network"><div><h2 class="eyebrow">Chakras as roundabouts</h2>{c.network.map(p=><p>{p}</p>)}</div><PranicCirculation/></section>
+<section class="section pranic-network"><div><h2 class="eyebrow">Chakras as roundabouts</h2>{c.network.map(p=><p><TextEmphasis text={p} phrases={c.networkEmphasis}/></p>)}</div><PranicCirculation/></section>
 <SoftBoundary from="#EADCFB" to="var(--white)" intensity="network-out"/>
-<section class="section pranic-reasons"><h2 class="eyebrow">What brings you here?</h2><p>Pranic Healing can offer support with different kinds of concerns as part of a whole-system approach, on its own or alongside acupuncture.</p><ul class="pranic-topic-grid">{c.reasons.map(reason=><li>{reason}</li>)}</ul><p class="pranic-disclaimer">Pranic Healing does not replace a medical diagnosis or ongoing medical care.</p></section>
+<section class="section pranic-reasons"><h2 class="eyebrow">What can it support?</h2><p>{c.reasonsIntro}</p><ul class="pranic-topic-grid">{c.reasons.map(reason=><li>{reason}</li>)}</ul><p class="pranic-disclaimer">Pranic Healing does not replace a medical diagnosis or ongoing medical care.</p></section>
 <section class="section pranic-combined" aria-labelledby="pranic-formats-title">
-  <h2 id="pranic-formats-title">In person, remotely or alongside <span class="keep-together">acupuncture</span></h2>
+  <h2 id="pranic-formats-title">In person, at a distance or alongside <span class="keep-together">acupuncture</span></h2>
   <div class="pranic-format-block">
     <div class="pranic-format-panel pranic-format-presence">
-      <h3>In person or remotely</h3>
+      <h3>In person or at a distance</h3>
       {c.formats.map((p,i)=><p class:list={{'pranic-duration':i===1}}>{p}</p>)}
       <svg class="pranic-format-flow" viewBox="0 0 40 180" fill="none" aria-hidden="true"><path d="M26 4C4 29 5 51 24 71S36 116 17 133S11 162 24 176" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/><circle cx="24" cy="71" r="3.5" fill="var(--orange)"/><circle cx="17" cy="133" r="3.5" fill="var(--white)" stroke="currentColor" stroke-width="1.5"/></svg>
     </div>
     <div class="pranic-format-panel pranic-format-complementary">
       <h3>Alongside <span class="keep-together">acupuncture</span></h3>
       {c.complementary.map(p=><p>{p}</p>)}
-      <a class="text-link" href={url('en','acupuncture')}>Explore traditional acupuncture</a>
+      <a class="text-link" href={url('en','acupuncture')}>Discover Traditional Acupuncture</a>
     </div>
   </div>
 </section>
-<section class="final-cta section"><h2>Book <span class="keep-together cta-word">an appointment</span><span>.</span></h2><p class="pranic-final-support">A session shaped around circulation, energy and what you are going through today.</p><a class="button" href="/en/book-an-appointment/">Book an appointment</a></section>
+<section class="final-cta section"><h2>Book <span class="keep-together cta-word">an appointment</span><span>.</span></h2><p class="pranic-final-support">{c.closingSupport}</p><a class="button" href="/en/book-an-appointment/">Book an appointment</a></section>
 </div>

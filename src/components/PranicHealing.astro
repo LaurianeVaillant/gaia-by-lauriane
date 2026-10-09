@@ -1,5 +1,6 @@
 ---
 import PranicCirculation from './PranicCirculation.astro';
+import TextEmphasis from './TextEmphasis.astro';
 import SoftBoundary from './SoftBoundary.astro';
 import '../styles/pranic-system.css';
 import {pranicFr as c} from '../data/pranic-fr';
@@ -19,19 +20,18 @@ import {url} from '../data/site';
     </g><circle cx="53" cy="354" r="5" fill="var(--orange)"/><circle cx="465" cy="309" r="5" fill="var(--butter)" stroke="var(--violet)" stroke-width="1.6"/>
   </svg>
 </div></section>
-<section class="section pranic-understanding"><div class="pranic-editorial"><h2 class="eyebrow">Comprendre le <span class="keep-together">Pranic Healing</span></h2><div>{c.understanding.map(p=><p>{p}</p>)}<p class="pranic-framework">L’aura et les chakras sont ici des repères du modèle du Pranic Healing, et non une description de l’anatomie médicale.</p></div></div></section>
+<section class="section pranic-understanding"><div class="pranic-editorial"><h2 class="eyebrow">Comprendre le <span class="keep-together">Pranic Healing</span></h2><div>{c.understanding.map(p=><p><TextEmphasis text={p} phrases={c.understandingEmphasis}/></p>)}<p class="pranic-framework">{c.framework}</p></div></div></section>
 <section class="section pranic-origin" aria-labelledby="pranic-origin-title">
   <div class="pranic-origin-module"><h2 id="pranic-origin-title">Une méthode développée par Grand Master Choa Kok Sui</h2>
   <div class="pranic-origin-copy">
-    <p>Le Pranic Healing moderne a été développé par Grand Master Choa Kok Sui, aux Philippines.</p>
-    <p>Son enseignement s’est depuis diffusé internationalement et est aujourd’hui présent dans plus de 126 pays.</p>
+    {c.origin.map(p=><p>{p}</p>)}
     <a class="text-link pranic-origin-link" href="https://pranichealingfrance.com/" target="_blank" rel="noopener noreferrer">En savoir plus sur le Pranic Healing et son enseignement <span aria-hidden="true">→</span><span class="sr-only"> (nouvel onglet)</span></a>
   </div></div>
 </section>
 <SoftBoundary from="var(--white)" to="#EADCFB" intensity="calm"/>
-<section class="section pranic-network"><div><h2 class="eyebrow">Les chakras comme des ronds-points</h2>{c.network.map(p=><p>{p}</p>)}</div><PranicCirculation/></section>
+<section class="section pranic-network"><div><h2 class="eyebrow">Les chakras comme des ronds-points</h2>{c.network.map(p=><p><TextEmphasis text={p} phrases={c.networkEmphasis}/></p>)}</div><PranicCirculation/></section>
 <SoftBoundary from="#EADCFB" to="var(--white)" intensity="network-out"/>
-<section class="section pranic-reasons"><h2 class="eyebrow">Pour quels besoins ?</h2><p>Le Pranic Healing peut accompagner différents types de problématiques et s’intégrer dans une approche globale, de manière indépendante ou en complément de l’acupuncture.</p><ul class="pranic-topic-grid">{c.reasons.map(reason=><li>{reason}</li>)}</ul><p class="pranic-disclaimer">Le Pranic Healing ne remplace pas un diagnostic ni un suivi médical.</p></section>
+<section class="section pranic-reasons"><h2 class="eyebrow">Pour quels besoins ?</h2><p>{c.reasonsIntro}</p><ul class="pranic-topic-grid">{c.reasons.map(reason=><li>{reason}</li>)}</ul><p class="pranic-disclaimer">Le Pranic Healing ne remplace pas un diagnostic ni un suivi médical.</p></section>
 <section class="section pranic-combined" aria-labelledby="pranic-formats-title">
   <h2 id="pranic-formats-title">Présentiel, à distance ou en complément <span class="keep-together">de l’acupuncture</span></h2>
   <div class="pranic-format-block">
@@ -47,5 +47,5 @@ import {url} from '../data/site';
     </div>
   </div>
 </section>
-<section class="final-cta section"><h2>Prendre <span class="keep-together cta-word">rendez-vous</span><span>.</span></h2><p class="pranic-final-support">Une séance pensée autour de la circulation, de l’énergie et de ce que vous traversez aujourd’hui.</p><a class="button" href="/prendre-rendez-vous/">Prendre rendez-vous</a></section>
+<section class="final-cta section"><h2>Prendre <span class="keep-together cta-word">rendez-vous</span><span>.</span></h2><p class="pranic-final-support">{c.closingSupport}</p><a class="button" href="/prendre-rendez-vous/">Prendre rendez-vous</a></section>
 </div>

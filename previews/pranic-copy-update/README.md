@@ -1,0 +1,3 @@
+Pranic Healing FR + EN — textes exacts du brief
+
+Seuls les composants et données Pranic Healing FR et EN sont modifiés. Aucun CSS, image, navigation, ordre de section ou destination CTA changé. Deux emphases demandées appliquées avec le composant existant. Disclaimers conservés. Hero : vos différentes couches énergétiques / Physique, émotionnel, mental. Origine : pratiqué dans plus de 120 pays / practised in more than 120 countries. Aucun texte ajouté au-delà du brief. Build réussie, textes et liens contrôlés, 14 vues sans débordement horizontal. Toutes les autres pages HTML et images générées restent identiques.

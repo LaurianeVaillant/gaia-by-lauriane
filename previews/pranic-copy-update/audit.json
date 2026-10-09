@@ -1,0 +1,5119 @@
+[
+  {
+    "page": "fr",
+    "path": "/fr/pranic-healing/",
+    "width": 1440,
+    "height": 3427,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Pranic Healing",
+        "x": 80,
+        "y": 148.984375,
+        "w": 616.828125,
+        "h": 217.71875,
+        "size": "100.8px",
+        "line": "108.864px"
+      },
+      {
+        "text": "Comprendre le Pranic Healing",
+        "x": 80,
+        "y": 758,
+        "w": 537.625,
+        "h": 308.515625,
+        "size": "40.32px",
+        "line": "45.1584px"
+      },
+      {
+        "text": "Une méthode développée par Grand Master Choa Kok Sui",
+        "x": 112,
+        "y": 1158.515625,
+        "w": 491.25,
+        "h": 190.75,
+        "size": "28px",
+        "line": "31.64px"
+      },
+      {
+        "text": "Les chakras comme des ronds-points",
+        "x": 80,
+        "y": 1495.921875,
+        "w": 537.625,
+        "h": 90.28125,
+        "size": "40.32px",
+        "line": "45.1584px"
+      },
+      {
+        "text": "Pour quels besoins ?",
+        "x": 80,
+        "y": 1981.265625,
+        "w": 537.625,
+        "h": 45.140625,
+        "size": "40.32px",
+        "line": "45.1584px"
+      },
+      {
+        "text": "Présentiel, à distance ou en complément de l’acupuncture",
+        "x": 80,
+        "y": 2359.390625,
+        "w": 1091.421875,
+        "h": 111.96875,
+        "size": "51.84px",
+        "line": "55.9872px"
+      },
+      {
+        "text": "Présentiel ou à distance",
+        "x": 128,
+        "y": 2547.359375,
+        "w": 413.53125,
+        "h": 33.59375,
+        "size": "28px",
+        "line": "33.6px"
+      },
+      {
+        "text": "En complément de l’acupuncture",
+        "x": 768,
+        "y": 2547.359375,
+        "w": 413.53125,
+        "h": 33.59375,
+        "size": "28px",
+        "line": "33.6px"
+      },
+      {
+        "text": "Prendre rendez-vous.",
+        "x": 80,
+        "y": 2948.921875,
+        "w": 1280,
+        "h": 92.875,
+        "size": "86px",
+        "line": "92.88px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "© 2026 GAIA by LaurianePratiques complémentaires, sans substitution au suivi médical.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [],
+    "images": [
+      {
+        "src": "/images/pranic-meditation-1000.webp",
+        "x": 819.609375,
+        "y": 128,
+        "w": 520,
+        "h": 560,
+        "natural": [
+          604,
+          907
+        ],
+        "fit": "cover",
+        "position": "50% 65%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "section pranic-hero",
+        "x": 0,
+        "y": 100,
+        "w": 1440,
+        "h": 628,
+        "padding": [
+          "28px",
+          "40px"
+        ]
+      },
+      {
+        "class": "section pranic-understanding",
+        "x": 0,
+        "y": 728,
+        "w": 1440,
+        "h": 386.515625,
+        "padding": [
+          "30px",
+          "24px"
+        ]
+      },
+      {
+        "class": "section pranic-origin",
+        "x": 0,
+        "y": 1114.515625,
+        "w": 1440,
+        "h": 294.75,
+        "padding": [
+          "16px",
+          "32px"
+        ]
+      },
+      {
+        "class": "section pranic-network",
+        "x": 0,
+        "y": 1429.265625,
+        "w": 1440,
+        "h": 488,
+        "padding": [
+          "32px",
+          "24px"
+        ]
+      },
+      {
+        "class": "section pranic-reasons",
+        "x": 0,
+        "y": 1949.265625,
+        "w": 1440,
+        "h": 362.125,
+        "padding": [
+          "32px",
+          "32px"
+        ]
+      },
+      {
+        "class": "section pranic-combined",
+        "x": 0,
+        "y": 2311.390625,
+        "w": 1440,
+        "h": 589.53125,
+        "padding": [
+          "48px",
+          "48px"
+        ]
+      },
+      {
+        "class": "final-cta section",
+        "x": 0,
+        "y": 2900.921875,
+        "w": 1440,
+        "h": 345.453125,
+        "padding": [
+          "48px",
+          "48px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLiens\n\n© 2026 GAIA by Lauriane\nPratiques complémentaires, sans substitution au suivi médical.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Pranic Healing",
+          "lines": [
+            "Pranic",
+            "Healing"
+          ]
+        },
+        {
+          "text": "Comprendre le Pranic Healing",
+          "lines": [
+            "Comprendre le",
+            "Pranic Healing"
+          ]
+        },
+        {
+          "text": "Une méthode développée par Grand Master Choa Kok Sui",
+          "lines": [
+            "Une méthode développée par Grand",
+            "Master Choa Kok Sui"
+          ]
+        },
+        {
+          "text": "Les chakras comme des ronds-points",
+          "lines": [
+            "Les chakras comme des",
+            "ronds-points"
+          ]
+        },
+        {
+          "text": "Pour quels besoins ?",
+          "lines": [
+            "Pour quels besoins ?"
+          ]
+        },
+        {
+          "text": "Présentiel, à distance ou en complément de l’acupuncture",
+          "lines": [
+            "Présentiel, à distance ou en",
+            "complément de l’acupuncture"
+          ]
+        },
+        {
+          "text": "Présentiel ou à distance",
+          "lines": [
+            "Présentiel ou à distance"
+          ]
+        },
+        {
+          "text": "En complément de l’acupuncture",
+          "lines": [
+            "En complément de l’acupuncture"
+          ]
+        },
+        {
+          "text": "Prendre rendez-vous.",
+          "lines": [
+            "Prendre rendez-vous."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Liens",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Santé féminine",
+          "h": 44
+        },
+        {
+          "text": "À propos",
+          "h": 44
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(74, 74, 74)",
+        "rgb(255, 253, 247)"
+      ],
+      "language": [
+        "/en/pranic-healing/",
+        "/en/pranic-healing/"
+      ],
+      "booking": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "captions": []
+    },
+    "dropdown": {
+      "x": 450.46875,
+      "y": 80,
+      "width": 262,
+      "height": 156
+    },
+    "escape": true
+  },
+  {
+    "page": "fr",
+    "path": "/fr/pranic-healing/",
+    "width": 1280,
+    "height": 3521,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Pranic Healing",
+        "x": 64,
+        "y": 168.5625,
+        "w": 555.15625,
+        "h": 193.5,
+        "size": "89.6px",
+        "line": "96.768px"
+      },
+      {
+        "text": "Comprendre le Pranic Healing",
+        "x": 64,
+        "y": 758,
+        "w": 477.890625,
+        "h": 308.515625,
+        "size": "35.84px",
+        "line": "40.1408px"
+      },
+      {
+        "text": "Une méthode développée par Grand Master Choa Kok Sui",
+        "x": 96,
+        "y": 1158.515625,
+        "w": 449.703125,
+        "h": 190.75,
+        "size": "28px",
+        "line": "31.64px"
+      },
+      {
+        "text": "Les chakras comme des ronds-points",
+        "x": 64,
+        "y": 1461.40625,
+        "w": 477.890625,
+        "h": 80.28125,
+        "size": "35.84px",
+        "line": "40.1408px"
+      },
+      {
+        "text": "Pour quels besoins ?",
+        "x": 64,
+        "y": 1981.265625,
+        "w": 477.890625,
+        "h": 40.140625,
+        "size": "35.84px",
+        "line": "40.1408px"
+      },
+      {
+        "text": "Présentiel, à distance ou en complément de l’acupuncture",
+        "x": 64,
+        "y": 2447.53125,
+        "w": 970.15625,
+        "h": 99.5,
+        "size": "46.08px",
+        "line": "49.7664px"
+      },
+      {
+        "text": "Présentiel ou à distance",
+        "x": 112,
+        "y": 2623.03125,
+        "w": 413.53125,
+        "h": 33.59375,
+        "size": "28px",
+        "line": "33.6px"
+      },
+      {
+        "text": "En complément de l’acupuncture",
+        "x": 688,
+        "y": 2623.03125,
+        "w": 413.53125,
+        "h": 33.59375,
+        "size": "28px",
+        "line": "33.6px"
+      },
+      {
+        "text": "Prendre rendez-vous.",
+        "x": 64,
+        "y": 3053.390625,
+        "w": 1152,
+        "h": 82.9375,
+        "size": "76.8px",
+        "line": "82.944px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "© 2026 GAIA by LaurianePratiques complémentaires, sans substitution au suivi médical.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [],
+    "images": [
+      {
+        "src": "/images/pranic-meditation-1000.webp",
+        "x": 711.3125,
+        "y": 128,
+        "w": 504.6875,
+        "h": 560,
+        "natural": [
+          537,
+          806
+        ],
+        "fit": "cover",
+        "position": "50% 65%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "section pranic-hero",
+        "x": 0,
+        "y": 100,
+        "w": 1280,
+        "h": 628,
+        "padding": [
+          "28px",
+          "40px"
+        ]
+      },
+      {
+        "class": "section pranic-understanding",
+        "x": 0,
+        "y": 728,
+        "w": 1280,
+        "h": 386.515625,
+        "padding": [
+          "30px",
+          "24px"
+        ]
+      },
+      {
+        "class": "section pranic-origin",
+        "x": 0,
+        "y": 1114.515625,
+        "w": 1280,
+        "h": 294.75,
+        "padding": [
+          "16px",
+          "32px"
+        ]
+      },
+      {
+        "class": "section pranic-network",
+        "x": 0,
+        "y": 1429.265625,
+        "w": 1280,
+        "h": 488,
+        "padding": [
+          "32px",
+          "24px"
+        ]
+      },
+      {
+        "class": "section pranic-reasons",
+        "x": 0,
+        "y": 1949.265625,
+        "w": 1280,
+        "h": 450.265625,
+        "padding": [
+          "32px",
+          "32px"
+        ]
+      },
+      {
+        "class": "section pranic-combined",
+        "x": 0,
+        "y": 2399.53125,
+        "w": 1280,
+        "h": 605.859375,
+        "padding": [
+          "48px",
+          "48px"
+        ]
+      },
+      {
+        "class": "final-cta section",
+        "x": 0,
+        "y": 3005.390625,
+        "w": 1280,
+        "h": 335.515625,
+        "padding": [
+          "48px",
+          "48px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLiens\n\n© 2026 GAIA by Lauriane\nPratiques complémentaires, sans substitution au suivi médical.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Pranic Healing",
+          "lines": [
+            "Pranic",
+            "Healing"
+          ]
+        },
+        {
+          "text": "Comprendre le Pranic Healing",
+          "lines": [
+            "Comprendre le",
+            "Pranic Healing"
+          ]
+        },
+        {
+          "text": "Une méthode développée par Grand Master Choa Kok Sui",
+          "lines": [
+            "Une méthode développée par",
+            "Grand Master Choa Kok Sui"
+          ]
+        },
+        {
+          "text": "Les chakras comme des ronds-points",
+          "lines": [
+            "Les chakras comme des",
+            "ronds-points"
+          ]
+        },
+        {
+          "text": "Pour quels besoins ?",
+          "lines": [
+            "Pour quels besoins ?"
+          ]
+        },
+        {
+          "text": "Présentiel, à distance ou en complément de l’acupuncture",
+          "lines": [
+            "Présentiel, à distance ou en",
+            "complément de l’acupuncture"
+          ]
+        },
+        {
+          "text": "Présentiel ou à distance",
+          "lines": [
+            "Présentiel ou à distance"
+          ]
+        },
+        {
+          "text": "En complément de l’acupuncture",
+          "lines": [
+            "En complément de l’acupuncture"
+          ]
+        },
+        {
+          "text": "Prendre rendez-vous.",
+          "lines": [
+            "Prendre rendez-vous."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Liens",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Santé féminine",
+          "h": 44
+        },
+        {
+          "text": "À propos",
+          "h": 44
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(74, 74, 74)",
+        "rgb(255, 253, 247)"
+      ],
+      "language": [
+        "/en/pranic-healing/",
+        "/en/pranic-healing/"
+      ],
+      "booking": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "captions": []
+    },
+    "dropdown": {
+      "x": 376.28125,
+      "y": 80,
+      "width": 262,
+      "height": 156
+    },
+    "escape": true
+  },
+  {
+    "page": "fr",
+    "path": "/fr/pranic-healing/",
+    "width": 1024,
+    "height": 3387,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Pranic Healing",
+        "x": 40,
+        "y": 154.828125,
+        "w": 454.90625,
+        "h": 154.84375,
+        "size": "71.68px",
+        "line": "77.4144px"
+      },
+      {
+        "text": "Comprendre le Pranic Healing",
+        "x": 40,
+        "y": 688,
+        "w": 400.015625,
+        "h": 308.515625,
+        "size": "30px",
+        "line": "33.6px"
+      },
+      {
+        "text": "Une méthode développée par Grand Master Choa Kok Sui",
+        "x": 72,
+        "y": 1088.515625,
+        "w": 363.734375,
+        "h": 217.9375,
+        "size": "28px",
+        "line": "31.64px"
+      },
+      {
+        "text": "Les chakras comme des ronds-points",
+        "x": 40,
+        "y": 1418.453125,
+        "w": 400.015625,
+        "h": 67.1875,
+        "size": "30px",
+        "line": "33.6px"
+      },
+      {
+        "text": "Pour quels besoins ?",
+        "x": 40,
+        "y": 1925.078125,
+        "w": 400.015625,
+        "h": 33.59375,
+        "size": "30px",
+        "line": "33.6px"
+      },
+      {
+        "text": "Présentiel, à distance ou en complément de l’acupuncture",
+        "x": 40,
+        "y": 2340.703125,
+        "w": 776.046875,
+        "h": 79.59375,
+        "size": "36.864px",
+        "line": "39.8131px"
+      },
+      {
+        "text": "Présentiel ou à distance",
+        "x": 72,
+        "y": 2488.296875,
+        "w": 369.21875,
+        "h": 30,
+        "size": "25px",
+        "line": "30px"
+      },
+      {
+        "text": "En complément de l’acupuncture",
+        "x": 544,
+        "y": 2488.296875,
+        "w": 369.21875,
+        "h": 30,
+        "size": "25px",
+        "line": "30px"
+      },
+      {
+        "text": "Prendre rendez-vous.",
+        "x": 40,
+        "y": 2935.875,
+        "w": 944,
+        "h": 66.34375,
+        "size": "61.44px",
+        "line": "66.3552px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "© 2026 GAIA by LaurianePratiques complémentaires, sans substitution au suivi médical.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Pratiques",
+        "x": 964.46875,
+        "y": 158,
+        "w": 103.78125,
+        "h": 44
+      },
+      {
+        "text": "Acupuncture traditionnelle",
+        "x": 982.46875,
+        "y": 206,
+        "w": 85.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "Aculift",
+        "x": 982.46875,
+        "y": 277.1875,
+        "w": 85.78125,
+        "h": 45.59375
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 982.46875,
+        "y": 322.78125,
+        "w": 85.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "Santé féminine",
+        "x": 964.46875,
+        "y": 206,
+        "w": 103.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "À propos",
+        "x": 964.46875,
+        "y": 281.1875,
+        "w": 103.78125,
+        "h": 45.59375
+      },
+      {
+        "text": "FR/EN",
+        "x": 964.46875,
+        "y": 330.78125,
+        "w": 103.78125,
+        "h": 44
+      },
+      {
+        "text": "Prendre rendez-vous",
+        "x": 964.46875,
+        "y": 386.78125,
+        "w": 103.78125,
+        "h": 95.390625
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/pranic-meditation-1000.webp",
+        "x": 570.421875,
+        "y": 108,
+        "w": 413.578125,
+        "h": 510,
+        "natural": [
+          430,
+          645
+        ],
+        "fit": "cover",
+        "position": "50% 65%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "section pranic-hero",
+        "x": 0,
+        "y": 80,
+        "w": 1024,
+        "h": 578,
+        "padding": [
+          "28px",
+          "40px"
+        ]
+      },
+      {
+        "class": "section pranic-understanding",
+        "x": 0,
+        "y": 658,
+        "w": 1024,
+        "h": 386.515625,
+        "padding": [
+          "30px",
+          "24px"
+        ]
+      },
+      {
+        "class": "section pranic-origin",
+        "x": 0,
+        "y": 1044.515625,
+        "w": 1024,
+        "h": 321.9375,
+        "padding": [
+          "16px",
+          "32px"
+        ]
+      },
+      {
+        "class": "section pranic-network",
+        "x": 0,
+        "y": 1386.453125,
+        "w": 1024,
+        "h": 474.625,
+        "padding": [
+          "32px",
+          "24px"
+        ]
+      },
+      {
+        "class": "section pranic-reasons",
+        "x": 0,
+        "y": 1893.078125,
+        "w": 1024,
+        "h": 399.625,
+        "padding": [
+          "32px",
+          "32px"
+        ]
+      },
+      {
+        "class": "section pranic-combined",
+        "x": 0,
+        "y": 2292.703125,
+        "w": 1024,
+        "h": 595.171875,
+        "padding": [
+          "48px",
+          "48px"
+        ]
+      },
+      {
+        "class": "final-cta section",
+        "x": 0,
+        "y": 2887.875,
+        "w": 1024,
+        "h": 318.921875,
+        "padding": [
+          "48px",
+          "48px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLiens\n\n© 2026 GAIA by Lauriane\nPratiques complémentaires, sans substitution au suivi médical.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Pranic Healing",
+          "lines": [
+            "Pranic",
+            "Healing"
+          ]
+        },
+        {
+          "text": "Comprendre le Pranic Healing",
+          "lines": [
+            "Comprendre le",
+            "Pranic Healing"
+          ]
+        },
+        {
+          "text": "Une méthode développée par Grand Master Choa Kok Sui",
+          "lines": [
+            "Une méthode développée",
+            "par Grand Master Choa Kok",
+            "Sui"
+          ]
+        },
+        {
+          "text": "Les chakras comme des ronds-points",
+          "lines": [
+            "Les chakras comme des",
+            "ronds-points"
+          ]
+        },
+        {
+          "text": "Pour quels besoins ?",
+          "lines": [
+            "Pour quels besoins ?"
+          ]
+        },
+        {
+          "text": "Présentiel, à distance ou en complément de l’acupuncture",
+          "lines": [
+            "Présentiel, à distance ou en",
+            "complément de l’acupuncture"
+          ]
+        },
+        {
+          "text": "Présentiel ou à distance",
+          "lines": [
+            "Présentiel ou à distance"
+          ]
+        },
+        {
+          "text": "En complément de l’acupuncture",
+          "lines": [
+            "En complément de l’acupuncture"
+          ]
+        },
+        {
+          "text": "Prendre rendez-vous.",
+          "lines": [
+            "Prendre rendez-vous."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Liens",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Santé féminine",
+          "h": 0
+        },
+        {
+          "text": "À propos",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(74, 74, 74)",
+        "rgb(255, 253, 247)"
+      ],
+      "language": [
+        "/en/pranic-healing/",
+        "/en/pranic-healing/"
+      ],
+      "booking": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "captions": []
+    },
+    "nav": {
+      "w": 1024,
+      "h": 439.96875,
+      "scroll": 440,
+      "client": 440,
+      "links": [
+        {
+          "label": "Acupuncture traditionnelle",
+          "height": 45.59375
+        },
+        {
+          "label": "Aculift",
+          "height": 45.59375
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 45.59375
+        },
+        {
+          "label": "Santé féminine",
+          "height": 45.59375
+        },
+        {
+          "label": "À propos",
+          "height": 45.59375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Prendre rendez-vous",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "fr",
+    "path": "/fr/pranic-healing/",
+    "width": 768,
+    "height": 3731,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Pranic Healing",
+        "x": 24,
+        "y": 159.78125,
+        "w": 346.96875,
+        "h": 120.9375,
+        "size": "56px",
+        "line": "60.48px"
+      },
+      {
+        "text": "Comprendre le Pranic Healing",
+        "x": 24,
+        "y": 688,
+        "w": 310.90625,
+        "h": 403.125,
+        "size": "30px",
+        "line": "33.6px"
+      },
+      {
+        "text": "Une méthode développée par Grand Master Choa Kok Sui",
+        "x": 48,
+        "y": 1179.125,
+        "w": 589.5,
+        "h": 63.25,
+        "size": "28px",
+        "line": "31.64px"
+      },
+      {
+        "text": "Les chakras comme des ronds-points",
+        "x": 24,
+        "y": 1559.125,
+        "w": 362.015625,
+        "h": 67.1875,
+        "size": "30px",
+        "line": "33.6px"
+      },
+      {
+        "text": "Pour quels besoins ?",
+        "x": 24,
+        "y": 2118.4375,
+        "w": 400.015625,
+        "h": 33.59375,
+        "size": "30px",
+        "line": "33.6px"
+      },
+      {
+        "text": "Présentiel, à distance ou en complément de l’acupuncture",
+        "x": 24,
+        "y": 2645.765625,
+        "w": 720,
+        "h": 77.75,
+        "size": "36px",
+        "line": "38.88px"
+      },
+      {
+        "text": "Présentiel ou à distance",
+        "x": 56,
+        "y": 2791.515625,
+        "w": 296,
+        "h": 30,
+        "size": "25px",
+        "line": "30px"
+      },
+      {
+        "text": "En complément de l’acupuncture",
+        "x": 416,
+        "y": 2791.515625,
+        "w": 296,
+        "h": 60,
+        "size": "25px",
+        "line": "30px"
+      },
+      {
+        "text": "Prendre rendez-vous.",
+        "x": 24,
+        "y": 3296.265625,
+        "w": 720,
+        "h": 49.75,
+        "size": "46.08px",
+        "line": "49.7664px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "© 2026 GAIA by LaurianePratiques complémentaires, sans substitution au suivi médical.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Pratiques",
+        "x": 708.46875,
+        "y": 158,
+        "w": 103.78125,
+        "h": 44
+      },
+      {
+        "text": "Acupuncture traditionnelle",
+        "x": 726.46875,
+        "y": 206,
+        "w": 85.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "Aculift",
+        "x": 726.46875,
+        "y": 277.1875,
+        "w": 85.78125,
+        "h": 45.59375
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 726.46875,
+        "y": 322.78125,
+        "w": 85.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "Santé féminine",
+        "x": 708.46875,
+        "y": 206,
+        "w": 103.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "À propos",
+        "x": 708.46875,
+        "y": 281.1875,
+        "w": 103.78125,
+        "h": 45.59375
+      },
+      {
+        "text": "FR/EN",
+        "x": 708.46875,
+        "y": 330.78125,
+        "w": 103.78125,
+        "h": 44
+      },
+      {
+        "text": "Prendre rendez-vous",
+        "x": 708.46875,
+        "y": 386.78125,
+        "w": 103.78125,
+        "h": 95.390625
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/pranic-meditation-1000.webp",
+        "x": 428.5625,
+        "y": 108,
+        "w": 315.4375,
+        "h": 510,
+        "natural": [
+          322,
+          483
+        ],
+        "fit": "cover",
+        "position": "50% 65%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "section pranic-hero",
+        "x": 0,
+        "y": 80,
+        "w": 768,
+        "h": 578,
+        "padding": [
+          "28px",
+          "40px"
+        ]
+      },
+      {
+        "class": "section pranic-understanding",
+        "x": 0,
+        "y": 658,
+        "w": 768,
+        "h": 481.125,
+        "padding": [
+          "30px",
+          "24px"
+        ]
+      },
+      {
+        "class": "section pranic-origin",
+        "x": 0,
+        "y": 1139.125,
+        "w": 768,
+        "h": 368,
+        "padding": [
+          "16px",
+          "32px"
+        ]
+      },
+      {
+        "class": "section pranic-network",
+        "x": 0,
+        "y": 1527.125,
+        "w": 768,
+        "h": 527.3125,
+        "padding": [
+          "32px",
+          "24px"
+        ]
+      },
+      {
+        "class": "section pranic-reasons",
+        "x": 0,
+        "y": 2086.4375,
+        "w": 768,
+        "h": 511.328125,
+        "padding": [
+          "32px",
+          "32px"
+        ]
+      },
+      {
+        "class": "section pranic-combined",
+        "x": 0,
+        "y": 2597.765625,
+        "w": 768,
+        "h": 650.5,
+        "padding": [
+          "48px",
+          "48px"
+        ]
+      },
+      {
+        "class": "final-cta section",
+        "x": 0,
+        "y": 3248.265625,
+        "w": 768,
+        "h": 302.328125,
+        "padding": [
+          "48px",
+          "48px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLiens\n\n© 2026 GAIA by Lauriane\nPratiques complémentaires, sans substitution au suivi médical.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Pranic Healing",
+          "lines": [
+            "Pranic",
+            "Healing"
+          ]
+        },
+        {
+          "text": "Comprendre le Pranic Healing",
+          "lines": [
+            "Comprendre le",
+            "Pranic Healing"
+          ]
+        },
+        {
+          "text": "Une méthode développée par Grand Master Choa Kok Sui",
+          "lines": [
+            "Une méthode développée par Grand Master",
+            "Choa Kok Sui"
+          ]
+        },
+        {
+          "text": "Les chakras comme des ronds-points",
+          "lines": [
+            "Les chakras comme des",
+            "ronds-points"
+          ]
+        },
+        {
+          "text": "Pour quels besoins ?",
+          "lines": [
+            "Pour quels besoins ?"
+          ]
+        },
+        {
+          "text": "Présentiel, à distance ou en complément de l’acupuncture",
+          "lines": [
+            "Présentiel, à distance ou en",
+            "complément de l’acupuncture"
+          ]
+        },
+        {
+          "text": "Présentiel ou à distance",
+          "lines": [
+            "Présentiel ou à distance"
+          ]
+        },
+        {
+          "text": "En complément de l’acupuncture",
+          "lines": [
+            "En complément",
+            "de l’acupuncture"
+          ]
+        },
+        {
+          "text": "Prendre rendez-vous.",
+          "lines": [
+            "Prendre rendez-vous."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Liens",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Santé féminine",
+          "h": 0
+        },
+        {
+          "text": "À propos",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(74, 74, 74)",
+        "rgb(255, 253, 247)"
+      ],
+      "language": [
+        "/en/pranic-healing/",
+        "/en/pranic-healing/"
+      ],
+      "booking": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "captions": []
+    },
+    "nav": {
+      "w": 768,
+      "h": 439.96875,
+      "scroll": 440,
+      "client": 440,
+      "links": [
+        {
+          "label": "Acupuncture traditionnelle",
+          "height": 45.59375
+        },
+        {
+          "label": "Aculift",
+          "height": 45.59375
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 45.59375
+        },
+        {
+          "label": "Santé féminine",
+          "height": 45.59375
+        },
+        {
+          "label": "À propos",
+          "height": 45.59375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Prendre rendez-vous",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "fr",
+    "path": "/fr/pranic-healing/",
+    "width": 430,
+    "height": 5035,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Pranic Healing",
+        "x": 20,
+        "y": 104,
+        "w": 390,
+        "h": 60.375,
+        "size": "55.9px",
+        "line": "60.372px"
+      },
+      {
+        "text": "Comprendre le Pranic Healing",
+        "x": 20,
+        "y": 1035.796875,
+        "w": 390,
+        "h": 71.65625,
+        "size": "32px",
+        "line": "35.84px"
+      },
+      {
+        "text": "Une méthode développée par Grand Master Choa Kok Sui",
+        "x": 40,
+        "y": 1551.078125,
+        "w": 350,
+        "h": 58.75,
+        "size": "26px",
+        "line": "29.38px"
+      },
+      {
+        "text": "Les chakras comme des ronds-points",
+        "x": 20,
+        "y": 1978.546875,
+        "w": 390,
+        "h": 71.65625,
+        "size": "32px",
+        "line": "35.84px"
+      },
+      {
+        "text": "Pour quels besoins ?",
+        "x": 20,
+        "y": 2818.71875,
+        "w": 390,
+        "h": 35.828125,
+        "size": "32px",
+        "line": "35.84px"
+      },
+      {
+        "text": "Présentiel, à distance ou en complément de l’acupuncture",
+        "x": 20,
+        "y": 3430.515625,
+        "w": 390,
+        "h": 114.234375,
+        "size": "35.26px",
+        "line": "38.0808px"
+      },
+      {
+        "text": "Présentiel ou à distance",
+        "x": 48,
+        "y": 3600.75,
+        "w": 334,
+        "h": 31.1875,
+        "size": "26px",
+        "line": "31.2px"
+      },
+      {
+        "text": "En complément de l’acupuncture",
+        "x": 48,
+        "y": 3966.25,
+        "w": 334,
+        "h": 62.375,
+        "size": "26px",
+        "line": "31.2px"
+      },
+      {
+        "text": "Prendre rendez-vous.",
+        "x": 20,
+        "y": 4369.34375,
+        "w": 390,
+        "h": 106.8125,
+        "size": "49.45px",
+        "line": "53.406px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "© 2026 GAIA by LaurianePratiques complémentaires, sans substitution au suivi médical.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Pratiques",
+        "x": 370.46875,
+        "y": 158,
+        "w": 103.78125,
+        "h": 44
+      },
+      {
+        "text": "Acupuncture traditionnelle",
+        "x": 388.46875,
+        "y": 206,
+        "w": 85.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "Aculift",
+        "x": 388.46875,
+        "y": 277.1875,
+        "w": 85.78125,
+        "h": 45.59375
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 388.46875,
+        "y": 322.78125,
+        "w": 85.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "Santé féminine",
+        "x": 370.46875,
+        "y": 206,
+        "w": 103.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "À propos",
+        "x": 370.46875,
+        "y": 281.1875,
+        "w": 103.78125,
+        "h": 45.59375
+      },
+      {
+        "text": "FR/EN",
+        "x": 370.46875,
+        "y": 330.78125,
+        "w": 103.78125,
+        "h": 44
+      },
+      {
+        "text": "Prendre rendez-vous",
+        "x": 370.46875,
+        "y": 386.78125,
+        "w": 103.78125,
+        "h": 95.390625
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/pranic-meditation-1000.webp",
+        "x": 20,
+        "y": 494.296875,
+        "w": 390,
+        "h": 487.5,
+        "natural": [
+          390,
+          585
+        ],
+        "fit": "cover",
+        "position": "50% 70%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "section pranic-hero",
+        "x": 0,
+        "y": 80,
+        "w": 430,
+        "h": 933.796875,
+        "padding": [
+          "24px",
+          "32px"
+        ]
+      },
+      {
+        "class": "section pranic-understanding",
+        "x": 0,
+        "y": 1013.796875,
+        "w": 430,
+        "h": 509.28125,
+        "padding": [
+          "22px",
+          "22px"
+        ]
+      },
+      {
+        "class": "section pranic-origin",
+        "x": 0,
+        "y": 1523.078125,
+        "w": 430,
+        "h": 411.46875,
+        "padding": [
+          "8px",
+          "24px"
+        ]
+      },
+      {
+        "class": "section pranic-network",
+        "x": 0,
+        "y": 1954.546875,
+        "w": 430,
+        "h": 808.171875,
+        "padding": [
+          "24px",
+          "24px"
+        ]
+      },
+      {
+        "class": "section pranic-reasons",
+        "x": 0,
+        "y": 2794.71875,
+        "w": 430,
+        "h": 599.796875,
+        "padding": [
+          "24px",
+          "24px"
+        ]
+      },
+      {
+        "class": "section pranic-combined",
+        "x": 0,
+        "y": 3394.515625,
+        "w": 430,
+        "h": 946.828125,
+        "padding": [
+          "36px",
+          "36px"
+        ]
+      },
+      {
+        "class": "final-cta section",
+        "x": 0,
+        "y": 4341.34375,
+        "w": 430,
+        "h": 343.375,
+        "padding": [
+          "28px",
+          "28px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLiens\n\n© 2026 GAIA by Lauriane\nPratiques complémentaires, sans substitution au suivi médical.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Pranic Healing",
+          "lines": [
+            "Pranic Healing"
+          ]
+        },
+        {
+          "text": "Comprendre le Pranic Healing",
+          "lines": [
+            "Comprendre le",
+            "Pranic Healing"
+          ]
+        },
+        {
+          "text": "Une méthode développée par Grand Master Choa Kok Sui",
+          "lines": [
+            "Une méthode développée par",
+            "Grand Master Choa Kok Sui"
+          ]
+        },
+        {
+          "text": "Les chakras comme des ronds-points",
+          "lines": [
+            "Les chakras comme des",
+            "ronds-points"
+          ]
+        },
+        {
+          "text": "Pour quels besoins ?",
+          "lines": [
+            "Pour quels besoins ?"
+          ]
+        },
+        {
+          "text": "Présentiel, à distance ou en complément de l’acupuncture",
+          "lines": [
+            "Présentiel, à distance",
+            "ou en complément",
+            "de l’acupuncture"
+          ]
+        },
+        {
+          "text": "Présentiel ou à distance",
+          "lines": [
+            "Présentiel ou à distance"
+          ]
+        },
+        {
+          "text": "En complément de l’acupuncture",
+          "lines": [
+            "En complément",
+            "de l’acupuncture"
+          ]
+        },
+        {
+          "text": "Prendre rendez-vous.",
+          "lines": [
+            "Prendre",
+            "rendez-vous."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Liens",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Santé féminine",
+          "h": 0
+        },
+        {
+          "text": "À propos",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(74, 74, 74)",
+        "rgb(255, 253, 247)"
+      ],
+      "language": [
+        "/en/pranic-healing/",
+        "/en/pranic-healing/"
+      ],
+      "booking": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "captions": []
+    },
+    "nav": {
+      "w": 430,
+      "h": 439.96875,
+      "scroll": 440,
+      "client": 440,
+      "links": [
+        {
+          "label": "Acupuncture traditionnelle",
+          "height": 45.59375
+        },
+        {
+          "label": "Aculift",
+          "height": 45.59375
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 45.59375
+        },
+        {
+          "label": "Santé féminine",
+          "height": 45.59375
+        },
+        {
+          "label": "À propos",
+          "height": 45.59375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Prendre rendez-vous",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "fr",
+    "path": "/fr/pranic-healing/",
+    "width": 390,
+    "height": 5124,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Pranic Healing",
+        "x": 20,
+        "y": 104,
+        "w": 350,
+        "h": 54.75,
+        "size": "50.7px",
+        "line": "54.756px"
+      },
+      {
+        "text": "Comprendre le Pranic Healing",
+        "x": 20,
+        "y": 980.171875,
+        "w": 350,
+        "h": 71.65625,
+        "size": "32px",
+        "line": "35.84px"
+      },
+      {
+        "text": "Une méthode développée par Grand Master Choa Kok Sui",
+        "x": 40,
+        "y": 1546.953125,
+        "w": 310,
+        "h": 88.125,
+        "size": "26px",
+        "line": "29.38px"
+      },
+      {
+        "text": "Les chakras comme des ronds-points",
+        "x": 20,
+        "y": 2003.796875,
+        "w": 350,
+        "h": 71.65625,
+        "size": "32px",
+        "line": "35.84px"
+      },
+      {
+        "text": "Pour quels besoins ?",
+        "x": 20,
+        "y": 2843.96875,
+        "w": 350,
+        "h": 35.828125,
+        "size": "32px",
+        "line": "35.84px"
+      },
+      {
+        "text": "Présentiel, à distance ou en complément de l’acupuncture",
+        "x": 20,
+        "y": 3485.453125,
+        "w": 350,
+        "h": 103.59375,
+        "size": "31.98px",
+        "line": "34.5384px"
+      },
+      {
+        "text": "Présentiel ou à distance",
+        "x": 48,
+        "y": 3645.046875,
+        "w": 294,
+        "h": 31.1875,
+        "size": "26px",
+        "line": "31.2px"
+      },
+      {
+        "text": "En complément de l’acupuncture",
+        "x": 48,
+        "y": 4010.546875,
+        "w": 294,
+        "h": 62.375,
+        "size": "26px",
+        "line": "31.2px"
+      },
+      {
+        "text": "Prendre rendez-vous.",
+        "x": 20,
+        "y": 4468.015625,
+        "w": 350,
+        "h": 96.84375,
+        "size": "44.85px",
+        "line": "48.438px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "© 2026 GAIA by LaurianePratiques complémentaires, sans substitution au suivi médical.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Pratiques",
+        "x": 330.46875,
+        "y": 158,
+        "w": 103.78125,
+        "h": 44
+      },
+      {
+        "text": "Acupuncture traditionnelle",
+        "x": 348.46875,
+        "y": 206,
+        "w": 85.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "Aculift",
+        "x": 348.46875,
+        "y": 277.1875,
+        "w": 85.78125,
+        "h": 45.59375
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 348.46875,
+        "y": 322.78125,
+        "w": 85.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "Santé féminine",
+        "x": 330.46875,
+        "y": 206,
+        "w": 103.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "À propos",
+        "x": 330.46875,
+        "y": 281.1875,
+        "w": 103.78125,
+        "h": 45.59375
+      },
+      {
+        "text": "FR/EN",
+        "x": 330.46875,
+        "y": 330.78125,
+        "w": 103.78125,
+        "h": 44
+      },
+      {
+        "text": "Prendre rendez-vous",
+        "x": 330.46875,
+        "y": 386.78125,
+        "w": 103.78125,
+        "h": 95.390625
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/pranic-meditation-1000.webp",
+        "x": 20,
+        "y": 488.671875,
+        "w": 350,
+        "h": 437.5,
+        "natural": [
+          350,
+          525
+        ],
+        "fit": "cover",
+        "position": "50% 70%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "section pranic-hero",
+        "x": 0,
+        "y": 80,
+        "w": 390,
+        "h": 878.171875,
+        "padding": [
+          "24px",
+          "32px"
+        ]
+      },
+      {
+        "class": "section pranic-understanding",
+        "x": 0,
+        "y": 958.171875,
+        "w": 390,
+        "h": 560.78125,
+        "padding": [
+          "22px",
+          "22px"
+        ]
+      },
+      {
+        "class": "section pranic-origin",
+        "x": 0,
+        "y": 1518.953125,
+        "w": 390,
+        "h": 440.84375,
+        "padding": [
+          "8px",
+          "24px"
+        ]
+      },
+      {
+        "class": "section pranic-network",
+        "x": 0,
+        "y": 1979.796875,
+        "w": 390,
+        "h": 808.171875,
+        "padding": [
+          "24px",
+          "24px"
+        ]
+      },
+      {
+        "class": "section pranic-reasons",
+        "x": 0,
+        "y": 2819.96875,
+        "w": 390,
+        "h": 629.484375,
+        "padding": [
+          "24px",
+          "24px"
+        ]
+      },
+      {
+        "class": "section pranic-combined",
+        "x": 0,
+        "y": 3449.453125,
+        "w": 390,
+        "h": 990.5625,
+        "padding": [
+          "36px",
+          "36px"
+        ]
+      },
+      {
+        "class": "final-cta section",
+        "x": 0,
+        "y": 4440.015625,
+        "w": 390,
+        "h": 333.40625,
+        "padding": [
+          "28px",
+          "28px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLiens\n\n© 2026 GAIA by Lauriane\nPratiques complémentaires, sans substitution au suivi médical.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Pranic Healing",
+          "lines": [
+            "Pranic Healing"
+          ]
+        },
+        {
+          "text": "Comprendre le Pranic Healing",
+          "lines": [
+            "Comprendre le",
+            "Pranic Healing"
+          ]
+        },
+        {
+          "text": "Une méthode développée par Grand Master Choa Kok Sui",
+          "lines": [
+            "Une méthode développée",
+            "par Grand Master Choa",
+            "Kok Sui"
+          ]
+        },
+        {
+          "text": "Les chakras comme des ronds-points",
+          "lines": [
+            "Les chakras comme des",
+            "ronds-points"
+          ]
+        },
+        {
+          "text": "Pour quels besoins ?",
+          "lines": [
+            "Pour quels besoins ?"
+          ]
+        },
+        {
+          "text": "Présentiel, à distance ou en complément de l’acupuncture",
+          "lines": [
+            "Présentiel, à distance",
+            "ou en complément",
+            "de l’acupuncture"
+          ]
+        },
+        {
+          "text": "Présentiel ou à distance",
+          "lines": [
+            "Présentiel ou à distance"
+          ]
+        },
+        {
+          "text": "En complément de l’acupuncture",
+          "lines": [
+            "En complément",
+            "de l’acupuncture"
+          ]
+        },
+        {
+          "text": "Prendre rendez-vous.",
+          "lines": [
+            "Prendre",
+            "rendez-vous."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Liens",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Santé féminine",
+          "h": 0
+        },
+        {
+          "text": "À propos",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(74, 74, 74)",
+        "rgb(255, 253, 247)"
+      ],
+      "language": [
+        "/en/pranic-healing/",
+        "/en/pranic-healing/"
+      ],
+      "booking": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "captions": []
+    },
+    "nav": {
+      "w": 390,
+      "h": 439.96875,
+      "scroll": 440,
+      "client": 440,
+      "links": [
+        {
+          "label": "Acupuncture traditionnelle",
+          "height": 45.59375
+        },
+        {
+          "label": "Aculift",
+          "height": 45.59375
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 45.59375
+        },
+        {
+          "label": "Santé féminine",
+          "height": 45.59375
+        },
+        {
+          "label": "À propos",
+          "height": 45.59375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Prendre rendez-vous",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "fr",
+    "path": "/fr/pranic-healing/",
+    "width": 360,
+    "height": 5319,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Pranic Healing",
+        "x": 20,
+        "y": 104,
+        "w": 320,
+        "h": 103.65625,
+        "size": "48px",
+        "line": "51.84px"
+      },
+      {
+        "text": "Comprendre le Pranic Healing",
+        "x": 20,
+        "y": 991.578125,
+        "w": 320,
+        "h": 71.65625,
+        "size": "32px",
+        "line": "35.84px"
+      },
+      {
+        "text": "Une méthode développée par Grand Master Choa Kok Sui",
+        "x": 40,
+        "y": 1585.546875,
+        "w": 280,
+        "h": 88.125,
+        "size": "26px",
+        "line": "29.38px"
+      },
+      {
+        "text": "Les chakras comme des ronds-points",
+        "x": 20,
+        "y": 2069.578125,
+        "w": 320,
+        "h": 71.65625,
+        "size": "32px",
+        "line": "35.84px"
+      },
+      {
+        "text": "Pour quels besoins ?",
+        "x": 20,
+        "y": 2936.09375,
+        "w": 320,
+        "h": 35.828125,
+        "size": "32px",
+        "line": "35.84px"
+      },
+      {
+        "text": "Présentiel, à distance ou en complément de l’acupuncture",
+        "x": 20,
+        "y": 3577.578125,
+        "w": 320,
+        "h": 97.171875,
+        "size": "30px",
+        "line": "32.4px"
+      },
+      {
+        "text": "Présentiel ou à distance",
+        "x": 48,
+        "y": 3730.75,
+        "w": 264,
+        "h": 62.375,
+        "size": "26px",
+        "line": "31.2px"
+      },
+      {
+        "text": "En complément de l’acupuncture",
+        "x": 48,
+        "y": 4154.625,
+        "w": 264,
+        "h": 62.375,
+        "size": "26px",
+        "line": "31.2px"
+      },
+      {
+        "text": "Prendre rendez-vous.",
+        "x": 20,
+        "y": 4639.28125,
+        "w": 320,
+        "h": 90.71875,
+        "size": "42px",
+        "line": "45.36px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "© 2026 GAIA by LaurianePratiques complémentaires, sans substitution au suivi médical.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Pratiques",
+        "x": 300.46875,
+        "y": 158,
+        "w": 103.78125,
+        "h": 44
+      },
+      {
+        "text": "Acupuncture traditionnelle",
+        "x": 318.46875,
+        "y": 206,
+        "w": 85.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "Aculift",
+        "x": 318.46875,
+        "y": 277.1875,
+        "w": 85.78125,
+        "h": 45.59375
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 318.46875,
+        "y": 322.78125,
+        "w": 85.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "Santé féminine",
+        "x": 300.46875,
+        "y": 206,
+        "w": 103.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "À propos",
+        "x": 300.46875,
+        "y": 281.1875,
+        "w": 103.78125,
+        "h": 45.59375
+      },
+      {
+        "text": "FR/EN",
+        "x": 300.46875,
+        "y": 330.78125,
+        "w": 103.78125,
+        "h": 44
+      },
+      {
+        "text": "Prendre rendez-vous",
+        "x": 300.46875,
+        "y": 386.78125,
+        "w": 103.78125,
+        "h": 95.390625
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/pranic-meditation-1000.webp",
+        "x": 20,
+        "y": 537.578125,
+        "w": 320,
+        "h": 400,
+        "natural": [
+          320,
+          480
+        ],
+        "fit": "cover",
+        "position": "50% 70%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "section pranic-hero",
+        "x": 0,
+        "y": 80,
+        "w": 360,
+        "h": 889.578125,
+        "padding": [
+          "24px",
+          "32px"
+        ]
+      },
+      {
+        "class": "section pranic-understanding",
+        "x": 0,
+        "y": 969.578125,
+        "w": 360,
+        "h": 587.96875,
+        "padding": [
+          "22px",
+          "22px"
+        ]
+      },
+      {
+        "class": "section pranic-origin",
+        "x": 0,
+        "y": 1557.546875,
+        "w": 360,
+        "h": 468.03125,
+        "padding": [
+          "8px",
+          "24px"
+        ]
+      },
+      {
+        "class": "section pranic-network",
+        "x": 0,
+        "y": 2045.578125,
+        "w": 360,
+        "h": 834.515625,
+        "padding": [
+          "24px",
+          "24px"
+        ]
+      },
+      {
+        "class": "section pranic-reasons",
+        "x": 0,
+        "y": 2912.09375,
+        "w": 360,
+        "h": 629.484375,
+        "padding": [
+          "24px",
+          "24px"
+        ]
+      },
+      {
+        "class": "section pranic-combined",
+        "x": 0,
+        "y": 3541.578125,
+        "w": 360,
+        "h": 1069.703125,
+        "padding": [
+          "36px",
+          "36px"
+        ]
+      },
+      {
+        "class": "final-cta section",
+        "x": 0,
+        "y": 4611.28125,
+        "w": 360,
+        "h": 357.671875,
+        "padding": [
+          "28px",
+          "28px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLiens\n\n© 2026 GAIA by Lauriane\nPratiques complémentaires, sans substitution au suivi médical.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Pranic Healing",
+          "lines": [
+            "Pranic",
+            "Healing"
+          ]
+        },
+        {
+          "text": "Comprendre le Pranic Healing",
+          "lines": [
+            "Comprendre le",
+            "Pranic Healing"
+          ]
+        },
+        {
+          "text": "Une méthode développée par Grand Master Choa Kok Sui",
+          "lines": [
+            "Une méthode",
+            "développée par Grand",
+            "Master Choa Kok Sui"
+          ]
+        },
+        {
+          "text": "Les chakras comme des ronds-points",
+          "lines": [
+            "Les chakras comme",
+            "des ronds-points"
+          ]
+        },
+        {
+          "text": "Pour quels besoins ?",
+          "lines": [
+            "Pour quels besoins ?"
+          ]
+        },
+        {
+          "text": "Présentiel, à distance ou en complément de l’acupuncture",
+          "lines": [
+            "Présentiel, à distance",
+            "ou en complément",
+            "de l’acupuncture"
+          ]
+        },
+        {
+          "text": "Présentiel ou à distance",
+          "lines": [
+            "Présentiel ou",
+            "à distance"
+          ]
+        },
+        {
+          "text": "En complément de l’acupuncture",
+          "lines": [
+            "En complément",
+            "de l’acupuncture"
+          ]
+        },
+        {
+          "text": "Prendre rendez-vous.",
+          "lines": [
+            "Prendre",
+            "rendez-vous."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Liens",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Santé féminine",
+          "h": 0
+        },
+        {
+          "text": "À propos",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(74, 74, 74)",
+        "rgb(255, 253, 247)"
+      ],
+      "language": [
+        "/en/pranic-healing/",
+        "/en/pranic-healing/"
+      ],
+      "booking": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "captions": []
+    },
+    "nav": {
+      "w": 360,
+      "h": 439.96875,
+      "scroll": 440,
+      "client": 440,
+      "links": [
+        {
+          "label": "Acupuncture traditionnelle",
+          "height": 45.59375
+        },
+        {
+          "label": "Aculift",
+          "height": 45.59375
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 45.59375
+        },
+        {
+          "label": "Santé féminine",
+          "height": 45.59375
+        },
+        {
+          "label": "À propos",
+          "height": 45.59375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Prendre rendez-vous",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "en",
+    "path": "/en/pranic-healing/",
+    "width": 1440,
+    "height": 3427,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Pranic Healing",
+        "x": 80,
+        "y": 148.984375,
+        "w": 616.828125,
+        "h": 217.71875,
+        "size": "100.8px",
+        "line": "108.864px"
+      },
+      {
+        "text": "Understanding Pranic Healing",
+        "x": 80,
+        "y": 758,
+        "w": 537.625,
+        "h": 308.515625,
+        "size": "40.32px",
+        "line": "45.1584px"
+      },
+      {
+        "text": "A method developed by Grand Master Choa Kok Sui",
+        "x": 112,
+        "y": 1158.515625,
+        "w": 491.25,
+        "h": 190.75,
+        "size": "28px",
+        "line": "31.64px"
+      },
+      {
+        "text": "Chakras as roundabouts",
+        "x": 80,
+        "y": 1518.484375,
+        "w": 537.625,
+        "h": 45.140625,
+        "size": "40.32px",
+        "line": "45.1584px"
+      },
+      {
+        "text": "What can it support?",
+        "x": 80,
+        "y": 1981.265625,
+        "w": 537.625,
+        "h": 45.140625,
+        "size": "40.32px",
+        "line": "45.1584px"
+      },
+      {
+        "text": "In person, at a distance or alongside acupuncture",
+        "x": 80,
+        "y": 2359.390625,
+        "w": 1091.421875,
+        "h": 111.96875,
+        "size": "51.84px",
+        "line": "55.9872px"
+      },
+      {
+        "text": "In person or at a distance",
+        "x": 128,
+        "y": 2547.359375,
+        "w": 413.53125,
+        "h": 33.59375,
+        "size": "28px",
+        "line": "33.6px"
+      },
+      {
+        "text": "Alongside acupuncture",
+        "x": 768,
+        "y": 2547.359375,
+        "w": 413.53125,
+        "h": 33.59375,
+        "size": "28px",
+        "line": "33.6px"
+      },
+      {
+        "text": "Book an appointment.",
+        "x": 80,
+        "y": 2948.9375,
+        "w": 1280,
+        "h": 92.875,
+        "size": "86px",
+        "line": "92.88px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [],
+    "images": [
+      {
+        "src": "/images/pranic-meditation-1000.webp",
+        "x": 819.609375,
+        "y": 128,
+        "w": 520,
+        "h": 560,
+        "natural": [
+          604,
+          907
+        ],
+        "fit": "cover",
+        "position": "50% 65%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "section pranic-hero",
+        "x": 0,
+        "y": 100,
+        "w": 1440,
+        "h": 628,
+        "padding": [
+          "28px",
+          "40px"
+        ]
+      },
+      {
+        "class": "section pranic-understanding",
+        "x": 0,
+        "y": 728,
+        "w": 1440,
+        "h": 386.515625,
+        "padding": [
+          "30px",
+          "24px"
+        ]
+      },
+      {
+        "class": "section pranic-origin",
+        "x": 0,
+        "y": 1114.515625,
+        "w": 1440,
+        "h": 294.75,
+        "padding": [
+          "16px",
+          "32px"
+        ]
+      },
+      {
+        "class": "section pranic-network",
+        "x": 0,
+        "y": 1429.265625,
+        "w": 1440,
+        "h": 488,
+        "padding": [
+          "32px",
+          "24px"
+        ]
+      },
+      {
+        "class": "section pranic-reasons",
+        "x": 0,
+        "y": 1949.265625,
+        "w": 1440,
+        "h": 362.125,
+        "padding": [
+          "32px",
+          "32px"
+        ]
+      },
+      {
+        "class": "section pranic-combined",
+        "x": 0,
+        "y": 2311.390625,
+        "w": 1440,
+        "h": 589.546875,
+        "padding": [
+          "48px",
+          "48px"
+        ]
+      },
+      {
+        "class": "final-cta section",
+        "x": 0,
+        "y": 2900.9375,
+        "w": 1440,
+        "h": 345.453125,
+        "padding": [
+          "48px",
+          "48px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLinks\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Pranic Healing",
+          "lines": [
+            "Pranic",
+            "Healing"
+          ]
+        },
+        {
+          "text": "Understanding Pranic Healing",
+          "lines": [
+            "Understanding",
+            "Pranic Healing"
+          ]
+        },
+        {
+          "text": "A method developed by Grand Master Choa Kok Sui",
+          "lines": [
+            "A method developed by Grand Master",
+            "Choa Kok Sui"
+          ]
+        },
+        {
+          "text": "Chakras as roundabouts",
+          "lines": [
+            "Chakras as roundabouts"
+          ]
+        },
+        {
+          "text": "What can it support?",
+          "lines": [
+            "What can it support?"
+          ]
+        },
+        {
+          "text": "In person, at a distance or alongside acupuncture",
+          "lines": [
+            "In person, at a distance or",
+            "alongside acupuncture"
+          ]
+        },
+        {
+          "text": "In person or at a distance",
+          "lines": [
+            "In person or at a distance"
+          ]
+        },
+        {
+          "text": "Alongside acupuncture",
+          "lines": [
+            "Alongside acupuncture"
+          ]
+        },
+        {
+          "text": "Book an appointment.",
+          "lines": [
+            "Book an appointment."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 44
+        },
+        {
+          "text": "About",
+          "h": 44
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(74, 74, 74)",
+        "rgb(255, 253, 247)"
+      ],
+      "language": [
+        "/fr/pranic-healing/",
+        "/fr/pranic-healing/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "captions": []
+    },
+    "dropdown": {
+      "x": 454.296875,
+      "y": 80,
+      "width": 262,
+      "height": 156
+    },
+    "escape": true
+  },
+  {
+    "page": "en",
+    "path": "/en/pranic-healing/",
+    "width": 1280,
+    "height": 3399,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Pranic Healing",
+        "x": 64,
+        "y": 168.5625,
+        "w": 555.15625,
+        "h": 193.5,
+        "size": "89.6px",
+        "line": "96.768px"
+      },
+      {
+        "text": "Understanding Pranic Healing",
+        "x": 64,
+        "y": 758,
+        "w": 477.890625,
+        "h": 308.515625,
+        "size": "35.84px",
+        "line": "40.1408px"
+      },
+      {
+        "text": "A method developed by Grand Master Choa Kok Sui",
+        "x": 96,
+        "y": 1158.515625,
+        "w": 449.703125,
+        "h": 190.75,
+        "size": "28px",
+        "line": "31.64px"
+      },
+      {
+        "text": "Chakras as roundabouts",
+        "x": 64,
+        "y": 1494.640625,
+        "w": 477.890625,
+        "h": 40.140625,
+        "size": "35.84px",
+        "line": "40.1408px"
+      },
+      {
+        "text": "What can it support?",
+        "x": 64,
+        "y": 1981.265625,
+        "w": 477.890625,
+        "h": 40.140625,
+        "size": "35.84px",
+        "line": "40.1408px"
+      },
+      {
+        "text": "In person, at a distance or alongside acupuncture",
+        "x": 64,
+        "y": 2354.390625,
+        "w": 970.15625,
+        "h": 99.5,
+        "size": "46.08px",
+        "line": "49.7664px"
+      },
+      {
+        "text": "In person or at a distance",
+        "x": 112,
+        "y": 2529.890625,
+        "w": 413.53125,
+        "h": 33.59375,
+        "size": "28px",
+        "line": "33.6px"
+      },
+      {
+        "text": "Alongside acupuncture",
+        "x": 688,
+        "y": 2529.890625,
+        "w": 413.53125,
+        "h": 33.59375,
+        "size": "28px",
+        "line": "33.6px"
+      },
+      {
+        "text": "Book an appointment.",
+        "x": 64,
+        "y": 2931.46875,
+        "w": 1152,
+        "h": 82.9375,
+        "size": "76.8px",
+        "line": "82.944px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [],
+    "images": [
+      {
+        "src": "/images/pranic-meditation-1000.webp",
+        "x": 711.3125,
+        "y": 128,
+        "w": 504.6875,
+        "h": 560,
+        "natural": [
+          537,
+          806
+        ],
+        "fit": "cover",
+        "position": "50% 65%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "section pranic-hero",
+        "x": 0,
+        "y": 100,
+        "w": 1280,
+        "h": 628,
+        "padding": [
+          "28px",
+          "40px"
+        ]
+      },
+      {
+        "class": "section pranic-understanding",
+        "x": 0,
+        "y": 728,
+        "w": 1280,
+        "h": 386.515625,
+        "padding": [
+          "30px",
+          "24px"
+        ]
+      },
+      {
+        "class": "section pranic-origin",
+        "x": 0,
+        "y": 1114.515625,
+        "w": 1280,
+        "h": 294.75,
+        "padding": [
+          "16px",
+          "32px"
+        ]
+      },
+      {
+        "class": "section pranic-network",
+        "x": 0,
+        "y": 1429.265625,
+        "w": 1280,
+        "h": 488,
+        "padding": [
+          "32px",
+          "24px"
+        ]
+      },
+      {
+        "class": "section pranic-reasons",
+        "x": 0,
+        "y": 1949.265625,
+        "w": 1280,
+        "h": 357.125,
+        "padding": [
+          "32px",
+          "32px"
+        ]
+      },
+      {
+        "class": "section pranic-combined",
+        "x": 0,
+        "y": 2306.390625,
+        "w": 1280,
+        "h": 577.078125,
+        "padding": [
+          "48px",
+          "48px"
+        ]
+      },
+      {
+        "class": "final-cta section",
+        "x": 0,
+        "y": 2883.46875,
+        "w": 1280,
+        "h": 335.515625,
+        "padding": [
+          "48px",
+          "48px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLinks\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Pranic Healing",
+          "lines": [
+            "Pranic",
+            "Healing"
+          ]
+        },
+        {
+          "text": "Understanding Pranic Healing",
+          "lines": [
+            "Understanding",
+            "Pranic Healing"
+          ]
+        },
+        {
+          "text": "A method developed by Grand Master Choa Kok Sui",
+          "lines": [
+            "A method developed by Grand",
+            "Master Choa Kok Sui"
+          ]
+        },
+        {
+          "text": "Chakras as roundabouts",
+          "lines": [
+            "Chakras as roundabouts"
+          ]
+        },
+        {
+          "text": "What can it support?",
+          "lines": [
+            "What can it support?"
+          ]
+        },
+        {
+          "text": "In person, at a distance or alongside acupuncture",
+          "lines": [
+            "In person, at a distance or",
+            "alongside acupuncture"
+          ]
+        },
+        {
+          "text": "In person or at a distance",
+          "lines": [
+            "In person or at a distance"
+          ]
+        },
+        {
+          "text": "Alongside acupuncture",
+          "lines": [
+            "Alongside acupuncture"
+          ]
+        },
+        {
+          "text": "Book an appointment.",
+          "lines": [
+            "Book an appointment."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 44
+        },
+        {
+          "text": "About",
+          "h": 44
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(74, 74, 74)",
+        "rgb(255, 253, 247)"
+      ],
+      "language": [
+        "/fr/pranic-healing/",
+        "/fr/pranic-healing/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "captions": []
+    },
+    "dropdown": {
+      "x": 380.4375,
+      "y": 80,
+      "width": 262,
+      "height": 156
+    },
+    "escape": true
+  },
+  {
+    "page": "en",
+    "path": "/en/pranic-healing/",
+    "width": 1024,
+    "height": 3309,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Pranic Healing",
+        "x": 40,
+        "y": 154.828125,
+        "w": 454.90625,
+        "h": 154.84375,
+        "size": "71.68px",
+        "line": "77.4144px"
+      },
+      {
+        "text": "Understanding Pranic Healing",
+        "x": 40,
+        "y": 688,
+        "w": 400.015625,
+        "h": 308.515625,
+        "size": "30px",
+        "line": "33.6px"
+      },
+      {
+        "text": "A method developed by Grand Master Choa Kok Sui",
+        "x": 72,
+        "y": 1088.515625,
+        "w": 363.734375,
+        "h": 190.75,
+        "size": "28px",
+        "line": "31.64px"
+      },
+      {
+        "text": "Chakras as roundabouts",
+        "x": 40,
+        "y": 1396.84375,
+        "w": 400.015625,
+        "h": 33.59375,
+        "size": "30px",
+        "line": "33.6px"
+      },
+      {
+        "text": "What can it support?",
+        "x": 40,
+        "y": 1875.46875,
+        "w": 400.015625,
+        "h": 33.59375,
+        "size": "30px",
+        "line": "33.6px"
+      },
+      {
+        "text": "In person, at a distance or alongside acupuncture",
+        "x": 40,
+        "y": 2291.09375,
+        "w": 776.046875,
+        "h": 79.59375,
+        "size": "36.864px",
+        "line": "39.8131px"
+      },
+      {
+        "text": "In person or at a distance",
+        "x": 72,
+        "y": 2438.6875,
+        "w": 369.21875,
+        "h": 30,
+        "size": "25px",
+        "line": "30px"
+      },
+      {
+        "text": "Alongside acupuncture",
+        "x": 544,
+        "y": 2438.6875,
+        "w": 369.21875,
+        "h": 30,
+        "size": "25px",
+        "line": "30px"
+      },
+      {
+        "text": "Book an appointment.",
+        "x": 40,
+        "y": 2857.46875,
+        "w": 944,
+        "h": 66.34375,
+        "size": "61.44px",
+        "line": "66.3552px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Practices",
+        "x": 964.46875,
+        "y": 158,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Traditional Acupuncture",
+        "x": 982.46875,
+        "y": 206,
+        "w": 125.296875,
+        "h": 71.1875
+      },
+      {
+        "text": "Aculift",
+        "x": 982.46875,
+        "y": 277.1875,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 982.46875,
+        "y": 322.78125,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Women’s Health",
+        "x": 964.46875,
+        "y": 206,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "About",
+        "x": 964.46875,
+        "y": 255.59375,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "FR/EN",
+        "x": 964.46875,
+        "y": 305.1875,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Book an appointment",
+        "x": 964.46875,
+        "y": 361.1875,
+        "w": 143.296875,
+        "h": 71.59375
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/pranic-meditation-1000.webp",
+        "x": 570.421875,
+        "y": 108,
+        "w": 413.578125,
+        "h": 510,
+        "natural": [
+          430,
+          645
+        ],
+        "fit": "cover",
+        "position": "50% 65%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "section pranic-hero",
+        "x": 0,
+        "y": 80,
+        "w": 1024,
+        "h": 578,
+        "padding": [
+          "28px",
+          "40px"
+        ]
+      },
+      {
+        "class": "section pranic-understanding",
+        "x": 0,
+        "y": 658,
+        "w": 1024,
+        "h": 386.515625,
+        "padding": [
+          "30px",
+          "24px"
+        ]
+      },
+      {
+        "class": "section pranic-origin",
+        "x": 0,
+        "y": 1044.515625,
+        "w": 1024,
+        "h": 294.75,
+        "padding": [
+          "16px",
+          "32px"
+        ]
+      },
+      {
+        "class": "section pranic-network",
+        "x": 0,
+        "y": 1359.265625,
+        "w": 1024,
+        "h": 452.203125,
+        "padding": [
+          "32px",
+          "24px"
+        ]
+      },
+      {
+        "class": "section pranic-reasons",
+        "x": 0,
+        "y": 1843.46875,
+        "w": 1024,
+        "h": 399.625,
+        "padding": [
+          "32px",
+          "32px"
+        ]
+      },
+      {
+        "class": "section pranic-combined",
+        "x": 0,
+        "y": 2243.09375,
+        "w": 1024,
+        "h": 566.375,
+        "padding": [
+          "48px",
+          "48px"
+        ]
+      },
+      {
+        "class": "final-cta section",
+        "x": 0,
+        "y": 2809.46875,
+        "w": 1024,
+        "h": 318.921875,
+        "padding": [
+          "48px",
+          "48px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLinks\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Pranic Healing",
+          "lines": [
+            "Pranic",
+            "Healing"
+          ]
+        },
+        {
+          "text": "Understanding Pranic Healing",
+          "lines": [
+            "Understanding",
+            "Pranic Healing"
+          ]
+        },
+        {
+          "text": "A method developed by Grand Master Choa Kok Sui",
+          "lines": [
+            "A method developed by",
+            "Grand Master Choa Kok Sui"
+          ]
+        },
+        {
+          "text": "Chakras as roundabouts",
+          "lines": [
+            "Chakras as roundabouts"
+          ]
+        },
+        {
+          "text": "What can it support?",
+          "lines": [
+            "What can it support?"
+          ]
+        },
+        {
+          "text": "In person, at a distance or alongside acupuncture",
+          "lines": [
+            "In person, at a distance or",
+            "alongside acupuncture"
+          ]
+        },
+        {
+          "text": "In person or at a distance",
+          "lines": [
+            "In person or at a distance"
+          ]
+        },
+        {
+          "text": "Alongside acupuncture",
+          "lines": [
+            "Alongside acupuncture"
+          ]
+        },
+        {
+          "text": "Book an appointment.",
+          "lines": [
+            "Book an appointment."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 0
+        },
+        {
+          "text": "About",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(74, 74, 74)",
+        "rgb(255, 253, 247)"
+      ],
+      "language": [
+        "/fr/pranic-healing/",
+        "/fr/pranic-healing/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "captions": []
+    },
+    "nav": {
+      "w": 1024,
+      "h": 439.96875,
+      "scroll": 440,
+      "client": 440,
+      "links": [
+        {
+          "label": "Traditional Acupuncture",
+          "height": 45.59375
+        },
+        {
+          "label": "Aculift",
+          "height": 45.59375
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 45.59375
+        },
+        {
+          "label": "Women’s Health",
+          "height": 45.59375
+        },
+        {
+          "label": "About",
+          "height": 45.59375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Book an appointment",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "en",
+    "path": "/en/pranic-healing/",
+    "width": 768,
+    "height": 3525,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Pranic Healing",
+        "x": 24,
+        "y": 174.90625,
+        "w": 346.96875,
+        "h": 120.9375,
+        "size": "56px",
+        "line": "60.48px"
+      },
+      {
+        "text": "Understanding Pranic Healing",
+        "x": 24,
+        "y": 688,
+        "w": 310.90625,
+        "h": 351.625,
+        "size": "30px",
+        "line": "33.6px"
+      },
+      {
+        "text": "A method developed by Grand Master Choa Kok Sui",
+        "x": 48,
+        "y": 1127.625,
+        "w": 589.5,
+        "h": 63.25,
+        "size": "28px",
+        "line": "31.64px"
+      },
+      {
+        "text": "Chakras as roundabouts",
+        "x": 24,
+        "y": 1507.625,
+        "w": 362.015625,
+        "h": 33.59375,
+        "size": "30px",
+        "line": "33.6px"
+      },
+      {
+        "text": "What can it support?",
+        "x": 24,
+        "y": 2059.6875,
+        "w": 400.015625,
+        "h": 33.59375,
+        "size": "30px",
+        "line": "33.6px"
+      },
+      {
+        "text": "In person, at a distance or alongside acupuncture",
+        "x": 24,
+        "y": 2468.265625,
+        "w": 720,
+        "h": 77.75,
+        "size": "36px",
+        "line": "38.88px"
+      },
+      {
+        "text": "In person or at a distance",
+        "x": 56,
+        "y": 2614.015625,
+        "w": 296,
+        "h": 30,
+        "size": "25px",
+        "line": "30px"
+      },
+      {
+        "text": "Alongside acupuncture",
+        "x": 416,
+        "y": 2614.015625,
+        "w": 296,
+        "h": 30,
+        "size": "25px",
+        "line": "30px"
+      },
+      {
+        "text": "Book an appointment.",
+        "x": 24,
+        "y": 3090.390625,
+        "w": 720,
+        "h": 49.75,
+        "size": "46.08px",
+        "line": "49.7664px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Practices",
+        "x": 708.46875,
+        "y": 158,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Traditional Acupuncture",
+        "x": 726.46875,
+        "y": 206,
+        "w": 125.296875,
+        "h": 71.1875
+      },
+      {
+        "text": "Aculift",
+        "x": 726.46875,
+        "y": 277.1875,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 726.46875,
+        "y": 322.78125,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Women’s Health",
+        "x": 708.46875,
+        "y": 206,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "About",
+        "x": 708.46875,
+        "y": 255.59375,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "FR/EN",
+        "x": 708.46875,
+        "y": 305.1875,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Book an appointment",
+        "x": 708.46875,
+        "y": 361.1875,
+        "w": 143.296875,
+        "h": 71.59375
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/pranic-meditation-1000.webp",
+        "x": 428.5625,
+        "y": 108,
+        "w": 315.4375,
+        "h": 510,
+        "natural": [
+          322,
+          483
+        ],
+        "fit": "cover",
+        "position": "50% 65%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "section pranic-hero",
+        "x": 0,
+        "y": 80,
+        "w": 768,
+        "h": 578,
+        "padding": [
+          "28px",
+          "40px"
+        ]
+      },
+      {
+        "class": "section pranic-understanding",
+        "x": 0,
+        "y": 658,
+        "w": 768,
+        "h": 429.625,
+        "padding": [
+          "30px",
+          "24px"
+        ]
+      },
+      {
+        "class": "section pranic-origin",
+        "x": 0,
+        "y": 1087.625,
+        "w": 768,
+        "h": 368,
+        "padding": [
+          "16px",
+          "32px"
+        ]
+      },
+      {
+        "class": "section pranic-network",
+        "x": 0,
+        "y": 1475.625,
+        "w": 768,
+        "h": 520.0625,
+        "padding": [
+          "32px",
+          "24px"
+        ]
+      },
+      {
+        "class": "section pranic-reasons",
+        "x": 0,
+        "y": 2027.6875,
+        "w": 768,
+        "h": 392.578125,
+        "padding": [
+          "32px",
+          "32px"
+        ]
+      },
+      {
+        "class": "section pranic-combined",
+        "x": 0,
+        "y": 2420.265625,
+        "w": 768,
+        "h": 622.125,
+        "padding": [
+          "48px",
+          "48px"
+        ]
+      },
+      {
+        "class": "final-cta section",
+        "x": 0,
+        "y": 3042.390625,
+        "w": 768,
+        "h": 302.328125,
+        "padding": [
+          "48px",
+          "48px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLinks\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Pranic Healing",
+          "lines": [
+            "Pranic",
+            "Healing"
+          ]
+        },
+        {
+          "text": "Understanding Pranic Healing",
+          "lines": [
+            "Understanding",
+            "Pranic Healing"
+          ]
+        },
+        {
+          "text": "A method developed by Grand Master Choa Kok Sui",
+          "lines": [
+            "A method developed by Grand Master Choa",
+            "Kok Sui"
+          ]
+        },
+        {
+          "text": "Chakras as roundabouts",
+          "lines": [
+            "Chakras as roundabouts"
+          ]
+        },
+        {
+          "text": "What can it support?",
+          "lines": [
+            "What can it support?"
+          ]
+        },
+        {
+          "text": "In person, at a distance or alongside acupuncture",
+          "lines": [
+            "In person, at a distance or",
+            "alongside acupuncture"
+          ]
+        },
+        {
+          "text": "In person or at a distance",
+          "lines": [
+            "In person or at a distance"
+          ]
+        },
+        {
+          "text": "Alongside acupuncture",
+          "lines": [
+            "Alongside acupuncture"
+          ]
+        },
+        {
+          "text": "Book an appointment.",
+          "lines": [
+            "Book an appointment."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 0
+        },
+        {
+          "text": "About",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(74, 74, 74)",
+        "rgb(255, 253, 247)"
+      ],
+      "language": [
+        "/fr/pranic-healing/",
+        "/fr/pranic-healing/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "captions": []
+    },
+    "nav": {
+      "w": 768,
+      "h": 439.96875,
+      "scroll": 440,
+      "client": 440,
+      "links": [
+        {
+          "label": "Traditional Acupuncture",
+          "height": 45.59375
+        },
+        {
+          "label": "Aculift",
+          "height": 45.59375
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 45.59375
+        },
+        {
+          "label": "Women’s Health",
+          "height": 45.59375
+        },
+        {
+          "label": "About",
+          "height": 45.59375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Book an appointment",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "en",
+    "path": "/en/pranic-healing/",
+    "width": 430,
+    "height": 4987,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Pranic Healing",
+        "x": 20,
+        "y": 104,
+        "w": 390,
+        "h": 60.375,
+        "size": "55.9px",
+        "line": "60.372px"
+      },
+      {
+        "text": "Understanding Pranic Healing",
+        "x": 20,
+        "y": 1001.25,
+        "w": 390,
+        "h": 71.65625,
+        "size": "32px",
+        "line": "35.84px"
+      },
+      {
+        "text": "A method developed by Grand Master Choa Kok Sui",
+        "x": 40,
+        "y": 1516.53125,
+        "w": 350,
+        "h": 58.75,
+        "size": "26px",
+        "line": "29.38px"
+      },
+      {
+        "text": "Chakras as roundabouts",
+        "x": 20,
+        "y": 1944,
+        "w": 390,
+        "h": 35.828125,
+        "size": "32px",
+        "line": "35.84px"
+      },
+      {
+        "text": "What can it support?",
+        "x": 20,
+        "y": 2774.6875,
+        "w": 390,
+        "h": 35.828125,
+        "size": "32px",
+        "line": "35.84px"
+      },
+      {
+        "text": "In person, at a distance or alongside acupuncture",
+        "x": 20,
+        "y": 3386.484375,
+        "w": 390,
+        "h": 114.234375,
+        "size": "35.26px",
+        "line": "38.0808px"
+      },
+      {
+        "text": "In person or at a distance",
+        "x": 48,
+        "y": 3556.71875,
+        "w": 334,
+        "h": 31.1875,
+        "size": "26px",
+        "line": "31.2px"
+      },
+      {
+        "text": "Alongside acupuncture",
+        "x": 48,
+        "y": 3949.40625,
+        "w": 334,
+        "h": 31.1875,
+        "size": "26px",
+        "line": "31.2px"
+      },
+      {
+        "text": "Book an appointment.",
+        "x": 20,
+        "y": 4321.3125,
+        "w": 390,
+        "h": 106.8125,
+        "size": "49.45px",
+        "line": "53.406px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Practices",
+        "x": 370.46875,
+        "y": 158,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Traditional Acupuncture",
+        "x": 388.46875,
+        "y": 206,
+        "w": 125.296875,
+        "h": 71.1875
+      },
+      {
+        "text": "Aculift",
+        "x": 388.46875,
+        "y": 277.1875,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 388.46875,
+        "y": 322.78125,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Women’s Health",
+        "x": 370.46875,
+        "y": 206,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "About",
+        "x": 370.46875,
+        "y": 255.59375,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "FR/EN",
+        "x": 370.46875,
+        "y": 305.1875,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Book an appointment",
+        "x": 370.46875,
+        "y": 361.1875,
+        "w": 143.296875,
+        "h": 71.59375
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/pranic-meditation-1000.webp",
+        "x": 20,
+        "y": 459.75,
+        "w": 390,
+        "h": 487.5,
+        "natural": [
+          390,
+          585
+        ],
+        "fit": "cover",
+        "position": "50% 70%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "section pranic-hero",
+        "x": 0,
+        "y": 80,
+        "w": 430,
+        "h": 899.25,
+        "padding": [
+          "24px",
+          "32px"
+        ]
+      },
+      {
+        "class": "section pranic-understanding",
+        "x": 0,
+        "y": 979.25,
+        "w": 430,
+        "h": 509.28125,
+        "padding": [
+          "22px",
+          "22px"
+        ]
+      },
+      {
+        "class": "section pranic-origin",
+        "x": 0,
+        "y": 1488.53125,
+        "w": 430,
+        "h": 411.46875,
+        "padding": [
+          "8px",
+          "24px"
+        ]
+      },
+      {
+        "class": "section pranic-network",
+        "x": 0,
+        "y": 1920,
+        "w": 430,
+        "h": 798.6875,
+        "padding": [
+          "24px",
+          "24px"
+        ]
+      },
+      {
+        "class": "section pranic-reasons",
+        "x": 0,
+        "y": 2750.6875,
+        "w": 430,
+        "h": 599.796875,
+        "padding": [
+          "24px",
+          "24px"
+        ]
+      },
+      {
+        "class": "section pranic-combined",
+        "x": 0,
+        "y": 3350.484375,
+        "w": 430,
+        "h": 942.828125,
+        "padding": [
+          "36px",
+          "36px"
+        ]
+      },
+      {
+        "class": "final-cta section",
+        "x": 0,
+        "y": 4293.3125,
+        "w": 430,
+        "h": 343.375,
+        "padding": [
+          "28px",
+          "28px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLinks\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Pranic Healing",
+          "lines": [
+            "Pranic Healing"
+          ]
+        },
+        {
+          "text": "Understanding Pranic Healing",
+          "lines": [
+            "Understanding",
+            "Pranic Healing"
+          ]
+        },
+        {
+          "text": "A method developed by Grand Master Choa Kok Sui",
+          "lines": [
+            "A method developed by",
+            "Grand Master Choa Kok Sui"
+          ]
+        },
+        {
+          "text": "Chakras as roundabouts",
+          "lines": [
+            "Chakras as roundabouts"
+          ]
+        },
+        {
+          "text": "What can it support?",
+          "lines": [
+            "What can it support?"
+          ]
+        },
+        {
+          "text": "In person, at a distance or alongside acupuncture",
+          "lines": [
+            "In person, at",
+            "a distance or",
+            "alongside acupuncture"
+          ]
+        },
+        {
+          "text": "In person or at a distance",
+          "lines": [
+            "In person or at a distance"
+          ]
+        },
+        {
+          "text": "Alongside acupuncture",
+          "lines": [
+            "Alongside acupuncture"
+          ]
+        },
+        {
+          "text": "Book an appointment.",
+          "lines": [
+            "Book",
+            "an appointment."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 0
+        },
+        {
+          "text": "About",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(74, 74, 74)",
+        "rgb(255, 253, 247)"
+      ],
+      "language": [
+        "/fr/pranic-healing/",
+        "/fr/pranic-healing/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "captions": []
+    },
+    "nav": {
+      "w": 430,
+      "h": 439.96875,
+      "scroll": 440,
+      "client": 440,
+      "links": [
+        {
+          "label": "Traditional Acupuncture",
+          "height": 45.59375
+        },
+        {
+          "label": "Aculift",
+          "height": 45.59375
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 45.59375
+        },
+        {
+          "label": "Women’s Health",
+          "height": 45.59375
+        },
+        {
+          "label": "About",
+          "height": 45.59375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Book an appointment",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "en",
+    "path": "/en/pranic-healing/",
+    "width": 390,
+    "height": 5028,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Pranic Healing",
+        "x": 20,
+        "y": 104,
+        "w": 350,
+        "h": 54.75,
+        "size": "50.7px",
+        "line": "54.756px"
+      },
+      {
+        "text": "Understanding Pranic Healing",
+        "x": 20,
+        "y": 945.625,
+        "w": 350,
+        "h": 71.65625,
+        "size": "32px",
+        "line": "35.84px"
+      },
+      {
+        "text": "A method developed by Grand Master Choa Kok Sui",
+        "x": 40,
+        "y": 1512.40625,
+        "w": 310,
+        "h": 88.125,
+        "size": "26px",
+        "line": "29.38px"
+      },
+      {
+        "text": "Chakras as roundabouts",
+        "x": 20,
+        "y": 1969.25,
+        "w": 350,
+        "h": 71.65625,
+        "size": "32px",
+        "line": "35.84px"
+      },
+      {
+        "text": "What can it support?",
+        "x": 20,
+        "y": 2835.765625,
+        "w": 350,
+        "h": 35.828125,
+        "size": "32px",
+        "line": "35.84px"
+      },
+      {
+        "text": "In person, at a distance or alongside acupuncture",
+        "x": 20,
+        "y": 3447.5625,
+        "w": 350,
+        "h": 103.59375,
+        "size": "31.98px",
+        "line": "34.5384px"
+      },
+      {
+        "text": "In person or at a distance",
+        "x": 48,
+        "y": 3607.15625,
+        "w": 294,
+        "h": 31.1875,
+        "size": "26px",
+        "line": "31.2px"
+      },
+      {
+        "text": "Alongside acupuncture",
+        "x": 48,
+        "y": 3999.84375,
+        "w": 294,
+        "h": 31.1875,
+        "size": "26px",
+        "line": "31.2px"
+      },
+      {
+        "text": "Book an appointment.",
+        "x": 20,
+        "y": 4371.75,
+        "w": 350,
+        "h": 96.84375,
+        "size": "44.85px",
+        "line": "48.438px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Practices",
+        "x": 330.46875,
+        "y": 158,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Traditional Acupuncture",
+        "x": 348.46875,
+        "y": 206,
+        "w": 125.296875,
+        "h": 71.1875
+      },
+      {
+        "text": "Aculift",
+        "x": 348.46875,
+        "y": 277.1875,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 348.46875,
+        "y": 322.78125,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Women’s Health",
+        "x": 330.46875,
+        "y": 206,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "About",
+        "x": 330.46875,
+        "y": 255.59375,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "FR/EN",
+        "x": 330.46875,
+        "y": 305.1875,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Book an appointment",
+        "x": 330.46875,
+        "y": 361.1875,
+        "w": 143.296875,
+        "h": 71.59375
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/pranic-meditation-1000.webp",
+        "x": 20,
+        "y": 454.125,
+        "w": 350,
+        "h": 437.5,
+        "natural": [
+          350,
+          525
+        ],
+        "fit": "cover",
+        "position": "50% 70%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "section pranic-hero",
+        "x": 0,
+        "y": 80,
+        "w": 390,
+        "h": 843.625,
+        "padding": [
+          "24px",
+          "32px"
+        ]
+      },
+      {
+        "class": "section pranic-understanding",
+        "x": 0,
+        "y": 923.625,
+        "w": 390,
+        "h": 560.78125,
+        "padding": [
+          "22px",
+          "22px"
+        ]
+      },
+      {
+        "class": "section pranic-origin",
+        "x": 0,
+        "y": 1484.40625,
+        "w": 390,
+        "h": 440.84375,
+        "padding": [
+          "8px",
+          "24px"
+        ]
+      },
+      {
+        "class": "section pranic-network",
+        "x": 0,
+        "y": 1945.25,
+        "w": 390,
+        "h": 834.515625,
+        "padding": [
+          "24px",
+          "24px"
+        ]
+      },
+      {
+        "class": "section pranic-reasons",
+        "x": 0,
+        "y": 2811.765625,
+        "w": 390,
+        "h": 599.796875,
+        "padding": [
+          "24px",
+          "24px"
+        ]
+      },
+      {
+        "class": "section pranic-combined",
+        "x": 0,
+        "y": 3411.5625,
+        "w": 390,
+        "h": 932.1875,
+        "padding": [
+          "36px",
+          "36px"
+        ]
+      },
+      {
+        "class": "final-cta section",
+        "x": 0,
+        "y": 4343.75,
+        "w": 390,
+        "h": 333.40625,
+        "padding": [
+          "28px",
+          "28px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLinks\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Pranic Healing",
+          "lines": [
+            "Pranic Healing"
+          ]
+        },
+        {
+          "text": "Understanding Pranic Healing",
+          "lines": [
+            "Understanding",
+            "Pranic Healing"
+          ]
+        },
+        {
+          "text": "A method developed by Grand Master Choa Kok Sui",
+          "lines": [
+            "A method developed by",
+            "Grand Master Choa Kok",
+            "Sui"
+          ]
+        },
+        {
+          "text": "Chakras as roundabouts",
+          "lines": [
+            "Chakras as",
+            "roundabouts"
+          ]
+        },
+        {
+          "text": "What can it support?",
+          "lines": [
+            "What can it support?"
+          ]
+        },
+        {
+          "text": "In person, at a distance or alongside acupuncture",
+          "lines": [
+            "In person, at",
+            "a distance or",
+            "alongside acupuncture"
+          ]
+        },
+        {
+          "text": "In person or at a distance",
+          "lines": [
+            "In person or at a distance"
+          ]
+        },
+        {
+          "text": "Alongside acupuncture",
+          "lines": [
+            "Alongside acupuncture"
+          ]
+        },
+        {
+          "text": "Book an appointment.",
+          "lines": [
+            "Book",
+            "an appointment."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 0
+        },
+        {
+          "text": "About",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(74, 74, 74)",
+        "rgb(255, 253, 247)"
+      ],
+      "language": [
+        "/fr/pranic-healing/",
+        "/fr/pranic-healing/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "captions": []
+    },
+    "nav": {
+      "w": 390,
+      "h": 439.96875,
+      "scroll": 440,
+      "client": 440,
+      "links": [
+        {
+          "label": "Traditional Acupuncture",
+          "height": 45.59375
+        },
+        {
+          "label": "Aculift",
+          "height": 45.59375
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 45.59375
+        },
+        {
+          "label": "Women’s Health",
+          "height": 45.59375
+        },
+        {
+          "label": "About",
+          "height": 45.59375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Book an appointment",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "en",
+    "path": "/en/pranic-healing/",
+    "width": 360,
+    "height": 5350,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Pranic Healing",
+        "x": 20,
+        "y": 104,
+        "w": 320,
+        "h": 103.65625,
+        "size": "48px",
+        "line": "51.84px"
+      },
+      {
+        "text": "Understanding Pranic Healing",
+        "x": 20,
+        "y": 991.578125,
+        "w": 320,
+        "h": 71.65625,
+        "size": "32px",
+        "line": "35.84px"
+      },
+      {
+        "text": "A method developed by Grand Master Choa Kok Sui",
+        "x": 40,
+        "y": 1585.546875,
+        "w": 280,
+        "h": 88.125,
+        "size": "26px",
+        "line": "29.38px"
+      },
+      {
+        "text": "Chakras as roundabouts",
+        "x": 20,
+        "y": 2069.578125,
+        "w": 320,
+        "h": 71.65625,
+        "size": "32px",
+        "line": "35.84px"
+      },
+      {
+        "text": "What can it support?",
+        "x": 20,
+        "y": 2988.78125,
+        "w": 320,
+        "h": 71.65625,
+        "size": "32px",
+        "line": "35.84px"
+      },
+      {
+        "text": "In person, at a distance or alongside acupuncture",
+        "x": 20,
+        "y": 3666.09375,
+        "w": 320,
+        "h": 97.171875,
+        "size": "30px",
+        "line": "32.4px"
+      },
+      {
+        "text": "In person or at a distance",
+        "x": 48,
+        "y": 3819.265625,
+        "w": 264,
+        "h": 62.375,
+        "size": "26px",
+        "line": "31.2px"
+      },
+      {
+        "text": "Alongside acupuncture",
+        "x": 48,
+        "y": 4270.328125,
+        "w": 264,
+        "h": 62.375,
+        "size": "26px",
+        "line": "31.2px"
+      },
+      {
+        "text": "Book an appointment.",
+        "x": 20,
+        "y": 4700.609375,
+        "w": 320,
+        "h": 90.71875,
+        "size": "42px",
+        "line": "45.36px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Practices",
+        "x": 300.46875,
+        "y": 158,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Traditional Acupuncture",
+        "x": 318.46875,
+        "y": 206,
+        "w": 125.296875,
+        "h": 71.1875
+      },
+      {
+        "text": "Aculift",
+        "x": 318.46875,
+        "y": 277.1875,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 318.46875,
+        "y": 322.78125,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Women’s Health",
+        "x": 300.46875,
+        "y": 206,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "About",
+        "x": 300.46875,
+        "y": 255.59375,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "FR/EN",
+        "x": 300.46875,
+        "y": 305.1875,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Book an appointment",
+        "x": 300.46875,
+        "y": 361.1875,
+        "w": 143.296875,
+        "h": 71.59375
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/pranic-meditation-1000.webp",
+        "x": 20,
+        "y": 537.578125,
+        "w": 320,
+        "h": 400,
+        "natural": [
+          320,
+          480
+        ],
+        "fit": "cover",
+        "position": "50% 70%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "section pranic-hero",
+        "x": 0,
+        "y": 80,
+        "w": 360,
+        "h": 889.578125,
+        "padding": [
+          "24px",
+          "32px"
+        ]
+      },
+      {
+        "class": "section pranic-understanding",
+        "x": 0,
+        "y": 969.578125,
+        "w": 360,
+        "h": 587.96875,
+        "padding": [
+          "22px",
+          "22px"
+        ]
+      },
+      {
+        "class": "section pranic-origin",
+        "x": 0,
+        "y": 1557.546875,
+        "w": 360,
+        "h": 468.03125,
+        "padding": [
+          "8px",
+          "24px"
+        ]
+      },
+      {
+        "class": "section pranic-network",
+        "x": 0,
+        "y": 2045.578125,
+        "w": 360,
+        "h": 887.203125,
+        "padding": [
+          "24px",
+          "24px"
+        ]
+      },
+      {
+        "class": "section pranic-reasons",
+        "x": 0,
+        "y": 2964.78125,
+        "w": 360,
+        "h": 665.3125,
+        "padding": [
+          "24px",
+          "24px"
+        ]
+      },
+      {
+        "class": "section pranic-combined",
+        "x": 0,
+        "y": 3630.09375,
+        "w": 360,
+        "h": 1042.515625,
+        "padding": [
+          "36px",
+          "36px"
+        ]
+      },
+      {
+        "class": "final-cta section",
+        "x": 0,
+        "y": 4672.609375,
+        "w": 360,
+        "h": 327.28125,
+        "padding": [
+          "28px",
+          "28px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLinks\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Pranic Healing",
+          "lines": [
+            "Pranic",
+            "Healing"
+          ]
+        },
+        {
+          "text": "Understanding Pranic Healing",
+          "lines": [
+            "Understanding",
+            "Pranic Healing"
+          ]
+        },
+        {
+          "text": "A method developed by Grand Master Choa Kok Sui",
+          "lines": [
+            "A method developed by",
+            "Grand Master Choa",
+            "Kok Sui"
+          ]
+        },
+        {
+          "text": "Chakras as roundabouts",
+          "lines": [
+            "Chakras as",
+            "roundabouts"
+          ]
+        },
+        {
+          "text": "What can it support?",
+          "lines": [
+            "What can it support?"
+          ]
+        },
+        {
+          "text": "In person, at a distance or alongside acupuncture",
+          "lines": [
+            "In person, at",
+            "a distance or",
+            "alongside acupuncture"
+          ]
+        },
+        {
+          "text": "In person or at a distance",
+          "lines": [
+            "In person or",
+            "at a distance"
+          ]
+        },
+        {
+          "text": "Alongside acupuncture",
+          "lines": [
+            "Alongside",
+            "acupuncture"
+          ]
+        },
+        {
+          "text": "Book an appointment.",
+          "lines": [
+            "Book",
+            "an appointment."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 0
+        },
+        {
+          "text": "About",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(74, 74, 74)",
+        "rgb(255, 253, 247)"
+      ],
+      "language": [
+        "/fr/pranic-healing/",
+        "/fr/pranic-healing/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "captions": []
+    },
+    "nav": {
+      "w": 360,
+      "h": 439.96875,
+      "scroll": 440,
+      "client": 440,
+      "links": [
+        {
+          "label": "Traditional Acupuncture",
+          "height": 45.59375
+        },
+        {
+          "label": "Aculift",
+          "height": 45.59375
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 45.59375
+        },
+        {
+          "label": "Women’s Health",
+          "height": 45.59375
+        },
+        {
+          "label": "About",
+          "height": 45.59375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Book an appointment",
+          "height": 48
+        }
+      ]
+    }
+  }
+]

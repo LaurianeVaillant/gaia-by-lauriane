@@ -1,0 +1,50 @@
+[
+  {
+    "lang": "fr",
+    "approvedPassages": 28,
+    "exactCopy": true,
+    "emphasis": [
+      "observer où ça circule bien, où ça bloque et où il y a besoin de rééquilibrer.",
+      "L’idée n’est donc pas de regarder un point tout seul, mais la circulation d’ensemble."
+    ],
+    "hrefs": [
+      "/prendre-rendez-vous/",
+      "https://pranichealingfrance.com/",
+      "/fr/acupuncture/",
+      "/prendre-rendez-vous/"
+    ],
+    "sections": [
+      "section pranic-hero",
+      "section pranic-understanding",
+      "section pranic-origin",
+      "section pranic-network",
+      "section pranic-reasons",
+      "section pranic-combined",
+      "final-cta section"
+    ]
+  },
+  {
+    "lang": "en",
+    "approvedPassages": 28,
+    "exactCopy": true,
+    "emphasis": [
+      "noticing where things flow well, where they feel blocked and where rebalancing may be needed.",
+      "The idea is not to look at one point in isolation, but at the circulation as a whole."
+    ],
+    "hrefs": [
+      "/en/book-an-appointment/",
+      "https://pranichealingfrance.com/",
+      "/en/acupuncture/",
+      "/en/book-an-appointment/"
+    ],
+    "sections": [
+      "section pranic-hero",
+      "section pranic-understanding",
+      "section pranic-origin",
+      "section pranic-network",
+      "section pranic-reasons",
+      "section pranic-combined",
+      "final-cta section"
+    ]
+  }
+]

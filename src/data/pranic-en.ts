@@ -1,35 +1,48 @@
 export const pranicEn = {
   "title": "Pranic Healing",
-  "subtitle": "An energy-based approach working with circulation, the aura and the different energetic layers.",
-  "intro": "Physical, emotional, energetic.",
+  "subtitle": "An energy practice that works with circulation, the aura and your different energetic layers.",
+  "intro": "Physical, emotional, mental.",
   "understanding": [
-    "Pranic Healing is an energy practice that works with the circulation of energy across different levels: physical, emotional and more subtle.",
-    "I practise it as an approach in its own right, and also as a complementary practice alongside acupuncture when that seems appropriate."
+    "Pranic Healing is an energy practice that works with the circulation of energy at different levels.",
+    "I sometimes use it on its own, and sometimes alongside acupuncture, depending on what feels relevant.",
+    "The language is different from acupuncture, but the idea is quite similar: noticing where things flow well, where they feel blocked and where rebalancing may be needed."
+  ],
+  "framework": "The aura and chakras are the reference points used in this method. They belong to the Pranic Healing model and are not a description of medical anatomy.",
+  "origin": [
+    "Modern Pranic Healing was developed by Grand Master Choa Kok Sui in the Philippines.",
+    "His teachings later spread internationally and are now practised in more than 120 countries."
   ],
   "network": [
-    "I often describe chakras as large roundabouts in the body.",
-    "Take the Étoile roundabout in Paris. It connects several of the city’s major avenues. If one of them is blocked, traffic can quickly be disrupted on the main roads, then on the smaller streets that depend on them.",
-    "In the language of Pranic Healing, chakras work a little like this: they act as major centres of energetic circulation.",
-    "The “roads” represent energy flows moving towards different areas and functions of the body.",
-    "The idea is to work with overall circulation rather than an isolated point."
+    "I often explain chakras as large roundabouts in the body.",
+    "Think of the Arc de Triomphe in Paris. Several major roads meet there. If traffic gets blocked in the middle, the problem does not stay at the roundabout. It starts affecting the roads around it too.",
+    "In Pranic Healing, chakras are understood a bit like that. They are seen as centres of energetic circulation connected to different areas and functions of the body.",
+    "The idea is not to look at one point in isolation, but at the circulation as a whole."
   ],
+  "reasonsIntro": "Pranic Healing can be used on its own or alongside another approach.",
   "reasons": [
     "Fatigue",
     "Stress",
     "Tension",
     "Emotional overload",
     "Feeling blocked",
+    "Need for grounding / recentering",
     "Difficulty finding momentum again",
-    "A need to feel centred",
-    "Whole-system energetic support"
+    "Overall energetic support"
   ],
   "formats": [
-    "Sessions can take place in person or remotely.",
-    "They usually last between 45 minutes and 1 hour.",
-    "For a remote session, you simply need to be somewhere quiet, available and receptive. There is nothing particular you need to do."
+    "Sessions can take place in person or at a distance.",
+    "They generally last between 45 minutes and 1 hour.",
+    "For a distance session, you simply need to be somewhere calm and available. There is nothing particular you need to do on your side."
   ],
   "complementary": [
-    "Pranic Healing and acupuncture are two different approaches that I may use together when that seems appropriate.",
-    "With your agreement, I sometimes use Pranic Healing while the acupuncture needles are in place."
+    "Pranic Healing and acupuncture are two different approaches.",
+    "I may sometimes use both in the same session when it feels relevant, and always with your agreement."
+  ],
+  "closingSupport": "Not sure whether Pranic Healing is what you’re looking for? Send me a message and we can talk about it.",
+  "understandingEmphasis": [
+    "noticing where things flow well, where they feel blocked and where rebalancing may be needed."
+  ],
+  "networkEmphasis": [
+    "The idea is not to look at one point in isolation, but at the circulation as a whole."
   ]
 };
