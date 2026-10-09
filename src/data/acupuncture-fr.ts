@@ -1,29 +1,71 @@
 export const acupunctureFr = {
- title:'Acupuncture traditionnelle',
- subtitle:'Le corps, les émotions et leurs interactions comme un réseau interconnecté.',
- intro:'Comprendre, relier, construire autour de ce qui s’exprime pour vous aujourd’hui.',
- approach:[
- 'J’aime décrire mon approche de l’acupuncture comme celle d’une détective. Tout au long de la séance, mon objectif est d’apprendre à vous connaître et de comprendre vos différents fonctionnements. Une douleur, un sommeil perturbé, une digestion difficile ou une fatigue sont rarement des phénomènes isolés.',
- 'Je cherche à relier les indices : votre histoire, vos symptômes, vos habitudes, les pouls, la langue, ce que votre corps exprime ce jour-là. L’idée est de comprendre comment ces éléments s’articulent entre eux plutôt que de regarder chaque symptôme séparément.',
- 'C’est cette lecture d’ensemble qui guide ensuite ma façon de construire la séance.'
- ],
- network:[
- 'Quand j’explique l’acupuncture, je la compare souvent au plan des transports parisiens.',
- 'Il existe plusieurs lignes, plusieurs chemins, plusieurs façons de relier un point à un autre.',
- 'Parfois un trajet est bloqué. Il faut alors comprendre le réseau dans son ensemble pour trouver une autre voie.',
- 'C’est cette logique de relations et de circulation que je trouve fascinante dans l’acupuncture.'
- ],
- steps:[
- {title:'Échanger',copy:'La première partie de la séance dure généralement 15 à 20 minutes. Elle me permet de comprendre ce qui vous amène, votre histoire, votre contexte et les signes que votre corps exprime.'},
- {title:'Diagnostiquer',copy:'Je complète cet échange par un bilan énergétique, notamment à travers la prise des pouls et l’observation de la langue.'},
- {title:'Agir',copy:'Je construis ensuite la séance et choisis les points en fonction du bilan réalisé et de ce que votre corps exprime ce jour-là.'}
- ],
- reasons:['Douleurs et tensions','Sommeil','Stress','Fatigue','Digestion','Cycle menstruel','Santé féminine','Inconforts fonctionnels'],
- reasonsIntro:'Quelques motifs qui peuvent vous amener à consulter :',
- careNote:'L’acupuncture traditionnelle ne remplace pas un diagnostic ni un suivi médical.',
- expectations:[
- {title:'1h–1h15',copy:'Une séance dure généralement entre 1h et 1h15.'},
- {title:'Aiguilles très fines',copy:'Les sensations varient d’une personne à l’autre.'},
- {title:'Rythme adapté',copy:'Le nombre et le rythme des séances dépendent de la condition de chacun.'}
- ]
+  "title": "Acupuncture traditionnelle",
+  "subtitle": "Le corps, les émotions et leurs interactions comme un réseau interconnecté.",
+  "intro": "Comprendre, relier, construire autour de ce qui s’exprime pour vous aujourd’hui.",
+  "approach": [
+    "J’aime décrire mon approche de l’acupuncture comme celle d’une détective.",
+    "Pendant la séance, je cherche à faire le lien entre les différentes pièces du puzzle : ce que vous ressentez, votre histoire, votre rythme de vie, votre énergie, votre sommeil, votre digestion, vos cycles… bref, vous !",
+    "Une douleur, une fatigue, un stress qui s’installe ou un inconfort fonctionnel ne sortent jamais de nulle part.",
+    "Je m’appuie pour cela sur l’échange, l’observation, la prise des pouls et de la langue.",
+    "L’idée n’est pas juste de faire taire un symptôme, mais de comprendre ce qu’il raconte.",
+    "Et c’est cette lecture d’ensemble qui guide ensuite ma façon de construire la séance."
+  ],
+  "network": [
+    "Quand j’explique l’acupuncture, je la compare souvent au plan des transports parisiens.",
+    "Il y a plusieurs lignes, plusieurs trajets, plusieurs manières de relier un point A à un point B. Mais il y a aussi des contraintes.",
+    "En acupuncture traditionnelle, ces lignes sont les méridiens : des trajets à travers lesquels on décrit la circulation du Qi, l’énergie vitale dans la lecture traditionnelle chinoise. Les contraintes, elles, peuvent être vues comme des blocages énergétiques.",
+    "Quand quelque chose se bloque ou circule moins bien, le déséquilibre ne se manifeste pas forcément exactement là où il commence.",
+    "C’est aussi pour ça qu’on ne regarde pas seulement “où ça fait mal”, mais comment l’ensemble fonctionne : histoire, sommeil, digestion, émotions, cycle, énergie, rythme de vie, mais aussi adaptation aux saisons et à l’environnement.",
+    "L’acupuncture cherche à lire ce réseau, pas seulement un symptôme isolé.",
+    "Et ça, je trouve ça passionnant."
+  ],
+  "steps": [
+    {
+      "title": "ÉCHANGER",
+      "copy": "La première partie de la séance permet de comprendre ce qui vous amène, votre histoire, votre contexte et ce que votre corps exprime aujourd’hui."
+    },
+    {
+      "title": "OBSERVER & COMPRENDRE",
+      "copy": "Je complète ensuite cet échange avec les outils de l’acupuncture traditionnelle, notamment la prise des pouls et l’observation de la langue."
+    },
+    {
+      "title": "AGIR",
+      "copy": "Je construis ensuite la séance à partir de tout ça, en choisissant les points en fonction du bilan du jour et de ce que votre corps exprime."
+    }
+  ],
+  "reasons": [
+    "Douleurs et tensions",
+    "Fatigue",
+    "Sommeil",
+    "Digestion",
+    "Stress",
+    "Cycle menstruel",
+    "Santé féminine",
+    "Inconforts fonctionnels"
+  ],
+  "reasonsIntro": "Quelques motifs qui peuvent vous amener à consulter :",
+  "careNote": "L’acupuncture traditionnelle ne remplace pas un diagnostic ni un suivi médical.",
+  "expectations": [
+    {
+      "title": "1h–1h15",
+      "copy": "Une séance dure généralement entre 1h et 1h15."
+    },
+    {
+      "title": "Aiguilles très fines",
+      "copy": "Les sensations varient d’une personne à l’autre."
+    },
+    {
+      "title": "Rythme adapté",
+      "copy": "Le nombre et le rythme des séances dépendent de la condition de chacun."
+    }
+  ],
+  "approachEmphasis": [
+    "bref, vous !",
+    "L’idée n’est pas juste de faire taire un symptôme, mais de comprendre ce qu’il raconte."
+  ],
+  "networkEmphasis": [
+    "les méridiens",
+    "L’acupuncture cherche à lire ce réseau, pas seulement un symptôme isolé."
+  ],
+  "closingSupport": "Comprendre, relier, construire autour de ce qui s’exprime pour vous aujourd’hui."
 };

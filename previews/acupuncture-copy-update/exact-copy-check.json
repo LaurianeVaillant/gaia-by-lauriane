@@ -1,0 +1,48 @@
+[
+  {
+    "lang": "fr",
+    "approvedPassages": 38,
+    "allCopyPresent": true,
+    "ctaDestinationsUnchanged": true,
+    "diagramPoints": 6,
+    "emphasis": [
+      "bref, vous !",
+      "L’idée n’est pas juste de faire taire un symptôme, mais de comprendre ce qu’il raconte.",
+      "les méridiens",
+      "L’acupuncture cherche à lire ce réseau, pas seulement un symptôme isolé."
+    ],
+    "disclaimer": "L’acupuncture traditionnelle ne remplace pas un diagnostic ni un suivi médical.",
+    "sections": [
+      "acupuncture-hero section",
+      "section acupuncture-approach",
+      "section acupuncture-network",
+      "section acupuncture-session",
+      "section acupuncture-reasons",
+      "section acupuncture-expectations",
+      "final-cta section"
+    ]
+  },
+  {
+    "lang": "en",
+    "approvedPassages": 38,
+    "allCopyPresent": true,
+    "ctaDestinationsUnchanged": true,
+    "diagramPoints": 6,
+    "emphasis": [
+      "basically, you.",
+      "The idea is not simply to silence a symptom, but to understand what it may be telling us.",
+      "the meridians",
+      "Acupuncture tries to read this network, not just an isolated symptom."
+    ],
+    "disclaimer": "Traditional acupuncture does not replace a medical diagnosis or ongoing medical care.",
+    "sections": [
+      "acupuncture-hero section",
+      "section acupuncture-approach",
+      "section acupuncture-network",
+      "section acupuncture-session",
+      "section acupuncture-reasons",
+      "section acupuncture-expectations",
+      "final-cta section"
+    ]
+  }
+]
