@@ -1,0 +1,56 @@
+[
+  {
+    "lang": "fr",
+    "exactCopy": true,
+    "emphasis": [
+      "la sorcière bien aimée !",
+      "j’aime les gens",
+      "la thérapeute que j’aimerais avoir face à moi",
+      "À l’écoute, pour de vrai."
+    ],
+    "captions": [
+      "Rishikesh, capitale mondiale du yoga, Inde",
+      "Au bord du Gange durant une cérémonie Hindou Aarti, Inde",
+      "Inde · Pratique quotidienne",
+      "Pendant une mission d'acupuncture à Poha, Népal",
+      "Le mouvement continue."
+    ],
+    "sections": [
+      "aj-section aj-hero",
+      "aj-section aj-origin",
+      "aj-section aj-encounters",
+      "aj-statement",
+      "aj-section aj-therapist",
+      "aj-section aj-training",
+      "aj-section aj-gaia",
+      "aj-section aj-ending"
+    ]
+  },
+  {
+    "lang": "en",
+    "exactCopy": true,
+    "emphasis": [
+      "the resident witch everyone secretly loves",
+      "I love people",
+      "the therapist I’d want sitting across from me",
+      "Actually listening. For real."
+    ],
+    "captions": [
+      "Rishikesh, the world capital of yoga, India",
+      "On the banks of the Ganges during a Hindu Aarti ceremony, India",
+      "India · Daily practice",
+      "During an acupuncture mission in Poha, Nepal",
+      "The movement continues."
+    ],
+    "sections": [
+      "aj-section aj-hero",
+      "aj-section aj-origin",
+      "aj-section aj-encounters",
+      "aj-statement",
+      "aj-section aj-therapist",
+      "aj-section aj-training",
+      "aj-section aj-gaia",
+      "aj-section aj-ending"
+    ]
+  }
+]
