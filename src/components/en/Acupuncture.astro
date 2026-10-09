@@ -1,0 +1,68 @@
+---
+import '../../styles/acupuncture-system.css';
+import SoftBoundary from '../SoftBoundary.astro';
+import Photo from '../Photo.astro';
+import NetworkGraphic from '../NetworkGraphic.astro';
+import {acupunctureEn as c} from '../../data/acupuncture-en';
+import {url} from '../../data/site';
+const [clueSentence,clueReading]=c.approach[1].split('. ');
+const [clueLead,clueList]=clueSentence.split(': ');
+const clues=clueList.split(', ');
+---
+<div class="acupuncture-page">
+  <section class="acupuncture-hero section">
+    <div class="acupuncture-hero-copy">
+      <h1>{c.title}</h1>
+      <p class="acupuncture-subtitle">{c.subtitle}</p>
+      <p>{c.intro}</p>
+      <a class="button" href="/en/book-an-appointment/">Book an appointment</a>
+    </div>
+    <div class="acupuncture-hero-photo"><Photo name="acupuncture" hero width={1149} height={1368} alt="Close-up of hands placing acupuncture needles on a back in warm natural light"/></div>
+  </section>
+
+  <section class="section acupuncture-approach">
+    <h2 class="eyebrow">My approach</h2>
+    <div class="approach-investigation">
+      <p class="approach-opening">{c.approach[0]}</p>
+      <div class="approach-clues">
+        <p class="clue-sentence"><span class="clue-lead">{clueLead}: </span><span class="clue-map"><svg class="clue-path clue-path-desktop" viewBox="0 0 600 340" preserveAspectRatio="none" aria-hidden="true"><path d="M42 54C123 18 205 44 276 20C356 2 394 60 432 116M42 54C94 119 104 154 18 190C70 249 146 244 228 255C314 274 352 240 432 221M276 20C280 98 224 160 228 255M432 116C461 145 465 174 432 221"/></svg><svg class="clue-path clue-path-mobile" viewBox="0 0 600 340" preserveAspectRatio="none" aria-hidden="true"><path d="M42 41C120 13 200 29 348 14C364 45 356 78 348 109M42 41C106 89 98 122 18 143C32 173 42 204 42 245M348 109C354 143 352 185 348 218M18 143C162 123 250 162 348 218"/></svg>{clues.map((clue,i)=><span class="clue"><span class="clue-label">{clue}{i===clues.length-1?'.':', '} </span></span>)}</span></p>
+      </div>
+      <p class="clue-reading">{clueReading}</p>
+      <p class="approach-closing">{c.approach[2]}</p>
+    </div>
+  </section>
+
+  <SoftBoundary from="var(--white)" to="var(--butter)" intensity="network-in"/>
+  <section class="section acupuncture-network">
+    <h2 class="eyebrow">Your system is a network.</h2>
+    <div class="network-investigation">
+      <NetworkGraphic lang="en"/>
+      <div class="network-reading">{c.network.map((p,i)=><p>{i===2?<>{p.split('We then need')[0]}<strong>We then need{p.split('We then need')[1]}</strong></>:p}</p>)}</div>
+    </div>
+  </section>
+
+  <section class="section acupuncture-session">
+    <h2 class="eyebrow">What happens <span class="keep-together">in a session?</span></h2>
+    <div class="session-journey">
+      <svg class="session-path" viewBox="0 0 1200 70" preserveAspectRatio="none" aria-hidden="true"><path d="M20 24C176 2 288 44 432 32C594 17 714 8 846 24C970 41 1080 31 1180 24"/></svg>
+      <ol class="session-steps">{c.steps.map(step=><li><h3>{step.title}</h3><p>{step.copy}</p></li>)}</ol>
+    </div>
+  </section>
+
+  <section class="section acupuncture-reasons">
+    <div class="reasons-heading"><h2 class="eyebrow">Why <span class="keep-together">come for a session?</span></h2><p>{c.reasonsIntro}</p></div>
+    <ul class="consultation-reasons">{c.reasons.map((reason,i)=><li class={`reason-${i}`}>{reason==='Women’s Health'?<a href={url('en','women')}>{reason}</a>:reason}</li>)}</ul>
+    <p class="care-note"><em>{c.careNote}</em></p>
+  </section>
+
+  <section class="section acupuncture-expectations">
+    <h2 class="eyebrow">What to expect</h2>
+    <div class="expectation-list">{c.expectations.map(item=><div><h3>{item.title}</h3><p>{item.copy}</p></div>)}</div>
+  </section>
+
+  <SoftBoundary from="var(--white)" to="var(--violet)" intensity="calm"/>
+  <section class="final-cta section">
+    <h2>Book<br/> an appointment<span>.</span></h2>
+    <div class="service-closing"><p class="final-support">{c.intro}</p><a class="button" href="/en/book-an-appointment/">Book an appointment</a></div>
+  </section>
+</div>

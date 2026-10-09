@@ -6,8 +6,16 @@ export const homeEmphasis = {
   story:['Mon parcours n’a jamais vraiment été linéaire.', 'un nouveau langage pour relier le corps, l’énergie et nos différents fonctionnements.']
  },
  en: {
-  manifesto:['Everything communicates. Everything influences everything else.'],
-  women:['learn to observe your body, its rhythms and its changes'],
-  story:['My path has never really been linear.']
- }
+  "manifesto": [
+    "Everything communicates. Everything influences everything else."
+  ],
+  "women": [
+    "Understanding your cycle means learning to read your body, its rhythms and its changes.",
+    "not feel ruled by their cycles, but learn to live with them."
+  ],
+  "story": [
+    "My path has never really been linear.",
+    "a new language for connecting the body, energy and our different ways of functioning."
+  ]
+}
 } as const;

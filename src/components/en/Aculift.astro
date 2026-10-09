@@ -1,0 +1,31 @@
+---
+import '../../styles/aculift-system.css';
+import Photo from '../Photo.astro';
+import SoftBoundary from '../SoftBoundary.astro';
+import {aculiftEn as c} from '../../data/aculift-en';
+import {url} from '../../data/site';
+---
+<div class="aculift-page">
+  <section class="section aculift-hero">
+    <div class="aculift-hero-copy"><h1>{c.title}</h1><p class="aculift-subtitle">{c.subtitle}</p><p class="aculift-intro">{c.intro}</p><p class="aculift-factual">{c.factual}</p><a class="button" href="/en/book-an-appointment/">Book an appointment</a></div>
+    <div class="aculift-photo"><Photo name="about-portrait" hero width={1024} height={1536} alt="Close-up portrait of Lauriane in golden natural light, with a hand near her face"/></div>
+  </section>
+  <section class="section aculift-definition">
+    <div class="aculift-editorial"><h2>What is Aculift?</h2><div class="aculift-definition-copy">{c.definition.map(p=><p>{p}</p>)}<a class="text-link" href={url('en','acupuncture')}>Explore traditional acupuncture</a></div></div>
+  </section>
+  <SoftBoundary from="var(--white)" to="var(--aculift-pink)" intensity="calm"/>
+  <section class="section aculift-reasons">
+    <h2>Why come for a session?</h2><p class="aculift-reasons-intro">{c.reasonsIntro}</p><ul class="aculift-topic-grid">{c.reasons.map(reason=><li>{reason}</li>)}</ul>
+  </section>
+  <SoftBoundary from="var(--aculift-pink)" to="var(--butter)" intensity="network-out"/>
+  <section class="section aculift-personal">
+    <div class="aculift-personal-copy"><h2>A personalised approach</h2>{c.personal.map(p=><p>{p}</p>)}</div>
+    <div class="aculift-face" aria-hidden="true"><img src="/images/aculift-face.webp" alt="" width="1024" height="1024" loading="lazy" decoding="async"/></div>
+  </section>
+  <section class="section aculift-session">
+    <h2>What happens <span class="keep-together">in a session?</span></h2><div class="aculift-step-grid"><svg class="aculift-session-contour" viewBox="0 0 160 64" fill="none" aria-hidden="true"><path d="M4 46C29 45 25 12 59 13C80 14 83 42 110 40C128 39 140 30 156 26" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><circle cx="88" cy="31" r="3" fill="var(--orange)"/></svg>{c.steps.map(step=><div><h3>{step.title}</h3><p>{step.copy}</p></div>)}</div>
+  </section>
+  <section class="section aculift-closing">
+    <h2>Book <span class="keep-together cta-word">an appointment</span><span>.</span></h2><p>{c.closing}</p><a class="button" href="/en/book-an-appointment/">Book an appointment</a>
+  </section>
+</div>

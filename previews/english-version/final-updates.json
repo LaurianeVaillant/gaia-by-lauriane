@@ -1,0 +1,4665 @@
+[
+  {
+    "page": "acupuncture",
+    "path": "/en/acupuncture/",
+    "width": 1440,
+    "height": 4027,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Traditional Acupuncture",
+        "x": 80,
+        "y": 247.453125,
+        "w": 595.203125,
+        "h": 170.71875,
+        "size": "82.08px",
+        "line": "85.3632px"
+      },
+      {
+        "text": "My approach",
+        "x": 80,
+        "y": 890,
+        "w": 897.390625,
+        "h": 55.40625,
+        "size": "53.28px",
+        "line": "55.4112px"
+      },
+      {
+        "text": "Your system is a network.",
+        "x": 80,
+        "y": 1672.1875,
+        "w": 897.390625,
+        "h": 55.40625,
+        "size": "53.28px",
+        "line": "55.4112px"
+      },
+      {
+        "text": "What happens in a session?",
+        "x": 80,
+        "y": 2324.921875,
+        "w": 897.390625,
+        "h": 55.40625,
+        "size": "53.28px",
+        "line": "55.4112px"
+      },
+      {
+        "text": "Talk",
+        "x": 80,
+        "y": 2476.328125,
+        "w": 384,
+        "h": 33.59375,
+        "size": "28px",
+        "line": "33.6px"
+      },
+      {
+        "text": "Assess",
+        "x": 528,
+        "y": 2476.328125,
+        "w": 384,
+        "h": 33.59375,
+        "size": "28px",
+        "line": "33.6px"
+      },
+      {
+        "text": "Act",
+        "x": 976,
+        "y": 2476.328125,
+        "w": 384,
+        "h": 33.59375,
+        "size": "28px",
+        "line": "33.6px"
+      },
+      {
+        "text": "Why come for a session?",
+        "x": 80,
+        "y": 2794.359375,
+        "w": 897.390625,
+        "h": 55.40625,
+        "size": "53.28px",
+        "line": "55.4112px"
+      },
+      {
+        "text": "What to expect",
+        "x": 80,
+        "y": 3246.34375,
+        "w": 897.390625,
+        "h": 55.40625,
+        "size": "53.28px",
+        "line": "55.4112px"
+      },
+      {
+        "text": "1h–1h15",
+        "x": 80,
+        "y": 3333.75,
+        "w": 384,
+        "h": 33.59375,
+        "size": "28px",
+        "line": "33.6px"
+      },
+      {
+        "text": "Very fine needles",
+        "x": 528,
+        "y": 3333.75,
+        "w": 384,
+        "h": 33.59375,
+        "size": "28px",
+        "line": "33.6px"
+      },
+      {
+        "text": "An individual rhythm",
+        "x": 976,
+        "y": 3333.75,
+        "w": 384,
+        "h": 33.59375,
+        "size": "28px",
+        "line": "33.6px"
+      },
+      {
+        "text": "Book an appointment.",
+        "x": 80,
+        "y": 3596.765625,
+        "w": 706.5625,
+        "h": 173.6875,
+        "size": "83.52px",
+        "line": "86.8608px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [],
+    "images": [
+      {
+        "src": "/images/acupuncture-1200.webp",
+        "x": 764.796875,
+        "y": 172,
+        "w": 595.203125,
+        "h": 590,
+        "natural": [
+          689,
+          820
+        ],
+        "fit": "cover",
+        "position": "50% 55%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "acupuncture-hero section",
+        "x": 0,
+        "y": 100,
+        "w": 1440,
+        "h": 734,
+        "padding": [
+          "72px",
+          "72px"
+        ]
+      },
+      {
+        "class": "section acupuncture-approach",
+        "x": 0,
+        "y": 834,
+        "w": 1440,
+        "h": 758.1875,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      },
+      {
+        "class": "section acupuncture-network",
+        "x": 0,
+        "y": 1648.1875,
+        "w": 1440,
+        "h": 620.734375,
+        "padding": [
+          "24px",
+          "40px"
+        ]
+      },
+      {
+        "class": "section acupuncture-session",
+        "x": 0,
+        "y": 2268.921875,
+        "w": 1440,
+        "h": 469.4375,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      },
+      {
+        "class": "section acupuncture-reasons",
+        "x": 0,
+        "y": 2738.359375,
+        "w": 1440,
+        "h": 455.984375,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      },
+      {
+        "class": "section acupuncture-expectations",
+        "x": 0,
+        "y": 3194.34375,
+        "w": 1440,
+        "h": 306.375,
+        "padding": [
+          "52px",
+          "52px"
+        ]
+      },
+      {
+        "class": "final-cta section",
+        "x": 0,
+        "y": 3528.71875,
+        "w": 1440,
+        "h": 317.78125,
+        "padding": [
+          "64px",
+          "72px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLinks\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Traditional Acupuncture",
+          "lines": [
+            "Traditional",
+            "Acupuncture"
+          ]
+        },
+        {
+          "text": "My approach",
+          "lines": [
+            "My approach"
+          ]
+        },
+        {
+          "text": "Your system is a network.",
+          "lines": [
+            "Your system is a network."
+          ]
+        },
+        {
+          "text": "What happens in a session?",
+          "lines": [
+            "What happens in a session?"
+          ]
+        },
+        {
+          "text": "Talk",
+          "lines": [
+            "Talk"
+          ]
+        },
+        {
+          "text": "Assess",
+          "lines": [
+            "Assess"
+          ]
+        },
+        {
+          "text": "Act",
+          "lines": [
+            "Act"
+          ]
+        },
+        {
+          "text": "Why come for a session?",
+          "lines": [
+            "Why come for a session?"
+          ]
+        },
+        {
+          "text": "What to expect",
+          "lines": [
+            "What to expect"
+          ]
+        },
+        {
+          "text": "1h–1h15",
+          "lines": [
+            "1h–1h15"
+          ]
+        },
+        {
+          "text": "Very fine needles",
+          "lines": [
+            "Very fine needles"
+          ]
+        },
+        {
+          "text": "An individual rhythm",
+          "lines": [
+            "An individual rhythm"
+          ]
+        },
+        {
+          "text": "Book an appointment.",
+          "lines": [
+            "Book",
+            "an appointment."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 44
+        },
+        {
+          "text": "About",
+          "h": 44
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(74, 74, 74)",
+        "rgb(255, 253, 247)"
+      ],
+      "language": [
+        "/fr/acupuncture/",
+        "/fr/acupuncture/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "captions": []
+    },
+    "dropdown": {
+      "x": 454.296875,
+      "y": 80,
+      "width": 262,
+      "height": 156
+    },
+    "escape": true
+  },
+  {
+    "page": "acupuncture",
+    "path": "/en/acupuncture/",
+    "width": 1280,
+    "height": 3974,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Traditional Acupuncture",
+        "x": 64,
+        "y": 256.953125,
+        "w": 535.6875,
+        "h": 151.71875,
+        "size": "72.96px",
+        "line": "75.8784px"
+      },
+      {
+        "text": "My approach",
+        "x": 64,
+        "y": 890,
+        "w": 797.6875,
+        "h": 49.25,
+        "size": "47.36px",
+        "line": "49.2544px"
+      },
+      {
+        "text": "Your system is a network.",
+        "x": 64,
+        "y": 1666.03125,
+        "w": 797.6875,
+        "h": 49.25,
+        "size": "47.36px",
+        "line": "49.2544px"
+      },
+      {
+        "text": "What happens in a session?",
+        "x": 64,
+        "y": 2290.171875,
+        "w": 797.6875,
+        "h": 49.25,
+        "size": "47.36px",
+        "line": "49.2544px"
+      },
+      {
+        "text": "Talk",
+        "x": 64,
+        "y": 2435.421875,
+        "w": 345.59375,
+        "h": 33.59375,
+        "size": "28px",
+        "line": "33.6px"
+      },
+      {
+        "text": "Assess",
+        "x": 467.1875,
+        "y": 2435.421875,
+        "w": 345.609375,
+        "h": 33.59375,
+        "size": "28px",
+        "line": "33.6px"
+      },
+      {
+        "text": "Act",
+        "x": 870.390625,
+        "y": 2435.421875,
+        "w": 345.59375,
+        "h": 33.59375,
+        "size": "28px",
+        "line": "33.6px"
+      },
+      {
+        "text": "Why come for a session?",
+        "x": 64,
+        "y": 2753.453125,
+        "w": 797.6875,
+        "h": 49.25,
+        "size": "47.36px",
+        "line": "49.2544px"
+      },
+      {
+        "text": "What to expect",
+        "x": 64,
+        "y": 3199.28125,
+        "w": 797.6875,
+        "h": 49.25,
+        "size": "47.36px",
+        "line": "49.2544px"
+      },
+      {
+        "text": "1h–1h15",
+        "x": 64,
+        "y": 3280.53125,
+        "w": 345.59375,
+        "h": 33.59375,
+        "size": "28px",
+        "line": "33.6px"
+      },
+      {
+        "text": "Very fine needles",
+        "x": 467.1875,
+        "y": 3280.53125,
+        "w": 345.609375,
+        "h": 33.59375,
+        "size": "28px",
+        "line": "33.6px"
+      },
+      {
+        "text": "An individual rhythm",
+        "x": 870.390625,
+        "y": 3280.53125,
+        "w": 345.59375,
+        "h": 33.59375,
+        "size": "28px",
+        "line": "33.6px"
+      },
+      {
+        "text": "Book an appointment.",
+        "x": 64,
+        "y": 3553.1875,
+        "w": 635.90625,
+        "h": 154.40625,
+        "size": "74.24px",
+        "line": "77.2096px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [],
+    "images": [
+      {
+        "src": "/images/acupuncture-1200.webp",
+        "x": 680.3125,
+        "y": 172,
+        "w": 535.6875,
+        "h": 590,
+        "natural": [
+          640,
+          762
+        ],
+        "fit": "cover",
+        "position": "50% 55%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "acupuncture-hero section",
+        "x": 0,
+        "y": 100,
+        "w": 1280,
+        "h": 734,
+        "padding": [
+          "72px",
+          "72px"
+        ]
+      },
+      {
+        "class": "section acupuncture-approach",
+        "x": 0,
+        "y": 834,
+        "w": 1280,
+        "h": 752.03125,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      },
+      {
+        "class": "section acupuncture-network",
+        "x": 0,
+        "y": 1642.03125,
+        "w": 1280,
+        "h": 592.140625,
+        "padding": [
+          "24px",
+          "40px"
+        ]
+      },
+      {
+        "class": "section acupuncture-session",
+        "x": 0,
+        "y": 2234.171875,
+        "w": 1280,
+        "h": 463.28125,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      },
+      {
+        "class": "section acupuncture-reasons",
+        "x": 0,
+        "y": 2697.453125,
+        "w": 1280,
+        "h": 449.828125,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      },
+      {
+        "class": "section acupuncture-expectations",
+        "x": 0,
+        "y": 3147.28125,
+        "w": 1280,
+        "h": 300.21875,
+        "padding": [
+          "52px",
+          "52px"
+        ]
+      },
+      {
+        "class": "final-cta section",
+        "x": 0,
+        "y": 3475.5,
+        "w": 1280,
+        "h": 317.78125,
+        "padding": [
+          "64px",
+          "72px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLinks\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Traditional Acupuncture",
+          "lines": [
+            "Traditional",
+            "Acupuncture"
+          ]
+        },
+        {
+          "text": "My approach",
+          "lines": [
+            "My approach"
+          ]
+        },
+        {
+          "text": "Your system is a network.",
+          "lines": [
+            "Your system is a network."
+          ]
+        },
+        {
+          "text": "What happens in a session?",
+          "lines": [
+            "What happens in a session?"
+          ]
+        },
+        {
+          "text": "Talk",
+          "lines": [
+            "Talk"
+          ]
+        },
+        {
+          "text": "Assess",
+          "lines": [
+            "Assess"
+          ]
+        },
+        {
+          "text": "Act",
+          "lines": [
+            "Act"
+          ]
+        },
+        {
+          "text": "Why come for a session?",
+          "lines": [
+            "Why come for a session?"
+          ]
+        },
+        {
+          "text": "What to expect",
+          "lines": [
+            "What to expect"
+          ]
+        },
+        {
+          "text": "1h–1h15",
+          "lines": [
+            "1h–1h15"
+          ]
+        },
+        {
+          "text": "Very fine needles",
+          "lines": [
+            "Very fine needles"
+          ]
+        },
+        {
+          "text": "An individual rhythm",
+          "lines": [
+            "An individual rhythm"
+          ]
+        },
+        {
+          "text": "Book an appointment.",
+          "lines": [
+            "Book",
+            "an appointment."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 44
+        },
+        {
+          "text": "About",
+          "h": 44
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(74, 74, 74)",
+        "rgb(255, 253, 247)"
+      ],
+      "language": [
+        "/fr/acupuncture/",
+        "/fr/acupuncture/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "captions": []
+    },
+    "dropdown": {
+      "x": 380.4375,
+      "y": 80,
+      "width": 262,
+      "height": 156
+    },
+    "escape": true
+  },
+  {
+    "page": "acupuncture",
+    "path": "/en/acupuncture/",
+    "width": 1024,
+    "height": 3795,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Traditional Acupuncture",
+        "x": 40,
+        "y": 189.953125,
+        "w": 438.953125,
+        "h": 120.625,
+        "size": "58px",
+        "line": "60.32px"
+      },
+      {
+        "text": "My approach",
+        "x": 40,
+        "y": 780,
+        "w": 638.015625,
+        "h": 39.40625,
+        "size": "37.888px",
+        "line": "39.4035px"
+      },
+      {
+        "text": "Your system is a network.",
+        "x": 40,
+        "y": 1506.1875,
+        "w": 638.015625,
+        "h": 39.40625,
+        "size": "37.888px",
+        "line": "39.4035px"
+      },
+      {
+        "text": "What happens in a session?",
+        "x": 40,
+        "y": 2047.765625,
+        "w": 638.015625,
+        "h": 39.40625,
+        "size": "37.888px",
+        "line": "39.4035px"
+      },
+      {
+        "text": "Talk",
+        "x": 40,
+        "y": 2183.171875,
+        "w": 283.203125,
+        "h": 33.59375,
+        "size": "28px",
+        "line": "33.6px"
+      },
+      {
+        "text": "Assess",
+        "x": 370.390625,
+        "y": 2183.171875,
+        "w": 283.203125,
+        "h": 33.59375,
+        "size": "28px",
+        "line": "33.6px"
+      },
+      {
+        "text": "Act",
+        "x": 700.78125,
+        "y": 2183.171875,
+        "w": 283.21875,
+        "h": 33.59375,
+        "size": "28px",
+        "line": "33.6px"
+      },
+      {
+        "text": "Why come for a session?",
+        "x": 40,
+        "y": 2530.890625,
+        "w": 638.015625,
+        "h": 39.40625,
+        "size": "37.888px",
+        "line": "39.4035px"
+      },
+      {
+        "text": "What to expect",
+        "x": 40,
+        "y": 2966.875,
+        "w": 638.015625,
+        "h": 39.40625,
+        "size": "37.888px",
+        "line": "39.4035px"
+      },
+      {
+        "text": "1h–1h15",
+        "x": 40,
+        "y": 3038.28125,
+        "w": 283.203125,
+        "h": 67.1875,
+        "size": "28px",
+        "line": "33.6px"
+      },
+      {
+        "text": "Very fine needles",
+        "x": 370.390625,
+        "y": 3038.28125,
+        "w": 283.203125,
+        "h": 67.1875,
+        "size": "28px",
+        "line": "33.6px"
+      },
+      {
+        "text": "An individual rhythm",
+        "x": 700.78125,
+        "y": 3038.28125,
+        "w": 283.21875,
+        "h": 67.1875,
+        "size": "28px",
+        "line": "33.6px"
+      },
+      {
+        "text": "Book an appointment.",
+        "x": 40,
+        "y": 3389.65625,
+        "w": 521.078125,
+        "h": 123.53125,
+        "size": "59.392px",
+        "line": "61.7677px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Practices",
+        "x": 964.46875,
+        "y": 158,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Traditional Acupuncture",
+        "x": 982.46875,
+        "y": 206,
+        "w": 125.296875,
+        "h": 71.1875
+      },
+      {
+        "text": "Aculift",
+        "x": 982.46875,
+        "y": 277.1875,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 982.46875,
+        "y": 322.78125,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Women’s Health",
+        "x": 964.46875,
+        "y": 206,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "About",
+        "x": 964.46875,
+        "y": 255.59375,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "FR/EN",
+        "x": 964.46875,
+        "y": 305.1875,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Book an appointment",
+        "x": 964.46875,
+        "y": 361.1875,
+        "w": 143.296875,
+        "h": 71.59375
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/acupuncture-1200.webp",
+        "x": 545.03125,
+        "y": 152,
+        "w": 438.96875,
+        "h": 500,
+        "natural": [
+          512,
+          609
+        ],
+        "fit": "cover",
+        "position": "50% 55%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "acupuncture-hero section",
+        "x": 0,
+        "y": 80,
+        "w": 1024,
+        "h": 644,
+        "padding": [
+          "72px",
+          "72px"
+        ]
+      },
+      {
+        "class": "section acupuncture-approach",
+        "x": 0,
+        "y": 724,
+        "w": 1024,
+        "h": 702.1875,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      },
+      {
+        "class": "section acupuncture-network",
+        "x": 0,
+        "y": 1482.1875,
+        "w": 1024,
+        "h": 509.578125,
+        "padding": [
+          "24px",
+          "40px"
+        ]
+      },
+      {
+        "class": "section acupuncture-session",
+        "x": 0,
+        "y": 1991.765625,
+        "w": 1024,
+        "h": 483.125,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      },
+      {
+        "class": "section acupuncture-reasons",
+        "x": 0,
+        "y": 2474.890625,
+        "w": 1024,
+        "h": 439.984375,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      },
+      {
+        "class": "section acupuncture-expectations",
+        "x": 0,
+        "y": 2914.875,
+        "w": 1024,
+        "h": 353.65625,
+        "padding": [
+          "52px",
+          "52px"
+        ]
+      },
+      {
+        "class": "final-cta section",
+        "x": 0,
+        "y": 3296.53125,
+        "w": 1024,
+        "h": 317.78125,
+        "padding": [
+          "64px",
+          "72px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLinks\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Traditional Acupuncture",
+          "lines": [
+            "Traditional",
+            "Acupuncture"
+          ]
+        },
+        {
+          "text": "My approach",
+          "lines": [
+            "My approach"
+          ]
+        },
+        {
+          "text": "Your system is a network.",
+          "lines": [
+            "Your system is a network."
+          ]
+        },
+        {
+          "text": "What happens in a session?",
+          "lines": [
+            "What happens in a session?"
+          ]
+        },
+        {
+          "text": "Talk",
+          "lines": [
+            "Talk"
+          ]
+        },
+        {
+          "text": "Assess",
+          "lines": [
+            "Assess"
+          ]
+        },
+        {
+          "text": "Act",
+          "lines": [
+            "Act"
+          ]
+        },
+        {
+          "text": "Why come for a session?",
+          "lines": [
+            "Why come for a session?"
+          ]
+        },
+        {
+          "text": "What to expect",
+          "lines": [
+            "What to expect"
+          ]
+        },
+        {
+          "text": "1h–1h15",
+          "lines": [
+            "1h–1h15"
+          ]
+        },
+        {
+          "text": "Very fine needles",
+          "lines": [
+            "Very fine needles"
+          ]
+        },
+        {
+          "text": "An individual rhythm",
+          "lines": [
+            "An individual rhythm"
+          ]
+        },
+        {
+          "text": "Book an appointment.",
+          "lines": [
+            "Book",
+            "an appointment."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 0
+        },
+        {
+          "text": "About",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(74, 74, 74)",
+        "rgb(255, 253, 247)"
+      ],
+      "language": [
+        "/fr/acupuncture/",
+        "/fr/acupuncture/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "captions": []
+    },
+    "nav": {
+      "w": 1024,
+      "h": 439.96875,
+      "scroll": 440,
+      "client": 440,
+      "links": [
+        {
+          "label": "Traditional Acupuncture",
+          "height": 45.59375
+        },
+        {
+          "label": "Aculift",
+          "height": 45.59375
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 45.59375
+        },
+        {
+          "label": "Women’s Health",
+          "height": 45.59375
+        },
+        {
+          "label": "About",
+          "height": 45.59375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Book an appointment",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "acupuncture",
+    "path": "/en/acupuncture/",
+    "width": 768,
+    "height": 4825,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Traditional Acupuncture",
+        "x": 24,
+        "y": 128,
+        "w": 646.765625,
+        "h": 127.78125,
+        "size": "61.44px",
+        "line": "63.8976px"
+      },
+      {
+        "text": "My approach",
+        "x": 24,
+        "y": 1258.90625,
+        "w": 673.71875,
+        "h": 41.59375,
+        "size": "40px",
+        "line": "41.6px"
+      },
+      {
+        "text": "Your system is a network.",
+        "x": 24,
+        "y": 2095.8125,
+        "w": 673.71875,
+        "h": 41.59375,
+        "size": "40px",
+        "line": "41.6px"
+      },
+      {
+        "text": "What happens in a session?",
+        "x": 24,
+        "y": 2911.0625,
+        "w": 673.71875,
+        "h": 41.59375,
+        "size": "40px",
+        "line": "41.6px"
+      },
+      {
+        "text": "Talk",
+        "x": 54,
+        "y": 2976.65625,
+        "w": 690,
+        "h": 31.1875,
+        "size": "26px",
+        "line": "31.2px"
+      },
+      {
+        "text": "Assess",
+        "x": 54,
+        "y": 3103.9375,
+        "w": 690,
+        "h": 31.1875,
+        "size": "26px",
+        "line": "31.2px"
+      },
+      {
+        "text": "Act",
+        "x": 54,
+        "y": 3231.21875,
+        "w": 690,
+        "h": 31.1875,
+        "size": "26px",
+        "line": "31.2px"
+      },
+      {
+        "text": "Why come for a session?",
+        "x": 24,
+        "y": 3410.5,
+        "w": 673.71875,
+        "h": 41.59375,
+        "size": "40px",
+        "line": "41.6px"
+      },
+      {
+        "text": "What to expect",
+        "x": 24,
+        "y": 3847.0625,
+        "w": 673.71875,
+        "h": 41.59375,
+        "size": "40px",
+        "line": "41.6px"
+      },
+      {
+        "text": "1h–1h15",
+        "x": 24,
+        "y": 3912.65625,
+        "w": 720,
+        "h": 31.1875,
+        "size": "26px",
+        "line": "31.2px"
+      },
+      {
+        "text": "Very fine needles",
+        "x": 24,
+        "y": 4011.890625,
+        "w": 720,
+        "h": 31.1875,
+        "size": "26px",
+        "line": "31.2px"
+      },
+      {
+        "text": "An individual rhythm",
+        "x": 24,
+        "y": 4111.125,
+        "w": 720,
+        "h": 31.1875,
+        "size": "26px",
+        "line": "31.2px"
+      },
+      {
+        "text": "Book an appointment.",
+        "x": 24,
+        "y": 4294.359375,
+        "w": 646.765625,
+        "h": 127.78125,
+        "size": "61.44px",
+        "line": "63.8976px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Practices",
+        "x": 708.46875,
+        "y": 158,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Traditional Acupuncture",
+        "x": 726.46875,
+        "y": 206,
+        "w": 125.296875,
+        "h": 71.1875
+      },
+      {
+        "text": "Aculift",
+        "x": 726.46875,
+        "y": 277.1875,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 726.46875,
+        "y": 322.78125,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Women’s Health",
+        "x": 708.46875,
+        "y": 206,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "About",
+        "x": 708.46875,
+        "y": 255.59375,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "FR/EN",
+        "x": 708.46875,
+        "y": 305.1875,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Book an appointment",
+        "x": 708.46875,
+        "y": 361.1875,
+        "w": 143.296875,
+        "h": 71.59375
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/acupuncture-1200.webp",
+        "x": 24,
+        "y": 544.828125,
+        "w": 720,
+        "h": 626.078125,
+        "natural": [
+          384,
+          457
+        ],
+        "fit": "cover",
+        "position": "50% 55%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "acupuncture-hero section",
+        "x": 0,
+        "y": 80,
+        "w": 768,
+        "h": 1138.90625,
+        "padding": [
+          "48px",
+          "48px"
+        ]
+      },
+      {
+        "class": "section acupuncture-approach",
+        "x": 0,
+        "y": 1218.90625,
+        "w": 768,
+        "h": 812.90625,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "section acupuncture-network",
+        "x": 0,
+        "y": 2071.8125,
+        "w": 768,
+        "h": 799.25,
+        "padding": [
+          "24px",
+          "32px"
+        ]
+      },
+      {
+        "class": "section acupuncture-session",
+        "x": 0,
+        "y": 2871.0625,
+        "w": 768,
+        "h": 499.4375,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "section acupuncture-reasons",
+        "x": 0,
+        "y": 3370.5,
+        "w": 768,
+        "h": 440.5625,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "section acupuncture-expectations",
+        "x": 0,
+        "y": 3811.0625,
+        "w": 768,
+        "h": 407.296875,
+        "padding": [
+          "36px",
+          "36px"
+        ]
+      },
+      {
+        "class": "final-cta section",
+        "x": 0,
+        "y": 4238.359375,
+        "w": 768,
+        "h": 406.046875,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLinks\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Traditional Acupuncture",
+          "lines": [
+            "Traditional",
+            "Acupuncture"
+          ]
+        },
+        {
+          "text": "My approach",
+          "lines": [
+            "My approach"
+          ]
+        },
+        {
+          "text": "Your system is a network.",
+          "lines": [
+            "Your system is a network."
+          ]
+        },
+        {
+          "text": "What happens in a session?",
+          "lines": [
+            "What happens in a session?"
+          ]
+        },
+        {
+          "text": "Talk",
+          "lines": [
+            "Talk"
+          ]
+        },
+        {
+          "text": "Assess",
+          "lines": [
+            "Assess"
+          ]
+        },
+        {
+          "text": "Act",
+          "lines": [
+            "Act"
+          ]
+        },
+        {
+          "text": "Why come for a session?",
+          "lines": [
+            "Why come for a session?"
+          ]
+        },
+        {
+          "text": "What to expect",
+          "lines": [
+            "What to expect"
+          ]
+        },
+        {
+          "text": "1h–1h15",
+          "lines": [
+            "1h–1h15"
+          ]
+        },
+        {
+          "text": "Very fine needles",
+          "lines": [
+            "Very fine needles"
+          ]
+        },
+        {
+          "text": "An individual rhythm",
+          "lines": [
+            "An individual rhythm"
+          ]
+        },
+        {
+          "text": "Book an appointment.",
+          "lines": [
+            "Book",
+            "an appointment."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 0
+        },
+        {
+          "text": "About",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(74, 74, 74)",
+        "rgb(255, 253, 247)"
+      ],
+      "language": [
+        "/fr/acupuncture/",
+        "/fr/acupuncture/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "captions": []
+    },
+    "nav": {
+      "w": 768,
+      "h": 439.96875,
+      "scroll": 440,
+      "client": 440,
+      "links": [
+        {
+          "label": "Traditional Acupuncture",
+          "height": 45.59375
+        },
+        {
+          "label": "Aculift",
+          "height": 45.59375
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 45.59375
+        },
+        {
+          "label": "Women’s Health",
+          "height": 45.59375
+        },
+        {
+          "label": "About",
+          "height": 45.59375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Book an appointment",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "acupuncture",
+    "path": "/en/acupuncture/",
+    "width": 430,
+    "height": 5264,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Traditional Acupuncture",
+        "x": 20,
+        "y": 128,
+        "w": 390,
+        "h": 95.65625,
+        "size": "46px",
+        "line": "47.84px"
+      },
+      {
+        "text": "My approach",
+        "x": 20,
+        "y": 1119.25,
+        "w": 390,
+        "h": 37.4375,
+        "size": "36px",
+        "line": "37.44px"
+      },
+      {
+        "text": "Your system is a network.",
+        "x": 20,
+        "y": 2056.265625,
+        "w": 390,
+        "h": 74.875,
+        "size": "36px",
+        "line": "37.44px"
+      },
+      {
+        "text": "What happens in a session?",
+        "x": 20,
+        "y": 2865.5625,
+        "w": 390,
+        "h": 74.875,
+        "size": "36px",
+        "line": "37.44px"
+      },
+      {
+        "text": "Talk",
+        "x": 50,
+        "y": 2964.4375,
+        "w": 360,
+        "h": 31.1875,
+        "size": "26px",
+        "line": "31.2px"
+      },
+      {
+        "text": "Assess",
+        "x": 50,
+        "y": 3175.859375,
+        "w": 360,
+        "h": 31.1875,
+        "size": "26px",
+        "line": "31.2px"
+      },
+      {
+        "text": "Act",
+        "x": 50,
+        "y": 3331.1875,
+        "w": 360,
+        "h": 31.1875,
+        "size": "26px",
+        "line": "31.2px"
+      },
+      {
+        "text": "Why come for a session?",
+        "x": 20,
+        "y": 3538.515625,
+        "w": 390,
+        "h": 74.875,
+        "size": "36px",
+        "line": "37.44px"
+      },
+      {
+        "text": "What to expect",
+        "x": 20,
+        "y": 4065.75,
+        "w": 390,
+        "h": 37.4375,
+        "size": "36px",
+        "line": "37.44px"
+      },
+      {
+        "text": "1h–1h15",
+        "x": 20,
+        "y": 4127.1875,
+        "w": 390,
+        "h": 31.1875,
+        "size": "26px",
+        "line": "31.2px"
+      },
+      {
+        "text": "Very fine needles",
+        "x": 20,
+        "y": 4254.46875,
+        "w": 390,
+        "h": 31.1875,
+        "size": "26px",
+        "line": "31.2px"
+      },
+      {
+        "text": "An individual rhythm",
+        "x": 20,
+        "y": 4353.703125,
+        "w": 390,
+        "h": 31.1875,
+        "size": "26px",
+        "line": "31.2px"
+      },
+      {
+        "text": "Book an appointment.",
+        "x": 20,
+        "y": 4564.984375,
+        "w": 390,
+        "h": 95.65625,
+        "size": "46px",
+        "line": "47.84px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Practices",
+        "x": 370.46875,
+        "y": 158,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Traditional Acupuncture",
+        "x": 388.46875,
+        "y": 206,
+        "w": 125.296875,
+        "h": 71.1875
+      },
+      {
+        "text": "Aculift",
+        "x": 388.46875,
+        "y": 277.1875,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 388.46875,
+        "y": 322.78125,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Women’s Health",
+        "x": 370.46875,
+        "y": 206,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "About",
+        "x": 370.46875,
+        "y": 255.59375,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "FR/EN",
+        "x": 370.46875,
+        "y": 305.1875,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Book an appointment",
+        "x": 370.46875,
+        "y": 361.1875,
+        "w": 143.296875,
+        "h": 71.59375
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/acupuncture-1200.webp",
+        "x": 20,
+        "y": 543.75,
+        "w": 390,
+        "h": 487.5,
+        "natural": [
+          430,
+          511
+        ],
+        "fit": "cover",
+        "position": "50% 55%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "acupuncture-hero section",
+        "x": 0,
+        "y": 80,
+        "w": 430,
+        "h": 999.25,
+        "padding": [
+          "48px",
+          "48px"
+        ]
+      },
+      {
+        "class": "section acupuncture-approach",
+        "x": 0,
+        "y": 1079.25,
+        "w": 430,
+        "h": 913.015625,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "section acupuncture-network",
+        "x": 0,
+        "y": 2032.265625,
+        "w": 430,
+        "h": 793.296875,
+        "padding": [
+          "24px",
+          "32px"
+        ]
+      },
+      {
+        "class": "section acupuncture-session",
+        "x": 0,
+        "y": 2825.5625,
+        "w": 430,
+        "h": 672.953125,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "section acupuncture-reasons",
+        "x": 0,
+        "y": 3498.515625,
+        "w": 430,
+        "h": 531.234375,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "section acupuncture-expectations",
+        "x": 0,
+        "y": 4029.75,
+        "w": 430,
+        "h": 459.234375,
+        "padding": [
+          "36px",
+          "36px"
+        ]
+      },
+      {
+        "class": "final-cta section",
+        "x": 0,
+        "y": 4508.984375,
+        "w": 430,
+        "h": 404.359375,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLinks\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Traditional Acupuncture",
+          "lines": [
+            "Traditional",
+            "Acupuncture"
+          ]
+        },
+        {
+          "text": "My approach",
+          "lines": [
+            "My approach"
+          ]
+        },
+        {
+          "text": "Your system is a network.",
+          "lines": [
+            "Your system is a",
+            "network."
+          ]
+        },
+        {
+          "text": "What happens in a session?",
+          "lines": [
+            "What happens",
+            "in a session?"
+          ]
+        },
+        {
+          "text": "Talk",
+          "lines": [
+            "Talk"
+          ]
+        },
+        {
+          "text": "Assess",
+          "lines": [
+            "Assess"
+          ]
+        },
+        {
+          "text": "Act",
+          "lines": [
+            "Act"
+          ]
+        },
+        {
+          "text": "Why come for a session?",
+          "lines": [
+            "Why",
+            "come for a session?"
+          ]
+        },
+        {
+          "text": "What to expect",
+          "lines": [
+            "What to expect"
+          ]
+        },
+        {
+          "text": "1h–1h15",
+          "lines": [
+            "1h–1h15"
+          ]
+        },
+        {
+          "text": "Very fine needles",
+          "lines": [
+            "Very fine needles"
+          ]
+        },
+        {
+          "text": "An individual rhythm",
+          "lines": [
+            "An individual rhythm"
+          ]
+        },
+        {
+          "text": "Book an appointment.",
+          "lines": [
+            "Book",
+            "an appointment."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 0
+        },
+        {
+          "text": "About",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(74, 74, 74)",
+        "rgb(255, 253, 247)"
+      ],
+      "language": [
+        "/fr/acupuncture/",
+        "/fr/acupuncture/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "captions": []
+    },
+    "nav": {
+      "w": 430,
+      "h": 439.96875,
+      "scroll": 440,
+      "client": 440,
+      "links": [
+        {
+          "label": "Traditional Acupuncture",
+          "height": 45.59375
+        },
+        {
+          "label": "Aculift",
+          "height": 45.59375
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 45.59375
+        },
+        {
+          "label": "Women’s Health",
+          "height": 45.59375
+        },
+        {
+          "label": "About",
+          "height": 45.59375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Book an appointment",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "acupuncture",
+    "path": "/en/acupuncture/",
+    "width": 390,
+    "height": 5269,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Traditional Acupuncture",
+        "x": 20,
+        "y": 128,
+        "w": 350,
+        "h": 95.65625,
+        "size": "46px",
+        "line": "47.84px"
+      },
+      {
+        "text": "My approach",
+        "x": 20,
+        "y": 1069.25,
+        "w": 350,
+        "h": 37.4375,
+        "size": "36px",
+        "line": "37.44px"
+      },
+      {
+        "text": "Your system is a network.",
+        "x": 20,
+        "y": 2062.84375,
+        "w": 350,
+        "h": 74.875,
+        "size": "36px",
+        "line": "37.44px"
+      },
+      {
+        "text": "What happens in a session?",
+        "x": 20,
+        "y": 2842.796875,
+        "w": 350,
+        "h": 74.875,
+        "size": "36px",
+        "line": "37.44px"
+      },
+      {
+        "text": "Talk",
+        "x": 50,
+        "y": 2941.671875,
+        "w": 320,
+        "h": 31.1875,
+        "size": "26px",
+        "line": "31.2px"
+      },
+      {
+        "text": "Assess",
+        "x": 50,
+        "y": 3153.09375,
+        "w": 320,
+        "h": 31.1875,
+        "size": "26px",
+        "line": "31.2px"
+      },
+      {
+        "text": "Act",
+        "x": 50,
+        "y": 3336.46875,
+        "w": 320,
+        "h": 31.1875,
+        "size": "26px",
+        "line": "31.2px"
+      },
+      {
+        "text": "Why come for a session?",
+        "x": 20,
+        "y": 3543.796875,
+        "w": 350,
+        "h": 74.875,
+        "size": "36px",
+        "line": "37.44px"
+      },
+      {
+        "text": "What to expect",
+        "x": 20,
+        "y": 4071.03125,
+        "w": 350,
+        "h": 37.4375,
+        "size": "36px",
+        "line": "37.44px"
+      },
+      {
+        "text": "1h–1h15",
+        "x": 20,
+        "y": 4132.46875,
+        "w": 350,
+        "h": 31.1875,
+        "size": "26px",
+        "line": "31.2px"
+      },
+      {
+        "text": "Very fine needles",
+        "x": 20,
+        "y": 4259.75,
+        "w": 350,
+        "h": 31.1875,
+        "size": "26px",
+        "line": "31.2px"
+      },
+      {
+        "text": "An individual rhythm",
+        "x": 20,
+        "y": 4358.984375,
+        "w": 350,
+        "h": 31.1875,
+        "size": "26px",
+        "line": "31.2px"
+      },
+      {
+        "text": "Book an appointment.",
+        "x": 20,
+        "y": 4570.265625,
+        "w": 350,
+        "h": 95.65625,
+        "size": "46px",
+        "line": "47.84px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Practices",
+        "x": 330.46875,
+        "y": 158,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Traditional Acupuncture",
+        "x": 348.46875,
+        "y": 206,
+        "w": 125.296875,
+        "h": 71.1875
+      },
+      {
+        "text": "Aculift",
+        "x": 348.46875,
+        "y": 277.1875,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 348.46875,
+        "y": 322.78125,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Women’s Health",
+        "x": 330.46875,
+        "y": 206,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "About",
+        "x": 330.46875,
+        "y": 255.59375,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "FR/EN",
+        "x": 330.46875,
+        "y": 305.1875,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Book an appointment",
+        "x": 330.46875,
+        "y": 361.1875,
+        "w": 143.296875,
+        "h": 71.59375
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/acupuncture-1200.webp",
+        "x": 20,
+        "y": 543.75,
+        "w": 350,
+        "h": 437.5,
+        "natural": [
+          390,
+          464
+        ],
+        "fit": "cover",
+        "position": "50% 55%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "acupuncture-hero section",
+        "x": 0,
+        "y": 80,
+        "w": 390,
+        "h": 949.25,
+        "padding": [
+          "48px",
+          "48px"
+        ]
+      },
+      {
+        "class": "section acupuncture-approach",
+        "x": 0,
+        "y": 1029.25,
+        "w": 390,
+        "h": 969.59375,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "section acupuncture-network",
+        "x": 0,
+        "y": 2038.84375,
+        "w": 390,
+        "h": 763.953125,
+        "padding": [
+          "24px",
+          "32px"
+        ]
+      },
+      {
+        "class": "section acupuncture-session",
+        "x": 0,
+        "y": 2802.796875,
+        "w": 390,
+        "h": 701,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "section acupuncture-reasons",
+        "x": 0,
+        "y": 3503.796875,
+        "w": 390,
+        "h": 531.234375,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "section acupuncture-expectations",
+        "x": 0,
+        "y": 4035.03125,
+        "w": 390,
+        "h": 459.234375,
+        "padding": [
+          "36px",
+          "36px"
+        ]
+      },
+      {
+        "class": "final-cta section",
+        "x": 0,
+        "y": 4514.265625,
+        "w": 390,
+        "h": 404.359375,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLinks\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Traditional Acupuncture",
+          "lines": [
+            "Traditional",
+            "Acupuncture"
+          ]
+        },
+        {
+          "text": "My approach",
+          "lines": [
+            "My approach"
+          ]
+        },
+        {
+          "text": "Your system is a network.",
+          "lines": [
+            "Your system is a",
+            "network."
+          ]
+        },
+        {
+          "text": "What happens in a session?",
+          "lines": [
+            "What happens",
+            "in a session?"
+          ]
+        },
+        {
+          "text": "Talk",
+          "lines": [
+            "Talk"
+          ]
+        },
+        {
+          "text": "Assess",
+          "lines": [
+            "Assess"
+          ]
+        },
+        {
+          "text": "Act",
+          "lines": [
+            "Act"
+          ]
+        },
+        {
+          "text": "Why come for a session?",
+          "lines": [
+            "Why",
+            "come for a session?"
+          ]
+        },
+        {
+          "text": "What to expect",
+          "lines": [
+            "What to expect"
+          ]
+        },
+        {
+          "text": "1h–1h15",
+          "lines": [
+            "1h–1h15"
+          ]
+        },
+        {
+          "text": "Very fine needles",
+          "lines": [
+            "Very fine needles"
+          ]
+        },
+        {
+          "text": "An individual rhythm",
+          "lines": [
+            "An individual rhythm"
+          ]
+        },
+        {
+          "text": "Book an appointment.",
+          "lines": [
+            "Book",
+            "an appointment."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 0
+        },
+        {
+          "text": "About",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(74, 74, 74)",
+        "rgb(255, 253, 247)"
+      ],
+      "language": [
+        "/fr/acupuncture/",
+        "/fr/acupuncture/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "captions": []
+    },
+    "nav": {
+      "w": 390,
+      "h": 439.96875,
+      "scroll": 440,
+      "client": 440,
+      "links": [
+        {
+          "label": "Traditional Acupuncture",
+          "height": 45.59375
+        },
+        {
+          "label": "Aculift",
+          "height": 45.59375
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 45.59375
+        },
+        {
+          "label": "Women’s Health",
+          "height": 45.59375
+        },
+        {
+          "label": "About",
+          "height": 45.59375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Book an appointment",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "acupuncture",
+    "path": "/en/acupuncture/",
+    "width": 360,
+    "height": 5430,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Traditional Acupuncture",
+        "x": 20,
+        "y": 128,
+        "w": 320,
+        "h": 95.65625,
+        "size": "46px",
+        "line": "47.84px"
+      },
+      {
+        "text": "My approach",
+        "x": 20,
+        "y": 1058.9375,
+        "w": 320,
+        "h": 37.4375,
+        "size": "36px",
+        "line": "37.44px"
+      },
+      {
+        "text": "Your system is a network.",
+        "x": 20,
+        "y": 2052.53125,
+        "w": 320,
+        "h": 74.875,
+        "size": "36px",
+        "line": "37.44px"
+      },
+      {
+        "text": "What happens in a session?",
+        "x": 20,
+        "y": 2866.578125,
+        "w": 320,
+        "h": 74.875,
+        "size": "36px",
+        "line": "37.44px"
+      },
+      {
+        "text": "Talk",
+        "x": 50,
+        "y": 2965.453125,
+        "w": 290,
+        "h": 31.1875,
+        "size": "26px",
+        "line": "31.2px"
+      },
+      {
+        "text": "Assess",
+        "x": 50,
+        "y": 3176.875,
+        "w": 290,
+        "h": 31.1875,
+        "size": "26px",
+        "line": "31.2px"
+      },
+      {
+        "text": "Act",
+        "x": 50,
+        "y": 3360.25,
+        "w": 290,
+        "h": 31.1875,
+        "size": "26px",
+        "line": "31.2px"
+      },
+      {
+        "text": "Why come for a session?",
+        "x": 20,
+        "y": 3595.625,
+        "w": 320,
+        "h": 74.875,
+        "size": "36px",
+        "line": "37.44px"
+      },
+      {
+        "text": "What to expect",
+        "x": 20,
+        "y": 4184.453125,
+        "w": 320,
+        "h": 37.4375,
+        "size": "36px",
+        "line": "37.44px"
+      },
+      {
+        "text": "1h–1h15",
+        "x": 20,
+        "y": 4245.890625,
+        "w": 320,
+        "h": 31.1875,
+        "size": "26px",
+        "line": "31.2px"
+      },
+      {
+        "text": "Very fine needles",
+        "x": 20,
+        "y": 4373.171875,
+        "w": 320,
+        "h": 31.1875,
+        "size": "26px",
+        "line": "31.2px"
+      },
+      {
+        "text": "An individual rhythm",
+        "x": 20,
+        "y": 4472.40625,
+        "w": 320,
+        "h": 31.1875,
+        "size": "26px",
+        "line": "31.2px"
+      },
+      {
+        "text": "Book an appointment.",
+        "x": 20,
+        "y": 4683.6875,
+        "w": 320,
+        "h": 143.484375,
+        "size": "46px",
+        "line": "47.84px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Practices",
+        "x": 300.46875,
+        "y": 158,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Traditional Acupuncture",
+        "x": 318.46875,
+        "y": 206,
+        "w": 125.296875,
+        "h": 71.1875
+      },
+      {
+        "text": "Aculift",
+        "x": 318.46875,
+        "y": 277.1875,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 318.46875,
+        "y": 322.78125,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Women’s Health",
+        "x": 300.46875,
+        "y": 206,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "About",
+        "x": 300.46875,
+        "y": 255.59375,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "FR/EN",
+        "x": 300.46875,
+        "y": 305.1875,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Book an appointment",
+        "x": 300.46875,
+        "y": 361.1875,
+        "w": 143.296875,
+        "h": 71.59375
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/acupuncture-1200.webp",
+        "x": 20,
+        "y": 570.9375,
+        "w": 320,
+        "h": 400,
+        "natural": [
+          360,
+          428
+        ],
+        "fit": "cover",
+        "position": "50% 55%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "acupuncture-hero section",
+        "x": 0,
+        "y": 80,
+        "w": 360,
+        "h": 938.9375,
+        "padding": [
+          "48px",
+          "48px"
+        ]
+      },
+      {
+        "class": "section acupuncture-approach",
+        "x": 0,
+        "y": 1018.9375,
+        "w": 360,
+        "h": 969.59375,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "section acupuncture-network",
+        "x": 0,
+        "y": 2028.53125,
+        "w": 360,
+        "h": 798.046875,
+        "padding": [
+          "24px",
+          "32px"
+        ]
+      },
+      {
+        "class": "section acupuncture-session",
+        "x": 0,
+        "y": 2826.578125,
+        "w": 360,
+        "h": 729.046875,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "section acupuncture-reasons",
+        "x": 0,
+        "y": 3555.625,
+        "w": 360,
+        "h": 592.828125,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "section acupuncture-expectations",
+        "x": 0,
+        "y": 4148.453125,
+        "w": 360,
+        "h": 459.234375,
+        "padding": [
+          "36px",
+          "36px"
+        ]
+      },
+      {
+        "class": "final-cta section",
+        "x": 0,
+        "y": 4627.6875,
+        "w": 360,
+        "h": 452.1875,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLinks\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Traditional Acupuncture",
+          "lines": [
+            "Traditional",
+            "Acupuncture"
+          ]
+        },
+        {
+          "text": "My approach",
+          "lines": [
+            "My approach"
+          ]
+        },
+        {
+          "text": "Your system is a network.",
+          "lines": [
+            "Your system is a",
+            "network."
+          ]
+        },
+        {
+          "text": "What happens in a session?",
+          "lines": [
+            "What happens",
+            "in a session?"
+          ]
+        },
+        {
+          "text": "Talk",
+          "lines": [
+            "Talk"
+          ]
+        },
+        {
+          "text": "Assess",
+          "lines": [
+            "Assess"
+          ]
+        },
+        {
+          "text": "Act",
+          "lines": [
+            "Act"
+          ]
+        },
+        {
+          "text": "Why come for a session?",
+          "lines": [
+            "Why",
+            "come for a session?"
+          ]
+        },
+        {
+          "text": "What to expect",
+          "lines": [
+            "What to expect"
+          ]
+        },
+        {
+          "text": "1h–1h15",
+          "lines": [
+            "1h–1h15"
+          ]
+        },
+        {
+          "text": "Very fine needles",
+          "lines": [
+            "Very fine needles"
+          ]
+        },
+        {
+          "text": "An individual rhythm",
+          "lines": [
+            "An individual rhythm"
+          ]
+        },
+        {
+          "text": "Book an appointment.",
+          "lines": [
+            "Book",
+            "an",
+            "appointment."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 0
+        },
+        {
+          "text": "About",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(74, 74, 74)",
+        "rgb(255, 253, 247)"
+      ],
+      "language": [
+        "/fr/acupuncture/",
+        "/fr/acupuncture/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "captions": []
+    },
+    "nav": {
+      "w": 360,
+      "h": 439.96875,
+      "scroll": 440,
+      "client": 440,
+      "links": [
+        {
+          "label": "Traditional Acupuncture",
+          "height": 45.59375
+        },
+        {
+          "label": "Aculift",
+          "height": 45.59375
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 45.59375
+        },
+        {
+          "label": "Women’s Health",
+          "height": 45.59375
+        },
+        {
+          "label": "About",
+          "height": 45.59375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Book an appointment",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "booking",
+    "path": "/en/book-an-appointment/",
+    "width": 1440,
+    "height": 1593,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Book an appointment.",
+        "x": 80,
+        "y": 196.1875,
+        "w": 596.609375,
+        "h": 181.4375,
+        "size": "84px",
+        "line": "90.72px"
+      },
+      {
+        "text": "Which practice?",
+        "x": 80,
+        "y": 563.765625,
+        "w": 582.40625,
+        "h": 45.359375,
+        "size": "42px",
+        "line": "45.36px"
+      },
+      {
+        "text": "How does it work?",
+        "x": 80,
+        "y": 974.140625,
+        "w": 1280,
+        "h": 45.359375,
+        "size": "42px",
+        "line": "45.36px"
+      },
+      {
+        "text": "Shall we talk?",
+        "x": 80,
+        "y": 1233.09375,
+        "w": 401.828125,
+        "h": 69.109375,
+        "size": "64px",
+        "line": "69.12px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "BOOK AN APPOINTMENT",
+        "size": "13px"
+      },
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [],
+    "images": [],
+    "sections": [
+      {
+        "class": "bk-hero",
+        "x": 0,
+        "y": 100,
+        "w": 1440,
+        "h": 403.765625,
+        "padding": [
+          "58px",
+          "64px"
+        ]
+      },
+      {
+        "class": "bk-practices bk-section",
+        "x": 0,
+        "y": 503.765625,
+        "w": 1440,
+        "h": 410.375,
+        "padding": [
+          "60px",
+          "60px"
+        ]
+      },
+      {
+        "class": "bk-how bk-section",
+        "x": 0,
+        "y": 914.140625,
+        "w": 1440,
+        "h": 254.953125,
+        "padding": [
+          "60px",
+          "60px"
+        ]
+      },
+      {
+        "class": "bk-closing bk-section",
+        "x": 0,
+        "y": 1169.09375,
+        "w": 1440,
+        "h": 243.90625,
+        "padding": [
+          "64px",
+          "64px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLinks\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Book an appointment.",
+          "lines": [
+            "Book an",
+            "appointment."
+          ]
+        },
+        {
+          "text": "Which practice?",
+          "lines": [
+            "Which practice?"
+          ]
+        },
+        {
+          "text": "How does it work?",
+          "lines": [
+            "How does it work?"
+          ]
+        },
+        {
+          "text": "Shall we talk?",
+          "lines": [
+            "Shall we talk?"
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 44
+        },
+        {
+          "text": "About",
+          "h": 44
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(73, 64, 78)",
+        "rgb(255, 244, 199)",
+        "rgb(74, 74, 74)"
+      ],
+      "language": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "https://wa.me/33673740261?text=Hi%20Lauriane%2C%20I%E2%80%99d%20like%20to%20book%20an%20appointment.%20Could%20you%20let%20me%20know%20your%20next%20available%20times%3F",
+        "https://wa.me/33673740261?text=Hi%20Lauriane%2C%20I%E2%80%99d%20like%20to%20book%20an%20appointment.%20Could%20you%20let%20me%20know%20your%20next%20available%20times%3F"
+      ],
+      "captions": []
+    },
+    "dropdown": {
+      "x": 454.296875,
+      "y": 80,
+      "width": 262,
+      "height": 156
+    },
+    "escape": true
+  },
+  {
+    "page": "booking",
+    "path": "/en/book-an-appointment/",
+    "width": 1280,
+    "height": 1588,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Book an appointment.",
+        "x": 64,
+        "y": 196.1875,
+        "w": 536.9375,
+        "h": 171.40625,
+        "size": "79.36px",
+        "line": "85.7088px"
+      },
+      {
+        "text": "Which practice?",
+        "x": 64,
+        "y": 563.765625,
+        "w": 524.15625,
+        "h": 42.859375,
+        "size": "39.68px",
+        "line": "42.8544px"
+      },
+      {
+        "text": "How does it work?",
+        "x": 64,
+        "y": 974.140625,
+        "w": 1152,
+        "h": 42.859375,
+        "size": "39.68px",
+        "line": "42.8544px"
+      },
+      {
+        "text": "Shall we talk?",
+        "x": 64,
+        "y": 1230.59375,
+        "w": 388.375,
+        "h": 66.34375,
+        "size": "61.44px",
+        "line": "66.3552px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "BOOK AN APPOINTMENT",
+        "size": "13px"
+      },
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [],
+    "images": [],
+    "sections": [
+      {
+        "class": "bk-hero",
+        "x": 0,
+        "y": 100,
+        "w": 1280,
+        "h": 403.765625,
+        "padding": [
+          "58px",
+          "64px"
+        ]
+      },
+      {
+        "class": "bk-practices bk-section",
+        "x": 0,
+        "y": 503.765625,
+        "w": 1280,
+        "h": 410.375,
+        "padding": [
+          "60px",
+          "60px"
+        ]
+      },
+      {
+        "class": "bk-how bk-section",
+        "x": 0,
+        "y": 914.140625,
+        "w": 1280,
+        "h": 252.453125,
+        "padding": [
+          "60px",
+          "60px"
+        ]
+      },
+      {
+        "class": "bk-closing bk-section",
+        "x": 0,
+        "y": 1166.59375,
+        "w": 1280,
+        "h": 241.140625,
+        "padding": [
+          "64px",
+          "64px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLinks\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Book an appointment.",
+          "lines": [
+            "Book an",
+            "appointment."
+          ]
+        },
+        {
+          "text": "Which practice?",
+          "lines": [
+            "Which practice?"
+          ]
+        },
+        {
+          "text": "How does it work?",
+          "lines": [
+            "How does it work?"
+          ]
+        },
+        {
+          "text": "Shall we talk?",
+          "lines": [
+            "Shall we talk?"
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 44
+        },
+        {
+          "text": "About",
+          "h": 44
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(73, 64, 78)",
+        "rgb(255, 244, 199)",
+        "rgb(74, 74, 74)"
+      ],
+      "language": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "https://wa.me/33673740261?text=Hi%20Lauriane%2C%20I%E2%80%99d%20like%20to%20book%20an%20appointment.%20Could%20you%20let%20me%20know%20your%20next%20available%20times%3F",
+        "https://wa.me/33673740261?text=Hi%20Lauriane%2C%20I%E2%80%99d%20like%20to%20book%20an%20appointment.%20Could%20you%20let%20me%20know%20your%20next%20available%20times%3F"
+      ],
+      "captions": []
+    },
+    "dropdown": {
+      "x": 380.4375,
+      "y": 80,
+      "width": 262,
+      "height": 156
+    },
+    "escape": true
+  },
+  {
+    "page": "booking",
+    "path": "/en/book-an-appointment/",
+    "width": 1024,
+    "height": 1602,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Book an appointment.",
+        "x": 40,
+        "y": 176.1875,
+        "w": 439.984375,
+        "h": 137.125,
+        "size": "63.488px",
+        "line": "68.567px"
+      },
+      {
+        "text": "Which practice?",
+        "x": 40,
+        "y": 543.765625,
+        "w": 429.515625,
+        "h": 34.28125,
+        "size": "31.744px",
+        "line": "34.2835px"
+      },
+      {
+        "text": "How does it work?",
+        "x": 40,
+        "y": 981.328125,
+        "w": 944,
+        "h": 34.28125,
+        "size": "31.744px",
+        "line": "34.2835px"
+      },
+      {
+        "text": "Shall we talk?",
+        "x": 40,
+        "y": 1258,
+        "w": 388.375,
+        "h": 53.078125,
+        "size": "49.152px",
+        "line": "53.0842px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "BOOK AN APPOINTMENT",
+        "size": "13px"
+      },
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Practices",
+        "x": 964.46875,
+        "y": 158,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Traditional Acupuncture",
+        "x": 982.46875,
+        "y": 206,
+        "w": 125.296875,
+        "h": 71.1875
+      },
+      {
+        "text": "Aculift",
+        "x": 982.46875,
+        "y": 277.1875,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 982.46875,
+        "y": 322.78125,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Women’s Health",
+        "x": 964.46875,
+        "y": 206,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "About",
+        "x": 964.46875,
+        "y": 255.59375,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "FR/EN",
+        "x": 964.46875,
+        "y": 305.1875,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Book an appointment",
+        "x": 964.46875,
+        "y": 361.1875,
+        "w": 143.296875,
+        "h": 71.59375
+      }
+    ],
+    "images": [],
+    "sections": [
+      {
+        "class": "bk-hero",
+        "x": 0,
+        "y": 80,
+        "w": 1024,
+        "h": 403.765625,
+        "padding": [
+          "58px",
+          "64px"
+        ]
+      },
+      {
+        "class": "bk-practices bk-section",
+        "x": 0,
+        "y": 483.765625,
+        "w": 1024,
+        "h": 437.5625,
+        "padding": [
+          "60px",
+          "60px"
+        ]
+      },
+      {
+        "class": "bk-how bk-section",
+        "x": 0,
+        "y": 921.328125,
+        "w": 1024,
+        "h": 272.671875,
+        "padding": [
+          "60px",
+          "60px"
+        ]
+      },
+      {
+        "class": "bk-closing bk-section",
+        "x": 0,
+        "y": 1194,
+        "w": 1024,
+        "h": 227.875,
+        "padding": [
+          "64px",
+          "64px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLinks\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Book an appointment.",
+          "lines": [
+            "Book an",
+            "appointment."
+          ]
+        },
+        {
+          "text": "Which practice?",
+          "lines": [
+            "Which practice?"
+          ]
+        },
+        {
+          "text": "How does it work?",
+          "lines": [
+            "How does it work?"
+          ]
+        },
+        {
+          "text": "Shall we talk?",
+          "lines": [
+            "Shall we talk?"
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 0
+        },
+        {
+          "text": "About",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(73, 64, 78)",
+        "rgb(255, 244, 199)",
+        "rgb(74, 74, 74)"
+      ],
+      "language": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "https://wa.me/33673740261?text=Hi%20Lauriane%2C%20I%E2%80%99d%20like%20to%20book%20an%20appointment.%20Could%20you%20let%20me%20know%20your%20next%20available%20times%3F",
+        "https://wa.me/33673740261?text=Hi%20Lauriane%2C%20I%E2%80%99d%20like%20to%20book%20an%20appointment.%20Could%20you%20let%20me%20know%20your%20next%20available%20times%3F"
+      ],
+      "captions": []
+    },
+    "nav": {
+      "w": 1024,
+      "h": 439.96875,
+      "scroll": 440,
+      "client": 440,
+      "links": [
+        {
+          "label": "Traditional Acupuncture",
+          "height": 45.59375
+        },
+        {
+          "label": "Aculift",
+          "height": 45.59375
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 45.59375
+        },
+        {
+          "label": "Women’s Health",
+          "height": 45.59375
+        },
+        {
+          "label": "About",
+          "height": 45.59375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Book an appointment",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "booking",
+    "path": "/en/book-an-appointment/",
+    "width": 768,
+    "height": 1636,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Book an appointment.",
+        "x": 24,
+        "y": 144.796875,
+        "w": 720,
+        "h": 51.828125,
+        "size": "48px",
+        "line": "51.84px"
+      },
+      {
+        "text": "Which practice?",
+        "x": 24,
+        "y": 507.1875,
+        "w": 720,
+        "h": 32.390625,
+        "size": "30px",
+        "line": "32.4px"
+      },
+      {
+        "text": "How does it work?",
+        "x": 24,
+        "y": 929.953125,
+        "w": 720,
+        "h": 32.390625,
+        "size": "30px",
+        "line": "32.4px"
+      },
+      {
+        "text": "Shall we talk?",
+        "x": 24,
+        "y": 1249.09375,
+        "w": 720,
+        "h": 45.359375,
+        "size": "42px",
+        "line": "45.36px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "BOOK AN APPOINTMENT",
+        "size": "12px"
+      },
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Practices",
+        "x": 708.46875,
+        "y": 158,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Traditional Acupuncture",
+        "x": 726.46875,
+        "y": 206,
+        "w": 125.296875,
+        "h": 71.1875
+      },
+      {
+        "text": "Aculift",
+        "x": 726.46875,
+        "y": 277.1875,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 726.46875,
+        "y": 322.78125,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Women’s Health",
+        "x": 708.46875,
+        "y": 206,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "About",
+        "x": 708.46875,
+        "y": 255.59375,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "FR/EN",
+        "x": 708.46875,
+        "y": 305.1875,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Book an appointment",
+        "x": 708.46875,
+        "y": 361.1875,
+        "w": 143.296875,
+        "h": 71.59375
+      }
+    ],
+    "images": [],
+    "sections": [
+      {
+        "class": "bk-hero",
+        "x": 0,
+        "y": 80,
+        "w": 768,
+        "h": 387.1875,
+        "padding": [
+          "32px",
+          "40px"
+        ]
+      },
+      {
+        "class": "bk-practices bk-section",
+        "x": 0,
+        "y": 467.1875,
+        "w": 768,
+        "h": 422.765625,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "bk-how bk-section",
+        "x": 0,
+        "y": 889.953125,
+        "w": 768,
+        "h": 319.140625,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "bk-closing bk-section",
+        "x": 0,
+        "y": 1209.09375,
+        "w": 768,
+        "h": 246.546875,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLinks\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Book an appointment.",
+          "lines": [
+            "Book an appointment."
+          ]
+        },
+        {
+          "text": "Which practice?",
+          "lines": [
+            "Which practice?"
+          ]
+        },
+        {
+          "text": "How does it work?",
+          "lines": [
+            "How does it work?"
+          ]
+        },
+        {
+          "text": "Shall we talk?",
+          "lines": [
+            "Shall we talk?"
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 0
+        },
+        {
+          "text": "About",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(73, 64, 78)",
+        "rgb(255, 244, 199)",
+        "rgb(74, 74, 74)"
+      ],
+      "language": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "https://wa.me/33673740261?text=Hi%20Lauriane%2C%20I%E2%80%99d%20like%20to%20book%20an%20appointment.%20Could%20you%20let%20me%20know%20your%20next%20available%20times%3F",
+        "https://wa.me/33673740261?text=Hi%20Lauriane%2C%20I%E2%80%99d%20like%20to%20book%20an%20appointment.%20Could%20you%20let%20me%20know%20your%20next%20available%20times%3F"
+      ],
+      "captions": []
+    },
+    "nav": {
+      "w": 768,
+      "h": 439.96875,
+      "scroll": 440,
+      "client": 440,
+      "links": [
+        {
+          "label": "Traditional Acupuncture",
+          "height": 45.59375
+        },
+        {
+          "label": "Aculift",
+          "height": 45.59375
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 45.59375
+        },
+        {
+          "label": "Women’s Health",
+          "height": 45.59375
+        },
+        {
+          "label": "About",
+          "height": 45.59375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Book an appointment",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "booking",
+    "path": "/en/book-an-appointment/",
+    "width": 430,
+    "height": 1939,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Book an appointment.",
+        "x": 20,
+        "y": 144.796875,
+        "w": 390,
+        "h": 103.65625,
+        "size": "48px",
+        "line": "51.84px"
+      },
+      {
+        "text": "Which practice?",
+        "x": 20,
+        "y": 586.203125,
+        "w": 390,
+        "h": 32.390625,
+        "size": "30px",
+        "line": "32.4px"
+      },
+      {
+        "text": "How does it work?",
+        "x": 20,
+        "y": 1036.15625,
+        "w": 390,
+        "h": 32.390625,
+        "size": "30px",
+        "line": "32.4px"
+      },
+      {
+        "text": "Shall we talk?",
+        "x": 20,
+        "y": 1382.484375,
+        "w": 390,
+        "h": 45.359375,
+        "size": "42px",
+        "line": "45.36px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "BOOK AN APPOINTMENT",
+        "size": "12px"
+      },
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Practices",
+        "x": 370.46875,
+        "y": 158,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Traditional Acupuncture",
+        "x": 388.46875,
+        "y": 206,
+        "w": 125.296875,
+        "h": 71.1875
+      },
+      {
+        "text": "Aculift",
+        "x": 388.46875,
+        "y": 277.1875,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 388.46875,
+        "y": 322.78125,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Women’s Health",
+        "x": 370.46875,
+        "y": 206,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "About",
+        "x": 370.46875,
+        "y": 255.59375,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "FR/EN",
+        "x": 370.46875,
+        "y": 305.1875,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Book an appointment",
+        "x": 370.46875,
+        "y": 361.1875,
+        "w": 143.296875,
+        "h": 71.59375
+      }
+    ],
+    "images": [],
+    "sections": [
+      {
+        "class": "bk-hero",
+        "x": 0,
+        "y": 80,
+        "w": 430,
+        "h": 466.203125,
+        "padding": [
+          "32px",
+          "40px"
+        ]
+      },
+      {
+        "class": "bk-practices bk-section",
+        "x": 0,
+        "y": 546.203125,
+        "w": 430,
+        "h": 449.953125,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "bk-how bk-section",
+        "x": 0,
+        "y": 996.15625,
+        "w": 430,
+        "h": 346.328125,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "bk-closing bk-section",
+        "x": 0,
+        "y": 1342.484375,
+        "w": 430,
+        "h": 246.546875,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLinks\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Book an appointment.",
+          "lines": [
+            "Book an",
+            "appointment."
+          ]
+        },
+        {
+          "text": "Which practice?",
+          "lines": [
+            "Which practice?"
+          ]
+        },
+        {
+          "text": "How does it work?",
+          "lines": [
+            "How does it work?"
+          ]
+        },
+        {
+          "text": "Shall we talk?",
+          "lines": [
+            "Shall we talk?"
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 0
+        },
+        {
+          "text": "About",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(73, 64, 78)",
+        "rgb(255, 244, 199)",
+        "rgb(74, 74, 74)"
+      ],
+      "language": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "https://wa.me/33673740261?text=Hi%20Lauriane%2C%20I%E2%80%99d%20like%20to%20book%20an%20appointment.%20Could%20you%20let%20me%20know%20your%20next%20available%20times%3F",
+        "https://wa.me/33673740261?text=Hi%20Lauriane%2C%20I%E2%80%99d%20like%20to%20book%20an%20appointment.%20Could%20you%20let%20me%20know%20your%20next%20available%20times%3F"
+      ],
+      "captions": []
+    },
+    "nav": {
+      "w": 430,
+      "h": 439.96875,
+      "scroll": 440,
+      "client": 440,
+      "links": [
+        {
+          "label": "Traditional Acupuncture",
+          "height": 45.59375
+        },
+        {
+          "label": "Aculift",
+          "height": 45.59375
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 45.59375
+        },
+        {
+          "label": "Women’s Health",
+          "height": 45.59375
+        },
+        {
+          "label": "About",
+          "height": 45.59375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Book an appointment",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "booking",
+    "path": "/en/book-an-appointment/",
+    "width": 390,
+    "height": 1994,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Book an appointment.",
+        "x": 20,
+        "y": 144.796875,
+        "w": 350,
+        "h": 103.65625,
+        "size": "48px",
+        "line": "51.84px"
+      },
+      {
+        "text": "Which practice?",
+        "x": 20,
+        "y": 586.203125,
+        "w": 350,
+        "h": 32.390625,
+        "size": "30px",
+        "line": "32.4px"
+      },
+      {
+        "text": "How does it work?",
+        "x": 20,
+        "y": 1036.15625,
+        "w": 350,
+        "h": 32.390625,
+        "size": "30px",
+        "line": "32.4px"
+      },
+      {
+        "text": "Shall we talk?",
+        "x": 20,
+        "y": 1409.671875,
+        "w": 350,
+        "h": 45.359375,
+        "size": "42px",
+        "line": "45.36px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "BOOK AN APPOINTMENT",
+        "size": "12px"
+      },
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Practices",
+        "x": 330.46875,
+        "y": 158,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Traditional Acupuncture",
+        "x": 348.46875,
+        "y": 206,
+        "w": 125.296875,
+        "h": 71.1875
+      },
+      {
+        "text": "Aculift",
+        "x": 348.46875,
+        "y": 277.1875,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 348.46875,
+        "y": 322.78125,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Women’s Health",
+        "x": 330.46875,
+        "y": 206,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "About",
+        "x": 330.46875,
+        "y": 255.59375,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "FR/EN",
+        "x": 330.46875,
+        "y": 305.1875,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Book an appointment",
+        "x": 330.46875,
+        "y": 361.1875,
+        "w": 143.296875,
+        "h": 71.59375
+      }
+    ],
+    "images": [],
+    "sections": [
+      {
+        "class": "bk-hero",
+        "x": 0,
+        "y": 80,
+        "w": 390,
+        "h": 466.203125,
+        "padding": [
+          "32px",
+          "40px"
+        ]
+      },
+      {
+        "class": "bk-practices bk-section",
+        "x": 0,
+        "y": 546.203125,
+        "w": 390,
+        "h": 449.953125,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "bk-how bk-section",
+        "x": 0,
+        "y": 996.15625,
+        "w": 390,
+        "h": 373.515625,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "bk-closing bk-section",
+        "x": 0,
+        "y": 1369.671875,
+        "w": 390,
+        "h": 273.734375,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLinks\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Book an appointment.",
+          "lines": [
+            "Book an",
+            "appointment."
+          ]
+        },
+        {
+          "text": "Which practice?",
+          "lines": [
+            "Which practice?"
+          ]
+        },
+        {
+          "text": "How does it work?",
+          "lines": [
+            "How does it work?"
+          ]
+        },
+        {
+          "text": "Shall we talk?",
+          "lines": [
+            "Shall we talk?"
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 0
+        },
+        {
+          "text": "About",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(73, 64, 78)",
+        "rgb(255, 244, 199)",
+        "rgb(74, 74, 74)"
+      ],
+      "language": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "https://wa.me/33673740261?text=Hi%20Lauriane%2C%20I%E2%80%99d%20like%20to%20book%20an%20appointment.%20Could%20you%20let%20me%20know%20your%20next%20available%20times%3F",
+        "https://wa.me/33673740261?text=Hi%20Lauriane%2C%20I%E2%80%99d%20like%20to%20book%20an%20appointment.%20Could%20you%20let%20me%20know%20your%20next%20available%20times%3F"
+      ],
+      "captions": []
+    },
+    "nav": {
+      "w": 390,
+      "h": 439.96875,
+      "scroll": 440,
+      "client": 440,
+      "links": [
+        {
+          "label": "Traditional Acupuncture",
+          "height": 45.59375
+        },
+        {
+          "label": "Aculift",
+          "height": 45.59375
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 45.59375
+        },
+        {
+          "label": "Women’s Health",
+          "height": 45.59375
+        },
+        {
+          "label": "About",
+          "height": 45.59375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Book an appointment",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "booking",
+    "path": "/en/book-an-appointment/",
+    "width": 360,
+    "height": 2069,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Book an appointment.",
+        "x": 20,
+        "y": 144.796875,
+        "w": 320,
+        "h": 103.65625,
+        "size": "48px",
+        "line": "51.84px"
+      },
+      {
+        "text": "Which practice?",
+        "x": 20,
+        "y": 634.390625,
+        "w": 320,
+        "h": 32.390625,
+        "size": "30px",
+        "line": "32.4px"
+      },
+      {
+        "text": "How does it work?",
+        "x": 20,
+        "y": 1111.53125,
+        "w": 320,
+        "h": 32.390625,
+        "size": "30px",
+        "line": "32.4px"
+      },
+      {
+        "text": "Shall we talk?",
+        "x": 20,
+        "y": 1485.046875,
+        "w": 320,
+        "h": 45.359375,
+        "size": "42px",
+        "line": "45.36px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "BOOK AN APPOINTMENT",
+        "size": "12px"
+      },
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Practices",
+        "x": 300.46875,
+        "y": 158,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Traditional Acupuncture",
+        "x": 318.46875,
+        "y": 206,
+        "w": 125.296875,
+        "h": 71.1875
+      },
+      {
+        "text": "Aculift",
+        "x": 318.46875,
+        "y": 277.1875,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 318.46875,
+        "y": 322.78125,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Women’s Health",
+        "x": 300.46875,
+        "y": 206,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "About",
+        "x": 300.46875,
+        "y": 255.59375,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "FR/EN",
+        "x": 300.46875,
+        "y": 305.1875,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Book an appointment",
+        "x": 300.46875,
+        "y": 361.1875,
+        "w": 143.296875,
+        "h": 71.59375
+      }
+    ],
+    "images": [],
+    "sections": [
+      {
+        "class": "bk-hero",
+        "x": 0,
+        "y": 80,
+        "w": 360,
+        "h": 514.390625,
+        "padding": [
+          "32px",
+          "40px"
+        ]
+      },
+      {
+        "class": "bk-practices bk-section",
+        "x": 0,
+        "y": 594.390625,
+        "w": 360,
+        "h": 477.140625,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "bk-how bk-section",
+        "x": 0,
+        "y": 1071.53125,
+        "w": 360,
+        "h": 373.515625,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "bk-closing bk-section",
+        "x": 0,
+        "y": 1445.046875,
+        "w": 360,
+        "h": 273.734375,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLinks\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Book an appointment.",
+          "lines": [
+            "Book an",
+            "appointment."
+          ]
+        },
+        {
+          "text": "Which practice?",
+          "lines": [
+            "Which practice?"
+          ]
+        },
+        {
+          "text": "How does it work?",
+          "lines": [
+            "How does it work?"
+          ]
+        },
+        {
+          "text": "Shall we talk?",
+          "lines": [
+            "Shall we talk?"
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 0
+        },
+        {
+          "text": "About",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(73, 64, 78)",
+        "rgb(255, 244, 199)",
+        "rgb(74, 74, 74)"
+      ],
+      "language": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "https://wa.me/33673740261?text=Hi%20Lauriane%2C%20I%E2%80%99d%20like%20to%20book%20an%20appointment.%20Could%20you%20let%20me%20know%20your%20next%20available%20times%3F",
+        "https://wa.me/33673740261?text=Hi%20Lauriane%2C%20I%E2%80%99d%20like%20to%20book%20an%20appointment.%20Could%20you%20let%20me%20know%20your%20next%20available%20times%3F"
+      ],
+      "captions": []
+    },
+    "nav": {
+      "w": 360,
+      "h": 439.96875,
+      "scroll": 440,
+      "client": 440,
+      "links": [
+        {
+          "label": "Traditional Acupuncture",
+          "height": 45.59375
+        },
+        {
+          "label": "Aculift",
+          "height": 45.59375
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 45.59375
+        },
+        {
+          "label": "Women’s Health",
+          "height": 45.59375
+        },
+        {
+          "label": "About",
+          "height": 45.59375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Book an appointment",
+          "height": 48
+        }
+      ]
+    }
+  }
+]

@@ -19,22 +19,59 @@ export const home = {
   closing: 'Se reconnecter à ce qui a toujours été là.'
  },
  en: {
-  profession: 'Lauriane — Traditional Acupuncture Practitioner',
-  manifesto: ['The body is not a collection of independent parts. Everything communicates. Everything influences everything else. This idea guides the way I practise acupuncture and sits at the heart of GAIA.', 'GAIA creates spaces to better understand yourself, understand these connections, and reconnect with what has always been there.'],
-  acupuncture: 'When I explain acupuncture, I often compare it to the Paris transport map. There are several lines, several paths, several ways to connect one point to another. Sometimes a route is blocked. You need to understand the network as a whole to find another way through. This logic of connection and circulation is what fascinates me about acupuncture.',
-  practicesLabel: 'Today, I work with you through these practices',
-  practices: [{key:'acupuncture',title:'Traditional acupuncture',description:'Understand, connect, redirect.'},{key:'aculift',title:'Aculift',description:'A facial approach inspired by traditional acupuncture.'},{key:'pranic',title:'Pranic Healing',description:'A complementary energy practice.'}],
-  discover: 'Explore',
-  womenLabel: 'Experience your womanhood, on your own terms.',
-  women: ['I am currently developing a specialisation in women’s health. Because I cannot accept that so many women still see their periods as a burden and their pain as inevitable.', 'The cycle is also a powerful way to learn to observe your body, its rhythms and its changes. The body speaks to us, and menstrual cycles are a remarkable tool for understanding it.'],
-  womenCta: 'Explore my approach to women’s health',
-  story: ['My path has never really been linear. I started with a fairly conventional route: preparatory classes, business school, a permanent job — the whole package. Then, during my exchange semester in Hong Kong, I had the chance to travel. One trip to Singapore especially stays with me. The morning after a rather lively night out, while my friends were still asleep, I went to explore the city with my camera in hand. One thing led to another: I found myself in the Indian quarter, right in the middle of a “pooja”, a religious ceremony. I felt like a child, fascinated and open-mouthed at the colours, the scents and the devotion I saw around me. I knew I would go to India. A week later, I was on my way.', 'Some time later, what was meant to be a short stay in an ashram turned into several months. Yoga became a daily practice and made me want to explore the connections between body and mind further.', 'Long story short, I then crossed paths with an acupuncturist who recommended the school where I trained. That is where many things began to connect.'],
-  storyCta: 'Explore my story',
-  power: ['GAIA grew out of a duality that speaks deeply to me: power and softness. Yin and Yang. Shiva and Shakti. Ha and Tha. The sun and the moon.', 'Forces that may seem opposed, yet only fully exist in relation to one another.', 'This is also what the GAIA symbol represents: a sun and a moon intertwined.'],
-  project: 'Today, GAIA is taking shape around my practice. The idea is to grow it into something broader tomorrow: a place where different disciplines and worlds can converse and work together; a space that helps each person take a more active role in their health and balance.',
-  locationsLabel: 'Where to find me',
-  locations: 'My consultation locations change with my periods of presence and collaborations. You will find my current availability and consultation locations here.',
-  locationsCta: 'View my availability',
-  closing: 'Reconnect with what has always been there.'
- }
+  "profession": "Lauriane — Traditional Acupuncture Practitioner",
+  "manifesto": [
+    "The body is not a collection of independent parts. Everything communicates. Everything influences everything else. This idea guides the way I practise acupuncture and sits at the heart of GAIA.",
+    "GAIA creates spaces to better understand these connections and reconnect with what has always been there."
+  ],
+  "acupuncture": [
+    "When I explain acupuncture, I often compare it to the Paris transport map.",
+    "Several lines, several routes, several ways to connect one point to another. When a route is blocked, we sometimes need to understand the network as a whole to find another way through.",
+    "This logic of connection and circulation is what I find fascinating about acupuncture."
+  ],
+  "practicesLabel": "TODAY, I WORK WITH YOU THROUGH THESE PRACTICES",
+  "practices": [
+    {
+      "key": "acupuncture",
+      "title": "Traditional Acupuncture",
+      "description": "Understand, connect, redirect."
+    },
+    {
+      "key": "aculift",
+      "title": "Aculift",
+      "description": "A facial approach inspired by traditional acupuncture."
+    },
+    {
+      "key": "pranic",
+      "title": "Pranic Healing",
+      "description": "A complementary energy practice."
+    }
+  ],
+  "discover": "Explore",
+  "womenLabel": "Embrace your womanhood. On your own terms.",
+  "women": [
+    "The menstrual cycle is still too often experienced as a constraint: we dread it, keep quiet about it, and sometimes simply try to make it disappear.",
+    "I want to offer another way of looking at it. Understanding your cycle means learning to read your body, its rhythms and its changes. It’s not just about periods: it’s a movement that stays with us throughout the month.",
+    "I am currently developing my practice around women’s health, with the wish to help women reclaim this knowledge of their bodies — not feel ruled by their cycles, but learn to live with them."
+  ],
+  "womenCta": "Explore my approach to women’s health",
+  "story": [
+    "My path has never really been linear. Preparatory classes, business school, a permanent job…",
+    "During a trip, an unexpected encounter with an Indian pooja opened something up. A few weeks later, I was flying to India. What was meant to be a short stay in an ashram turned into several months. Yoga has been a daily practice ever since.",
+    "One thing led to another: I became interested in energy work, then discovered acupuncture — a new language for connecting the body, energy and our different ways of functioning."
+  ],
+  "storyCta": "Explore my story",
+  "power": [
+    "GAIA grew out of a duality that speaks deeply to me: power and softness.",
+    "Forces that may seem opposed, yet only fully exist in relation to one another."
+  ],
+  "project": [
+    "Today, GAIA is taking shape around my practice.",
+    "Tomorrow, I’d love to make it a space where different disciplines and different worlds can be in conversation; a place to better understand your body and energy, and take a more active part in your own well-being."
+  ],
+  "locationsLabel": "WHERE TO FIND ME",
+  "locations": "My consultation locations change with my periods of presence and collaborations.",
+  "locationsCta": "View my availability",
+  "closing": "Reconnect with what has always been there."
+}
 };

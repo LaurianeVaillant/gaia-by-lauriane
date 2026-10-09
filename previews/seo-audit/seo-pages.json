@@ -1,0 +1,4034 @@
+[
+  {
+    "route": "/",
+    "lang": "",
+    "title": "Redirecting to: /fr/",
+    "meta": {
+      "": "2;url=/fr/",
+      "robots": "noindex"
+    },
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://gaiabylauriane.com/fr/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/"
+      }
+    ],
+    "headings": [],
+    "images": [],
+    "scripts": [],
+    "text": ""
+  },
+  {
+    "route": "/links/",
+    "lang": "fr",
+    "title": "GAIA by Lauriane — Liens",
+    "meta": {
+      "": null,
+      "viewport": "width=device-width,initial-scale=1",
+      "description": "Reconnexion · Acupuncture · Énergie · Féminin. Retrouvez les pratiques de Lauriane et prenez rendez-vous.",
+      "theme-color": "#FFF4C7"
+    },
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://gaiabylauriane.com/links/"
+      },
+      {
+        "rel": "icon",
+        "href": "/favicon.svg",
+        "type": "image/svg+xml"
+      },
+      {
+        "anchor": true,
+        "class": "links-wordmark",
+        "href": "/fr/",
+        "aria-label": "GAIA by Lauriane — voir le site"
+      },
+      {
+        "anchor": true,
+        "class": "links-book",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "class": "links-practice tone-0",
+        "href": "/fr/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "class": "links-practice tone-1",
+        "href": "/fr/"
+      }
+    ],
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Reconnexion · Acupuncture · Énergie · Féminin"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/lauriane-links.webp",
+        "width": "900",
+        "height": "1175",
+        "alt": "Lauriane souriante, marchant au bord de l’eau au coucher du soleil",
+        "fetchpriority": "high",
+        "bytes": 301514
+      }
+    ],
+    "scripts": [],
+    "text": "Gaia by Lauriane Reconnexion · Acupuncture · Énergie · Féminin Prendre rendez-vous ↗ Acupuncture traditionnelle ↗ Découvrir le site ↗ GAIA by Lauriane"
+  },
+  {
+    "route": "/prendre-rendez-vous/",
+    "lang": "fr",
+    "title": "Prendre rendez-vous — GAIA by Lauriane",
+    "meta": {
+      "": null,
+      "viewport": "width=device-width,initial-scale=1",
+      "description": "Préparer une rencontre avec Lauriane et découvrir les informations de rendez-vous GAIA.",
+      "theme-color": "#FFF6CC",
+      "og:type": "website",
+      "og:site_name": "GAIA by Lauriane",
+      "og:title": "Prendre rendez-vous — GAIA by Lauriane",
+      "og:description": "Préparer une rencontre avec Lauriane et découvrir les informations de rendez-vous GAIA.",
+      "og:url": "https://gaiabylauriane.com/prendre-rendez-vous/",
+      "og:locale": "fr_FR",
+      "og:image": "https://gaiabylauriane.com/images/portrait-1200.webp",
+      "og:image:alt": "Lauriane au bord de la mer au coucher du soleil",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Prendre rendez-vous — GAIA by Lauriane",
+      "twitter:description": "Préparer une rencontre avec Lauriane et découvrir les informations de rendez-vous GAIA.",
+      "twitter:image": "https://gaiabylauriane.com/images/portrait-1200.webp"
+    },
+    "links": [
+      {
+        "rel": "preload",
+        "href": "/_astro/fraunces-latin-wght-normal.ukD16Tqj.woff2",
+        "as": "font",
+        "type": "font/woff2",
+        "crossorigin": "anonymous"
+      },
+      {
+        "rel": "preload",
+        "href": "/fonts/InstrumentSans-Latin-Variable.woff2",
+        "as": "font",
+        "type": "font/woff2",
+        "crossorigin": "anonymous"
+      },
+      {
+        "rel": "canonical",
+        "href": "https://gaiabylauriane.com/prendre-rendez-vous/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "x-default",
+        "href": "https://gaiabylauriane.com/prendre-rendez-vous/"
+      },
+      {
+        "rel": "icon",
+        "href": "/favicon.svg",
+        "type": "image/svg+xml"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "/_astro/_slug_.7UwHYl5i.css"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "/_astro/prendre-rendez-vous.7FaOpoYX.css"
+      },
+      {
+        "anchor": true,
+        "class": "skip",
+        "href": "#main"
+      },
+      {
+        "anchor": true,
+        "class": "mini-logo",
+        "href": "/fr/",
+        "aria-label": "GAIA by Lauriane — Accueil"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/aculift/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/pranic-healing/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/sante-feminine/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/a-propos/"
+      },
+      {
+        "anchor": true,
+        "class": "language",
+        "href": "/en/contact/",
+        "lang": "en",
+        "aria-label": "View this page in English"
+      },
+      {
+        "anchor": true,
+        "class": "button small",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/aculift/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/pranic-healing/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/sante-feminine/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/a-propos/"
+      },
+      {
+        "anchor": true,
+        "class": "language mobile-language",
+        "href": "/en/contact/",
+        "lang": "en",
+        "aria-label": "View this page in English"
+      },
+      {
+        "anchor": true,
+        "class": "button mobile-booking",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "class": "button bk-whatsapp",
+        "href": "https://wa.me/33673740261?text=Bonjour%20Lauriane%2C%20je%20souhaiterais%20prendre%20rendez-vous.%20Pouvez-vous%20me%20dire%20vos%20prochaines%20disponibilit%C3%A9s%20%3F"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/aculift/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/pranic-healing/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/sante-feminine/"
+      },
+      {
+        "anchor": true,
+        "class": "button bk-whatsapp",
+        "href": "https://wa.me/33673740261?text=Bonjour%20Lauriane%2C%20je%20souhaiterais%20prendre%20rendez-vous.%20Pouvez-vous%20me%20dire%20vos%20prochaines%20disponibilit%C3%A9s%20%3F"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/contact/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/links/"
+      }
+    ],
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Prendre rendez-vous."
+      },
+      {
+        "level": "h2",
+        "text": "Pour quelle pratique ?"
+      },
+      {
+        "level": "h2",
+        "text": "Comment ça se passe ?"
+      },
+      {
+        "level": "h2",
+        "text": "On en parle ?"
+      }
+    ],
+    "images": [],
+    "scripts": [
+      {
+        "attrs": {
+          "type": "application/ld+json"
+        },
+        "text": "{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"Lauriane\",\"jobTitle\":\"Praticienne en acupuncture traditionnelle\",\"url\":\"https://gaiabylauriane.com/fr/a-propos/\"}"
+      },
+      {
+        "attrs": {
+          "type": "module"
+        },
+        "text": "document.addEventListener(\"keydown\",e=>{if(e.key!==\"Escape\")return;const n=[...document.querySelectorAll(\"[data-nav-disclosure][open]\")],o=document.activeElement,t=n.reverse().find(c=>o instanceof Node&&c.contains(o))||n[0];t&&(t.open=!1,t.querySelector(\":scope > summary\")?.focus(),e.preventDefault())});document.addEventListener(\"click\",e=>{e.target instanceof Node&&document.querySelectorAll(\".practice-menu[open],.mobile-nav[open]\").forEach(n=>{n.contains(e.target)||(n.open=!1)})});"
+      }
+    ],
+    "text": "PRENDRE RENDEZ-VOUS Prendre rendez-vous . Pour le moment, les rendez-vous se prennent directement avec moi sur WhatsApp. Les lieux et disponibilités peuvent varier selon les périodes — je vous confirme tout directement. Écrire sur WhatsApp ↗ Paris · Val-d’Oise · Goa — selon mes périodes de présence. Pour quelle pratique ? Acupuncture traditionnelle ↗ Aculift ↗ Pranic Healing ↗ Santé féminine ↗ Vous ne savez pas quelle approche choisir ? Écrivez-moi simplement ce qui vous amène, et nous verrons ensemble ce qui semble le plus adapté. Comment ça se passe ? Écrivez-moi sur WhatsApp. Dites-moi la pratique qui vous intéresse et, si vous le souhaitez, en quelques mots ce qui vous amène. Je vous propose un créneau et vous confirme le lieu. On en parle ? Envoyez-moi un message et on regarde ensemble. Écrire sur WhatsApp ↗"
+  },
+  {
+    "route": "/fr/",
+    "lang": "fr",
+    "title": "GAIA by Lauriane | Acupuncture traditionnelle, Aculift & Pranic Healing",
+    "meta": {
+      "": null,
+      "viewport": "width=device-width,initial-scale=1",
+      "description": "Découvrez GAIA by Lauriane : acupuncture traditionnelle, Aculift et Pranic Healing, dans une approche qui relie le corps, l’énergie et nos différents fonctionnements.",
+      "theme-color": "#FFF6CC",
+      "og:type": "website",
+      "og:site_name": "GAIA by Lauriane",
+      "og:title": "GAIA by Lauriane | Acupuncture traditionnelle, Aculift & Pranic Healing",
+      "og:description": "Découvrez GAIA by Lauriane : acupuncture traditionnelle, Aculift et Pranic Healing, dans une approche qui relie le corps, l’énergie et nos différents fonctionnements.",
+      "og:url": "https://gaiabylauriane.com/fr/",
+      "og:locale": "fr_FR",
+      "og:image": "https://gaiabylauriane.com/images/portrait-1200.webp",
+      "og:image:alt": "Lauriane au bord de la mer au coucher du soleil",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "GAIA by Lauriane | Acupuncture traditionnelle, Aculift & Pranic Healing",
+      "twitter:description": "Découvrez GAIA by Lauriane : acupuncture traditionnelle, Aculift et Pranic Healing, dans une approche qui relie le corps, l’énergie et nos différents fonctionnements.",
+      "twitter:image": "https://gaiabylauriane.com/images/portrait-1200.webp"
+    },
+    "links": [
+      {
+        "rel": "preload",
+        "href": "/_astro/fraunces-latin-wght-normal.ukD16Tqj.woff2",
+        "as": "font",
+        "type": "font/woff2",
+        "crossorigin": "anonymous"
+      },
+      {
+        "rel": "preload",
+        "href": "/fonts/InstrumentSans-Latin-Variable.woff2",
+        "as": "font",
+        "type": "font/woff2",
+        "crossorigin": "anonymous"
+      },
+      {
+        "rel": "canonical",
+        "href": "https://gaiabylauriane.com/fr/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "fr",
+        "href": "https://gaiabylauriane.com/fr/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "en",
+        "href": "https://gaiabylauriane.com/en/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "x-default",
+        "href": "https://gaiabylauriane.com/fr/"
+      },
+      {
+        "rel": "icon",
+        "href": "/favicon.svg",
+        "type": "image/svg+xml"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "/_astro/_slug_.7UwHYl5i.css"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "/_astro/index.GkKy5q5Z.css"
+      },
+      {
+        "anchor": true,
+        "class": "skip",
+        "href": "#main"
+      },
+      {
+        "anchor": true,
+        "class": "mini-logo",
+        "href": "/fr/",
+        "aria-label": "GAIA by Lauriane — Accueil"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/aculift/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/pranic-healing/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/sante-feminine/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/a-propos/"
+      },
+      {
+        "anchor": true,
+        "class": "language",
+        "href": "/en/",
+        "lang": "en",
+        "aria-label": "View this page in English"
+      },
+      {
+        "anchor": true,
+        "class": "button small",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/aculift/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/pranic-healing/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/sante-feminine/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/a-propos/"
+      },
+      {
+        "anchor": true,
+        "class": "language mobile-language",
+        "href": "/en/",
+        "lang": "en",
+        "aria-label": "View this page in English"
+      },
+      {
+        "anchor": true,
+        "class": "button mobile-booking",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "class": "button",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "class": "text-link",
+        "href": "/fr/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "class": "text-link",
+        "href": "/fr/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "class": "text-link",
+        "href": "/fr/aculift/"
+      },
+      {
+        "anchor": true,
+        "class": "text-link",
+        "href": "/fr/pranic-healing/"
+      },
+      {
+        "anchor": true,
+        "class": "text-link",
+        "href": "/fr/sante-feminine/"
+      },
+      {
+        "anchor": true,
+        "class": "text-link",
+        "href": "/fr/a-propos/"
+      },
+      {
+        "anchor": true,
+        "class": "text-link",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "class": "button",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/contact/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/links/"
+      }
+    ],
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Lauriane — Praticienne en acupuncture traditionnelle"
+      },
+      {
+        "level": "h2",
+        "text": "Nothing works in silos."
+      },
+      {
+        "level": "h2",
+        "text": "Your system is a network."
+      },
+      {
+        "level": "h2",
+        "text": "AUJOURD’HUI, JE VOUS ACCOMPAGNE À TRAVERS CES PRATIQUES"
+      },
+      {
+        "level": "h3",
+        "text": "Acupuncture traditionnelle"
+      },
+      {
+        "level": "h3",
+        "text": "Aculift"
+      },
+      {
+        "level": "h3",
+        "text": "Pranic Healing"
+      },
+      {
+        "level": "h2",
+        "text": "Vivre sa féminité, pas la subir."
+      },
+      {
+        "level": "h2",
+        "text": "I WAS LOOKING FOR A WAY TO CONNECT THE DOTS."
+      },
+      {
+        "level": "h2",
+        "text": "Power & Softness"
+      },
+      {
+        "level": "h2",
+        "text": "The GAIA Project"
+      },
+      {
+        "level": "h2",
+        "text": "OÙ ME TROUVER"
+      },
+      {
+        "level": "h2",
+        "text": "RECONNECT."
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/portrait-1200.webp",
+        "srcset": "/images/portrait-640.webp 640w, /images/portrait-1200.webp 1200w, /images/portrait-1800.webp 1800w",
+        "sizes": "(max-width: 900px) 100vw, 52vw",
+        "alt": "Lauriane, les yeux fermés, dans la lumière dorée au bord de la mer",
+        "width": "1200",
+        "height": "1800",
+        "loading": "eager",
+        "fetchpriority": "high",
+        "decoding": "async",
+        "bytes": 100542
+      },
+      {
+        "src": "/images/hands-1200.webp",
+        "srcset": "/images/hands-640.webp 640w, /images/hands-1200.webp 1200w",
+        "sizes": "(max-width: 700px) calc(100vw - 48px), (max-width: 900px) 520px, (max-width: 1100px) calc((100vw - 144px) / 2), (max-width: 1440px) calc((100vw - 16vw) / 2), 592px",
+        "alt": "Détail des mains de Lauriane jointes, ornées de bagues et d’un bracelet coloré",
+        "width": "1200",
+        "height": "1800",
+        "loading": "lazy",
+        "fetchpriority": "auto",
+        "decoding": "async",
+        "bytes": 102422
+      },
+      {
+        "src": "/images/movement-1200.webp",
+        "srcset": "/images/movement-640.webp 640w, /images/movement-1200.webp 1200w",
+        "sizes": "(max-width: 700px) calc(100vw - 48px), (max-width: 900px) 640px, (max-width: 1100px) calc((100vw - 144px) / 2), (max-width: 1440px) calc((100vw - 16vw) / 2), 592px",
+        "alt": "Lauriane dans une posture de yoga sur une plage",
+        "width": "1200",
+        "height": "890",
+        "loading": "lazy",
+        "fetchpriority": "auto",
+        "decoding": "async",
+        "bytes": 58752
+      },
+      {
+        "class": "gaia-symbol",
+        "src": "/images/gaia-symbol.png",
+        "width": "460",
+        "height": "542",
+        "loading": "lazy",
+        "decoding": "async",
+        "alt": "Symbole GAIA : un soleil et une lune entrelacés",
+        "bytes": 94106
+      }
+    ],
+    "scripts": [
+      {
+        "attrs": {
+          "type": "application/ld+json"
+        },
+        "text": "{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"Lauriane\",\"jobTitle\":\"Praticienne en acupuncture traditionnelle\",\"url\":\"https://gaiabylauriane.com/fr/a-propos/\"}"
+      },
+      {
+        "attrs": {},
+        "text": "\nconst gaiaPhotoOption = new URLSearchParams(window.location.search).get('hero');\nif (gaiaPhotoOption === 'organic') document.querySelector('.gaia-home').dataset.heroPhoto = 'organic';\nconst gaiaMenu = document.querySelector('.mobile-nav');\ngaiaMenu?.addEventListener('keydown', event => {\n  if (event.key === 'Escape' && gaiaMenu.open) {\n    gaiaMenu.open = false;\n    gaiaMenu.querySelector('summary').focus();\n  }\n});\n"
+      },
+      {
+        "attrs": {
+          "type": "module"
+        },
+        "text": "document.addEventListener(\"keydown\",e=>{if(e.key!==\"Escape\")return;const n=[...document.querySelectorAll(\"[data-nav-disclosure][open]\")],o=document.activeElement,t=n.reverse().find(c=>o instanceof Node&&c.contains(o))||n[0];t&&(t.open=!1,t.querySelector(\":scope > summary\")?.focus(),e.preventDefault())});document.addEventListener(\"click\",e=>{e.target instanceof Node&&document.querySelectorAll(\".practice-menu[open],.mobile-nav[open]\").forEach(n=>{n.contains(e.target)||(n.open=!1)})});"
+      }
+    ],
+    "text": "Gaia by Lauriane Se reconnecter à ce qui a toujours été là. Lauriane — Praticienne en acupuncture traditionnelle Acupuncture · Aculift · Pranic Healing Prendre rendez-vous NOTHING WORKS IN SILOS NOTHING WORKS IN SILOS Le corps n’est pas une collection de parties indépendantes. Tout communique. Tout s’influence. C’est cette idée qui guide ma manière de pratiquer l’acupuncture et qui est au cœur de GAIA. GAIA crée des espaces pour mieux comprendre ces liens et se reconnecter à ce qui a toujours été là. Nothing works in silos. Your system is a network. Quand j’explique l’acupuncture, je la compare souvent au plan des transports parisiens. Plusieurs lignes, plusieurs chemins, plusieurs façons de relier un point à un autre. Lorsqu’un trajet est bloqué, il faut parfois comprendre le réseau dans son ensemble pour trouver une autre voie. C’est cette logique de relations et de circulation que je trouve fascinante dans l’acupuncture. Découvrir mon approche Corps Esprit Émotions AUJOURD’HUI, JE VOUS ACCOMPAGNE À TRAVERS CES PRATIQUES Acupuncture traditionnelle Comprendre, relier, réorienter. Découvrir — Acupuncture traditionnelle Aculift Une approche du visage inspirée de l’acupuncture traditionnelle. Découvrir — Aculift Pranic Healing Une pratique énergétique complémentaire. Découvrir — Pranic Healing Vivre sa féminité , pas la subir. Le cycle menstruel est encore trop souvent vécu comme une contrainte : on le redoute, on le tait, on cherche parfois simplement à le faire disparaître. J’ai envie de proposer une autre lecture. Comprendre son cycle, c’est apprendre à mieux lire son corps, ses rythmes et ses changements. Ce n’est pas seulement une histoire de règles : c’est un mouvement qui nous accompagne tout au long du mois. Je développe aujourd’hui ma pratique autour de la santé féminine, avec l’envie d’aider les femmes à reprendre possession de cette connaissance de leur corps — non pas subir leur cycle, mais apprendre à vivre avec lui. Découvrir l’approche santé féminine I WAS LOOKING FOR A WAY TO CONNECT THE DOTS. Mon parcours n’a jamais vraiment été linéaire. Classe préparatoire, école de commerce, CDI... C’est au cours d’un voyage qu’une rencontre inattendue avec une pooja indienne a ouvert quelque chose. Quelques semaines plus tard, je m’envolais pour l’Inde. Ce qui devait être une courte immersion dans un ashram s’est transformé en plusieurs mois. Le yoga est depuis devenu une pratique quotidienne. De fil en aiguille, je me suis intéressée à l’énergétique, puis j’ai découvert l’acupuncture : un nouveau langage pour relier le corps, l’énergie et nos différents fonctionnements. Nothing works in silos. Découvrir mon histoire Power & Softness GAIA est née d’une dualité qui me parle profondément : la puissance et la douceur. YIN / YANG SHIVA / SHAKTI HA / THA SOLEIL / LUNE Des forces qui peuvent sembler opposées, mais qui n’existent pleinement qu’en relation l’une avec l’autre. The GAIA Project GAIA prend aujourd’hui forme autour de ma pratique. Demain, j’aimerais en faire un espace où différentes disciplines et différents univers peuvent dialoguer ; un lieu pour mieux comprendre son corps, son énergie et devenir davantage acteur de son mieux-être. GAIA creates spaces for reconnection. GAIA creates spaces for reconnection. GAIA creates spaces for reconnection. OÙ ME TROUVER Paris · Val-d’Oise · Goa Mes lieux de consultation évoluent selon mes périodes de présence et mes collaborations. Voir mes disponibilités RECONNECT . Prendre rendez-vous Se reconnecter à ce qui a toujours été là."
+  },
+  {
+    "route": "/fr/journal/",
+    "lang": "fr",
+    "title": "Journal — GAIA by Lauriane",
+    "meta": {
+      "": null,
+      "viewport": "width=device-width,initial-scale=1",
+      "description": "Le futur Journal GAIA : acupuncture, santé féminine, corps, énergie et reconnexion.",
+      "theme-color": "#FFF6CC",
+      "og:type": "website",
+      "og:site_name": "GAIA by Lauriane",
+      "og:title": "Journal — GAIA by Lauriane",
+      "og:description": "Le futur Journal GAIA : acupuncture, santé féminine, corps, énergie et reconnexion.",
+      "og:url": "https://gaiabylauriane.com/fr/journal/",
+      "og:locale": "fr_FR",
+      "og:image": "https://gaiabylauriane.com/images/portrait-1200.webp",
+      "og:image:alt": "Lauriane au bord de la mer au coucher du soleil",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Journal — GAIA by Lauriane",
+      "twitter:description": "Le futur Journal GAIA : acupuncture, santé féminine, corps, énergie et reconnexion.",
+      "twitter:image": "https://gaiabylauriane.com/images/portrait-1200.webp"
+    },
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://gaiabylauriane.com/fr/journal/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "fr",
+        "href": "https://gaiabylauriane.com/fr/journal/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "en",
+        "href": "https://gaiabylauriane.com/en/journal/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "x-default",
+        "href": "https://gaiabylauriane.com/fr/journal/"
+      },
+      {
+        "rel": "icon",
+        "href": "/favicon.svg",
+        "type": "image/svg+xml"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "/_astro/_slug_.7UwHYl5i.css"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "/_astro/_slug_.jQSPxYXS.css"
+      },
+      {
+        "anchor": true,
+        "class": "skip",
+        "href": "#main"
+      },
+      {
+        "anchor": true,
+        "class": "mini-logo",
+        "href": "/fr/",
+        "aria-label": "GAIA by Lauriane — Accueil"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/aculift/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/pranic-healing/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/sante-feminine/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/a-propos/"
+      },
+      {
+        "anchor": true,
+        "class": "language",
+        "href": "/en/journal/",
+        "lang": "en",
+        "aria-label": "View this page in English"
+      },
+      {
+        "anchor": true,
+        "class": "button small",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/aculift/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/pranic-healing/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/sante-feminine/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/a-propos/"
+      },
+      {
+        "anchor": true,
+        "class": "language mobile-language",
+        "href": "/en/journal/",
+        "lang": "en",
+        "aria-label": "View this page in English"
+      },
+      {
+        "anchor": true,
+        "class": "button mobile-booking",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/contact/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/links/"
+      }
+    ],
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Journal"
+      },
+      {
+        "level": "h2",
+        "text": "Le Journal prend forme."
+      }
+    ],
+    "images": [],
+    "scripts": [
+      {
+        "attrs": {
+          "type": "application/ld+json"
+        },
+        "text": "{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"Lauriane\",\"jobTitle\":\"Praticienne en acupuncture traditionnelle\",\"url\":\"https://gaiabylauriane.com/fr/a-propos/\"}"
+      },
+      {
+        "attrs": {
+          "type": "module"
+        },
+        "text": "document.addEventListener(\"keydown\",e=>{if(e.key!==\"Escape\")return;const n=[...document.querySelectorAll(\"[data-nav-disclosure][open]\")],o=document.activeElement,t=n.reverse().find(c=>o instanceof Node&&c.contains(o))||n[0];t&&(t.open=!1,t.querySelector(\":scope > summary\")?.focus(),e.preventDefault())});document.addEventListener(\"click\",e=>{e.target instanceof Node&&document.querySelectorAll(\".practice-menu[open],.mobile-nav[open]\").forEach(n=>{n.contains(e.target)||(n.open=!1)})});"
+      }
+    ],
+    "text": "GAIA by Lauriane / Journal Journal Des idées qui se relient. Acupuncture Santé féminine Body & Energy Reconnection Le Journal prend forme. Les premiers articles seront publiés ici. Revenez bientôt pour explorer les liens entre corps, énergie et quotidien."
+  },
+  {
+    "route": "/fr/contact/",
+    "lang": "fr",
+    "title": "Contact — GAIA by Lauriane",
+    "meta": {
+      "": null,
+      "viewport": "width=device-width,initial-scale=1",
+      "description": "Préparer une rencontre avec Lauriane et découvrir les informations de rendez-vous GAIA.",
+      "theme-color": "#FFF6CC",
+      "og:type": "website",
+      "og:site_name": "GAIA by Lauriane",
+      "og:title": "Contact — GAIA by Lauriane",
+      "og:description": "Préparer une rencontre avec Lauriane et découvrir les informations de rendez-vous GAIA.",
+      "og:url": "https://gaiabylauriane.com/fr/contact/",
+      "og:locale": "fr_FR",
+      "og:image": "https://gaiabylauriane.com/images/portrait-1200.webp",
+      "og:image:alt": "Lauriane au bord de la mer au coucher du soleil",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Contact — GAIA by Lauriane",
+      "twitter:description": "Préparer une rencontre avec Lauriane et découvrir les informations de rendez-vous GAIA.",
+      "twitter:image": "https://gaiabylauriane.com/images/portrait-1200.webp"
+    },
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://gaiabylauriane.com/fr/contact/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "fr",
+        "href": "https://gaiabylauriane.com/fr/contact/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "en",
+        "href": "https://gaiabylauriane.com/en/contact/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "x-default",
+        "href": "https://gaiabylauriane.com/fr/contact/"
+      },
+      {
+        "rel": "icon",
+        "href": "/favicon.svg",
+        "type": "image/svg+xml"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "/_astro/_slug_.7UwHYl5i.css"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "/_astro/_slug_.jQSPxYXS.css"
+      },
+      {
+        "anchor": true,
+        "class": "skip",
+        "href": "#main"
+      },
+      {
+        "anchor": true,
+        "class": "mini-logo",
+        "href": "/fr/",
+        "aria-label": "GAIA by Lauriane — Accueil"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/aculift/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/pranic-healing/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/sante-feminine/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/a-propos/"
+      },
+      {
+        "anchor": true,
+        "class": "language",
+        "href": "/en/contact/",
+        "lang": "en",
+        "aria-label": "View this page in English"
+      },
+      {
+        "anchor": true,
+        "class": "button small",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/aculift/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/pranic-healing/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/sante-feminine/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/a-propos/"
+      },
+      {
+        "anchor": true,
+        "class": "language mobile-language",
+        "href": "/en/contact/",
+        "lang": "en",
+        "aria-label": "View this page in English"
+      },
+      {
+        "anchor": true,
+        "class": "button mobile-booking",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/contact/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/links/"
+      }
+    ],
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Commençons par une rencontre."
+      },
+      {
+        "level": "h2",
+        "text": "Informations à venir"
+      }
+    ],
+    "images": [],
+    "scripts": [
+      {
+        "attrs": {
+          "type": "application/ld+json"
+        },
+        "text": "{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"Lauriane\",\"jobTitle\":\"Praticienne en acupuncture traditionnelle\",\"url\":\"https://gaiabylauriane.com/fr/a-propos/\"}"
+      },
+      {
+        "attrs": {
+          "type": "module"
+        },
+        "text": "document.addEventListener(\"keydown\",e=>{if(e.key!==\"Escape\")return;const n=[...document.querySelectorAll(\"[data-nav-disclosure][open]\")],o=document.activeElement,t=n.reverse().find(c=>o instanceof Node&&c.contains(o))||n[0];t&&(t.open=!1,t.querySelector(\":scope > summary\")?.focus(),e.preventDefault())});document.addEventListener(\"click\",e=>{e.target instanceof Node&&document.querySelectorAll(\".practice-menu[open],.mobile-nav[open]\").forEach(n=>{n.contains(e.target)||(n.open=!1)})});"
+      }
+    ],
+    "text": "GAIA by Lauriane / Contact Commençons par une rencontre. Préparer une rencontre avec Lauriane et découvrir les informations de rendez-vous GAIA. Informations à venir Les coordonnées, le lien de réservation et les périodes de consultation ne sont pas encore confirmés pour le site. Ils seront ajoutés ici avant son ouverture au public. Paris · Val-d’Oise · Goa : les lieux seront précisés selon les périodes et les collaborations effectives."
+  },
+  {
+    "route": "/fr/acupuncture/",
+    "lang": "fr",
+    "title": "Acupuncture traditionnelle — Lauriane | GAIA",
+    "meta": {
+      "": null,
+      "viewport": "width=device-width,initial-scale=1",
+      "description": "Découvrez l’acupuncture traditionnelle avec Lauriane : son approche, le déroulement d’une séance et les informations de consultation.",
+      "theme-color": "#FFF6CC",
+      "og:type": "website",
+      "og:site_name": "GAIA by Lauriane",
+      "og:title": "Acupuncture traditionnelle — Lauriane | GAIA",
+      "og:description": "Découvrez l’acupuncture traditionnelle avec Lauriane : son approche, le déroulement d’une séance et les informations de consultation.",
+      "og:url": "https://gaiabylauriane.com/fr/acupuncture/",
+      "og:locale": "fr_FR",
+      "og:image": "https://gaiabylauriane.com/images/portrait-1200.webp",
+      "og:image:alt": "Lauriane au bord de la mer au coucher du soleil",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Acupuncture traditionnelle — Lauriane | GAIA",
+      "twitter:description": "Découvrez l’acupuncture traditionnelle avec Lauriane : son approche, le déroulement d’une séance et les informations de consultation.",
+      "twitter:image": "https://gaiabylauriane.com/images/portrait-1200.webp"
+    },
+    "links": [
+      {
+        "rel": "preload",
+        "href": "/_astro/fraunces-latin-wght-normal.ukD16Tqj.woff2",
+        "as": "font",
+        "type": "font/woff2",
+        "crossorigin": "anonymous"
+      },
+      {
+        "rel": "preload",
+        "href": "/fonts/InstrumentSans-Latin-Variable.woff2",
+        "as": "font",
+        "type": "font/woff2",
+        "crossorigin": "anonymous"
+      },
+      {
+        "rel": "canonical",
+        "href": "https://gaiabylauriane.com/fr/acupuncture/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "fr",
+        "href": "https://gaiabylauriane.com/fr/acupuncture/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "en",
+        "href": "https://gaiabylauriane.com/en/acupuncture/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "x-default",
+        "href": "https://gaiabylauriane.com/fr/acupuncture/"
+      },
+      {
+        "rel": "icon",
+        "href": "/favicon.svg",
+        "type": "image/svg+xml"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "/_astro/_slug_.7UwHYl5i.css"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "/_astro/_slug_.jQSPxYXS.css"
+      },
+      {
+        "anchor": true,
+        "class": "skip",
+        "href": "#main"
+      },
+      {
+        "anchor": true,
+        "class": "mini-logo",
+        "href": "/fr/",
+        "aria-label": "GAIA by Lauriane — Accueil"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/acupuncture/",
+        "aria-current": "page"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/aculift/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/pranic-healing/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/sante-feminine/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/a-propos/"
+      },
+      {
+        "anchor": true,
+        "class": "language",
+        "href": "/en/acupuncture/",
+        "lang": "en",
+        "aria-label": "View this page in English"
+      },
+      {
+        "anchor": true,
+        "class": "button small",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/acupuncture/",
+        "aria-current": "page"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/aculift/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/pranic-healing/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/sante-feminine/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/a-propos/"
+      },
+      {
+        "anchor": true,
+        "class": "language mobile-language",
+        "href": "/en/acupuncture/",
+        "lang": "en",
+        "aria-label": "View this page in English"
+      },
+      {
+        "anchor": true,
+        "class": "button mobile-booking",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "class": "button",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/sante-feminine/"
+      },
+      {
+        "anchor": true,
+        "class": "button",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/contact/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/links/"
+      }
+    ],
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Acupuncture traditionnelle"
+      },
+      {
+        "level": "h2",
+        "text": "Mon approche"
+      },
+      {
+        "level": "h2",
+        "text": "Your system is a network."
+      },
+      {
+        "level": "h2",
+        "text": "Comment se déroule une séance ?"
+      },
+      {
+        "level": "h3",
+        "text": "Échanger"
+      },
+      {
+        "level": "h3",
+        "text": "Diagnostiquer"
+      },
+      {
+        "level": "h3",
+        "text": "Agir"
+      },
+      {
+        "level": "h2",
+        "text": "Pourquoi consulter ?"
+      },
+      {
+        "level": "h2",
+        "text": "À quoi s’attendre ?"
+      },
+      {
+        "level": "h3",
+        "text": "1h–1h15"
+      },
+      {
+        "level": "h3",
+        "text": "Aiguilles très fines"
+      },
+      {
+        "level": "h3",
+        "text": "Rythme adapté"
+      },
+      {
+        "level": "h2",
+        "text": "Prendre rendez-vous."
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/acupuncture-1200.webp",
+        "srcset": "/images/acupuncture-640.webp 640w, /images/acupuncture-1200.webp 1200w, /images/acupuncture-1800.webp 1800w",
+        "sizes": "(max-width: 700px) 100vw, 50vw",
+        "alt": "Détail de mains posant des aiguilles d’acupuncture sur le dos, dans une lumière naturelle chaleureuse",
+        "width": "1149",
+        "height": "1368",
+        "loading": "eager",
+        "fetchpriority": "high",
+        "decoding": "async",
+        "bytes": 103866
+      }
+    ],
+    "scripts": [
+      {
+        "attrs": {
+          "type": "application/ld+json"
+        },
+        "text": "{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"Lauriane\",\"jobTitle\":\"Praticienne en acupuncture traditionnelle\",\"url\":\"https://gaiabylauriane.com/fr/a-propos/\"}"
+      },
+      {
+        "attrs": {
+          "type": "module"
+        },
+        "text": "document.addEventListener(\"keydown\",e=>{if(e.key!==\"Escape\")return;const n=[...document.querySelectorAll(\"[data-nav-disclosure][open]\")],o=document.activeElement,t=n.reverse().find(c=>o instanceof Node&&c.contains(o))||n[0];t&&(t.open=!1,t.querySelector(\":scope > summary\")?.focus(),e.preventDefault())});document.addEventListener(\"click\",e=>{e.target instanceof Node&&document.querySelectorAll(\".practice-menu[open],.mobile-nav[open]\").forEach(n=>{n.contains(e.target)||(n.open=!1)})});"
+      }
+    ],
+    "text": "Acupuncture traditionnelle Le corps, les émotions et leurs interactions comme un réseau interconnecté. Comprendre, relier, construire autour de ce qui s’exprime pour vous aujourd’hui. Prendre rendez-vous Mon approche J’aime décrire mon approche de l’acupuncture comme celle d’une détective. Tout au long de la séance, mon objectif est d’apprendre à vous connaître et de comprendre vos différents fonctionnements. Une douleur, un sommeil perturbé, une digestion difficile ou une fatigue sont rarement des phénomènes isolés. Je cherche à relier les indices : votre histoire, vos symptômes, vos habitudes, les pouls, la langue, ce que votre corps exprime ce jour-là. L’idée est de comprendre comment ces éléments s’articulent entre eux plutôt que de regarder chaque symptôme séparément. C’est cette lecture d’ensemble qui guide ensuite ma façon de construire la séance. Your system is a network. Corps Sommeil Digestion Émotions Quand j’explique l’acupuncture, je la compare souvent au plan des transports parisiens. Il existe plusieurs lignes, plusieurs chemins, plusieurs façons de relier un point à un autre. Parfois un trajet est bloqué. Il faut alors comprendre le réseau dans son ensemble pour trouver une autre voie. C’est cette logique de relations et de circulation que je trouve fascinante dans l’acupuncture. Comment se déroule une séance ? Échanger La première partie de la séance dure généralement 15 à 20 minutes. Elle me permet de comprendre ce qui vous amène, votre histoire, votre contexte et les signes que votre corps exprime. Diagnostiquer Je complète cet échange par un bilan énergétique, notamment à travers la prise des pouls et l’observation de la langue. Agir Je construis ensuite la séance et choisis les points en fonction du bilan réalisé et de ce que votre corps exprime ce jour-là. Pourquoi consulter ? Quelques motifs qui peuvent vous amener à consulter : Douleurs et tensions Sommeil Stress Fatigue Digestion Cycle menstruel Santé féminine Inconforts fonctionnels L’acupuncture traditionnelle ne remplace pas un diagnostic ni un suivi médical. À quoi s’attendre ? 1h–1h15 Une séance dure généralement entre 1h et 1h15. Aiguilles très fines Les sensations varient d’une personne à l’autre. Rythme adapté Le nombre et le rythme des séances dépendent de la condition de chacun. Prendre rendez-vous . Comprendre, relier, construire autour de ce qui s’exprime pour vous aujourd’hui. Prendre rendez-vous"
+  },
+  {
+    "route": "/fr/a-propos/",
+    "lang": "fr",
+    "title": "À propos de Lauriane — Parcours & formations | GAIA",
+    "meta": {
+      "": null,
+      "viewport": "width=device-width,initial-scale=1",
+      "description": "Découvrez le parcours de Lauriane : voyages en Asie, yoga, formation en acupuncture traditionnelle et naissance de GAIA by Lauriane.",
+      "theme-color": "#FFF6CC",
+      "og:type": "website",
+      "og:site_name": "GAIA by Lauriane",
+      "og:title": "À propos de Lauriane — Parcours & formations | GAIA",
+      "og:description": "Découvrez le parcours de Lauriane : voyages en Asie, yoga, formation en acupuncture traditionnelle et naissance de GAIA by Lauriane.",
+      "og:url": "https://gaiabylauriane.com/fr/a-propos/",
+      "og:locale": "fr_FR",
+      "og:image": "https://gaiabylauriane.com/images/portrait-1200.webp",
+      "og:image:alt": "Lauriane au bord de la mer au coucher du soleil",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "À propos de Lauriane — Parcours & formations | GAIA",
+      "twitter:description": "Découvrez le parcours de Lauriane : voyages en Asie, yoga, formation en acupuncture traditionnelle et naissance de GAIA by Lauriane.",
+      "twitter:image": "https://gaiabylauriane.com/images/portrait-1200.webp"
+    },
+    "links": [
+      {
+        "rel": "preload",
+        "href": "/_astro/fraunces-latin-wght-normal.ukD16Tqj.woff2",
+        "as": "font",
+        "type": "font/woff2",
+        "crossorigin": "anonymous"
+      },
+      {
+        "rel": "preload",
+        "href": "/fonts/InstrumentSans-Latin-Variable.woff2",
+        "as": "font",
+        "type": "font/woff2",
+        "crossorigin": "anonymous"
+      },
+      {
+        "rel": "canonical",
+        "href": "https://gaiabylauriane.com/fr/a-propos/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "fr",
+        "href": "https://gaiabylauriane.com/fr/a-propos/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "en",
+        "href": "https://gaiabylauriane.com/en/about/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "x-default",
+        "href": "https://gaiabylauriane.com/fr/a-propos/"
+      },
+      {
+        "rel": "icon",
+        "href": "/favicon.svg",
+        "type": "image/svg+xml"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "/_astro/_slug_.7UwHYl5i.css"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "/_astro/_slug_.jQSPxYXS.css"
+      },
+      {
+        "anchor": true,
+        "class": "skip",
+        "href": "#main"
+      },
+      {
+        "anchor": true,
+        "class": "mini-logo",
+        "href": "/fr/",
+        "aria-label": "GAIA by Lauriane — Accueil"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/aculift/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/pranic-healing/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/sante-feminine/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/a-propos/",
+        "aria-current": "page"
+      },
+      {
+        "anchor": true,
+        "class": "language",
+        "href": "/en/about/",
+        "lang": "en",
+        "aria-label": "View this page in English"
+      },
+      {
+        "anchor": true,
+        "class": "button small",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/aculift/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/pranic-healing/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/sante-feminine/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/a-propos/",
+        "aria-current": "page"
+      },
+      {
+        "anchor": true,
+        "class": "language mobile-language",
+        "href": "/en/about/",
+        "lang": "en",
+        "aria-label": "View this page in English"
+      },
+      {
+        "anchor": true,
+        "class": "button mobile-booking",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "target": "_blank",
+        "rel": "noopener noreferrer",
+        "href": "https://centre-imhotep.com/"
+      },
+      {
+        "anchor": true,
+        "target": "_blank",
+        "rel": "noopener noreferrer",
+        "href": "https://pranichealingnepal.com/"
+      },
+      {
+        "anchor": true,
+        "target": "_blank",
+        "rel": "noopener noreferrer",
+        "href": "https://laaictrainings.com/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/aculift/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/pranic-healing/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/sante-feminine/"
+      },
+      {
+        "anchor": true,
+        "class": "button",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/contact/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/links/"
+      }
+    ],
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Lauriane"
+      },
+      {
+        "level": "h2",
+        "text": "Je n’ai pas commencé par l’acupuncture."
+      },
+      {
+        "level": "h2",
+        "text": "L’intuition, les rencontres… et les “coïncidences”"
+      },
+      {
+        "level": "h2",
+        "text": "La thérapeute vers laquelle je tends"
+      },
+      {
+        "level": "h2",
+        "text": "QUELQUES ÉTAPES DU CHEMIN"
+      },
+      {
+        "level": "h3",
+        "text": "ACUPUNCTURE TRADITIONNELLE"
+      },
+      {
+        "level": "h3",
+        "text": "PRANIC HEALING"
+      },
+      {
+        "level": "h3",
+        "text": "YOGA"
+      },
+      {
+        "level": "h3",
+        "text": "APPROCHES COMPLÉMENTAIRES"
+      },
+      {
+        "level": "h2",
+        "text": "Pourquoi GAIA ?"
+      },
+      {
+        "level": "h2",
+        "text": "Découvrir mon approche."
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/journal-hero-1200.webp",
+        "srcset": "/images/journal-hero-640.webp 640w, /images/journal-hero-1200.webp 1200w",
+        "sizes": "(max-width:700px) 100vw, 45vw",
+        "alt": "Lauriane souriante, assise en extérieur au milieu de la végétation",
+        "width": "1080",
+        "height": "1076",
+        "loading": "eager",
+        "fetchpriority": "high",
+        "decoding": "async",
+        "bytes": 185938
+      },
+      {
+        "src": "/images/journal-travel-1200.webp",
+        "srcset": "/images/journal-travel-640.webp 640w, /images/journal-travel-1200.webp 1200w",
+        "sizes": "(max-width:700px) 100vw, 45vw",
+        "alt": "Lauriane de dos, sur une rive de galets en Inde, face au fleuve et aux collines",
+        "width": "1080",
+        "height": "1338",
+        "loading": "lazy",
+        "fetchpriority": "auto",
+        "decoding": "async",
+        "bytes": 307670
+      },
+      {
+        "src": "/images/journal-india-1200.webp",
+        "srcset": "/images/journal-india-640.webp 640w, /images/journal-india-1200.webp 1200w",
+        "sizes": "(max-width:700px) 100vw, 45vw",
+        "alt": "Une cérémonie au bord du Gange en Inde, face au fleuve et aux montagnes",
+        "width": "1080",
+        "height": "2340",
+        "loading": "lazy",
+        "fetchpriority": "auto",
+        "decoding": "async",
+        "bytes": 447782
+      },
+      {
+        "src": "/images/journal-yoga-1200.webp",
+        "srcset": "/images/journal-yoga-640.webp 640w, /images/journal-yoga-1200.webp 1200w",
+        "sizes": "(max-width:700px) 100vw, 45vw",
+        "alt": "Lauriane pratiquant une posture de yoga avec une sangle, accompagnée par un enseignant en Inde",
+        "width": "960",
+        "height": "1280",
+        "loading": "lazy",
+        "fetchpriority": "auto",
+        "decoding": "async",
+        "bytes": 134696
+      },
+      {
+        "src": "/images/journal-practice-1200.webp",
+        "srcset": "/images/journal-practice-640.webp 640w, /images/journal-practice-1200.webp 1200w",
+        "sizes": "(max-width:700px) 100vw, 45vw",
+        "alt": "Lauriane en pratique, les mains sur le dos d’une personne allongée dans un centre de soins au Népal",
+        "width": "1536",
+        "height": "2048",
+        "loading": "lazy",
+        "fetchpriority": "auto",
+        "decoding": "async",
+        "bytes": 193924
+      },
+      {
+        "src": "/images/journal-training-1200.webp",
+        "srcset": "/images/journal-training-640.webp 640w, /images/journal-training-1200.webp 1200w",
+        "sizes": "(max-width:700px) 100vw, 45vw",
+        "alt": "Lauriane étudiant la pratique des bols sonores, assise devant des bols et un gong",
+        "width": "1200",
+        "height": "1600",
+        "loading": "lazy",
+        "fetchpriority": "auto",
+        "decoding": "async",
+        "bytes": 279976
+      },
+      {
+        "src": "/images/about-yoga-1200.webp",
+        "srcset": "/images/about-yoga-640.webp 640w, /images/about-yoga-1200.webp 1200w",
+        "sizes": "(max-width:700px) 100vw, 45vw",
+        "alt": "Lauriane dans une posture de yoga sur la plage, face à la mer au coucher du soleil",
+        "width": "1448",
+        "height": "1086",
+        "loading": "lazy",
+        "fetchpriority": "auto",
+        "decoding": "async",
+        "bytes": 83132
+      }
+    ],
+    "scripts": [
+      {
+        "attrs": {
+          "type": "application/ld+json"
+        },
+        "text": "{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"Lauriane\",\"jobTitle\":\"Praticienne en acupuncture traditionnelle\",\"url\":\"https://gaiabylauriane.com/fr/a-propos/\"}"
+      },
+      {
+        "attrs": {
+          "type": "module"
+        },
+        "text": "document.addEventListener(\"keydown\",e=>{if(e.key!==\"Escape\")return;const n=[...document.querySelectorAll(\"[data-nav-disclosure][open]\")],o=document.activeElement,t=n.reverse().find(c=>o instanceof Node&&c.contains(o))||n[0];t&&(t.open=!1,t.querySelector(\":scope > summary\")?.focus(),e.preventDefault())});document.addEventListener(\"click\",e=>{e.target instanceof Node&&document.querySelectorAll(\".practice-menu[open],.mobile-nav[open]\").forEach(n=>{n.contains(e.target)||(n.open=!1)})});"
+      }
+    ],
+    "text": "À PROPOS Lauriane Praticienne en acupuncture traditionnelle Un parcours guidé par la curiosité, l’intuition et les rencontres. Paris · Val-d’Oise · Goa Je n’ai pas commencé par l’acupuncture. Classe préparatoire, Ecole de commerce, CDI... J’ai longtemps suivi une voie comme qui dirait assez \"classique\", tout en étant, depuis toujours et dans à peu près tous mes cercles la sorcière bien aimée ! J’ai aussi la chance d’avoir une maman qui nous a très tôt planté la graine du voyage , à mes frères et moi. Ajouté à ça de la curiosité, l'envie de découvrir et l’intuition qui m'ont amenée à vivre et voyager à l’étranger pendant quelques années. Et quelque part au milieu de tout ça, les lignes ont commencé à bouger. Rishikesh, capitale mondiale du yoga, Inde Au bord du Gange durant une cérémonie Hindou Aarti, Inde Inde · Pratique quotidienne LE CHEMIN L’intuition, les rencontres… et les “coïncidences” Je crois que mon parcours s’est construit autour de deux choses : mon intuition et les rencontres. Des thérapeutes, des enseignants, des amis. Des personnes arrivées parfois exactement au moment où j’avais besoin d’entendre, de voir ou de comprendre quelque chose. Coincidences ? Pas sûre ! Une cérémonie indienne découverte presque par hasard en Asie. Quelques semaines plus tard, un départ pour l’Inde. Ce qui devait être une courte immersion dans un ashram s’est transformé en plusieurs mois. Le yoga est suite à ça devenu une pratique quotidienne. Puis je me suis intéressée à l’énergétique. Puis à l’acupuncture. De fil en aiguille (littéralement cette fois) je me suis retrouvée à étudier un nouveau langage du corps et de ses fonctionnements. Et certaines des personnes croisées sur ce chemin continuent encore aujourd’hui à nourrir ma manière de réfléchir, d’apprendre et de pratiquer. Nothing works in silos . Corps. Energie. Emotions. Environnement. DANS MA PRATIQUE La thérapeute vers laquelle je tends Je crois que, fondamentalement, j’aime les gens. Ça peut paraître un peu culcul la praline dit comme ça, mais l’idée d’aider quelqu’un à aller mieux, à comprendre ce qu’il traverse ou simplement à se sentir écouté me nourrit énormément. Quand je pratique, je ne vois pas le temps passer. Et je crois que c’est plutôt bon signe non ? En réalité j’essaie d’être la thérapeute que j’aimerais avoir face à moi. À l’écoute, pour de vrai. Pas seulement attendre mon tour pour parler, mais écouter activement, poser des questions, essayer de comprendre. Non jugeante. Accessible. Curieuse. Et suffisamment humble pour savoir que je continuerai probablement à apprendre toute ma vie. Je n’ai pas envie d’appliquer une recette à quelqu’un. J’ai envie de comprendre la personne que j’ai devant moi, les liens entre ce qu’elle ressent, ce que son corps exprime, son histoire et son contexte. Pendant une mission d'acupuncture à Poha, Népal QUELQUES ÉTAPES DU CHEMIN ACUPUNCTURE TRADITIONNELLE 3 années de formation au Centre Imhotep, Paris Centre Imhotep ↗ (nouvel onglet) PRANIC HEALING Formée à Katmandou, Népal Basic Pranic Healing Advanced Pranic Healing Pranic Psychotherapy Achieving Oneness with the Higher Soul Selon l’enseignement de Master Choa Kok Sui Pranic Healing Nepal ↗ (nouvel onglet) YOGA 200H TTC “Love and All Is Coming” School by Talia Sutra Love and All Is Coming ↗ (nouvel onglet) APPROCHES COMPLÉMENTAIRES Acupuncture japonaise, formations autour du corps et du mouvement… Pourquoi GAIA ? Gaia GAIA a toujours été une évidence pour moi. Je crois beaucoup à la symbolique des choses. Donner à ma marque le nom de Gaïa, figure primordiale de la Terre dans la mythologie, fait vraiment sens ! D’abord : sa puissance. Mais aussi l’ancrage, la création, le vivant, les cycles et l’idée que tout existe en relation avec autre chose. C’est exactement ce que j’ai envie de construire avec GAIA. Aujourd’hui, GAIA prend forme autour de ma pratique. Acupuncture, Pranic Healing, Aculift, santé féminine. Demain, j’aimerais que ce soit encore plus large : un espace où différentes disciplines, différentes approches et différentes personnes puissent dialoguer. GAIA creates spaces for reconnection. Le mouvement continue. Découvrir mon approche . Acupuncture ↗ Aculift ↗ Pranic Healing ↗ Santé féminine ↗ Prendre rendez-vous"
+  },
+  {
+    "route": "/fr/links/",
+    "lang": "fr",
+    "title": "GAIA by Lauriane — Liens",
+    "meta": {
+      "": null,
+      "viewport": "width=device-width,initial-scale=1",
+      "description": "Reconnexion · Acupuncture · Énergie · Féminin. Retrouvez les pratiques de Lauriane et prenez rendez-vous.",
+      "theme-color": "#FFF4C7"
+    },
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://gaiabylauriane.com/links/"
+      },
+      {
+        "rel": "icon",
+        "href": "/favicon.svg",
+        "type": "image/svg+xml"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "/_astro/_slug_.7UwHYl5i.css"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "/_astro/_slug_.jQSPxYXS.css"
+      },
+      {
+        "anchor": true,
+        "class": "links-wordmark",
+        "href": "/fr/",
+        "aria-label": "GAIA by Lauriane — voir le site"
+      },
+      {
+        "anchor": true,
+        "class": "links-book",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "class": "links-practice tone-0",
+        "href": "/fr/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "class": "links-practice tone-1",
+        "href": "/fr/"
+      }
+    ],
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Reconnexion · Acupuncture · Énergie · Féminin"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/lauriane-links.webp",
+        "width": "900",
+        "height": "1175",
+        "alt": "Lauriane souriante, marchant au bord de l’eau au coucher du soleil",
+        "fetchpriority": "high",
+        "bytes": 301514
+      }
+    ],
+    "scripts": [],
+    "text": "Gaia by Lauriane Reconnexion · Acupuncture · Énergie · Féminin Prendre rendez-vous ↗ Acupuncture traditionnelle ↗ Découvrir le site ↗ GAIA by Lauriane"
+  },
+  {
+    "route": "/fr/pranic-healing/",
+    "lang": "fr",
+    "title": "Pranic Healing — Présentiel & à distance | GAIA",
+    "meta": {
+      "": null,
+      "viewport": "width=device-width,initial-scale=1",
+      "description": "Pranic Healing avec Lauriane : séances en présentiel ou à distance, approche énergétique indépendante ou complémentaire à l’acupuncture.",
+      "theme-color": "#FFF6CC",
+      "og:type": "website",
+      "og:site_name": "GAIA by Lauriane",
+      "og:title": "Pranic Healing — Présentiel & à distance | GAIA",
+      "og:description": "Pranic Healing avec Lauriane : séances en présentiel ou à distance, approche énergétique indépendante ou complémentaire à l’acupuncture.",
+      "og:url": "https://gaiabylauriane.com/fr/pranic-healing/",
+      "og:locale": "fr_FR",
+      "og:image": "https://gaiabylauriane.com/images/portrait-1200.webp",
+      "og:image:alt": "Lauriane au bord de la mer au coucher du soleil",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Pranic Healing — Présentiel & à distance | GAIA",
+      "twitter:description": "Pranic Healing avec Lauriane : séances en présentiel ou à distance, approche énergétique indépendante ou complémentaire à l’acupuncture.",
+      "twitter:image": "https://gaiabylauriane.com/images/portrait-1200.webp"
+    },
+    "links": [
+      {
+        "rel": "preload",
+        "href": "/_astro/fraunces-latin-wght-normal.ukD16Tqj.woff2",
+        "as": "font",
+        "type": "font/woff2",
+        "crossorigin": "anonymous"
+      },
+      {
+        "rel": "preload",
+        "href": "/fonts/InstrumentSans-Latin-Variable.woff2",
+        "as": "font",
+        "type": "font/woff2",
+        "crossorigin": "anonymous"
+      },
+      {
+        "rel": "canonical",
+        "href": "https://gaiabylauriane.com/fr/pranic-healing/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "fr",
+        "href": "https://gaiabylauriane.com/fr/pranic-healing/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "en",
+        "href": "https://gaiabylauriane.com/en/pranic-healing/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "x-default",
+        "href": "https://gaiabylauriane.com/fr/pranic-healing/"
+      },
+      {
+        "rel": "icon",
+        "href": "/favicon.svg",
+        "type": "image/svg+xml"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "/_astro/_slug_.7UwHYl5i.css"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "/_astro/_slug_.jQSPxYXS.css"
+      },
+      {
+        "anchor": true,
+        "class": "skip",
+        "href": "#main"
+      },
+      {
+        "anchor": true,
+        "class": "mini-logo",
+        "href": "/fr/",
+        "aria-label": "GAIA by Lauriane — Accueil"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/aculift/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/pranic-healing/",
+        "aria-current": "page"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/sante-feminine/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/a-propos/"
+      },
+      {
+        "anchor": true,
+        "class": "language",
+        "href": "/en/pranic-healing/",
+        "lang": "en",
+        "aria-label": "View this page in English"
+      },
+      {
+        "anchor": true,
+        "class": "button small",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/aculift/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/pranic-healing/",
+        "aria-current": "page"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/sante-feminine/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/a-propos/"
+      },
+      {
+        "anchor": true,
+        "class": "language mobile-language",
+        "href": "/en/pranic-healing/",
+        "lang": "en",
+        "aria-label": "View this page in English"
+      },
+      {
+        "anchor": true,
+        "class": "button mobile-booking",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "class": "button",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "class": "text-link pranic-origin-link",
+        "href": "https://pranichealingfrance.com/",
+        "target": "_blank",
+        "rel": "noopener noreferrer"
+      },
+      {
+        "anchor": true,
+        "class": "text-link",
+        "href": "/fr/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "class": "button",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/contact/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/links/"
+      }
+    ],
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Pranic Healing"
+      },
+      {
+        "level": "h2",
+        "text": "Comprendre le Pranic Healing"
+      },
+      {
+        "level": "h2",
+        "text": "Une méthode développée par Grand Master Choa Kok Sui"
+      },
+      {
+        "level": "h2",
+        "text": "Les chakras comme des ronds-points"
+      },
+      {
+        "level": "h2",
+        "text": "Pour quels besoins ?"
+      },
+      {
+        "level": "h2",
+        "text": "Présentiel, à distance ou en complément de l’acupuncture"
+      },
+      {
+        "level": "h3",
+        "text": "Présentiel ou à distance"
+      },
+      {
+        "level": "h3",
+        "text": "En complément de l’acupuncture"
+      },
+      {
+        "level": "h2",
+        "text": "Prendre rendez-vous."
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/pranic-meditation-1000.webp",
+        "srcset": "/images/pranic-meditation-600.webp 600w, /images/pranic-meditation-1000.webp 1000w",
+        "sizes": "(max-width:700px) calc(100vw - 40px), 42vw",
+        "width": "1000",
+        "height": "1500",
+        "alt": "Lauriane assise en tailleur sur les rochers, les yeux fermés, dans la lumière du coucher de soleil",
+        "loading": "eager",
+        "fetchpriority": "high",
+        "decoding": "async",
+        "bytes": 140604
+      }
+    ],
+    "scripts": [
+      {
+        "attrs": {
+          "type": "application/ld+json"
+        },
+        "text": "{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"Lauriane\",\"jobTitle\":\"Praticienne en acupuncture traditionnelle\",\"url\":\"https://gaiabylauriane.com/fr/a-propos/\"}"
+      },
+      {
+        "attrs": {
+          "type": "module"
+        },
+        "text": "document.addEventListener(\"keydown\",e=>{if(e.key!==\"Escape\")return;const n=[...document.querySelectorAll(\"[data-nav-disclosure][open]\")],o=document.activeElement,t=n.reverse().find(c=>o instanceof Node&&c.contains(o))||n[0];t&&(t.open=!1,t.querySelector(\":scope > summary\")?.focus(),e.preventDefault())});document.addEventListener(\"click\",e=>{e.target instanceof Node&&document.querySelectorAll(\".practice-menu[open],.mobile-nav[open]\").forEach(n=>{n.contains(e.target)||(n.open=!1)})});"
+      }
+    ],
+    "text": "Pranic Healing Une approche énergétique qui travaille sur la circulation, l’aura et les différentes couches énergétiques. Physique, émotionnel, énergétique. Prendre rendez-vous Comprendre le Pranic Healing Le Pranic Healing est une pratique énergétique qui travaille sur la circulation de l’énergie à travers différents niveaux : physique, émotionnel et plus subtil. Je le pratique comme une approche à part entière, mais aussi comme une pratique complémentaire à l’acupuncture lorsque cela semble pertinent. L’aura et les chakras sont ici des repères du modèle du Pranic Healing, et non une description de l’anatomie médicale. Une méthode développée par Grand Master Choa Kok Sui Le Pranic Healing moderne a été développé par Grand Master Choa Kok Sui, aux Philippines. Son enseignement s’est depuis diffusé internationalement et est aujourd’hui présent dans plus de 126 pays. En savoir plus sur le Pranic Healing et son enseignement → (nouvel onglet) Les chakras comme des ronds-points J’explique souvent les chakras comme de grands ronds-points dans le corps. Prenons le rond-point de l’Étoile à Paris. Il permet de desservir plusieurs grandes artères de la ville. Si l’une d’elles est bloquée, la circulation peut rapidement être perturbée dans les grandes rues, puis dans les ruelles qui en dépendent. Dans le langage du Pranic Healing, les chakras fonctionnent un peu de cette manière : ils jouent le rôle de grands centres de circulation énergétique. Les « routes » représentent les flux d’énergie qui se dirigent vers différentes zones et fonctions du corps. L’idée est donc de travailler sur la circulation globale plutôt que sur un point isolé. Pour quels besoins ? Le Pranic Healing peut accompagner différents types de problématiques et s’intégrer dans une approche globale, de manière indépendante ou en complément de l’acupuncture. Fatigue Stress Tensions Surcharge émotionnelle Sensation de blocage Difficulté à retrouver de l’élan Besoin de recentrage Accompagnement énergétique global Le Pranic Healing ne remplace pas un diagnostic ni un suivi médical. Présentiel, à distance ou en complément de l’acupuncture Présentiel ou à distance Les séances peuvent se faire en présentiel ou à distance. Elles durent généralement entre 45 minutes et 1 heure. À distance, il suffit d’être au calme, disponible et réceptif pendant la séance. Il n’y a rien de particulier à faire de votre côté. En complément de l’acupuncture Le Pranic Healing et l’acupuncture sont deux approches différentes, que je peux utiliser de manière complémentaire lorsque cela semble pertinent. Avec votre accord, il m’arrive d’utiliser le Pranic Healing pendant le temps de pose des aiguilles. Découvrir l’acupuncture traditionnelle Prendre rendez-vous . Une séance pensée autour de la circulation, de l’énergie et de ce que vous traversez aujourd’hui. Prendre rendez-vous"
+  },
+  {
+    "route": "/fr/sante-feminine/",
+    "lang": "fr",
+    "title": "Santé féminine — Cycles & approche de Lauriane | GAIA",
+    "meta": {
+      "": null,
+      "viewport": "width=device-width,initial-scale=1",
+      "description": "Santé féminine avec GAIA : le regard de Lauriane sur le cycle menstruel, les sujets qu’elle approfondit et sa spécialisation en développement.",
+      "theme-color": "#FFF6CC",
+      "og:type": "website",
+      "og:site_name": "GAIA by Lauriane",
+      "og:title": "Santé féminine — Cycles & approche de Lauriane | GAIA",
+      "og:description": "Santé féminine avec GAIA : le regard de Lauriane sur le cycle menstruel, les sujets qu’elle approfondit et sa spécialisation en développement.",
+      "og:url": "https://gaiabylauriane.com/fr/sante-feminine/",
+      "og:locale": "fr_FR",
+      "og:image": "https://gaiabylauriane.com/images/portrait-1200.webp",
+      "og:image:alt": "Lauriane au bord de la mer au coucher du soleil",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Santé féminine — Cycles & approche de Lauriane | GAIA",
+      "twitter:description": "Santé féminine avec GAIA : le regard de Lauriane sur le cycle menstruel, les sujets qu’elle approfondit et sa spécialisation en développement.",
+      "twitter:image": "https://gaiabylauriane.com/images/portrait-1200.webp"
+    },
+    "links": [
+      {
+        "rel": "preload",
+        "href": "/_astro/fraunces-latin-wght-normal.ukD16Tqj.woff2",
+        "as": "font",
+        "type": "font/woff2",
+        "crossorigin": "anonymous"
+      },
+      {
+        "rel": "preload",
+        "href": "/fonts/InstrumentSans-Latin-Variable.woff2",
+        "as": "font",
+        "type": "font/woff2",
+        "crossorigin": "anonymous"
+      },
+      {
+        "rel": "canonical",
+        "href": "https://gaiabylauriane.com/fr/sante-feminine/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "fr",
+        "href": "https://gaiabylauriane.com/fr/sante-feminine/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "en",
+        "href": "https://gaiabylauriane.com/en/womens-health/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "x-default",
+        "href": "https://gaiabylauriane.com/fr/sante-feminine/"
+      },
+      {
+        "rel": "icon",
+        "href": "/favicon.svg",
+        "type": "image/svg+xml"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "/_astro/_slug_.7UwHYl5i.css"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "/_astro/_slug_.jQSPxYXS.css"
+      },
+      {
+        "anchor": true,
+        "class": "skip",
+        "href": "#main"
+      },
+      {
+        "anchor": true,
+        "class": "mini-logo",
+        "href": "/fr/",
+        "aria-label": "GAIA by Lauriane — Accueil"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/aculift/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/pranic-healing/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/sante-feminine/",
+        "aria-current": "page"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/a-propos/"
+      },
+      {
+        "anchor": true,
+        "class": "language",
+        "href": "/en/womens-health/",
+        "lang": "en",
+        "aria-label": "View this page in English"
+      },
+      {
+        "anchor": true,
+        "class": "button small",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/aculift/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/pranic-healing/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/sante-feminine/",
+        "aria-current": "page"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/a-propos/"
+      },
+      {
+        "anchor": true,
+        "class": "language mobile-language",
+        "href": "/en/womens-health/",
+        "lang": "en",
+        "aria-label": "View this page in English"
+      },
+      {
+        "anchor": true,
+        "class": "button mobile-booking",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "class": "button",
+        "href": "#approche-sante-feminine"
+      },
+      {
+        "anchor": true,
+        "class": "feminine-inline-link",
+        "href": "/fr/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "class": "button",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/contact/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/links/"
+      }
+    ],
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Santé féminine"
+      },
+      {
+        "level": "h2",
+        "text": "Pourquoi la santé féminine ?"
+      },
+      {
+        "level": "h2",
+        "text": "Se reconnecter à son cycle"
+      },
+      {
+        "level": "h2",
+        "text": "Les sujets que j’approfondis."
+      },
+      {
+        "level": "h2",
+        "text": "Une spécialisation en développement"
+      },
+      {
+        "level": "h2",
+        "text": "Prendre rendez-vous."
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/softness-1200.webp",
+        "srcset": "/images/softness-640.webp 640w, /images/softness-1200.webp 1200w",
+        "sizes": "(max-width:700px) 100vw, 45vw",
+        "width": "1200",
+        "height": "800",
+        "loading": "eager",
+        "fetchpriority": "high",
+        "decoding": "async",
+        "alt": "Lauriane au bord de la mer, les mains près du visage dans la lumière du coucher de soleil",
+        "bytes": 36192
+      }
+    ],
+    "scripts": [
+      {
+        "attrs": {
+          "type": "application/ld+json"
+        },
+        "text": "{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"Lauriane\",\"jobTitle\":\"Praticienne en acupuncture traditionnelle\",\"url\":\"https://gaiabylauriane.com/fr/a-propos/\"}"
+      },
+      {
+        "attrs": {
+          "type": "module"
+        },
+        "text": "document.addEventListener(\"keydown\",e=>{if(e.key!==\"Escape\")return;const n=[...document.querySelectorAll(\"[data-nav-disclosure][open]\")],o=document.activeElement,t=n.reverse().find(c=>o instanceof Node&&c.contains(o))||n[0];t&&(t.open=!1,t.querySelector(\":scope > summary\")?.focus(),e.preventDefault())});document.addEventListener(\"click\",e=>{e.target instanceof Node&&document.querySelectorAll(\".practice-menu[open],.mobile-nav[open]\").forEach(n=>{n.contains(e.target)||(n.open=!1)})});"
+      }
+    ],
+    "text": "Santé féminine Vivre sa féminité, pas la subir. Je développe aujourd’hui une spécialisation autour de la santé féminine, avec une envie simple : aider les femmes à mieux comprendre leur corps, leurs cycles et ce qu’ils expriment. Découvrir mon approche Pourquoi la santé féminine ? Les règles sont encore trop souvent perçues comme un fardeau. On les nomme peu, on les redoute et on cherche parfois avant tout à les faire disparaître. J’ai envie de participer à une autre manière de les regarder : reconnecter les femmes à leur cycle et leur permettre de mieux comprendre cette spécificité qui fait partie de leur fonctionnement. Comprendre ses rythmes, c’est aussi comprendre son corps et tout ce qui va avec. Se reconnecter à son cycle Nous ne fonctionnons pas de manière linéaire. Les cycles peuvent devenir une manière d’observer son corps, ses rythmes et ses changements, et un outil de compréhension de soi. Notre énergie, nos sensations et nos besoins peuvent évoluer. Les sujets que j’approfondis . Au fil de ma spécialisation, j’approfondis notamment ces grands sujets de la santé féminine. Cycle menstruel Douleurs de règles Syndrome prémenstruel Fertilité SOPK Endométriose Ménopause Une spécialisation en développement Je développe aujourd’hui cette spécialisation en continuant à me former auprès de praticiens expérimentés à l’international. Cette démarche vient enrichir ma pratique de l’acupuncture traditionnelle et ma manière d’observer les liens entre le cycle, le corps et les différents signes exprimés par chaque femme. Cette page continuera d’évoluer avec ma spécialisation, ma pratique et les contenus que je développerai autour de la santé féminine. Prendre rendez-vous . Comprendre ses rythmes, c’est aussi comprendre son corps et tout ce qui va avec. Prendre rendez-vous"
+  },
+  {
+    "route": "/fr/aculift/",
+    "lang": "fr",
+    "title": "Aculift — Approche du visage par Lauriane | GAIA",
+    "meta": {
+      "": null,
+      "viewport": "width=device-width,initial-scale=1",
+      "description": "Découvrez l’Aculift avec Lauriane : une approche personnalisée du visage inspirée de l’acupuncture traditionnelle, autour de l’éclat et de la détente des traits.",
+      "theme-color": "#FFF6CC",
+      "og:type": "website",
+      "og:site_name": "GAIA by Lauriane",
+      "og:title": "Aculift — Approche du visage par Lauriane | GAIA",
+      "og:description": "Découvrez l’Aculift avec Lauriane : une approche personnalisée du visage inspirée de l’acupuncture traditionnelle, autour de l’éclat et de la détente des traits.",
+      "og:url": "https://gaiabylauriane.com/fr/aculift/",
+      "og:locale": "fr_FR",
+      "og:image": "https://gaiabylauriane.com/images/portrait-1200.webp",
+      "og:image:alt": "Lauriane au bord de la mer au coucher du soleil",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Aculift — Approche du visage par Lauriane | GAIA",
+      "twitter:description": "Découvrez l’Aculift avec Lauriane : une approche personnalisée du visage inspirée de l’acupuncture traditionnelle, autour de l’éclat et de la détente des traits.",
+      "twitter:image": "https://gaiabylauriane.com/images/portrait-1200.webp"
+    },
+    "links": [
+      {
+        "rel": "preload",
+        "href": "/_astro/fraunces-latin-wght-normal.ukD16Tqj.woff2",
+        "as": "font",
+        "type": "font/woff2",
+        "crossorigin": "anonymous"
+      },
+      {
+        "rel": "preload",
+        "href": "/fonts/InstrumentSans-Latin-Variable.woff2",
+        "as": "font",
+        "type": "font/woff2",
+        "crossorigin": "anonymous"
+      },
+      {
+        "rel": "canonical",
+        "href": "https://gaiabylauriane.com/fr/aculift/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "fr",
+        "href": "https://gaiabylauriane.com/fr/aculift/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "en",
+        "href": "https://gaiabylauriane.com/en/aculift/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "x-default",
+        "href": "https://gaiabylauriane.com/fr/aculift/"
+      },
+      {
+        "rel": "icon",
+        "href": "/favicon.svg",
+        "type": "image/svg+xml"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "/_astro/_slug_.7UwHYl5i.css"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "/_astro/_slug_.jQSPxYXS.css"
+      },
+      {
+        "anchor": true,
+        "class": "skip",
+        "href": "#main"
+      },
+      {
+        "anchor": true,
+        "class": "mini-logo",
+        "href": "/fr/",
+        "aria-label": "GAIA by Lauriane — Accueil"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/aculift/",
+        "aria-current": "page"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/pranic-healing/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/sante-feminine/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/a-propos/"
+      },
+      {
+        "anchor": true,
+        "class": "language",
+        "href": "/en/aculift/",
+        "lang": "en",
+        "aria-label": "View this page in English"
+      },
+      {
+        "anchor": true,
+        "class": "button small",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/aculift/",
+        "aria-current": "page"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/pranic-healing/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/sante-feminine/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/a-propos/"
+      },
+      {
+        "anchor": true,
+        "class": "language mobile-language",
+        "href": "/en/aculift/",
+        "lang": "en",
+        "aria-label": "View this page in English"
+      },
+      {
+        "anchor": true,
+        "class": "button mobile-booking",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "class": "button",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "class": "text-link",
+        "href": "/fr/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "class": "button",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/contact/"
+      },
+      {
+        "anchor": true,
+        "href": "/fr/links/"
+      }
+    ],
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Aculift"
+      },
+      {
+        "level": "h2",
+        "text": "Qu’est-ce que l’Aculift ?"
+      },
+      {
+        "level": "h2",
+        "text": "Pourquoi venir ?"
+      },
+      {
+        "level": "h2",
+        "text": "Une approche personnalisée"
+      },
+      {
+        "level": "h2",
+        "text": "Comment se déroule une séance ?"
+      },
+      {
+        "level": "h3",
+        "text": "Échanger"
+      },
+      {
+        "level": "h3",
+        "text": "Adapter le soin"
+      },
+      {
+        "level": "h2",
+        "text": "Prendre rendez-vous."
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/about-portrait-1200.webp",
+        "srcset": "/images/about-portrait-640.webp 640w, /images/about-portrait-1200.webp 1200w, /images/about-portrait-1800.webp 1800w",
+        "sizes": "(max-width: 700px) 100vw, 50vw",
+        "alt": "Portrait rapproché de Lauriane dans une lumière naturelle dorée, une main près du visage",
+        "width": "1024",
+        "height": "1536",
+        "loading": "eager",
+        "fetchpriority": "high",
+        "decoding": "async",
+        "bytes": 93882
+      },
+      {
+        "src": "/images/aculift-face.webp",
+        "alt": "",
+        "width": "1024",
+        "height": "1024",
+        "loading": "lazy",
+        "decoding": "async",
+        "bytes": 96958
+      }
+    ],
+    "scripts": [
+      {
+        "attrs": {
+          "type": "application/ld+json"
+        },
+        "text": "{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"Lauriane\",\"jobTitle\":\"Praticienne en acupuncture traditionnelle\",\"url\":\"https://gaiabylauriane.com/fr/a-propos/\"}"
+      },
+      {
+        "attrs": {
+          "type": "module"
+        },
+        "text": "document.addEventListener(\"keydown\",e=>{if(e.key!==\"Escape\")return;const n=[...document.querySelectorAll(\"[data-nav-disclosure][open]\")],o=document.activeElement,t=n.reverse().find(c=>o instanceof Node&&c.contains(o))||n[0];t&&(t.open=!1,t.querySelector(\":scope > summary\")?.focus(),e.preventDefault())});document.addEventListener(\"click\",e=>{e.target instanceof Node&&document.querySelectorAll(\".practice-menu[open],.mobile-nav[open]\").forEach(n=>{n.contains(e.target)||(n.open=!1)})});"
+      }
+    ],
+    "text": "Aculift Une approche du visage inspirée de l’acupuncture traditionnelle. Un soin personnalisé autour de la tonicité, de l’éclat et de la détente des traits. Une approche naturelle, sans injection et sans médicaments. Prendre rendez-vous Qu’est-ce que l’Aculift ? L’Aculift est une approche du visage inspirée de l’acupuncture traditionnelle. De fines aiguilles sont placées sur des zones spécifiques du visage afin de travailler autour de la tonicité, de l’éclat et de la détente des traits. C’est une approche naturelle, pensée pour le visage, sans injection et sans médicaments. La séance s’adapte à ce que votre visage exprime et à vos attentes du moment. Découvrir l’acupuncture traditionnelle Pourquoi venir ? Quelques raisons pour lesquelles vous pouvez avoir envie d’explorer cette approche : Traits tirés Teint terne Tensions de la mâchoire Tensions du front Sensation de visage fatigué Envie d’une approche douce du visage Une approche personnalisée Je ne travaille pas à partir d’un protocole identique pour tous. J’observe le visage, les tensions et les zones qui semblent demander plus d’attention, puis j’adapte la séance en fonction de ce que j’observe et de vos attentes. Comment se déroule une séance ? Échanger Chaque séance commence par un court échange autour de vos attentes, de vos habitudes et de ce que votre visage exprime ce jour-là. Adapter le soin Le soin est ensuite construit avec de fines aiguilles et, selon les besoins, différentes techniques complémentaires de travail du visage. Prendre rendez-vous . Une approche naturelle du visage, inspirée de l’acupuncture traditionnelle. Prendre rendez-vous"
+  },
+  {
+    "route": "/en/",
+    "lang": "en",
+    "title": "GAIA by Lauriane — Traditional acupuncture & reconnection",
+    "meta": {
+      "": null,
+      "viewport": "width=device-width,initial-scale=1",
+      "description": "GAIA by Lauriane: traditional acupuncture, Aculift and Pranic Healing. An approach to the body rooted in connection.",
+      "theme-color": "#FFF6CC",
+      "og:type": "website",
+      "og:site_name": "GAIA by Lauriane",
+      "og:title": "GAIA by Lauriane — Traditional acupuncture & reconnection",
+      "og:description": "GAIA by Lauriane: traditional acupuncture, Aculift and Pranic Healing. An approach to the body rooted in connection.",
+      "og:url": "https://gaiabylauriane.com/en/",
+      "og:locale": "en_GB",
+      "og:image": "https://gaiabylauriane.com/images/portrait-1200.webp",
+      "og:image:alt": "Lauriane by the sea at sunset",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "GAIA by Lauriane — Traditional acupuncture & reconnection",
+      "twitter:description": "GAIA by Lauriane: traditional acupuncture, Aculift and Pranic Healing. An approach to the body rooted in connection.",
+      "twitter:image": "https://gaiabylauriane.com/images/portrait-1200.webp"
+    },
+    "links": [
+      {
+        "rel": "preload",
+        "href": "/_astro/fraunces-latin-wght-normal.ukD16Tqj.woff2",
+        "as": "font",
+        "type": "font/woff2",
+        "crossorigin": "anonymous"
+      },
+      {
+        "rel": "preload",
+        "href": "/fonts/InstrumentSans-Latin-Variable.woff2",
+        "as": "font",
+        "type": "font/woff2",
+        "crossorigin": "anonymous"
+      },
+      {
+        "rel": "canonical",
+        "href": "https://gaiabylauriane.com/en/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "fr",
+        "href": "https://gaiabylauriane.com/fr/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "en",
+        "href": "https://gaiabylauriane.com/en/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "x-default",
+        "href": "https://gaiabylauriane.com/fr/"
+      },
+      {
+        "rel": "icon",
+        "href": "/favicon.svg",
+        "type": "image/svg+xml"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "/_astro/_slug_.7UwHYl5i.css"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "/_astro/index.GkKy5q5Z.css"
+      },
+      {
+        "anchor": true,
+        "class": "skip",
+        "href": "#main"
+      },
+      {
+        "anchor": true,
+        "class": "mini-logo",
+        "href": "/en/",
+        "aria-label": "GAIA by Lauriane — Home"
+      },
+      {
+        "anchor": true,
+        "href": "/en/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/aculift/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/pranic-healing/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/womens-health/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/about/"
+      },
+      {
+        "anchor": true,
+        "class": "language",
+        "href": "/fr/",
+        "lang": "fr",
+        "aria-label": "Voir cette page en français"
+      },
+      {
+        "anchor": true,
+        "class": "button small",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/aculift/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/pranic-healing/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/womens-health/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/about/"
+      },
+      {
+        "anchor": true,
+        "class": "language mobile-language",
+        "href": "/fr/",
+        "lang": "fr",
+        "aria-label": "Voir cette page en français"
+      },
+      {
+        "anchor": true,
+        "class": "button mobile-booking",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "class": "button",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "class": "text-link",
+        "href": "/en/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "class": "text-link",
+        "href": "/en/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "class": "text-link",
+        "href": "/en/aculift/"
+      },
+      {
+        "anchor": true,
+        "class": "text-link",
+        "href": "/en/pranic-healing/"
+      },
+      {
+        "anchor": true,
+        "class": "text-link",
+        "href": "/en/womens-health/"
+      },
+      {
+        "anchor": true,
+        "class": "text-link",
+        "href": "/en/about/"
+      },
+      {
+        "anchor": true,
+        "class": "text-link",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "class": "button",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/contact/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/links/"
+      }
+    ],
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Lauriane — Traditional Acupuncture Practitioner"
+      },
+      {
+        "level": "h2",
+        "text": "Nothing works in silos."
+      },
+      {
+        "level": "h2",
+        "text": "Your system is a network."
+      },
+      {
+        "level": "h2",
+        "text": "Today, I work with you through these practices"
+      },
+      {
+        "level": "h3",
+        "text": "Traditional acupuncture"
+      },
+      {
+        "level": "h3",
+        "text": "Aculift"
+      },
+      {
+        "level": "h3",
+        "text": "Pranic Healing"
+      },
+      {
+        "level": "h2",
+        "text": "Experience your womanhood, on your own terms."
+      },
+      {
+        "level": "h2",
+        "text": "I WAS LOOKING FOR A WAY TO CONNECT THE DOTS."
+      },
+      {
+        "level": "h2",
+        "text": "Power & Softness"
+      },
+      {
+        "level": "h2",
+        "text": "The GAIA Project"
+      },
+      {
+        "level": "h2",
+        "text": "Where to find me"
+      },
+      {
+        "level": "h2",
+        "text": "RECONNECT."
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/portrait-1200.webp",
+        "srcset": "/images/portrait-640.webp 640w, /images/portrait-1200.webp 1200w, /images/portrait-1800.webp 1800w",
+        "sizes": "(max-width: 900px) 100vw, 52vw",
+        "alt": "Lauriane with her eyes closed in golden light by the sea",
+        "width": "1200",
+        "height": "1800",
+        "loading": "eager",
+        "fetchpriority": "high",
+        "decoding": "async",
+        "bytes": 100542
+      },
+      {
+        "src": "/images/hands-1200.webp",
+        "srcset": "/images/hands-640.webp 640w, /images/hands-1200.webp 1200w",
+        "sizes": "(max-width: 700px) calc(100vw - 48px), (max-width: 900px) 520px, (max-width: 1100px) calc((100vw - 144px) / 2), (max-width: 1440px) calc((100vw - 16vw) / 2), 592px",
+        "alt": "Detail of Lauriane’s joined hands with rings and a colourful bracelet",
+        "width": "1200",
+        "height": "1800",
+        "loading": "lazy",
+        "fetchpriority": "auto",
+        "decoding": "async",
+        "bytes": 102422
+      },
+      {
+        "src": "/images/movement-1200.webp",
+        "srcset": "/images/movement-640.webp 640w, /images/movement-1200.webp 1200w",
+        "sizes": "(max-width: 700px) calc(100vw - 48px), (max-width: 900px) 640px, (max-width: 1100px) calc((100vw - 144px) / 2), (max-width: 1440px) calc((100vw - 16vw) / 2), 592px",
+        "alt": "Lauriane practising yoga on a beach",
+        "width": "1200",
+        "height": "890",
+        "loading": "lazy",
+        "fetchpriority": "auto",
+        "decoding": "async",
+        "bytes": 58752
+      },
+      {
+        "class": "gaia-symbol",
+        "src": "/images/gaia-symbol.png",
+        "width": "460",
+        "height": "542",
+        "loading": "lazy",
+        "decoding": "async",
+        "alt": "GAIA symbol: an intertwined sun and moon",
+        "bytes": 94106
+      }
+    ],
+    "scripts": [
+      {
+        "attrs": {
+          "type": "application/ld+json"
+        },
+        "text": "{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"Lauriane\",\"jobTitle\":\"Traditional Acupuncture Practitioner\",\"url\":\"https://gaiabylauriane.com/en/about/\"}"
+      },
+      {
+        "attrs": {},
+        "text": "\nconst gaiaPhotoOption = new URLSearchParams(window.location.search).get('hero');\nif (gaiaPhotoOption === 'organic') document.querySelector('.gaia-home').dataset.heroPhoto = 'organic';\nconst gaiaMenu = document.querySelector('.mobile-nav');\ngaiaMenu?.addEventListener('keydown', event => {\n  if (event.key === 'Escape' && gaiaMenu.open) {\n    gaiaMenu.open = false;\n    gaiaMenu.querySelector('summary').focus();\n  }\n});\n"
+      },
+      {
+        "attrs": {
+          "type": "module"
+        },
+        "text": "document.addEventListener(\"keydown\",e=>{if(e.key!==\"Escape\")return;const n=[...document.querySelectorAll(\"[data-nav-disclosure][open]\")],o=document.activeElement,t=n.reverse().find(c=>o instanceof Node&&c.contains(o))||n[0];t&&(t.open=!1,t.querySelector(\":scope > summary\")?.focus(),e.preventDefault())});document.addEventListener(\"click\",e=>{e.target instanceof Node&&document.querySelectorAll(\".practice-menu[open],.mobile-nav[open]\").forEach(n=>{n.contains(e.target)||(n.open=!1)})});"
+      }
+    ],
+    "text": "Gaia by Lauriane Reconnect with what has always been there. Lauriane — Traditional Acupuncture Practitioner Acupuncture · Aculift · Pranic Healing Book an appointment NOTHING WORKS IN SILOS NOTHING WORKS IN SILOS The body is not a collection of independent parts. Everything communicates. Everything influences everything else. This idea guides the way I practise acupuncture and sits at the heart of GAIA. GAIA creates spaces to better understand yourself, understand these connections, and reconnect with what has always been there. Nothing works in silos. Your system is a network. When I explain acupuncture, I often compare it to the Paris transport map. There are several lines, several paths, several ways to connect one point to another. Sometimes a route is blocked. You need to understand the network as a whole to find another way through. This logic of connection and circulation is what fascinates me about acupuncture. Explore my approach Body Mind Emotions Today, I work with you through these practices Traditional acupuncture Understand, connect, redirect. Explore — Traditional acupuncture Aculift A facial approach inspired by traditional acupuncture. Explore — Aculift Pranic Healing A complementary energy practice. Explore — Pranic Healing Experience your womanhood , on your own terms. I am currently developing a specialisation in women’s health. Because I cannot accept that so many women still see their periods as a burden and their pain as inevitable. The cycle is also a powerful way to learn to observe your body, its rhythms and its changes . The body speaks to us, and menstrual cycles are a remarkable tool for understanding it. Explore my approach to women’s health I WAS LOOKING FOR A WAY TO CONNECT THE DOTS. My path has never really been linear. I started with a fairly conventional route: preparatory classes, business school, a permanent job — the whole package. Then, during my exchange semester in Hong Kong, I had the chance to travel. One trip to Singapore especially stays with me. The morning after a rather lively night out, while my friends were still asleep, I went to explore the city with my camera in hand. One thing led to another: I found myself in the Indian quarter, right in the middle of a “pooja”, a religious ceremony. I felt like a child, fascinated and open-mouthed at the colours, the scents and the devotion I saw around me. I knew I would go to India. A week later, I was on my way. Some time later, what was meant to be a short stay in an ashram turned into several months. Yoga became a daily practice and made me want to explore the connections between body and mind further. Long story short, I then crossed paths with an acupuncturist who recommended the school where I trained. That is where many things began to connect. Explore my story Power & Softness GAIA grew out of a duality that speaks deeply to me: power and softness. Yin and Yang. Shiva and Shakti. Ha and Tha. The sun and the moon. Forces that may seem opposed, yet only fully exist in relation to one another. This is also what the GAIA symbol represents: a sun and a moon intertwined. The GAIA Project Today, GAIA is taking shape around my practice. The idea is to grow it into something broader tomorrow: a place where different disciplines and worlds can converse and work together; a space that helps each person take a more active role in their health and balance. GAIA creates spaces for reconnection. GAIA creates spaces for reconnection. GAIA creates spaces for reconnection. Where to find me Paris · Val-d’Oise · Goa My consultation locations change with my periods of presence and collaborations. You will find my current availability and consultation locations here. View my availability RECONNECT . Book an appointment Reconnect with what has always been there."
+  },
+  {
+    "route": "/en/journal/",
+    "lang": "en",
+    "title": "Journal — GAIA by Lauriane",
+    "meta": {
+      "": null,
+      "viewport": "width=device-width,initial-scale=1",
+      "description": "The future GAIA Journal: acupuncture, women’s health, body, energy and reconnection.",
+      "theme-color": "#FFF6CC",
+      "og:type": "website",
+      "og:site_name": "GAIA by Lauriane",
+      "og:title": "Journal — GAIA by Lauriane",
+      "og:description": "The future GAIA Journal: acupuncture, women’s health, body, energy and reconnection.",
+      "og:url": "https://gaiabylauriane.com/en/journal/",
+      "og:locale": "en_GB",
+      "og:image": "https://gaiabylauriane.com/images/portrait-1200.webp",
+      "og:image:alt": "Lauriane by the sea at sunset",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Journal — GAIA by Lauriane",
+      "twitter:description": "The future GAIA Journal: acupuncture, women’s health, body, energy and reconnection.",
+      "twitter:image": "https://gaiabylauriane.com/images/portrait-1200.webp"
+    },
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://gaiabylauriane.com/en/journal/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "fr",
+        "href": "https://gaiabylauriane.com/fr/journal/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "en",
+        "href": "https://gaiabylauriane.com/en/journal/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "x-default",
+        "href": "https://gaiabylauriane.com/fr/journal/"
+      },
+      {
+        "rel": "icon",
+        "href": "/favicon.svg",
+        "type": "image/svg+xml"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "/_astro/_slug_.7UwHYl5i.css"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "/_astro/_slug_.jQSPxYXS.css"
+      },
+      {
+        "anchor": true,
+        "class": "skip",
+        "href": "#main"
+      },
+      {
+        "anchor": true,
+        "class": "mini-logo",
+        "href": "/en/",
+        "aria-label": "GAIA by Lauriane — Home"
+      },
+      {
+        "anchor": true,
+        "href": "/en/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/aculift/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/pranic-healing/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/womens-health/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/about/"
+      },
+      {
+        "anchor": true,
+        "class": "language",
+        "href": "/fr/journal/",
+        "lang": "fr",
+        "aria-label": "Voir cette page en français"
+      },
+      {
+        "anchor": true,
+        "class": "button small",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/aculift/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/pranic-healing/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/womens-health/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/about/"
+      },
+      {
+        "anchor": true,
+        "class": "language mobile-language",
+        "href": "/fr/journal/",
+        "lang": "fr",
+        "aria-label": "Voir cette page en français"
+      },
+      {
+        "anchor": true,
+        "class": "button mobile-booking",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/contact/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/links/"
+      }
+    ],
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Journal"
+      },
+      {
+        "level": "h2",
+        "text": "The Journal is taking shape."
+      }
+    ],
+    "images": [],
+    "scripts": [
+      {
+        "attrs": {
+          "type": "application/ld+json"
+        },
+        "text": "{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"Lauriane\",\"jobTitle\":\"Traditional Acupuncture Practitioner\",\"url\":\"https://gaiabylauriane.com/en/about/\"}"
+      },
+      {
+        "attrs": {
+          "type": "module"
+        },
+        "text": "document.addEventListener(\"keydown\",e=>{if(e.key!==\"Escape\")return;const n=[...document.querySelectorAll(\"[data-nav-disclosure][open]\")],o=document.activeElement,t=n.reverse().find(c=>o instanceof Node&&c.contains(o))||n[0];t&&(t.open=!1,t.querySelector(\":scope > summary\")?.focus(),e.preventDefault())});document.addEventListener(\"click\",e=>{e.target instanceof Node&&document.querySelectorAll(\".practice-menu[open],.mobile-nav[open]\").forEach(n=>{n.contains(e.target)||(n.open=!1)})});"
+      }
+    ],
+    "text": "GAIA by Lauriane / Journal Journal Ideas that connect. Acupuncture Women’s health Body & Energy Reconnection The Journal is taking shape. The first articles will appear here. Come back soon to explore connections between the body, energy and everyday life."
+  },
+  {
+    "route": "/en/contact/",
+    "lang": "en",
+    "title": "Contact — GAIA by Lauriane",
+    "meta": {
+      "": null,
+      "viewport": "width=device-width,initial-scale=1",
+      "description": "Plan a meeting with Lauriane and find GAIA appointment information.",
+      "theme-color": "#FFF6CC",
+      "og:type": "website",
+      "og:site_name": "GAIA by Lauriane",
+      "og:title": "Contact — GAIA by Lauriane",
+      "og:description": "Plan a meeting with Lauriane and find GAIA appointment information.",
+      "og:url": "https://gaiabylauriane.com/en/contact/",
+      "og:locale": "en_GB",
+      "og:image": "https://gaiabylauriane.com/images/portrait-1200.webp",
+      "og:image:alt": "Lauriane by the sea at sunset",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Contact — GAIA by Lauriane",
+      "twitter:description": "Plan a meeting with Lauriane and find GAIA appointment information.",
+      "twitter:image": "https://gaiabylauriane.com/images/portrait-1200.webp"
+    },
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://gaiabylauriane.com/en/contact/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "fr",
+        "href": "https://gaiabylauriane.com/fr/contact/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "en",
+        "href": "https://gaiabylauriane.com/en/contact/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "x-default",
+        "href": "https://gaiabylauriane.com/fr/contact/"
+      },
+      {
+        "rel": "icon",
+        "href": "/favicon.svg",
+        "type": "image/svg+xml"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "/_astro/_slug_.7UwHYl5i.css"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "/_astro/_slug_.jQSPxYXS.css"
+      },
+      {
+        "anchor": true,
+        "class": "skip",
+        "href": "#main"
+      },
+      {
+        "anchor": true,
+        "class": "mini-logo",
+        "href": "/en/",
+        "aria-label": "GAIA by Lauriane — Home"
+      },
+      {
+        "anchor": true,
+        "href": "/en/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/aculift/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/pranic-healing/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/womens-health/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/about/"
+      },
+      {
+        "anchor": true,
+        "class": "language",
+        "href": "/fr/contact/",
+        "lang": "fr",
+        "aria-label": "Voir cette page en français"
+      },
+      {
+        "anchor": true,
+        "class": "button small",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/aculift/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/pranic-healing/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/womens-health/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/about/"
+      },
+      {
+        "anchor": true,
+        "class": "language mobile-language",
+        "href": "/fr/contact/",
+        "lang": "fr",
+        "aria-label": "Voir cette page en français"
+      },
+      {
+        "anchor": true,
+        "class": "button mobile-booking",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/contact/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/links/"
+      }
+    ],
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Let’s begin with a conversation."
+      },
+      {
+        "level": "h2",
+        "text": "Details coming soon"
+      }
+    ],
+    "images": [],
+    "scripts": [
+      {
+        "attrs": {
+          "type": "application/ld+json"
+        },
+        "text": "{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"Lauriane\",\"jobTitle\":\"Traditional Acupuncture Practitioner\",\"url\":\"https://gaiabylauriane.com/en/about/\"}"
+      },
+      {
+        "attrs": {
+          "type": "module"
+        },
+        "text": "document.addEventListener(\"keydown\",e=>{if(e.key!==\"Escape\")return;const n=[...document.querySelectorAll(\"[data-nav-disclosure][open]\")],o=document.activeElement,t=n.reverse().find(c=>o instanceof Node&&c.contains(o))||n[0];t&&(t.open=!1,t.querySelector(\":scope > summary\")?.focus(),e.preventDefault())});document.addEventListener(\"click\",e=>{e.target instanceof Node&&document.querySelectorAll(\".practice-menu[open],.mobile-nav[open]\").forEach(n=>{n.contains(e.target)||(n.open=!1)})});"
+      }
+    ],
+    "text": "GAIA by Lauriane / Contact Let’s begin with a conversation. Plan a meeting with Lauriane and find GAIA appointment information. Details coming soon Contact details, the booking link and practice dates have not yet been confirmed for the website. They will be added here before the public launch. Paris · Val-d’Oise · Goa: locations will be specified according to confirmed dates and collaborations."
+  },
+  {
+    "route": "/en/acupuncture/",
+    "lang": "en",
+    "title": "Acupuncture — GAIA by Lauriane",
+    "meta": {
+      "": null,
+      "viewport": "width=device-width,initial-scale=1",
+      "description": "Explore Lauriane’s approach to traditional acupuncture: listening, connecting and finding pathways.",
+      "theme-color": "#FFF6CC",
+      "og:type": "website",
+      "og:site_name": "GAIA by Lauriane",
+      "og:title": "Acupuncture — GAIA by Lauriane",
+      "og:description": "Explore Lauriane’s approach to traditional acupuncture: listening, connecting and finding pathways.",
+      "og:url": "https://gaiabylauriane.com/en/acupuncture/",
+      "og:locale": "en_GB",
+      "og:image": "https://gaiabylauriane.com/images/portrait-1200.webp",
+      "og:image:alt": "Lauriane by the sea at sunset",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Acupuncture — GAIA by Lauriane",
+      "twitter:description": "Explore Lauriane’s approach to traditional acupuncture: listening, connecting and finding pathways.",
+      "twitter:image": "https://gaiabylauriane.com/images/portrait-1200.webp"
+    },
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://gaiabylauriane.com/en/acupuncture/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "fr",
+        "href": "https://gaiabylauriane.com/fr/acupuncture/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "en",
+        "href": "https://gaiabylauriane.com/en/acupuncture/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "x-default",
+        "href": "https://gaiabylauriane.com/fr/acupuncture/"
+      },
+      {
+        "rel": "icon",
+        "href": "/favicon.svg",
+        "type": "image/svg+xml"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "/_astro/_slug_.7UwHYl5i.css"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "/_astro/_slug_.jQSPxYXS.css"
+      },
+      {
+        "anchor": true,
+        "class": "skip",
+        "href": "#main"
+      },
+      {
+        "anchor": true,
+        "class": "mini-logo",
+        "href": "/en/",
+        "aria-label": "GAIA by Lauriane — Home"
+      },
+      {
+        "anchor": true,
+        "href": "/en/acupuncture/",
+        "aria-current": "page"
+      },
+      {
+        "anchor": true,
+        "href": "/en/aculift/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/pranic-healing/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/womens-health/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/about/"
+      },
+      {
+        "anchor": true,
+        "class": "language",
+        "href": "/fr/acupuncture/",
+        "lang": "fr",
+        "aria-label": "Voir cette page en français"
+      },
+      {
+        "anchor": true,
+        "class": "button small",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/acupuncture/",
+        "aria-current": "page"
+      },
+      {
+        "anchor": true,
+        "href": "/en/aculift/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/pranic-healing/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/womens-health/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/about/"
+      },
+      {
+        "anchor": true,
+        "class": "language mobile-language",
+        "href": "/fr/acupuncture/",
+        "lang": "fr",
+        "aria-label": "Voir cette page en français"
+      },
+      {
+        "anchor": true,
+        "class": "button mobile-booking",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "class": "text-link",
+        "href": "/en/"
+      },
+      {
+        "anchor": true,
+        "class": "button",
+        "style": "margin-top:2rem",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/contact/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/links/"
+      }
+    ],
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Acupuncture"
+      }
+    ],
+    "images": [],
+    "scripts": [
+      {
+        "attrs": {
+          "type": "application/ld+json"
+        },
+        "text": "{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"Lauriane\",\"jobTitle\":\"Traditional Acupuncture Practitioner\",\"url\":\"https://gaiabylauriane.com/en/about/\"}"
+      },
+      {
+        "attrs": {
+          "type": "module"
+        },
+        "text": "document.addEventListener(\"keydown\",e=>{if(e.key!==\"Escape\")return;const n=[...document.querySelectorAll(\"[data-nav-disclosure][open]\")],o=document.activeElement,t=n.reverse().find(c=>o instanceof Node&&c.contains(o))||n[0];t&&(t.open=!1,t.querySelector(\":scope > summary\")?.focus(),e.preventDefault())});document.addEventListener(\"click\",e=>{e.target instanceof Node&&document.querySelectorAll(\".practice-menu[open],.mobile-nav[open]\").forEach(n=>{n.contains(e.target)||(n.open=!1)})});"
+      }
+    ],
+    "text": "GAIA by Lauriane / Acupuncture Acupuncture Understand, connect, redirect. Explore Lauriane’s approach to traditional acupuncture: listening, connecting and finding pathways. This page will be developed with Lauriane in the next stage. You can already explore the approach on the homepage. Explore GAIA Book an appointment"
+  },
+  {
+    "route": "/en/about/",
+    "lang": "en",
+    "title": "Lauriane — GAIA by Lauriane",
+    "meta": {
+      "": null,
+      "viewport": "width=device-width,initial-scale=1",
+      "description": "Lauriane’s path from solar energy to acupuncture, through India, yoga and a search for connection.",
+      "theme-color": "#FFF6CC",
+      "og:type": "website",
+      "og:site_name": "GAIA by Lauriane",
+      "og:title": "Lauriane — GAIA by Lauriane",
+      "og:description": "Lauriane’s path from solar energy to acupuncture, through India, yoga and a search for connection.",
+      "og:url": "https://gaiabylauriane.com/en/about/",
+      "og:locale": "en_GB",
+      "og:image": "https://gaiabylauriane.com/images/portrait-1200.webp",
+      "og:image:alt": "Lauriane by the sea at sunset",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Lauriane — GAIA by Lauriane",
+      "twitter:description": "Lauriane’s path from solar energy to acupuncture, through India, yoga and a search for connection.",
+      "twitter:image": "https://gaiabylauriane.com/images/portrait-1200.webp"
+    },
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://gaiabylauriane.com/en/about/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "fr",
+        "href": "https://gaiabylauriane.com/fr/a-propos/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "en",
+        "href": "https://gaiabylauriane.com/en/about/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "x-default",
+        "href": "https://gaiabylauriane.com/fr/a-propos/"
+      },
+      {
+        "rel": "icon",
+        "href": "/favicon.svg",
+        "type": "image/svg+xml"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "/_astro/_slug_.7UwHYl5i.css"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "/_astro/_slug_.jQSPxYXS.css"
+      },
+      {
+        "anchor": true,
+        "class": "skip",
+        "href": "#main"
+      },
+      {
+        "anchor": true,
+        "class": "mini-logo",
+        "href": "/en/",
+        "aria-label": "GAIA by Lauriane — Home"
+      },
+      {
+        "anchor": true,
+        "href": "/en/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/aculift/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/pranic-healing/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/womens-health/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/about/",
+        "aria-current": "page"
+      },
+      {
+        "anchor": true,
+        "class": "language",
+        "href": "/fr/a-propos/",
+        "lang": "fr",
+        "aria-label": "Voir cette page en français"
+      },
+      {
+        "anchor": true,
+        "class": "button small",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/aculift/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/pranic-healing/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/womens-health/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/about/",
+        "aria-current": "page"
+      },
+      {
+        "anchor": true,
+        "class": "language mobile-language",
+        "href": "/fr/a-propos/",
+        "lang": "fr",
+        "aria-label": "Voir cette page en français"
+      },
+      {
+        "anchor": true,
+        "class": "button mobile-booking",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "class": "text-link",
+        "href": "/en/"
+      },
+      {
+        "anchor": true,
+        "class": "button",
+        "style": "margin-top:2rem",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/contact/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/links/"
+      }
+    ],
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Lauriane"
+      }
+    ],
+    "images": [],
+    "scripts": [
+      {
+        "attrs": {
+          "type": "application/ld+json"
+        },
+        "text": "{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"Lauriane\",\"jobTitle\":\"Traditional Acupuncture Practitioner\",\"url\":\"https://gaiabylauriane.com/en/about/\"}"
+      },
+      {
+        "attrs": {
+          "type": "module"
+        },
+        "text": "document.addEventListener(\"keydown\",e=>{if(e.key!==\"Escape\")return;const n=[...document.querySelectorAll(\"[data-nav-disclosure][open]\")],o=document.activeElement,t=n.reverse().find(c=>o instanceof Node&&c.contains(o))||n[0];t&&(t.open=!1,t.querySelector(\":scope > summary\")?.focus(),e.preventDefault())});document.addEventListener(\"click\",e=>{e.target instanceof Node&&document.querySelectorAll(\".practice-menu[open],.mobile-nav[open]\").forEach(n=>{n.contains(e.target)||(n.open=!1)})});"
+      }
+    ],
+    "text": "GAIA by Lauriane / Lauriane Lauriane I was looking for a way to connect the dots. Lauriane’s path from solar energy to acupuncture, through India, yoga and a search for connection. This page will be developed with Lauriane in the next stage. You can already explore the approach on the homepage. Explore GAIA Book an appointment"
+  },
+  {
+    "route": "/en/links/",
+    "lang": "en",
+    "title": "Links — GAIA by Lauriane",
+    "meta": {
+      "": null,
+      "viewport": "width=device-width,initial-scale=1",
+      "description": "Find GAIA by Lauriane’s practices, Journal and appointment information.",
+      "theme-color": "#FFF6CC",
+      "og:type": "website",
+      "og:site_name": "GAIA by Lauriane",
+      "og:title": "Links — GAIA by Lauriane",
+      "og:description": "Find GAIA by Lauriane’s practices, Journal and appointment information.",
+      "og:url": "https://gaiabylauriane.com/en/links/",
+      "og:locale": "en_GB",
+      "og:image": "https://gaiabylauriane.com/images/portrait-1200.webp",
+      "og:image:alt": "Lauriane by the sea at sunset",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Links — GAIA by Lauriane",
+      "twitter:description": "Find GAIA by Lauriane’s practices, Journal and appointment information.",
+      "twitter:image": "https://gaiabylauriane.com/images/portrait-1200.webp"
+    },
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://gaiabylauriane.com/en/links/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "fr",
+        "href": "https://gaiabylauriane.com/fr/links/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "en",
+        "href": "https://gaiabylauriane.com/en/links/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "x-default",
+        "href": "https://gaiabylauriane.com/fr/links/"
+      },
+      {
+        "rel": "icon",
+        "href": "/favicon.svg",
+        "type": "image/svg+xml"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "/_astro/_slug_.7UwHYl5i.css"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "/_astro/_slug_.jQSPxYXS.css"
+      },
+      {
+        "anchor": true,
+        "class": "skip",
+        "href": "#main"
+      },
+      {
+        "anchor": true,
+        "class": "mini-logo",
+        "href": "/en/",
+        "aria-label": "GAIA by Lauriane — Home"
+      },
+      {
+        "anchor": true,
+        "href": "/en/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/aculift/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/pranic-healing/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/womens-health/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/about/"
+      },
+      {
+        "anchor": true,
+        "class": "language",
+        "href": "/fr/links/",
+        "lang": "fr",
+        "aria-label": "Voir cette page en français"
+      },
+      {
+        "anchor": true,
+        "class": "button small",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/aculift/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/pranic-healing/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/womens-health/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/about/"
+      },
+      {
+        "anchor": true,
+        "class": "language mobile-language",
+        "href": "/fr/links/",
+        "lang": "fr",
+        "aria-label": "Voir cette page en français"
+      },
+      {
+        "anchor": true,
+        "class": "button mobile-booking",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "class": "button",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "class": "button",
+        "href": "/en/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "class": "button",
+        "href": "/en/womens-health/"
+      },
+      {
+        "anchor": true,
+        "class": "button",
+        "href": "/en/about/"
+      },
+      {
+        "anchor": true,
+        "class": "button",
+        "href": "/en/journal/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/contact/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/links/"
+      }
+    ],
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Gaia"
+      }
+    ],
+    "images": [],
+    "scripts": [
+      {
+        "attrs": {
+          "type": "application/ld+json"
+        },
+        "text": "{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"Lauriane\",\"jobTitle\":\"Traditional Acupuncture Practitioner\",\"url\":\"https://gaiabylauriane.com/en/about/\"}"
+      },
+      {
+        "attrs": {
+          "type": "module"
+        },
+        "text": "document.addEventListener(\"keydown\",e=>{if(e.key!==\"Escape\")return;const n=[...document.querySelectorAll(\"[data-nav-disclosure][open]\")],o=document.activeElement,t=n.reverse().find(c=>o instanceof Node&&c.contains(o))||n[0];t&&(t.open=!1,t.querySelector(\":scope > summary\")?.focus(),e.preventDefault())});document.addEventListener(\"click\",e=>{e.target instanceof Node&&document.querySelectorAll(\".practice-menu[open],.mobile-nav[open]\").forEach(n=>{n.contains(e.target)||(n.open=!1)})});"
+      }
+    ],
+    "text": "GAIA by Lauriane / Links Gaia Reconnect with what has always been there. Book an appointment Acupuncture Women’s health Lauriane Journal"
+  },
+  {
+    "route": "/en/womens-health/",
+    "lang": "en",
+    "title": "Women’s health — GAIA by Lauriane",
+    "meta": {
+      "": null,
+      "viewport": "width=device-width,initial-scale=1",
+      "description": "GAIA’s perspective on women’s health and the training Lauriane is currently deepening.",
+      "theme-color": "#FFF6CC",
+      "og:type": "website",
+      "og:site_name": "GAIA by Lauriane",
+      "og:title": "Women’s health — GAIA by Lauriane",
+      "og:description": "GAIA’s perspective on women’s health and the training Lauriane is currently deepening.",
+      "og:url": "https://gaiabylauriane.com/en/womens-health/",
+      "og:locale": "en_GB",
+      "og:image": "https://gaiabylauriane.com/images/portrait-1200.webp",
+      "og:image:alt": "Lauriane by the sea at sunset",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Women’s health — GAIA by Lauriane",
+      "twitter:description": "GAIA’s perspective on women’s health and the training Lauriane is currently deepening.",
+      "twitter:image": "https://gaiabylauriane.com/images/portrait-1200.webp"
+    },
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://gaiabylauriane.com/en/womens-health/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "fr",
+        "href": "https://gaiabylauriane.com/fr/sante-feminine/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "en",
+        "href": "https://gaiabylauriane.com/en/womens-health/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "x-default",
+        "href": "https://gaiabylauriane.com/fr/sante-feminine/"
+      },
+      {
+        "rel": "icon",
+        "href": "/favicon.svg",
+        "type": "image/svg+xml"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "/_astro/_slug_.7UwHYl5i.css"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "/_astro/_slug_.jQSPxYXS.css"
+      },
+      {
+        "anchor": true,
+        "class": "skip",
+        "href": "#main"
+      },
+      {
+        "anchor": true,
+        "class": "mini-logo",
+        "href": "/en/",
+        "aria-label": "GAIA by Lauriane — Home"
+      },
+      {
+        "anchor": true,
+        "href": "/en/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/aculift/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/pranic-healing/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/womens-health/",
+        "aria-current": "page"
+      },
+      {
+        "anchor": true,
+        "href": "/en/about/"
+      },
+      {
+        "anchor": true,
+        "class": "language",
+        "href": "/fr/sante-feminine/",
+        "lang": "fr",
+        "aria-label": "Voir cette page en français"
+      },
+      {
+        "anchor": true,
+        "class": "button small",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/aculift/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/pranic-healing/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/womens-health/",
+        "aria-current": "page"
+      },
+      {
+        "anchor": true,
+        "href": "/en/about/"
+      },
+      {
+        "anchor": true,
+        "class": "language mobile-language",
+        "href": "/fr/sante-feminine/",
+        "lang": "fr",
+        "aria-label": "Voir cette page en français"
+      },
+      {
+        "anchor": true,
+        "class": "button mobile-booking",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "class": "text-link",
+        "href": "/en/"
+      },
+      {
+        "anchor": true,
+        "class": "button",
+        "style": "margin-top:2rem",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/contact/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/links/"
+      }
+    ],
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Women’s health"
+      }
+    ],
+    "images": [],
+    "scripts": [
+      {
+        "attrs": {
+          "type": "application/ld+json"
+        },
+        "text": "{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"Lauriane\",\"jobTitle\":\"Traditional Acupuncture Practitioner\",\"url\":\"https://gaiabylauriane.com/en/about/\"}"
+      },
+      {
+        "attrs": {
+          "type": "module"
+        },
+        "text": "document.addEventListener(\"keydown\",e=>{if(e.key!==\"Escape\")return;const n=[...document.querySelectorAll(\"[data-nav-disclosure][open]\")],o=document.activeElement,t=n.reverse().find(c=>o instanceof Node&&c.contains(o))||n[0];t&&(t.open=!1,t.querySelector(\":scope > summary\")?.focus(),e.preventDefault())});document.addEventListener(\"click\",e=>{e.target instanceof Node&&document.querySelectorAll(\".practice-menu[open],.mobile-nav[open]\").forEach(n=>{n.contains(e.target)||(n.open=!1)})});"
+      }
+    ],
+    "text": "GAIA by Lauriane / Women’s health Women’s health Your body. Your rhythm. Your experience. GAIA’s perspective on women’s health and the training Lauriane is currently deepening. This page will be developed with Lauriane in the next stage. You can already explore the approach on the homepage. Explore GAIA Book an appointment"
+  },
+  {
+    "route": "/en/pranic-healing/",
+    "lang": "en",
+    "title": "Pranic Healing — GAIA by Lauriane",
+    "meta": {
+      "": null,
+      "viewport": "width=device-width,initial-scale=1",
+      "description": "Explore Pranic Healing, a complementary energy practice offered by Lauriane.",
+      "theme-color": "#FFF6CC",
+      "og:type": "website",
+      "og:site_name": "GAIA by Lauriane",
+      "og:title": "Pranic Healing — GAIA by Lauriane",
+      "og:description": "Explore Pranic Healing, a complementary energy practice offered by Lauriane.",
+      "og:url": "https://gaiabylauriane.com/en/pranic-healing/",
+      "og:locale": "en_GB",
+      "og:image": "https://gaiabylauriane.com/images/portrait-1200.webp",
+      "og:image:alt": "Lauriane by the sea at sunset",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Pranic Healing — GAIA by Lauriane",
+      "twitter:description": "Explore Pranic Healing, a complementary energy practice offered by Lauriane.",
+      "twitter:image": "https://gaiabylauriane.com/images/portrait-1200.webp"
+    },
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://gaiabylauriane.com/en/pranic-healing/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "fr",
+        "href": "https://gaiabylauriane.com/fr/pranic-healing/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "en",
+        "href": "https://gaiabylauriane.com/en/pranic-healing/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "x-default",
+        "href": "https://gaiabylauriane.com/fr/pranic-healing/"
+      },
+      {
+        "rel": "icon",
+        "href": "/favicon.svg",
+        "type": "image/svg+xml"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "/_astro/_slug_.7UwHYl5i.css"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "/_astro/_slug_.jQSPxYXS.css"
+      },
+      {
+        "anchor": true,
+        "class": "skip",
+        "href": "#main"
+      },
+      {
+        "anchor": true,
+        "class": "mini-logo",
+        "href": "/en/",
+        "aria-label": "GAIA by Lauriane — Home"
+      },
+      {
+        "anchor": true,
+        "href": "/en/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/aculift/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/pranic-healing/",
+        "aria-current": "page"
+      },
+      {
+        "anchor": true,
+        "href": "/en/womens-health/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/about/"
+      },
+      {
+        "anchor": true,
+        "class": "language",
+        "href": "/fr/pranic-healing/",
+        "lang": "fr",
+        "aria-label": "Voir cette page en français"
+      },
+      {
+        "anchor": true,
+        "class": "button small",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/aculift/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/pranic-healing/",
+        "aria-current": "page"
+      },
+      {
+        "anchor": true,
+        "href": "/en/womens-health/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/about/"
+      },
+      {
+        "anchor": true,
+        "class": "language mobile-language",
+        "href": "/fr/pranic-healing/",
+        "lang": "fr",
+        "aria-label": "Voir cette page en français"
+      },
+      {
+        "anchor": true,
+        "class": "button mobile-booking",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "class": "text-link",
+        "href": "/en/"
+      },
+      {
+        "anchor": true,
+        "class": "button",
+        "style": "margin-top:2rem",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/contact/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/links/"
+      }
+    ],
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Pranic Healing"
+      }
+    ],
+    "images": [],
+    "scripts": [
+      {
+        "attrs": {
+          "type": "application/ld+json"
+        },
+        "text": "{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"Lauriane\",\"jobTitle\":\"Traditional Acupuncture Practitioner\",\"url\":\"https://gaiabylauriane.com/en/about/\"}"
+      },
+      {
+        "attrs": {
+          "type": "module"
+        },
+        "text": "document.addEventListener(\"keydown\",e=>{if(e.key!==\"Escape\")return;const n=[...document.querySelectorAll(\"[data-nav-disclosure][open]\")],o=document.activeElement,t=n.reverse().find(c=>o instanceof Node&&c.contains(o))||n[0];t&&(t.open=!1,t.querySelector(\":scope > summary\")?.focus(),e.preventDefault())});document.addEventListener(\"click\",e=>{e.target instanceof Node&&document.querySelectorAll(\".practice-menu[open],.mobile-nav[open]\").forEach(n=>{n.contains(e.target)||(n.open=!1)})});"
+      }
+    ],
+    "text": "GAIA by Lauriane / Pranic Healing Pranic Healing Another way to listen to connection. Explore Pranic Healing, a complementary energy practice offered by Lauriane. This page will be developed with Lauriane in the next stage. You can already explore the approach on the homepage. Explore GAIA Book an appointment"
+  },
+  {
+    "route": "/en/aculift/",
+    "lang": "en",
+    "title": "Aculift — GAIA by Lauriane",
+    "meta": {
+      "": null,
+      "viewport": "width=device-width,initial-scale=1",
+      "description": "Explore Aculift, a facial approach inspired by traditional acupuncture, with Lauriane.",
+      "theme-color": "#FFF6CC",
+      "og:type": "website",
+      "og:site_name": "GAIA by Lauriane",
+      "og:title": "Aculift — GAIA by Lauriane",
+      "og:description": "Explore Aculift, a facial approach inspired by traditional acupuncture, with Lauriane.",
+      "og:url": "https://gaiabylauriane.com/en/aculift/",
+      "og:locale": "en_GB",
+      "og:image": "https://gaiabylauriane.com/images/portrait-1200.webp",
+      "og:image:alt": "Lauriane by the sea at sunset",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Aculift — GAIA by Lauriane",
+      "twitter:description": "Explore Aculift, a facial approach inspired by traditional acupuncture, with Lauriane.",
+      "twitter:image": "https://gaiabylauriane.com/images/portrait-1200.webp"
+    },
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://gaiabylauriane.com/en/aculift/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "fr",
+        "href": "https://gaiabylauriane.com/fr/aculift/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "en",
+        "href": "https://gaiabylauriane.com/en/aculift/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "x-default",
+        "href": "https://gaiabylauriane.com/fr/aculift/"
+      },
+      {
+        "rel": "icon",
+        "href": "/favicon.svg",
+        "type": "image/svg+xml"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "/_astro/_slug_.7UwHYl5i.css"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "/_astro/_slug_.jQSPxYXS.css"
+      },
+      {
+        "anchor": true,
+        "class": "skip",
+        "href": "#main"
+      },
+      {
+        "anchor": true,
+        "class": "mini-logo",
+        "href": "/en/",
+        "aria-label": "GAIA by Lauriane — Home"
+      },
+      {
+        "anchor": true,
+        "href": "/en/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/aculift/",
+        "aria-current": "page"
+      },
+      {
+        "anchor": true,
+        "href": "/en/pranic-healing/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/womens-health/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/about/"
+      },
+      {
+        "anchor": true,
+        "class": "language",
+        "href": "/fr/aculift/",
+        "lang": "fr",
+        "aria-label": "Voir cette page en français"
+      },
+      {
+        "anchor": true,
+        "class": "button small",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/acupuncture/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/aculift/",
+        "aria-current": "page"
+      },
+      {
+        "anchor": true,
+        "href": "/en/pranic-healing/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/womens-health/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/about/"
+      },
+      {
+        "anchor": true,
+        "class": "language mobile-language",
+        "href": "/fr/aculift/",
+        "lang": "fr",
+        "aria-label": "Voir cette page en français"
+      },
+      {
+        "anchor": true,
+        "class": "button mobile-booking",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "class": "text-link",
+        "href": "/en/"
+      },
+      {
+        "anchor": true,
+        "class": "button",
+        "style": "margin-top:2rem",
+        "href": "/prendre-rendez-vous/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/contact/"
+      },
+      {
+        "anchor": true,
+        "href": "/en/links/"
+      }
+    ],
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Aculift"
+      }
+    ],
+    "images": [],
+    "scripts": [
+      {
+        "attrs": {
+          "type": "application/ld+json"
+        },
+        "text": "{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"Lauriane\",\"jobTitle\":\"Traditional Acupuncture Practitioner\",\"url\":\"https://gaiabylauriane.com/en/about/\"}"
+      },
+      {
+        "attrs": {
+          "type": "module"
+        },
+        "text": "document.addEventListener(\"keydown\",e=>{if(e.key!==\"Escape\")return;const n=[...document.querySelectorAll(\"[data-nav-disclosure][open]\")],o=document.activeElement,t=n.reverse().find(c=>o instanceof Node&&c.contains(o))||n[0];t&&(t.open=!1,t.querySelector(\":scope > summary\")?.focus(),e.preventDefault())});document.addEventListener(\"click\",e=>{e.target instanceof Node&&document.querySelectorAll(\".practice-menu[open],.mobile-nav[open]\").forEach(n=>{n.contains(e.target)||(n.open=!1)})});"
+      }
+    ],
+    "text": "GAIA by Lauriane / Aculift Aculift The face is part of the whole. Explore Aculift, a facial approach inspired by traditional acupuncture, with Lauriane. This page will be developed with Lauriane in the next stage. You can already explore the approach on the homepage. Explore GAIA Book an appointment"
+  }
+]

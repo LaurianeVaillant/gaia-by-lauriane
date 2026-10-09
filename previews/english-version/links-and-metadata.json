@@ -1,0 +1,1172 @@
+{
+  "pages": [
+    {
+      "route": "/fr/",
+      "lang": "fr",
+      "h1": [
+        {
+          "text": "Lauriane — Praticienne en acupuncture traditionnelle",
+          "font": "\"Instrument Sans\", sans-serif"
+        }
+      ],
+      "structure": [
+        {
+          "class": "hero",
+          "headings": 1,
+          "paragraphs": 3,
+          "images": 1
+        },
+        {
+          "class": "manifesto section",
+          "headings": 1,
+          "paragraphs": 2,
+          "images": 0
+        },
+        {
+          "class": "network section",
+          "headings": 1,
+          "paragraphs": 3,
+          "images": 0
+        },
+        {
+          "class": "practices section",
+          "headings": 4,
+          "paragraphs": 3,
+          "images": 0
+        },
+        {
+          "class": "women section",
+          "headings": 1,
+          "paragraphs": 3,
+          "images": 1
+        },
+        {
+          "class": "about section",
+          "headings": 1,
+          "paragraphs": 4,
+          "images": 1
+        },
+        {
+          "class": "power section",
+          "headings": 1,
+          "paragraphs": 6,
+          "images": 1
+        },
+        {
+          "class": "project section",
+          "headings": 1,
+          "paragraphs": 2,
+          "images": 0
+        },
+        {
+          "class": "locations section",
+          "headings": 1,
+          "paragraphs": 2,
+          "images": 0
+        },
+        {
+          "class": "final-cta section",
+          "headings": 1,
+          "paragraphs": 1,
+          "images": 0
+        }
+      ],
+      "alternate": [
+        {
+          "lang": "fr",
+          "url": "https://gaiabylauriane.com/fr/"
+        },
+        {
+          "lang": "en",
+          "url": "https://gaiabylauriane.com/en/"
+        },
+        {
+          "lang": "x-default",
+          "url": "https://gaiabylauriane.com/fr/"
+        }
+      ],
+      "language": "/en/",
+      "buttons": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "nav": "Pratiques\nSanté féminine\nÀ propos",
+      "links": [
+        "/prendre-rendez-vous/",
+        "/fr/acupuncture/",
+        "/fr/acupuncture/",
+        "/fr/aculift/",
+        "/fr/pranic-healing/",
+        "/fr/sante-feminine/",
+        "/fr/a-propos/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "switchWorked": true
+    },
+    {
+      "route": "/en/",
+      "lang": "en",
+      "h1": [
+        {
+          "text": "Lauriane — Traditional Acupuncture Practitioner",
+          "font": "\"Instrument Sans\", sans-serif"
+        }
+      ],
+      "structure": [
+        {
+          "class": "hero",
+          "headings": 1,
+          "paragraphs": 3,
+          "images": 1
+        },
+        {
+          "class": "manifesto section",
+          "headings": 1,
+          "paragraphs": 2,
+          "images": 0
+        },
+        {
+          "class": "network section",
+          "headings": 1,
+          "paragraphs": 3,
+          "images": 0
+        },
+        {
+          "class": "practices section",
+          "headings": 4,
+          "paragraphs": 3,
+          "images": 0
+        },
+        {
+          "class": "women section",
+          "headings": 1,
+          "paragraphs": 3,
+          "images": 1
+        },
+        {
+          "class": "about section",
+          "headings": 1,
+          "paragraphs": 4,
+          "images": 1
+        },
+        {
+          "class": "power section",
+          "headings": 1,
+          "paragraphs": 6,
+          "images": 1
+        },
+        {
+          "class": "project section",
+          "headings": 1,
+          "paragraphs": 2,
+          "images": 0
+        },
+        {
+          "class": "locations section",
+          "headings": 1,
+          "paragraphs": 2,
+          "images": 0
+        },
+        {
+          "class": "final-cta section",
+          "headings": 1,
+          "paragraphs": 1,
+          "images": 0
+        }
+      ],
+      "alternate": [
+        {
+          "lang": "fr",
+          "url": "https://gaiabylauriane.com/fr/"
+        },
+        {
+          "lang": "en",
+          "url": "https://gaiabylauriane.com/en/"
+        },
+        {
+          "lang": "x-default",
+          "url": "https://gaiabylauriane.com/fr/"
+        }
+      ],
+      "language": "/fr/",
+      "buttons": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "nav": "Practices\nWomen’s Health\nAbout",
+      "links": [
+        "/en/book-an-appointment/",
+        "/en/acupuncture/",
+        "/en/acupuncture/",
+        "/en/aculift/",
+        "/en/pranic-healing/",
+        "/en/womens-health/",
+        "/en/about/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "switchWorked": true
+    },
+    {
+      "route": "/fr/acupuncture/",
+      "lang": "fr",
+      "h1": [
+        {
+          "text": "Acupuncture traditionnelle",
+          "font": "\"Fraunces Variable\", serif"
+        }
+      ],
+      "structure": [
+        {
+          "class": "acupuncture-hero section",
+          "headings": 1,
+          "paragraphs": 2,
+          "images": 1
+        },
+        {
+          "class": "section acupuncture-approach",
+          "headings": 1,
+          "paragraphs": 4,
+          "images": 0
+        },
+        {
+          "class": "section acupuncture-network",
+          "headings": 1,
+          "paragraphs": 4,
+          "images": 0
+        },
+        {
+          "class": "section acupuncture-session",
+          "headings": 4,
+          "paragraphs": 3,
+          "images": 0
+        },
+        {
+          "class": "section acupuncture-reasons",
+          "headings": 1,
+          "paragraphs": 2,
+          "images": 0
+        },
+        {
+          "class": "section acupuncture-expectations",
+          "headings": 4,
+          "paragraphs": 3,
+          "images": 0
+        },
+        {
+          "class": "final-cta section",
+          "headings": 1,
+          "paragraphs": 1,
+          "images": 0
+        }
+      ],
+      "alternate": [
+        {
+          "lang": "fr",
+          "url": "https://gaiabylauriane.com/fr/acupuncture/"
+        },
+        {
+          "lang": "en",
+          "url": "https://gaiabylauriane.com/en/acupuncture/"
+        },
+        {
+          "lang": "x-default",
+          "url": "https://gaiabylauriane.com/fr/acupuncture/"
+        }
+      ],
+      "language": "/en/acupuncture/",
+      "buttons": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "nav": "Pratiques\nSanté féminine\nÀ propos",
+      "links": [
+        "/prendre-rendez-vous/",
+        "/fr/sante-feminine/",
+        "/prendre-rendez-vous/"
+      ],
+      "switchWorked": true
+    },
+    {
+      "route": "/en/acupuncture/",
+      "lang": "en",
+      "h1": [
+        {
+          "text": "Traditional Acupuncture",
+          "font": "\"Fraunces Variable\", serif"
+        }
+      ],
+      "structure": [
+        {
+          "class": "acupuncture-hero section",
+          "headings": 1,
+          "paragraphs": 2,
+          "images": 1
+        },
+        {
+          "class": "section acupuncture-approach",
+          "headings": 1,
+          "paragraphs": 4,
+          "images": 0
+        },
+        {
+          "class": "section acupuncture-network",
+          "headings": 1,
+          "paragraphs": 4,
+          "images": 0
+        },
+        {
+          "class": "section acupuncture-session",
+          "headings": 4,
+          "paragraphs": 3,
+          "images": 0
+        },
+        {
+          "class": "section acupuncture-reasons",
+          "headings": 1,
+          "paragraphs": 2,
+          "images": 0
+        },
+        {
+          "class": "section acupuncture-expectations",
+          "headings": 4,
+          "paragraphs": 3,
+          "images": 0
+        },
+        {
+          "class": "final-cta section",
+          "headings": 1,
+          "paragraphs": 1,
+          "images": 0
+        }
+      ],
+      "alternate": [
+        {
+          "lang": "fr",
+          "url": "https://gaiabylauriane.com/fr/acupuncture/"
+        },
+        {
+          "lang": "en",
+          "url": "https://gaiabylauriane.com/en/acupuncture/"
+        },
+        {
+          "lang": "x-default",
+          "url": "https://gaiabylauriane.com/fr/acupuncture/"
+        }
+      ],
+      "language": "/fr/acupuncture/",
+      "buttons": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "nav": "Practices\nWomen’s Health\nAbout",
+      "links": [
+        "/en/book-an-appointment/",
+        "/en/womens-health/",
+        "/en/book-an-appointment/"
+      ],
+      "switchWorked": true
+    },
+    {
+      "route": "/fr/aculift/",
+      "lang": "fr",
+      "h1": [
+        {
+          "text": "Aculift",
+          "font": "\"Fraunces Variable\", serif"
+        }
+      ],
+      "structure": [
+        {
+          "class": "section aculift-hero",
+          "headings": 1,
+          "paragraphs": 3,
+          "images": 1
+        },
+        {
+          "class": "section aculift-definition",
+          "headings": 1,
+          "paragraphs": 4,
+          "images": 0
+        },
+        {
+          "class": "section aculift-reasons",
+          "headings": 1,
+          "paragraphs": 1,
+          "images": 0
+        },
+        {
+          "class": "section aculift-personal",
+          "headings": 1,
+          "paragraphs": 2,
+          "images": 1
+        },
+        {
+          "class": "section aculift-session",
+          "headings": 3,
+          "paragraphs": 2,
+          "images": 0
+        },
+        {
+          "class": "section aculift-closing",
+          "headings": 1,
+          "paragraphs": 1,
+          "images": 0
+        }
+      ],
+      "alternate": [
+        {
+          "lang": "fr",
+          "url": "https://gaiabylauriane.com/fr/aculift/"
+        },
+        {
+          "lang": "en",
+          "url": "https://gaiabylauriane.com/en/aculift/"
+        },
+        {
+          "lang": "x-default",
+          "url": "https://gaiabylauriane.com/fr/aculift/"
+        }
+      ],
+      "language": "/en/aculift/",
+      "buttons": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "nav": "Pratiques\nSanté féminine\nÀ propos",
+      "links": [
+        "/prendre-rendez-vous/",
+        "/fr/acupuncture/",
+        "/prendre-rendez-vous/"
+      ],
+      "switchWorked": true
+    },
+    {
+      "route": "/en/aculift/",
+      "lang": "en",
+      "h1": [
+        {
+          "text": "Aculift",
+          "font": "\"Fraunces Variable\", serif"
+        }
+      ],
+      "structure": [
+        {
+          "class": "section aculift-hero",
+          "headings": 1,
+          "paragraphs": 3,
+          "images": 1
+        },
+        {
+          "class": "section aculift-definition",
+          "headings": 1,
+          "paragraphs": 4,
+          "images": 0
+        },
+        {
+          "class": "section aculift-reasons",
+          "headings": 1,
+          "paragraphs": 1,
+          "images": 0
+        },
+        {
+          "class": "section aculift-personal",
+          "headings": 1,
+          "paragraphs": 2,
+          "images": 1
+        },
+        {
+          "class": "section aculift-session",
+          "headings": 3,
+          "paragraphs": 2,
+          "images": 0
+        },
+        {
+          "class": "section aculift-closing",
+          "headings": 1,
+          "paragraphs": 1,
+          "images": 0
+        }
+      ],
+      "alternate": [
+        {
+          "lang": "fr",
+          "url": "https://gaiabylauriane.com/fr/aculift/"
+        },
+        {
+          "lang": "en",
+          "url": "https://gaiabylauriane.com/en/aculift/"
+        },
+        {
+          "lang": "x-default",
+          "url": "https://gaiabylauriane.com/fr/aculift/"
+        }
+      ],
+      "language": "/fr/aculift/",
+      "buttons": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "nav": "Practices\nWomen’s Health\nAbout",
+      "links": [
+        "/en/book-an-appointment/",
+        "/en/acupuncture/",
+        "/en/book-an-appointment/"
+      ],
+      "switchWorked": true
+    },
+    {
+      "route": "/fr/pranic-healing/",
+      "lang": "fr",
+      "h1": [
+        {
+          "text": "Pranic Healing",
+          "font": "\"Fraunces Variable\", serif"
+        }
+      ],
+      "structure": [
+        {
+          "class": "section pranic-hero",
+          "headings": 1,
+          "paragraphs": 2,
+          "images": 1
+        },
+        {
+          "class": "section pranic-understanding",
+          "headings": 1,
+          "paragraphs": 3,
+          "images": 0
+        },
+        {
+          "class": "section pranic-origin",
+          "headings": 1,
+          "paragraphs": 2,
+          "images": 0
+        },
+        {
+          "class": "section pranic-network",
+          "headings": 1,
+          "paragraphs": 5,
+          "images": 0
+        },
+        {
+          "class": "section pranic-reasons",
+          "headings": 1,
+          "paragraphs": 2,
+          "images": 0
+        },
+        {
+          "class": "section pranic-combined",
+          "headings": 3,
+          "paragraphs": 5,
+          "images": 0
+        },
+        {
+          "class": "final-cta section",
+          "headings": 1,
+          "paragraphs": 1,
+          "images": 0
+        }
+      ],
+      "alternate": [
+        {
+          "lang": "fr",
+          "url": "https://gaiabylauriane.com/fr/pranic-healing/"
+        },
+        {
+          "lang": "en",
+          "url": "https://gaiabylauriane.com/en/pranic-healing/"
+        },
+        {
+          "lang": "x-default",
+          "url": "https://gaiabylauriane.com/fr/pranic-healing/"
+        }
+      ],
+      "language": "/en/pranic-healing/",
+      "buttons": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "nav": "Pratiques\nSanté féminine\nÀ propos",
+      "links": [
+        "/prendre-rendez-vous/",
+        "https://pranichealingfrance.com/",
+        "/fr/acupuncture/",
+        "/prendre-rendez-vous/"
+      ],
+      "switchWorked": true
+    },
+    {
+      "route": "/en/pranic-healing/",
+      "lang": "en",
+      "h1": [
+        {
+          "text": "Pranic Healing",
+          "font": "\"Fraunces Variable\", serif"
+        }
+      ],
+      "structure": [
+        {
+          "class": "section pranic-hero",
+          "headings": 1,
+          "paragraphs": 2,
+          "images": 1
+        },
+        {
+          "class": "section pranic-understanding",
+          "headings": 1,
+          "paragraphs": 3,
+          "images": 0
+        },
+        {
+          "class": "section pranic-origin",
+          "headings": 1,
+          "paragraphs": 2,
+          "images": 0
+        },
+        {
+          "class": "section pranic-network",
+          "headings": 1,
+          "paragraphs": 5,
+          "images": 0
+        },
+        {
+          "class": "section pranic-reasons",
+          "headings": 1,
+          "paragraphs": 2,
+          "images": 0
+        },
+        {
+          "class": "section pranic-combined",
+          "headings": 3,
+          "paragraphs": 5,
+          "images": 0
+        },
+        {
+          "class": "final-cta section",
+          "headings": 1,
+          "paragraphs": 1,
+          "images": 0
+        }
+      ],
+      "alternate": [
+        {
+          "lang": "fr",
+          "url": "https://gaiabylauriane.com/fr/pranic-healing/"
+        },
+        {
+          "lang": "en",
+          "url": "https://gaiabylauriane.com/en/pranic-healing/"
+        },
+        {
+          "lang": "x-default",
+          "url": "https://gaiabylauriane.com/fr/pranic-healing/"
+        }
+      ],
+      "language": "/fr/pranic-healing/",
+      "buttons": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "nav": "Practices\nWomen’s Health\nAbout",
+      "links": [
+        "/en/book-an-appointment/",
+        "https://pranichealingfrance.com/",
+        "/en/acupuncture/",
+        "/en/book-an-appointment/"
+      ],
+      "switchWorked": true
+    },
+    {
+      "route": "/fr/sante-feminine/",
+      "lang": "fr",
+      "h1": [
+        {
+          "text": "Santé féminine",
+          "font": "\"Fraunces Variable\", serif"
+        }
+      ],
+      "structure": [
+        {
+          "class": "section feminine-hero",
+          "headings": 1,
+          "paragraphs": 2,
+          "images": 1
+        },
+        {
+          "class": "section feminine-why",
+          "headings": 1,
+          "paragraphs": 3,
+          "images": 0
+        },
+        {
+          "class": "section feminine-cycle",
+          "headings": 1,
+          "paragraphs": 3,
+          "images": 0
+        },
+        {
+          "class": "section feminine-topics",
+          "headings": 1,
+          "paragraphs": 1,
+          "images": 0
+        },
+        {
+          "class": "section feminine-development",
+          "headings": 1,
+          "paragraphs": 3,
+          "images": 0
+        },
+        {
+          "class": "final-cta section",
+          "headings": 1,
+          "paragraphs": 1,
+          "images": 0
+        }
+      ],
+      "alternate": [
+        {
+          "lang": "fr",
+          "url": "https://gaiabylauriane.com/fr/sante-feminine/"
+        },
+        {
+          "lang": "en",
+          "url": "https://gaiabylauriane.com/en/womens-health/"
+        },
+        {
+          "lang": "x-default",
+          "url": "https://gaiabylauriane.com/fr/sante-feminine/"
+        }
+      ],
+      "language": "/en/womens-health/",
+      "buttons": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "#approche-sante-feminine",
+        "/prendre-rendez-vous/"
+      ],
+      "nav": "Pratiques\nSanté féminine\nÀ propos",
+      "links": [
+        "#approche-sante-feminine",
+        "/fr/acupuncture/",
+        "/prendre-rendez-vous/"
+      ],
+      "switchWorked": true
+    },
+    {
+      "route": "/en/womens-health/",
+      "lang": "en",
+      "h1": [
+        {
+          "text": "Women’s Health",
+          "font": "\"Fraunces Variable\", serif"
+        }
+      ],
+      "structure": [
+        {
+          "class": "section feminine-hero",
+          "headings": 1,
+          "paragraphs": 2,
+          "images": 1
+        },
+        {
+          "class": "section feminine-why",
+          "headings": 1,
+          "paragraphs": 3,
+          "images": 0
+        },
+        {
+          "class": "section feminine-cycle",
+          "headings": 1,
+          "paragraphs": 3,
+          "images": 0
+        },
+        {
+          "class": "section feminine-topics",
+          "headings": 1,
+          "paragraphs": 1,
+          "images": 0
+        },
+        {
+          "class": "section feminine-development",
+          "headings": 1,
+          "paragraphs": 3,
+          "images": 0
+        },
+        {
+          "class": "final-cta section",
+          "headings": 1,
+          "paragraphs": 1,
+          "images": 0
+        }
+      ],
+      "alternate": [
+        {
+          "lang": "fr",
+          "url": "https://gaiabylauriane.com/fr/sante-feminine/"
+        },
+        {
+          "lang": "en",
+          "url": "https://gaiabylauriane.com/en/womens-health/"
+        },
+        {
+          "lang": "x-default",
+          "url": "https://gaiabylauriane.com/fr/sante-feminine/"
+        }
+      ],
+      "language": "/fr/sante-feminine/",
+      "buttons": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "#approche-sante-feminine",
+        "/en/book-an-appointment/"
+      ],
+      "nav": "Practices\nWomen’s Health\nAbout",
+      "links": [
+        "#approche-sante-feminine",
+        "/en/acupuncture/",
+        "/en/book-an-appointment/"
+      ],
+      "switchWorked": true
+    },
+    {
+      "route": "/fr/a-propos/",
+      "lang": "fr",
+      "h1": [
+        {
+          "text": "Lauriane",
+          "font": "\"Fraunces Variable\", serif"
+        }
+      ],
+      "structure": [
+        {
+          "class": "aj-section aj-hero",
+          "headings": 1,
+          "paragraphs": 4,
+          "images": 1
+        },
+        {
+          "class": "aj-section aj-origin",
+          "headings": 1,
+          "paragraphs": 3,
+          "images": 1
+        },
+        {
+          "class": "aj-section aj-encounters",
+          "headings": 1,
+          "paragraphs": 7,
+          "images": 2
+        },
+        {
+          "class": "aj-statement",
+          "headings": 0,
+          "paragraphs": 2,
+          "images": 0
+        },
+        {
+          "class": "aj-section aj-therapist",
+          "headings": 1,
+          "paragraphs": 9,
+          "images": 1
+        },
+        {
+          "class": "aj-section aj-training",
+          "headings": 5,
+          "paragraphs": 5,
+          "images": 1
+        },
+        {
+          "class": "aj-section aj-gaia",
+          "headings": 1,
+          "paragraphs": 9,
+          "images": 0
+        },
+        {
+          "class": "aj-section aj-ending",
+          "headings": 1,
+          "paragraphs": 0,
+          "images": 1
+        }
+      ],
+      "alternate": [
+        {
+          "lang": "fr",
+          "url": "https://gaiabylauriane.com/fr/a-propos/"
+        },
+        {
+          "lang": "en",
+          "url": "https://gaiabylauriane.com/en/about/"
+        },
+        {
+          "lang": "x-default",
+          "url": "https://gaiabylauriane.com/fr/a-propos/"
+        }
+      ],
+      "language": "/en/about/",
+      "buttons": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "nav": "Pratiques\nSanté féminine\nÀ propos",
+      "links": [
+        "https://centre-imhotep.com/",
+        "https://pranichealingnepal.com/",
+        "https://laaictrainings.com/",
+        "/fr/acupuncture/",
+        "/fr/aculift/",
+        "/fr/pranic-healing/",
+        "/fr/sante-feminine/",
+        "/prendre-rendez-vous/"
+      ],
+      "switchWorked": true
+    },
+    {
+      "route": "/en/about/",
+      "lang": "en",
+      "h1": [
+        {
+          "text": "Lauriane",
+          "font": "\"Fraunces Variable\", serif"
+        }
+      ],
+      "structure": [
+        {
+          "class": "aj-section aj-hero",
+          "headings": 1,
+          "paragraphs": 4,
+          "images": 1
+        },
+        {
+          "class": "aj-section aj-origin",
+          "headings": 1,
+          "paragraphs": 3,
+          "images": 1
+        },
+        {
+          "class": "aj-section aj-encounters",
+          "headings": 1,
+          "paragraphs": 7,
+          "images": 2
+        },
+        {
+          "class": "aj-statement",
+          "headings": 0,
+          "paragraphs": 2,
+          "images": 0
+        },
+        {
+          "class": "aj-section aj-therapist",
+          "headings": 1,
+          "paragraphs": 9,
+          "images": 1
+        },
+        {
+          "class": "aj-section aj-training",
+          "headings": 5,
+          "paragraphs": 5,
+          "images": 1
+        },
+        {
+          "class": "aj-section aj-gaia",
+          "headings": 1,
+          "paragraphs": 9,
+          "images": 0
+        },
+        {
+          "class": "aj-section aj-ending",
+          "headings": 1,
+          "paragraphs": 0,
+          "images": 1
+        }
+      ],
+      "alternate": [
+        {
+          "lang": "fr",
+          "url": "https://gaiabylauriane.com/fr/a-propos/"
+        },
+        {
+          "lang": "en",
+          "url": "https://gaiabylauriane.com/en/about/"
+        },
+        {
+          "lang": "x-default",
+          "url": "https://gaiabylauriane.com/fr/a-propos/"
+        }
+      ],
+      "language": "/fr/a-propos/",
+      "buttons": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "nav": "Practices\nWomen’s Health\nAbout",
+      "links": [
+        "https://centre-imhotep.com/",
+        "https://pranichealingnepal.com/",
+        "https://laaictrainings.com/",
+        "/en/acupuncture/",
+        "/en/aculift/",
+        "/en/pranic-healing/",
+        "/en/womens-health/",
+        "/en/book-an-appointment/"
+      ],
+      "switchWorked": true
+    },
+    {
+      "route": "/prendre-rendez-vous/",
+      "lang": "fr",
+      "h1": [
+        {
+          "text": "Prendre rendez-vous.",
+          "font": "\"Fraunces Variable\", serif"
+        }
+      ],
+      "structure": [
+        {
+          "class": "bk-hero",
+          "headings": 1,
+          "paragraphs": 4,
+          "images": 0
+        },
+        {
+          "class": "bk-practices bk-section",
+          "headings": 1,
+          "paragraphs": 1,
+          "images": 0
+        },
+        {
+          "class": "bk-how bk-section",
+          "headings": 1,
+          "paragraphs": 0,
+          "images": 0
+        },
+        {
+          "class": "bk-closing bk-section",
+          "headings": 1,
+          "paragraphs": 1,
+          "images": 0
+        }
+      ],
+      "alternate": [
+        {
+          "lang": "fr",
+          "url": "https://gaiabylauriane.com/prendre-rendez-vous/"
+        },
+        {
+          "lang": "en",
+          "url": "https://gaiabylauriane.com/en/book-an-appointment/"
+        },
+        {
+          "lang": "x-default",
+          "url": "https://gaiabylauriane.com/prendre-rendez-vous/"
+        }
+      ],
+      "language": "/en/book-an-appointment/",
+      "buttons": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "https://wa.me/33673740261?text=Bonjour%20Lauriane%2C%20je%20souhaiterais%20prendre%20rendez-vous.%20Pouvez-vous%20me%20dire%20vos%20prochaines%20disponibilit%C3%A9s%20%3F",
+        "https://wa.me/33673740261?text=Bonjour%20Lauriane%2C%20je%20souhaiterais%20prendre%20rendez-vous.%20Pouvez-vous%20me%20dire%20vos%20prochaines%20disponibilit%C3%A9s%20%3F"
+      ],
+      "nav": "Pratiques\nSanté féminine\nÀ propos",
+      "links": [
+        "https://wa.me/33673740261?text=Bonjour%20Lauriane%2C%20je%20souhaiterais%20prendre%20rendez-vous.%20Pouvez-vous%20me%20dire%20vos%20prochaines%20disponibilit%C3%A9s%20%3F",
+        "/fr/acupuncture/",
+        "/fr/aculift/",
+        "/fr/pranic-healing/",
+        "/fr/sante-feminine/",
+        "https://wa.me/33673740261?text=Bonjour%20Lauriane%2C%20je%20souhaiterais%20prendre%20rendez-vous.%20Pouvez-vous%20me%20dire%20vos%20prochaines%20disponibilit%C3%A9s%20%3F"
+      ],
+      "switchWorked": true
+    },
+    {
+      "route": "/en/book-an-appointment/",
+      "lang": "en",
+      "h1": [
+        {
+          "text": "Book an appointment.",
+          "font": "\"Fraunces Variable\", serif"
+        }
+      ],
+      "structure": [
+        {
+          "class": "bk-hero",
+          "headings": 1,
+          "paragraphs": 4,
+          "images": 0
+        },
+        {
+          "class": "bk-practices bk-section",
+          "headings": 1,
+          "paragraphs": 1,
+          "images": 0
+        },
+        {
+          "class": "bk-how bk-section",
+          "headings": 1,
+          "paragraphs": 0,
+          "images": 0
+        },
+        {
+          "class": "bk-closing bk-section",
+          "headings": 1,
+          "paragraphs": 1,
+          "images": 0
+        }
+      ],
+      "alternate": [
+        {
+          "lang": "fr",
+          "url": "https://gaiabylauriane.com/prendre-rendez-vous/"
+        },
+        {
+          "lang": "en",
+          "url": "https://gaiabylauriane.com/en/book-an-appointment/"
+        },
+        {
+          "lang": "x-default",
+          "url": "https://gaiabylauriane.com/prendre-rendez-vous/"
+        }
+      ],
+      "language": "/prendre-rendez-vous/",
+      "buttons": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "https://wa.me/33673740261?text=Hi%20Lauriane%2C%20I%E2%80%99d%20like%20to%20book%20an%20appointment.%20Could%20you%20let%20me%20know%20your%20next%20available%20times%3F",
+        "https://wa.me/33673740261?text=Hi%20Lauriane%2C%20I%E2%80%99d%20like%20to%20book%20an%20appointment.%20Could%20you%20let%20me%20know%20your%20next%20available%20times%3F"
+      ],
+      "nav": "Practices\nWomen’s Health\nAbout",
+      "links": [
+        "https://wa.me/33673740261?text=Hi%20Lauriane%2C%20I%E2%80%99d%20like%20to%20book%20an%20appointment.%20Could%20you%20let%20me%20know%20your%20next%20available%20times%3F",
+        "/en/acupuncture/",
+        "/en/aculift/",
+        "/en/pranic-healing/",
+        "/en/womens-health/",
+        "https://wa.me/33673740261?text=Hi%20Lauriane%2C%20I%E2%80%99d%20like%20to%20book%20an%20appointment.%20Could%20you%20let%20me%20know%20your%20next%20available%20times%3F"
+      ],
+      "switchWorked": true
+    }
+  ],
+  "whatsapp": {
+    "phone": "33673740261",
+    "message": "Hi Lauriane, I’d like to book an appointment. Could you let me know your next available times?"
+  }
+}

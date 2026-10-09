@@ -6,3 +6,8 @@ export const booking = {
 export const bookingLink = booking.phone
   ? `https://wa.me/${booking.phone}?text=${encodeURIComponent(booking.message)}`
   : null;
+
+export const englishBookingMessage = 'Hi Lauriane, I’d like to book an appointment. Could you let me know your next available times?';
+export const englishBookingLink = booking.phone
+  ? `https://wa.me/${booking.phone}?text=${encodeURIComponent(englishBookingMessage)}`
+  : null;
