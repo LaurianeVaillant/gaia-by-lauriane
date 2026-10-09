@@ -30,9 +30,9 @@ export const aboutFr = {
       "J’ai envie de comprendre la personne que j’ai devant moi, les liens entre ce qu’elle ressent, son histoire et son contexte."
     ],
     [
-      "GAIA a toujours été une évidence pour moi.",
+      "GAIA a toujours été une évidence.",
       "Je crois beaucoup à la symbolique des choses.",
-      "Donner à ma marque le nom de Gaïa, figure primordiale de la Terre dans la mythologie, fait vraiment sens pour moi.",
+      "Donner à ma marque le nom de Gaïa, figure primordiale de la Terre dans la mythologie, fait vraiment sens.",
       "D’abord : sa puissance.",
       "Mais aussi l’ancrage, la création, le vivant, les cycles et l’idée que rien n’existe complètement tout seul.",
       "C’est exactement ce que j’ai envie de construire avec GAIA.",

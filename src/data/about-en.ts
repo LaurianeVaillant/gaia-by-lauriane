@@ -3,7 +3,7 @@ export const aboutEn = {
   "chapters": [
     [
       "I didn’t start with acupuncture.",
-      "Preparatory classes, business school, a permanent job… For a long time, I followed what you might call a fairly “conventional” path, while always being the resident witch everyone secretly loves in just about every circle I was part of!",
+      "Preparatory classes, business school, a permanent job… For a long time, I followed what you might call a fairly “conventional” path, while always being the resident witch everyone loves in just about every circle I was part of!",
       "I’m also lucky to have a mum who planted the travel seed early on for my brothers and me.",
       "Add curiosity, a desire to explore and quite a bit of intuition. All of that led me to live and travel abroad for a few years.",
       "And somewhere in the middle of all that, things began to shift."

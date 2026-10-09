@@ -1,0 +1,6931 @@
+[
+  {
+    "page": "fr",
+    "path": "/fr/a-propos/",
+    "width": 1440,
+    "height": 6085,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Lauriane",
+        "x": 80,
+        "y": 262.9375,
+        "w": 315.03125,
+        "h": 85.109375,
+        "size": "76px",
+        "line": "85.12px"
+      },
+      {
+        "text": "Je n’ai pas commencé par l’acupuncture.",
+        "x": 80,
+        "y": 870.796875,
+        "w": 538.71875,
+        "h": 94.0625,
+        "size": "42px",
+        "line": "47.04px"
+      },
+      {
+        "text": "L’intuition, les rencontres… et les “coïncidences”",
+        "x": 753.671875,
+        "y": 1519.75,
+        "w": 606.328125,
+        "h": 94.0625,
+        "size": "42px",
+        "line": "47.04px"
+      },
+      {
+        "text": "La thérapeute vers laquelle je tends",
+        "x": 80,
+        "y": 2862.015625,
+        "w": 623.375,
+        "h": 94.0625,
+        "size": "42px",
+        "line": "47.04px"
+      },
+      {
+        "text": "QUELQUES ÉTAPES DU CHEMIN",
+        "x": 80,
+        "y": 3711.125,
+        "w": 1280,
+        "h": 21.6875,
+        "size": "14px",
+        "line": "21.7px"
+      },
+      {
+        "text": "ACUPUNCTURE TRADITIONNELLE",
+        "x": 80,
+        "y": 3764.8125,
+        "w": 298.453125,
+        "h": 80.34375,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "PRANIC HEALING",
+        "x": 80,
+        "y": 3881.15625,
+        "w": 298.453125,
+        "h": 237.4375,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "YOGA",
+        "x": 80,
+        "y": 4154.59375,
+        "w": 298.453125,
+        "h": 133.03125,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "APPROCHES COMPLÉMENTAIRES",
+        "x": 80,
+        "y": 4323.625,
+        "w": 298.453125,
+        "h": 26.34375,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "Pourquoi GAIA ?",
+        "x": 80,
+        "y": 4469.96875,
+        "w": 484.15625,
+        "h": 38.078125,
+        "size": "34px",
+        "line": "38.08px"
+      },
+      {
+        "text": "Découvrir mon approche.",
+        "x": 791.796875,
+        "y": 5399.96875,
+        "w": 568.203125,
+        "h": 116.46875,
+        "size": "52px",
+        "line": "58.24px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "© 2026 GAIA by LaurianePratiques complémentaires, sans substitution au suivi médical.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [],
+    "images": [
+      {
+        "src": "/images/journal-hero-1200.webp",
+        "x": 759.4112548828125,
+        "y": 124.78469848632812,
+        "w": 612.364990234375,
+        "h": 583.1962890625,
+        "natural": [
+          583,
+          581
+        ],
+        "fit": "cover",
+        "position": "50% 15%"
+      },
+      {
+        "src": "/images/journal-travel-1200.webp",
+        "x": 846.63720703125,
+        "y": 814.69970703125,
+        "w": 523.4287109375,
+        "h": 523.4287109375,
+        "natural": [
+          583,
+          722
+        ],
+        "fit": "cover",
+        "position": "50% 52%"
+      },
+      {
+        "src": "/images/journal-india-1200.webp",
+        "x": 80,
+        "y": 1482.0625,
+        "w": 480.1875,
+        "h": 564.21875,
+        "natural": [
+          583,
+          1263
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-yoga-1200.webp",
+        "x": 362.84375,
+        "y": 2047.28125,
+        "w": 272.828125,
+        "h": 363.765625,
+        "natural": [
+          518,
+          691
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-practice-1200.webp",
+        "x": 841.59375,
+        "y": 2862.328125,
+        "w": 518.40625,
+        "h": 648,
+        "natural": [
+          648,
+          864
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-training-1200.webp",
+        "x": 1109.328125,
+        "y": 3764.8125,
+        "w": 250.65625,
+        "h": 334.203125,
+        "natural": [
+          648,
+          864
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/about-yoga-1200.webp",
+        "x": 80,
+        "y": 5272.71875,
+        "w": 596.609375,
+        "h": 542.359375,
+        "natural": [
+          648,
+          486
+        ],
+        "fit": "cover",
+        "position": "51% 50%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "aj-section aj-hero",
+        "x": 0,
+        "y": 100,
+        "w": 1440,
+        "h": 660.765625,
+        "padding": [
+          "36px",
+          "64px"
+        ]
+      },
+      {
+        "class": "aj-section aj-origin",
+        "x": 0,
+        "y": 760.765625,
+        "w": 1440,
+        "h": 657.296875,
+        "padding": [
+          "64px",
+          "60px"
+        ]
+      },
+      {
+        "class": "aj-section aj-encounters",
+        "x": 0,
+        "y": 1418.0625,
+        "w": 1440,
+        "h": 1061.484375,
+        "padding": [
+          "64px",
+          "40px"
+        ]
+      },
+      {
+        "class": "aj-statement",
+        "x": 0,
+        "y": 2479.546875,
+        "w": 1440,
+        "h": 272.78125,
+        "padding": [
+          "52px",
+          "52px"
+        ]
+      },
+      {
+        "class": "aj-section aj-therapist",
+        "x": 0,
+        "y": 2752.328125,
+        "w": 1440,
+        "h": 910.796875,
+        "padding": [
+          "72px",
+          "72px"
+        ]
+      },
+      {
+        "class": "aj-section aj-training",
+        "x": 0,
+        "y": 3663.125,
+        "w": 1440,
+        "h": 742.84375,
+        "padding": [
+          "48px",
+          "56px"
+        ]
+      },
+      {
+        "class": "aj-section aj-gaia",
+        "x": 0,
+        "y": 4405.96875,
+        "w": 1440,
+        "h": 806.75,
+        "padding": [
+          "64px",
+          "64px"
+        ]
+      },
+      {
+        "class": "aj-section aj-ending",
+        "x": 0,
+        "y": 5212.71875,
+        "w": 1440,
+        "h": 692.359375,
+        "padding": [
+          "60px",
+          "60px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLiens\n\n© 2026 GAIA by Lauriane\nPratiques complémentaires, sans substitution au suivi médical.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Lauriane",
+          "lines": [
+            "Lauriane"
+          ]
+        },
+        {
+          "text": "Je n’ai pas commencé par l’acupuncture.",
+          "lines": [
+            "Je n’ai pas commencé par",
+            "l’acupuncture."
+          ]
+        },
+        {
+          "text": "L’intuition, les rencontres… et les “coïncidences”",
+          "lines": [
+            "L’intuition, les rencontres…",
+            "et les “coïncidences”"
+          ]
+        },
+        {
+          "text": "La thérapeute vers laquelle je tends",
+          "lines": [
+            "La thérapeute",
+            "vers laquelle je tends"
+          ]
+        },
+        {
+          "text": "QUELQUES ÉTAPES DU CHEMIN",
+          "lines": [
+            "QUELQUES ÉTAPES DU CHEMIN"
+          ]
+        },
+        {
+          "text": "ACUPUNCTURE TRADITIONNELLE",
+          "lines": [
+            "ACUPUNCTURE TRADITIONNELLE"
+          ]
+        },
+        {
+          "text": "PRANIC HEALING",
+          "lines": [
+            "PRANIC HEALING"
+          ]
+        },
+        {
+          "text": "YOGA",
+          "lines": [
+            "YOGA"
+          ]
+        },
+        {
+          "text": "APPROCHES COMPLÉMENTAIRES",
+          "lines": [
+            "APPROCHES COMPLÉMENTAIRES"
+          ]
+        },
+        {
+          "text": "Pourquoi GAIA ?",
+          "lines": [
+            "Pourquoi GAIA ?"
+          ]
+        },
+        {
+          "text": "Découvrir mon approche.",
+          "lines": [
+            "Découvrir",
+            "mon approche."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Liens",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Santé féminine",
+          "h": 44
+        },
+        {
+          "text": "À propos",
+          "h": 44
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(74, 74, 74)",
+        "rgb(255, 253, 247)"
+      ],
+      "language": [
+        "/en/about/",
+        "/en/about/"
+      ],
+      "booking": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "captions": [
+        "14px",
+        "14px",
+        "13px",
+        "14px",
+        "14px"
+      ]
+    },
+    "dropdown": {
+      "x": 450.46875,
+      "y": 80,
+      "width": 262,
+      "height": 156
+    },
+    "escape": true
+  },
+  {
+    "page": "fr",
+    "path": "/fr/a-propos/",
+    "width": 1280,
+    "height": 5916,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Lauriane",
+        "x": 64,
+        "y": 245.703125,
+        "w": 281.171875,
+        "h": 75.984375,
+        "size": "67.84px",
+        "line": "75.9808px"
+      },
+      {
+        "text": "Je n’ai pas commencé par l’acupuncture.",
+        "x": 64,
+        "y": 768.6875,
+        "w": 492.546875,
+        "h": 86,
+        "size": "38.4px",
+        "line": "43.008px"
+      },
+      {
+        "text": "L’intuition, les rencontres… et les “coïncidences”",
+        "x": 670.296875,
+        "y": 1421.140625,
+        "w": 545.703125,
+        "h": 86,
+        "size": "38.4px",
+        "line": "43.008px"
+      },
+      {
+        "text": "La thérapeute vers laquelle je tends",
+        "x": 64,
+        "y": 2670.609375,
+        "w": 570.234375,
+        "h": 86,
+        "size": "38.4px",
+        "line": "43.008px"
+      },
+      {
+        "text": "QUELQUES ÉTAPES DU CHEMIN",
+        "x": 64,
+        "y": 3569.25,
+        "w": 1152,
+        "h": 21.6875,
+        "size": "14px",
+        "line": "21.7px"
+      },
+      {
+        "text": "ACUPUNCTURE TRADITIONNELLE",
+        "x": 64,
+        "y": 3622.9375,
+        "w": 268.609375,
+        "h": 80.34375,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "PRANIC HEALING",
+        "x": 64,
+        "y": 3739.28125,
+        "w": 268.609375,
+        "h": 237.4375,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "YOGA",
+        "x": 64,
+        "y": 4012.71875,
+        "w": 268.609375,
+        "h": 133.03125,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "APPROCHES COMPLÉMENTAIRES",
+        "x": 64,
+        "y": 4181.75,
+        "w": 268.609375,
+        "h": 52.6875,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "Pourquoi GAIA ?",
+        "x": 64,
+        "y": 4354.4375,
+        "w": 435.734375,
+        "h": 38.078125,
+        "size": "34px",
+        "line": "38.08px"
+      },
+      {
+        "text": "Découvrir mon approche.",
+        "x": 704.609375,
+        "y": 5261.078125,
+        "w": 511.390625,
+        "h": 108.9375,
+        "size": "48.64px",
+        "line": "54.4768px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "© 2026 GAIA by LaurianePratiques complémentaires, sans substitution au suivi médical.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [],
+    "images": [
+      {
+        "src": "/images/journal-hero-1200.webp",
+        "x": 675.479736328125,
+        "y": 125.90625,
+        "w": 551.11865234375,
+        "h": 524.875,
+        "natural": [
+          576,
+          574
+        ],
+        "fit": "cover",
+        "position": "50% 15%"
+      },
+      {
+        "src": "/images/journal-travel-1200.webp",
+        "x": 753.9718627929688,
+        "y": 763.5187377929688,
+        "w": 471.08746337890625,
+        "h": 471.08746337890625,
+        "natural": [
+          576,
+          713
+        ],
+        "fit": "cover",
+        "position": "50% 52%"
+      },
+      {
+        "src": "/images/journal-india-1200.webp",
+        "x": 64,
+        "y": 1383.453125,
+        "w": 432.171875,
+        "h": 507.796875,
+        "natural": [
+          576,
+          1248
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-yoga-1200.webp",
+        "x": 319.5625,
+        "y": 1892.25,
+        "w": 245.546875,
+        "h": 327.390625,
+        "natural": [
+          576,
+          767
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-practice-1200.webp",
+        "x": 749.421875,
+        "y": 2670.921875,
+        "w": 466.578125,
+        "h": 583.21875,
+        "natural": [
+          576,
+          767
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-training-1200.webp",
+        "x": 990.390625,
+        "y": 3622.9375,
+        "w": 225.59375,
+        "h": 300.78125,
+        "natural": [
+          576,
+          767
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/about-yoga-1200.webp",
+        "x": 64,
+        "y": 5157.1875,
+        "w": 536.9375,
+        "h": 488.125,
+        "natural": [
+          576,
+          432
+        ],
+        "fit": "cover",
+        "position": "51% 50%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "aj-section aj-hero",
+        "x": 0,
+        "y": 100,
+        "w": 1280,
+        "h": 604.6875,
+        "padding": [
+          "36px",
+          "64px"
+        ]
+      },
+      {
+        "class": "aj-section aj-origin",
+        "x": 0,
+        "y": 704.6875,
+        "w": 1280,
+        "h": 614.765625,
+        "padding": [
+          "64px",
+          "60px"
+        ]
+      },
+      {
+        "class": "aj-section aj-encounters",
+        "x": 0,
+        "y": 1319.453125,
+        "w": 1280,
+        "h": 968.6875,
+        "padding": [
+          "64px",
+          "40px"
+        ]
+      },
+      {
+        "class": "aj-statement",
+        "x": 0,
+        "y": 2288.140625,
+        "w": 1280,
+        "h": 272.78125,
+        "padding": [
+          "52px",
+          "52px"
+        ]
+      },
+      {
+        "class": "aj-section aj-therapist",
+        "x": 0,
+        "y": 2560.921875,
+        "w": 1280,
+        "h": 960.328125,
+        "padding": [
+          "72px",
+          "72px"
+        ]
+      },
+      {
+        "class": "aj-section aj-training",
+        "x": 0,
+        "y": 3521.25,
+        "w": 1280,
+        "h": 769.1875,
+        "padding": [
+          "48px",
+          "56px"
+        ]
+      },
+      {
+        "class": "aj-section aj-gaia",
+        "x": 0,
+        "y": 4290.4375,
+        "w": 1280,
+        "h": 806.75,
+        "padding": [
+          "64px",
+          "64px"
+        ]
+      },
+      {
+        "class": "aj-section aj-ending",
+        "x": 0,
+        "y": 5097.1875,
+        "w": 1280,
+        "h": 638.125,
+        "padding": [
+          "60px",
+          "60px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLiens\n\n© 2026 GAIA by Lauriane\nPratiques complémentaires, sans substitution au suivi médical.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Lauriane",
+          "lines": [
+            "Lauriane"
+          ]
+        },
+        {
+          "text": "Je n’ai pas commencé par l’acupuncture.",
+          "lines": [
+            "Je n’ai pas commencé par",
+            "l’acupuncture."
+          ]
+        },
+        {
+          "text": "L’intuition, les rencontres… et les “coïncidences”",
+          "lines": [
+            "L’intuition, les rencontres…",
+            "et les “coïncidences”"
+          ]
+        },
+        {
+          "text": "La thérapeute vers laquelle je tends",
+          "lines": [
+            "La thérapeute",
+            "vers laquelle je tends"
+          ]
+        },
+        {
+          "text": "QUELQUES ÉTAPES DU CHEMIN",
+          "lines": [
+            "QUELQUES ÉTAPES DU CHEMIN"
+          ]
+        },
+        {
+          "text": "ACUPUNCTURE TRADITIONNELLE",
+          "lines": [
+            "ACUPUNCTURE TRADITIONNELLE"
+          ]
+        },
+        {
+          "text": "PRANIC HEALING",
+          "lines": [
+            "PRANIC HEALING"
+          ]
+        },
+        {
+          "text": "YOGA",
+          "lines": [
+            "YOGA"
+          ]
+        },
+        {
+          "text": "APPROCHES COMPLÉMENTAIRES",
+          "lines": [
+            "APPROCHES COMPLÉMENTAIRES"
+          ]
+        },
+        {
+          "text": "Pourquoi GAIA ?",
+          "lines": [
+            "Pourquoi GAIA ?"
+          ]
+        },
+        {
+          "text": "Découvrir mon approche.",
+          "lines": [
+            "Découvrir",
+            "mon approche."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Liens",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Santé féminine",
+          "h": 44
+        },
+        {
+          "text": "À propos",
+          "h": 44
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(74, 74, 74)",
+        "rgb(255, 253, 247)"
+      ],
+      "language": [
+        "/en/about/",
+        "/en/about/"
+      ],
+      "booking": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "captions": [
+        "14px",
+        "14px",
+        "13px",
+        "14px",
+        "14px"
+      ]
+    },
+    "dropdown": {
+      "x": 376.28125,
+      "y": 80,
+      "width": 262,
+      "height": 156
+    },
+    "escape": true
+  },
+  {
+    "page": "fr",
+    "path": "/fr/a-propos/",
+    "width": 1024,
+    "height": 5766,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Lauriane",
+        "x": 40,
+        "y": 213.0625,
+        "w": 265.296875,
+        "h": 71.671875,
+        "size": "64px",
+        "line": "71.68px"
+      },
+      {
+        "text": "Je n’ai pas commencé par l’acupuncture.",
+        "x": 40,
+        "y": 661.5625,
+        "w": 436.109375,
+        "h": 76.15625,
+        "size": "34px",
+        "line": "38.08px"
+      },
+      {
+        "text": "L’intuition, les rencontres… et les “coïncidences”",
+        "x": 521.921875,
+        "y": 1292.171875,
+        "w": 462.078125,
+        "h": 76.15625,
+        "size": "34px",
+        "line": "38.08px"
+      },
+      {
+        "text": "La thérapeute vers laquelle je tends",
+        "x": 40,
+        "y": 2525.6875,
+        "w": 482.84375,
+        "h": 76.15625,
+        "size": "34px",
+        "line": "38.08px"
+      },
+      {
+        "text": "QUELQUES ÉTAPES DU CHEMIN",
+        "x": 40,
+        "y": 3495.96875,
+        "w": 944,
+        "h": 21.6875,
+        "size": "14px",
+        "line": "21.7px"
+      },
+      {
+        "text": "ACUPUNCTURE TRADITIONNELLE",
+        "x": 40,
+        "y": 3549.65625,
+        "w": 245.265625,
+        "h": 80.34375,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "PRANIC HEALING",
+        "x": 40,
+        "y": 3666,
+        "w": 245.265625,
+        "h": 237.4375,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "YOGA",
+        "x": 40,
+        "y": 3939.4375,
+        "w": 245.265625,
+        "h": 133.03125,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "APPROCHES COMPLÉMENTAIRES",
+        "x": 40,
+        "y": 4108.46875,
+        "w": 245.265625,
+        "h": 52.6875,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "Pourquoi GAIA ?",
+        "x": 40,
+        "y": 4273.15625,
+        "w": 357.0625,
+        "h": 38.078125,
+        "size": "34px",
+        "line": "38.08px"
+      },
+      {
+        "text": "Découvrir mon approche.",
+        "x": 564.9375,
+        "y": 5116.640625,
+        "w": 419.0625,
+        "h": 87.125,
+        "size": "38.912px",
+        "line": "43.5814px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "© 2026 GAIA by LaurianePratiques complémentaires, sans substitution au suivi médical.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Pratiques",
+        "x": 964.46875,
+        "y": 158,
+        "w": 103.78125,
+        "h": 44
+      },
+      {
+        "text": "Acupuncture traditionnelle",
+        "x": 982.46875,
+        "y": 206,
+        "w": 85.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "Aculift",
+        "x": 982.46875,
+        "y": 277.1875,
+        "w": 85.78125,
+        "h": 45.59375
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 982.46875,
+        "y": 322.78125,
+        "w": 85.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "Santé féminine",
+        "x": 964.46875,
+        "y": 206,
+        "w": 103.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "À propos",
+        "x": 964.46875,
+        "y": 281.1875,
+        "w": 103.78125,
+        "h": 45.59375
+      },
+      {
+        "text": "FR/EN",
+        "x": 964.46875,
+        "y": 330.78125,
+        "w": 103.78125,
+        "h": 44
+      },
+      {
+        "text": "Prendre rendez-vous",
+        "x": 964.46875,
+        "y": 386.78125,
+        "w": 103.78125,
+        "h": 95.390625
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/journal-hero-1200.webp",
+        "x": 541.0650024414062,
+        "y": 127.728759765625,
+        "w": 451.6199951171875,
+        "h": 430.10498046875,
+        "natural": [
+          460,
+          459
+        ],
+        "fit": "cover",
+        "position": "50% 15%"
+      },
+      {
+        "src": "/images/journal-travel-1200.webp",
+        "x": 605.3890380859375,
+        "y": 694.0140380859375,
+        "w": 386.018798828125,
+        "h": 386.018798828125,
+        "natural": [
+          460,
+          570
+        ],
+        "fit": "cover",
+        "position": "50% 52%"
+      },
+      {
+        "src": "/images/journal-india-1200.webp",
+        "x": 40,
+        "y": 1254.484375,
+        "w": 365.9375,
+        "h": 429.96875,
+        "natural": [
+          460,
+          998
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-yoga-1200.webp",
+        "x": 257.921875,
+        "y": 1685.453125,
+        "w": 207.921875,
+        "h": 277.21875,
+        "natural": [
+          460,
+          614
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-practice-1200.webp",
+        "x": 588.921875,
+        "y": 2526,
+        "w": 395.078125,
+        "h": 493.84375,
+        "natural": [
+          460,
+          614
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-training-1200.webp",
+        "x": 797.15625,
+        "y": 3549.65625,
+        "w": 186.84375,
+        "h": 249.125,
+        "natural": [
+          460,
+          614
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/about-yoga-1200.webp",
+        "x": 40,
+        "y": 5099.90625,
+        "w": 439.984375,
+        "h": 399.984375,
+        "natural": [
+          460,
+          345
+        ],
+        "fit": "cover",
+        "position": "51% 50%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "aj-section aj-hero",
+        "x": 0,
+        "y": 80,
+        "w": 1024,
+        "h": 525.5625,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      },
+      {
+        "class": "aj-section aj-origin",
+        "x": 0,
+        "y": 605.5625,
+        "w": 1024,
+        "h": 592.921875,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      },
+      {
+        "class": "aj-section aj-encounters",
+        "x": 0,
+        "y": 1198.484375,
+        "w": 1024,
+        "h": 982.578125,
+        "padding": [
+          "56px",
+          "40px"
+        ]
+      },
+      {
+        "class": "aj-statement",
+        "x": 0,
+        "y": 2181.0625,
+        "w": 1024,
+        "h": 250.9375,
+        "padding": [
+          "52px",
+          "52px"
+        ]
+      },
+      {
+        "class": "aj-section aj-therapist",
+        "x": 0,
+        "y": 2432,
+        "w": 1024,
+        "h": 1007.96875,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      },
+      {
+        "class": "aj-section aj-training",
+        "x": 0,
+        "y": 3439.96875,
+        "w": 1024,
+        "h": 777.1875,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      },
+      {
+        "class": "aj-section aj-gaia",
+        "x": 0,
+        "y": 4217.15625,
+        "w": 1024,
+        "h": 826.75,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      },
+      {
+        "class": "aj-section aj-ending",
+        "x": 0,
+        "y": 5043.90625,
+        "w": 1024,
+        "h": 541.984375,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLiens\n\n© 2026 GAIA by Lauriane\nPratiques complémentaires, sans substitution au suivi médical.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Lauriane",
+          "lines": [
+            "Lauriane"
+          ]
+        },
+        {
+          "text": "Je n’ai pas commencé par l’acupuncture.",
+          "lines": [
+            "Je n’ai pas commencé par",
+            "l’acupuncture."
+          ]
+        },
+        {
+          "text": "L’intuition, les rencontres… et les “coïncidences”",
+          "lines": [
+            "L’intuition, les rencontres…",
+            "et les “coïncidences”"
+          ]
+        },
+        {
+          "text": "La thérapeute vers laquelle je tends",
+          "lines": [
+            "La thérapeute",
+            "vers laquelle je tends"
+          ]
+        },
+        {
+          "text": "QUELQUES ÉTAPES DU CHEMIN",
+          "lines": [
+            "QUELQUES ÉTAPES DU CHEMIN"
+          ]
+        },
+        {
+          "text": "ACUPUNCTURE TRADITIONNELLE",
+          "lines": [
+            "ACUPUNCTURE",
+            "TRADITIONNELLE"
+          ]
+        },
+        {
+          "text": "PRANIC HEALING",
+          "lines": [
+            "PRANIC HEALING"
+          ]
+        },
+        {
+          "text": "YOGA",
+          "lines": [
+            "YOGA"
+          ]
+        },
+        {
+          "text": "APPROCHES COMPLÉMENTAIRES",
+          "lines": [
+            "APPROCHES",
+            "COMPLÉMENTAIRES"
+          ]
+        },
+        {
+          "text": "Pourquoi GAIA ?",
+          "lines": [
+            "Pourquoi GAIA ?"
+          ]
+        },
+        {
+          "text": "Découvrir mon approche.",
+          "lines": [
+            "Découvrir",
+            "mon approche."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Liens",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Santé féminine",
+          "h": 0
+        },
+        {
+          "text": "À propos",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(74, 74, 74)",
+        "rgb(255, 253, 247)",
+        "rgb(255, 255, 255)"
+      ],
+      "language": [
+        "/en/about/",
+        "/en/about/"
+      ],
+      "booking": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "captions": [
+        "14px",
+        "14px",
+        "13px",
+        "14px",
+        "14px"
+      ]
+    },
+    "nav": {
+      "w": 1024,
+      "h": 439.96875,
+      "scroll": 440,
+      "client": 440,
+      "links": [
+        {
+          "label": "Acupuncture traditionnelle",
+          "height": 45.59375
+        },
+        {
+          "label": "Aculift",
+          "height": 45.59375
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 45.59375
+        },
+        {
+          "label": "Santé féminine",
+          "height": 45.59375
+        },
+        {
+          "label": "À propos",
+          "height": 45.59375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Prendre rendez-vous",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "fr",
+    "path": "/fr/a-propos/",
+    "width": 768,
+    "height": 7322,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Lauriane",
+        "x": 24,
+        "y": 181.6875,
+        "w": 265.296875,
+        "h": 71.671875,
+        "size": "64px",
+        "line": "71.68px"
+      },
+      {
+        "text": "Je n’ai pas commencé par l’acupuncture.",
+        "x": 24,
+        "y": 634.75,
+        "w": 333.421875,
+        "h": 76.15625,
+        "size": "34px",
+        "line": "38.08px"
+      },
+      {
+        "text": "L’intuition, les rencontres… et les “coïncidences”",
+        "x": 24,
+        "y": 1380.546875,
+        "w": 688.59375,
+        "h": 76.15625,
+        "size": "34px",
+        "line": "38.08px"
+      },
+      {
+        "text": "La thérapeute vers laquelle je tends",
+        "x": 24,
+        "y": 3747.484375,
+        "w": 368.28125,
+        "h": 76.15625,
+        "size": "34px",
+        "line": "38.08px"
+      },
+      {
+        "text": "QUELQUES ÉTAPES DU CHEMIN",
+        "x": 24,
+        "y": 4861.75,
+        "w": 720,
+        "h": 21.6875,
+        "size": "14px",
+        "line": "21.7px"
+      },
+      {
+        "text": "ACUPUNCTURE TRADITIONNELLE",
+        "x": 24,
+        "y": 4915.4375,
+        "w": 187.0625,
+        "h": 106.6875,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "PRANIC HEALING",
+        "x": 24,
+        "y": 5058.125,
+        "w": 187.0625,
+        "h": 263.78125,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "YOGA",
+        "x": 24,
+        "y": 5357.90625,
+        "w": 187.0625,
+        "h": 133.03125,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "APPROCHES COMPLÉMENTAIRES",
+        "x": 24,
+        "y": 5526.9375,
+        "w": 187.0625,
+        "h": 52.6875,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "Pourquoi GAIA ?",
+        "x": 24,
+        "y": 5691.625,
+        "w": 272.34375,
+        "h": 38.078125,
+        "size": "34px",
+        "line": "38.08px"
+      },
+      {
+        "text": "Découvrir mon approche.",
+        "x": 424.375,
+        "y": 6691.15625,
+        "w": 319.625,
+        "h": 85.09375,
+        "size": "38px",
+        "line": "42.56px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "© 2026 GAIA by LaurianePratiques complémentaires, sans substitution au suivi médical.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Pratiques",
+        "x": 708.46875,
+        "y": 158,
+        "w": 103.78125,
+        "h": 44
+      },
+      {
+        "text": "Acupuncture traditionnelle",
+        "x": 726.46875,
+        "y": 206,
+        "w": 85.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "Aculift",
+        "x": 726.46875,
+        "y": 277.1875,
+        "w": 85.78125,
+        "h": 45.59375
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 726.46875,
+        "y": 322.78125,
+        "w": 85.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "Santé féminine",
+        "x": 708.46875,
+        "y": 206,
+        "w": 103.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "À propos",
+        "x": 708.46875,
+        "y": 281.1875,
+        "w": 103.78125,
+        "h": 45.59375
+      },
+      {
+        "text": "FR/EN",
+        "x": 708.46875,
+        "y": 330.78125,
+        "w": 103.78125,
+        "h": 44
+      },
+      {
+        "text": "Prendre rendez-vous",
+        "x": 708.46875,
+        "y": 386.78125,
+        "w": 103.78125,
+        "h": 95.390625
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/journal-hero-1200.webp",
+        "x": 406.1728210449219,
+        "y": 165.3478240966797,
+        "w": 344.4512023925781,
+        "h": 328.0386962890625,
+        "natural": [
+          345,
+          344
+        ],
+        "fit": "cover",
+        "position": "50% 15%"
+      },
+      {
+        "src": "/images/journal-travel-1200.webp",
+        "x": 455.22845458984375,
+        "y": 770.5878295898438,
+        "w": 294.4337158203125,
+        "h": 294.43365478515625,
+        "natural": [
+          345,
+          428
+        ],
+        "fit": "cover",
+        "position": "50% 52%"
+      },
+      {
+        "src": "/images/journal-india-1200.webp",
+        "x": 24,
+        "y": 2113.453125,
+        "w": 633.59375,
+        "h": 744.46875,
+        "natural": [
+          345,
+          748
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-yoga-1200.webp",
+        "x": 394,
+        "y": 2858.921875,
+        "w": 360,
+        "h": 480,
+        "natural": [
+          345,
+          460
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-practice-1200.webp",
+        "x": 442.671875,
+        "y": 3747.796875,
+        "w": 301.328125,
+        "h": 376.65625,
+        "natural": [
+          345,
+          460
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-training-1200.webp",
+        "x": 601.5,
+        "y": 4915.4375,
+        "w": 142.5,
+        "h": 190,
+        "natural": [
+          345,
+          460
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/about-yoga-1200.webp",
+        "x": 24,
+        "y": 6720.859375,
+        "w": 335.578125,
+        "h": 305.0625,
+        "natural": [
+          345,
+          259
+        ],
+        "fit": "cover",
+        "position": "51% 50%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "aj-section aj-hero",
+        "x": 0,
+        "y": 80,
+        "w": 768,
+        "h": 498.75,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      },
+      {
+        "class": "aj-section aj-origin",
+        "x": 0,
+        "y": 578.75,
+        "w": 768,
+        "h": 708.109375,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      },
+      {
+        "class": "aj-section aj-encounters",
+        "x": 0,
+        "y": 1286.859375,
+        "w": 768,
+        "h": 2120.5625,
+        "padding": [
+          "56px",
+          "40px"
+        ]
+      },
+      {
+        "class": "aj-statement",
+        "x": 0,
+        "y": 3407.421875,
+        "w": 768,
+        "h": 246.375,
+        "padding": [
+          "52px",
+          "52px"
+        ]
+      },
+      {
+        "class": "aj-section aj-therapist",
+        "x": 0,
+        "y": 3653.796875,
+        "w": 768,
+        "h": 1151.953125,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      },
+      {
+        "class": "aj-section aj-training",
+        "x": 0,
+        "y": 4805.75,
+        "w": 768,
+        "h": 829.875,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      },
+      {
+        "class": "aj-section aj-gaia",
+        "x": 0,
+        "y": 5635.625,
+        "w": 768,
+        "h": 999.53125,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      },
+      {
+        "class": "aj-section aj-ending",
+        "x": 0,
+        "y": 6635.15625,
+        "w": 768,
+        "h": 506.484375,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLiens\n\n© 2026 GAIA by Lauriane\nPratiques complémentaires, sans substitution au suivi médical.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Lauriane",
+          "lines": [
+            "Lauriane"
+          ]
+        },
+        {
+          "text": "Je n’ai pas commencé par l’acupuncture.",
+          "lines": [
+            "Je n’ai pas commencé",
+            "par l’acupuncture."
+          ]
+        },
+        {
+          "text": "L’intuition, les rencontres… et les “coïncidences”",
+          "lines": [
+            "L’intuition, les rencontres…",
+            "et les “coïncidences”"
+          ]
+        },
+        {
+          "text": "La thérapeute vers laquelle je tends",
+          "lines": [
+            "La thérapeute",
+            "vers laquelle je tends"
+          ]
+        },
+        {
+          "text": "QUELQUES ÉTAPES DU CHEMIN",
+          "lines": [
+            "QUELQUES ÉTAPES DU CHEMIN"
+          ]
+        },
+        {
+          "text": "ACUPUNCTURE TRADITIONNELLE",
+          "lines": [
+            "ACUPUNCTURE",
+            "TRADITIONNELLE"
+          ]
+        },
+        {
+          "text": "PRANIC HEALING",
+          "lines": [
+            "PRANIC HEALING"
+          ]
+        },
+        {
+          "text": "YOGA",
+          "lines": [
+            "YOGA"
+          ]
+        },
+        {
+          "text": "APPROCHES COMPLÉMENTAIRES",
+          "lines": [
+            "APPROCHES",
+            "COMPLÉMENTAIRES"
+          ]
+        },
+        {
+          "text": "Pourquoi GAIA ?",
+          "lines": [
+            "Pourquoi GAIA ?"
+          ]
+        },
+        {
+          "text": "Découvrir mon approche.",
+          "lines": [
+            "Découvrir",
+            "mon approche."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Liens",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Santé féminine",
+          "h": 0
+        },
+        {
+          "text": "À propos",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(74, 74, 74)",
+        "rgb(255, 253, 247)",
+        "rgb(255, 255, 255)"
+      ],
+      "language": [
+        "/en/about/",
+        "/en/about/"
+      ],
+      "booking": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "captions": [
+        "14px",
+        "14px",
+        "13px",
+        "14px",
+        "14px"
+      ]
+    },
+    "nav": {
+      "w": 768,
+      "h": 439.96875,
+      "scroll": 440,
+      "client": 440,
+      "links": [
+        {
+          "label": "Acupuncture traditionnelle",
+          "height": 45.59375
+        },
+        {
+          "label": "Aculift",
+          "height": 45.59375
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 45.59375
+        },
+        {
+          "label": "Santé féminine",
+          "height": 45.59375
+        },
+        {
+          "label": "À propos",
+          "height": 45.59375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Prendre rendez-vous",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "fr",
+    "path": "/fr/a-propos/",
+    "width": 430,
+    "height": 9116,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Lauriane",
+        "x": 20,
+        "y": 144.140625,
+        "w": 231.71875,
+        "h": 62.609375,
+        "size": "55.9px",
+        "line": "62.608px"
+      },
+      {
+        "text": "Je n’ai pas commencé par l’acupuncture.",
+        "x": 20,
+        "y": 900.71875,
+        "w": 390,
+        "h": 76.15625,
+        "size": "34px",
+        "line": "38.08px"
+      },
+      {
+        "text": "L’intuition, les rencontres… et les “coïncidences”",
+        "x": 20,
+        "y": 1936.453125,
+        "w": 390,
+        "h": 114.234375,
+        "size": "34px",
+        "line": "38.08px"
+      },
+      {
+        "text": "La thérapeute vers laquelle je tends",
+        "x": 20,
+        "y": 4151.171875,
+        "w": 390,
+        "h": 76.15625,
+        "size": "34px",
+        "line": "38.08px"
+      },
+      {
+        "text": "QUELQUES ÉTAPES DU CHEMIN",
+        "x": 20,
+        "y": 5663.640625,
+        "w": 390,
+        "h": 20.140625,
+        "size": "13px",
+        "line": "20.15px"
+      },
+      {
+        "text": "ACUPUNCTURE TRADITIONNELLE",
+        "x": 20,
+        "y": 5703.78125,
+        "w": 265.25,
+        "h": 21,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "PRANIC HEALING",
+        "x": 20,
+        "y": 5859.125,
+        "w": 265.25,
+        "h": 21,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "YOGA",
+        "x": 20,
+        "y": 6179.5625,
+        "w": 265.25,
+        "h": 21,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "APPROCHES COMPLÉMENTAIRES",
+        "x": 20,
+        "y": 6387.59375,
+        "w": 265.25,
+        "h": 21,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "Pourquoi GAIA ?",
+        "x": 20,
+        "y": 6974.0625,
+        "w": 390,
+        "h": 33.59375,
+        "size": "30px",
+        "line": "33.6px"
+      },
+      {
+        "text": "Découvrir mon approche.",
+        "x": 20,
+        "y": 8433.15625,
+        "w": 390,
+        "h": 91.46875,
+        "size": "40.85px",
+        "line": "45.752px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "À PROPOS",
+        "size": "13px"
+      },
+      {
+        "text": "Paris · Val-d’Oise · Goa",
+        "size": "13px"
+      },
+      {
+        "text": "LE CHEMIN",
+        "size": "13px"
+      },
+      {
+        "text": "DANS MA PRATIQUE",
+        "size": "13px"
+      },
+      {
+        "text": "© 2026 GAIA by LaurianePratiques complémentaires, sans substitution au suivi médical.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Pratiques",
+        "x": 370.46875,
+        "y": 158,
+        "w": 103.78125,
+        "h": 44
+      },
+      {
+        "text": "Acupuncture traditionnelle",
+        "x": 388.46875,
+        "y": 206,
+        "w": 85.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "Aculift",
+        "x": 388.46875,
+        "y": 277.1875,
+        "w": 85.78125,
+        "h": 45.59375
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 388.46875,
+        "y": 322.78125,
+        "w": 85.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "Santé féminine",
+        "x": 370.46875,
+        "y": 206,
+        "w": 103.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "À propos",
+        "x": 370.46875,
+        "y": 281.1875,
+        "w": 103.78125,
+        "h": 45.59375
+      },
+      {
+        "text": "FR/EN",
+        "x": 370.46875,
+        "y": 330.78125,
+        "w": 103.78125,
+        "h": 44
+      },
+      {
+        "text": "Prendre rendez-vous",
+        "x": 370.46875,
+        "y": 386.78125,
+        "w": 103.78125,
+        "h": 95.390625
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/journal-hero-1200.webp",
+        "x": 12.20001220703125,
+        "y": 445.8684387207031,
+        "w": 405.5999755859375,
+        "h": 386.2787780761719,
+        "natural": [
+          430,
+          428
+        ],
+        "fit": "cover",
+        "position": "50% 15%"
+      },
+      {
+        "src": "/images/journal-travel-1200.webp",
+        "x": 51.980010986328125,
+        "y": 1427.29248046875,
+        "w": 365.03997802734375,
+        "h": 365.0400390625,
+        "natural": [
+          430,
+          532
+        ],
+        "fit": "cover",
+        "position": "50% 52%"
+      },
+      {
+        "src": "/images/journal-india-1200.webp",
+        "x": 20,
+        "y": 2830.8125,
+        "w": 390,
+        "h": 487.5,
+        "natural": [
+          430,
+          931
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-yoga-1200.webp",
+        "x": 121.40625,
+        "y": 3365.3125,
+        "w": 288.59375,
+        "h": 384.78125,
+        "natural": [
+          430,
+          573
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-practice-1200.webp",
+        "x": 20,
+        "y": 5059.140625,
+        "w": 390,
+        "h": 487.5,
+        "natural": [
+          430,
+          573
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-training-1200.webp",
+        "x": 121.40625,
+        "y": 6501.28125,
+        "w": 288.59375,
+        "h": 384.78125,
+        "natural": [
+          430,
+          573
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/about-yoga-1200.webp",
+        "x": 20,
+        "y": 8031.03125,
+        "w": 390,
+        "h": 339.125,
+        "natural": [
+          430,
+          322
+        ],
+        "fit": "cover",
+        "position": "51% 50%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "aj-section aj-hero",
+        "x": 0,
+        "y": 80,
+        "w": 430,
+        "h": 780.71875,
+        "padding": [
+          "26px",
+          "36px"
+        ]
+      },
+      {
+        "class": "aj-section aj-origin",
+        "x": 0,
+        "y": 860.71875,
+        "w": 430,
+        "h": 993.59375,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "aj-section aj-encounters",
+        "x": 0,
+        "y": 1854.3125,
+        "w": 430,
+        "h": 1956.78125,
+        "padding": [
+          "44px",
+          "32px"
+        ]
+      },
+      {
+        "class": "aj-statement",
+        "x": 0,
+        "y": 3811.09375,
+        "w": 430,
+        "h": 257.9375,
+        "padding": [
+          "42px",
+          "42px"
+        ]
+      },
+      {
+        "class": "aj-section aj-therapist",
+        "x": 0,
+        "y": 4069.03125,
+        "w": 430,
+        "h": 1550.609375,
+        "padding": [
+          "44px",
+          "44px"
+        ]
+      },
+      {
+        "class": "aj-section aj-training",
+        "x": 0,
+        "y": 5619.640625,
+        "w": 430,
+        "h": 1310.421875,
+        "padding": [
+          "44px",
+          "44px"
+        ]
+      },
+      {
+        "class": "aj-section aj-gaia",
+        "x": 0,
+        "y": 6930.0625,
+        "w": 430,
+        "h": 1056.96875,
+        "padding": [
+          "44px",
+          "44px"
+        ]
+      },
+      {
+        "class": "aj-section aj-ending",
+        "x": 0,
+        "y": 7987.03125,
+        "w": 430,
+        "h": 778.984375,
+        "padding": [
+          "44px",
+          "44px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLiens\n\n© 2026 GAIA by Lauriane\nPratiques complémentaires, sans substitution au suivi médical.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Lauriane",
+          "lines": [
+            "Lauriane"
+          ]
+        },
+        {
+          "text": "Je n’ai pas commencé par l’acupuncture.",
+          "lines": [
+            "Je n’ai pas commencé par",
+            "l’acupuncture."
+          ]
+        },
+        {
+          "text": "L’intuition, les rencontres… et les “coïncidences”",
+          "lines": [
+            "L’intuition, les",
+            "rencontres… et",
+            "les “coïncidences”"
+          ]
+        },
+        {
+          "text": "La thérapeute vers laquelle je tends",
+          "lines": [
+            "La thérapeute",
+            "vers laquelle je tends"
+          ]
+        },
+        {
+          "text": "QUELQUES ÉTAPES DU CHEMIN",
+          "lines": [
+            "QUELQUES ÉTAPES DU CHEMIN"
+          ]
+        },
+        {
+          "text": "ACUPUNCTURE TRADITIONNELLE",
+          "lines": [
+            "ACUPUNCTURE TRADITIONNELLE"
+          ]
+        },
+        {
+          "text": "PRANIC HEALING",
+          "lines": [
+            "PRANIC HEALING"
+          ]
+        },
+        {
+          "text": "YOGA",
+          "lines": [
+            "YOGA"
+          ]
+        },
+        {
+          "text": "APPROCHES COMPLÉMENTAIRES",
+          "lines": [
+            "APPROCHES COMPLÉMENTAIRES"
+          ]
+        },
+        {
+          "text": "Pourquoi GAIA ?",
+          "lines": [
+            "Pourquoi GAIA ?"
+          ]
+        },
+        {
+          "text": "Découvrir mon approche.",
+          "lines": [
+            "Découvrir",
+            "mon approche."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Liens",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Santé féminine",
+          "h": 0
+        },
+        {
+          "text": "À propos",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(74, 74, 74)",
+        "rgb(255, 253, 247)",
+        "rgb(255, 255, 255)"
+      ],
+      "language": [
+        "/en/about/",
+        "/en/about/"
+      ],
+      "booking": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "captions": [
+        "14px",
+        "14px",
+        "14px",
+        "14px",
+        "14px"
+      ]
+    },
+    "nav": {
+      "w": 430,
+      "h": 439.96875,
+      "scroll": 440,
+      "client": 440,
+      "links": [
+        {
+          "label": "Acupuncture traditionnelle",
+          "height": 45.59375
+        },
+        {
+          "label": "Aculift",
+          "height": 45.59375
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 45.59375
+        },
+        {
+          "label": "Santé féminine",
+          "height": 45.59375
+        },
+        {
+          "label": "À propos",
+          "height": 45.59375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Prendre rendez-vous",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "fr",
+    "path": "/fr/a-propos/",
+    "width": 390,
+    "height": 9081,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Lauriane",
+        "x": 20,
+        "y": 144.140625,
+        "w": 210.15625,
+        "h": 56.78125,
+        "size": "50.7px",
+        "line": "56.784px"
+      },
+      {
+        "text": "Je n’ai pas commencé par l’acupuncture.",
+        "x": 20,
+        "y": 891.515625,
+        "w": 350,
+        "h": 69.875,
+        "size": "31.2px",
+        "line": "34.944px"
+      },
+      {
+        "text": "L’intuition, les rencontres… et les “coïncidences”",
+        "x": 20,
+        "y": 1912.15625,
+        "w": 350,
+        "h": 104.8125,
+        "size": "31.2px",
+        "line": "34.944px"
+      },
+      {
+        "text": "La thérapeute vers laquelle je tends",
+        "x": 20,
+        "y": 4093.53125,
+        "w": 350,
+        "h": 69.875,
+        "size": "31.2px",
+        "line": "34.944px"
+      },
+      {
+        "text": "QUELQUES ÉTAPES DU CHEMIN",
+        "x": 20,
+        "y": 5604.09375,
+        "w": 350,
+        "h": 20.140625,
+        "size": "13px",
+        "line": "20.15px"
+      },
+      {
+        "text": "ACUPUNCTURE TRADITIONNELLE",
+        "x": 20,
+        "y": 5644.234375,
+        "w": 265.25,
+        "h": 21,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "PRANIC HEALING",
+        "x": 20,
+        "y": 5825.921875,
+        "w": 265.25,
+        "h": 21,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "YOGA",
+        "x": 20,
+        "y": 6172.703125,
+        "w": 265.25,
+        "h": 21,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "APPROCHES COMPLÉMENTAIRES",
+        "x": 20,
+        "y": 6380.734375,
+        "w": 265.25,
+        "h": 21,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "Pourquoi GAIA ?",
+        "x": 20,
+        "y": 6927.75,
+        "w": 350,
+        "h": 33.59375,
+        "size": "30px",
+        "line": "33.6px"
+      },
+      {
+        "text": "Découvrir mon approche.",
+        "x": 20,
+        "y": 8406.4375,
+        "w": 350,
+        "h": 82.96875,
+        "size": "37.05px",
+        "line": "41.496px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "À PROPOS",
+        "size": "13px"
+      },
+      {
+        "text": "Paris · Val-d’Oise · Goa",
+        "size": "13px"
+      },
+      {
+        "text": "LE CHEMIN",
+        "size": "13px"
+      },
+      {
+        "text": "DANS MA PRATIQUE",
+        "size": "13px"
+      },
+      {
+        "text": "© 2026 GAIA by LaurianePratiques complémentaires, sans substitution au suivi médical.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Pratiques",
+        "x": 330.46875,
+        "y": 158,
+        "w": 103.78125,
+        "h": 44
+      },
+      {
+        "text": "Acupuncture traditionnelle",
+        "x": 348.46875,
+        "y": 206,
+        "w": 85.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "Aculift",
+        "x": 348.46875,
+        "y": 277.1875,
+        "w": 85.78125,
+        "h": 45.59375
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 348.46875,
+        "y": 322.78125,
+        "w": 85.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "Santé féminine",
+        "x": 330.46875,
+        "y": 206,
+        "w": 103.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "À propos",
+        "x": 330.46875,
+        "y": 281.1875,
+        "w": 103.78125,
+        "h": 45.59375
+      },
+      {
+        "text": "FR/EN",
+        "x": 330.46875,
+        "y": 330.78125,
+        "w": 103.78125,
+        "h": 44
+      },
+      {
+        "text": "Prendre rendez-vous",
+        "x": 330.46875,
+        "y": 386.78125,
+        "w": 103.78125,
+        "h": 95.390625
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/journal-hero-1200.webp",
+        "x": 13,
+        "y": 475.52093505859375,
+        "w": 364,
+        "h": 346.6612548828125,
+        "natural": [
+          390,
+          388
+        ],
+        "fit": "cover",
+        "position": "50% 15%"
+      },
+      {
+        "src": "/images/journal-travel-1200.webp",
+        "x": 48.70001220703125,
+        "y": 1439.715576171875,
+        "w": 327.5999755859375,
+        "h": 327.60009765625,
+        "natural": [
+          390,
+          483
+        ],
+        "fit": "cover",
+        "position": "50% 52%"
+      },
+      {
+        "src": "/images/journal-india-1200.webp",
+        "x": 20,
+        "y": 2851.46875,
+        "w": 350,
+        "h": 437.5,
+        "natural": [
+          390,
+          845
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-yoga-1200.webp",
+        "x": 111,
+        "y": 3356.96875,
+        "w": 259,
+        "h": 345.328125,
+        "natural": [
+          390,
+          519
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-practice-1200.webp",
+        "x": 20,
+        "y": 5049.59375,
+        "w": 350,
+        "h": 437.5,
+        "natural": [
+          390,
+          519
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-training-1200.webp",
+        "x": 111,
+        "y": 6494.421875,
+        "w": 259,
+        "h": 345.328125,
+        "natural": [
+          390,
+          519
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/about-yoga-1200.webp",
+        "x": 20,
+        "y": 8039.09375,
+        "w": 350,
+        "h": 304.34375,
+        "natural": [
+          390,
+          292
+        ],
+        "fit": "cover",
+        "position": "51% 50%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "aj-section aj-hero",
+        "x": 0,
+        "y": 80,
+        "w": 390,
+        "h": 771.515625,
+        "padding": [
+          "26px",
+          "36px"
+        ]
+      },
+      {
+        "class": "aj-section aj-origin",
+        "x": 0,
+        "y": 851.515625,
+        "w": 390,
+        "h": 978.5,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "aj-section aj-encounters",
+        "x": 0,
+        "y": 1830.015625,
+        "w": 390,
+        "h": 1933.28125,
+        "padding": [
+          "44px",
+          "32px"
+        ]
+      },
+      {
+        "class": "aj-statement",
+        "x": 0,
+        "y": 3763.296875,
+        "w": 390,
+        "h": 248.09375,
+        "padding": [
+          "42px",
+          "42px"
+        ]
+      },
+      {
+        "class": "aj-section aj-therapist",
+        "x": 0,
+        "y": 4011.390625,
+        "w": 390,
+        "h": 1548.703125,
+        "padding": [
+          "44px",
+          "44px"
+        ]
+      },
+      {
+        "class": "aj-section aj-training",
+        "x": 0,
+        "y": 5560.09375,
+        "w": 390,
+        "h": 1323.65625,
+        "padding": [
+          "44px",
+          "44px"
+        ]
+      },
+      {
+        "class": "aj-section aj-gaia",
+        "x": 0,
+        "y": 6883.75,
+        "w": 390,
+        "h": 1111.34375,
+        "padding": [
+          "44px",
+          "44px"
+        ]
+      },
+      {
+        "class": "aj-section aj-ending",
+        "x": 0,
+        "y": 7995.09375,
+        "w": 390,
+        "h": 735.703125,
+        "padding": [
+          "44px",
+          "44px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLiens\n\n© 2026 GAIA by Lauriane\nPratiques complémentaires, sans substitution au suivi médical.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Lauriane",
+          "lines": [
+            "Lauriane"
+          ]
+        },
+        {
+          "text": "Je n’ai pas commencé par l’acupuncture.",
+          "lines": [
+            "Je n’ai pas commencé par",
+            "l’acupuncture."
+          ]
+        },
+        {
+          "text": "L’intuition, les rencontres… et les “coïncidences”",
+          "lines": [
+            "L’intuition, les",
+            "rencontres… et",
+            "les “coïncidences”"
+          ]
+        },
+        {
+          "text": "La thérapeute vers laquelle je tends",
+          "lines": [
+            "La thérapeute",
+            "vers laquelle je tends"
+          ]
+        },
+        {
+          "text": "QUELQUES ÉTAPES DU CHEMIN",
+          "lines": [
+            "QUELQUES ÉTAPES DU CHEMIN"
+          ]
+        },
+        {
+          "text": "ACUPUNCTURE TRADITIONNELLE",
+          "lines": [
+            "ACUPUNCTURE TRADITIONNELLE"
+          ]
+        },
+        {
+          "text": "PRANIC HEALING",
+          "lines": [
+            "PRANIC HEALING"
+          ]
+        },
+        {
+          "text": "YOGA",
+          "lines": [
+            "YOGA"
+          ]
+        },
+        {
+          "text": "APPROCHES COMPLÉMENTAIRES",
+          "lines": [
+            "APPROCHES COMPLÉMENTAIRES"
+          ]
+        },
+        {
+          "text": "Pourquoi GAIA ?",
+          "lines": [
+            "Pourquoi GAIA ?"
+          ]
+        },
+        {
+          "text": "Découvrir mon approche.",
+          "lines": [
+            "Découvrir",
+            "mon approche."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Liens",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Santé féminine",
+          "h": 0
+        },
+        {
+          "text": "À propos",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(74, 74, 74)",
+        "rgb(255, 253, 247)",
+        "rgb(255, 255, 255)"
+      ],
+      "language": [
+        "/en/about/",
+        "/en/about/"
+      ],
+      "booking": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "captions": [
+        "14px",
+        "14px",
+        "14px",
+        "14px",
+        "14px"
+      ]
+    },
+    "nav": {
+      "w": 390,
+      "h": 439.96875,
+      "scroll": 440,
+      "client": 440,
+      "links": [
+        {
+          "label": "Acupuncture traditionnelle",
+          "height": 45.59375
+        },
+        {
+          "label": "Aculift",
+          "height": 45.59375
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 45.59375
+        },
+        {
+          "label": "Santé féminine",
+          "height": 45.59375
+        },
+        {
+          "label": "À propos",
+          "height": 45.59375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Prendre rendez-vous",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "fr",
+    "path": "/fr/a-propos/",
+    "width": 360,
+    "height": 9004,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Lauriane",
+        "x": 20,
+        "y": 144.140625,
+        "w": 198.96875,
+        "h": 53.75,
+        "size": "48px",
+        "line": "53.76px"
+      },
+      {
+        "text": "Je n’ai pas commencé par l’acupuncture.",
+        "x": 20,
+        "y": 859.90625,
+        "w": 320,
+        "h": 64.9375,
+        "size": "29px",
+        "line": "32.48px"
+      },
+      {
+        "text": "L’intuition, les rencontres… et les “coïncidences”",
+        "x": 20,
+        "y": 1875.796875,
+        "w": 320,
+        "h": 97.40625,
+        "size": "29px",
+        "line": "32.48px"
+      },
+      {
+        "text": "La thérapeute vers laquelle je tends",
+        "x": 20,
+        "y": 4060.5,
+        "w": 320,
+        "h": 64.9375,
+        "size": "29px",
+        "line": "32.48px"
+      },
+      {
+        "text": "QUELQUES ÉTAPES DU CHEMIN",
+        "x": 20,
+        "y": 5528.625,
+        "w": 320,
+        "h": 20.140625,
+        "size": "13px",
+        "line": "20.15px"
+      },
+      {
+        "text": "ACUPUNCTURE TRADITIONNELLE",
+        "x": 20,
+        "y": 5568.765625,
+        "w": 265.25,
+        "h": 21,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "PRANIC HEALING",
+        "x": 20,
+        "y": 5750.453125,
+        "w": 265.25,
+        "h": 21,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "YOGA",
+        "x": 20,
+        "y": 6097.234375,
+        "w": 265.25,
+        "h": 21,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "APPROCHES COMPLÉMENTAIRES",
+        "x": 20,
+        "y": 6305.265625,
+        "w": 265.25,
+        "h": 21,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "Pourquoi GAIA ?",
+        "x": 20,
+        "y": 6822.671875,
+        "w": 320,
+        "h": 33.59375,
+        "size": "30px",
+        "line": "33.6px"
+      },
+      {
+        "text": "Découvrir mon approche.",
+        "x": 20,
+        "y": 8331.84375,
+        "w": 320,
+        "h": 80.625,
+        "size": "36px",
+        "line": "40.32px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "À PROPOS",
+        "size": "13px"
+      },
+      {
+        "text": "Paris · Val-d’Oise · Goa",
+        "size": "13px"
+      },
+      {
+        "text": "LE CHEMIN",
+        "size": "13px"
+      },
+      {
+        "text": "DANS MA PRATIQUE",
+        "size": "13px"
+      },
+      {
+        "text": "© 2026 GAIA by LaurianePratiques complémentaires, sans substitution au suivi médical.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Pratiques",
+        "x": 300.46875,
+        "y": 158,
+        "w": 103.78125,
+        "h": 44
+      },
+      {
+        "text": "Acupuncture traditionnelle",
+        "x": 318.46875,
+        "y": 206,
+        "w": 85.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "Aculift",
+        "x": 318.46875,
+        "y": 277.1875,
+        "w": 85.78125,
+        "h": 45.59375
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 318.46875,
+        "y": 322.78125,
+        "w": 85.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "Santé féminine",
+        "x": 300.46875,
+        "y": 206,
+        "w": 103.78125,
+        "h": 71.1875
+      },
+      {
+        "text": "À propos",
+        "x": 300.46875,
+        "y": 281.1875,
+        "w": 103.78125,
+        "h": 45.59375
+      },
+      {
+        "text": "FR/EN",
+        "x": 300.46875,
+        "y": 330.78125,
+        "w": 103.78125,
+        "h": 44
+      },
+      {
+        "text": "Prendre rendez-vous",
+        "x": 300.46875,
+        "y": 386.78125,
+        "w": 103.78125,
+        "h": 95.390625
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/journal-hero-1200.webp",
+        "x": 13.600006103515625,
+        "y": 473.0612487792969,
+        "w": 332.79998779296875,
+        "h": 316.9399719238281,
+        "natural": [
+          360,
+          358
+        ],
+        "fit": "cover",
+        "position": "50% 15%"
+      },
+      {
+        "src": "/images/journal-travel-1200.webp",
+        "x": 46.24000549316406,
+        "y": 1430.896240234375,
+        "w": 299.52001953125,
+        "h": 299.52001953125,
+        "natural": [
+          360,
+          446
+        ],
+        "fit": "cover",
+        "position": "50% 52%"
+      },
+      {
+        "src": "/images/journal-india-1200.webp",
+        "x": 20,
+        "y": 2889.265625,
+        "w": 320,
+        "h": 400,
+        "natural": [
+          360,
+          780
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-yoga-1200.webp",
+        "x": 103.203125,
+        "y": 3357.265625,
+        "w": 236.796875,
+        "h": 315.71875,
+        "natural": [
+          360,
+          479
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-practice-1200.webp",
+        "x": 20,
+        "y": 5011.625,
+        "w": 320,
+        "h": 400,
+        "natural": [
+          360,
+          479
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-training-1200.webp",
+        "x": 103.203125,
+        "y": 6418.953125,
+        "w": 236.796875,
+        "h": 315.71875,
+        "natural": [
+          360,
+          479
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/about-yoga-1200.webp",
+        "x": 20,
+        "y": 7990.59375,
+        "w": 320,
+        "h": 278.25,
+        "natural": [
+          360,
+          270
+        ],
+        "fit": "cover",
+        "position": "51% 50%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "aj-section aj-hero",
+        "x": 0,
+        "y": 80,
+        "w": 360,
+        "h": 739.90625,
+        "padding": [
+          "26px",
+          "36px"
+        ]
+      },
+      {
+        "class": "aj-section aj-origin",
+        "x": 0,
+        "y": 819.90625,
+        "w": 360,
+        "h": 973.75,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "aj-section aj-encounters",
+        "x": 0,
+        "y": 1793.65625,
+        "w": 360,
+        "h": 1940.328125,
+        "padding": [
+          "44px",
+          "32px"
+        ]
+      },
+      {
+        "class": "aj-statement",
+        "x": 0,
+        "y": 3733.984375,
+        "w": 360,
+        "h": 244.375,
+        "padding": [
+          "42px",
+          "42px"
+        ]
+      },
+      {
+        "class": "aj-section aj-therapist",
+        "x": 0,
+        "y": 3978.359375,
+        "w": 360,
+        "h": 1506.265625,
+        "padding": [
+          "44px",
+          "44px"
+        ]
+      },
+      {
+        "class": "aj-section aj-training",
+        "x": 0,
+        "y": 5484.625,
+        "w": 360,
+        "h": 1294.046875,
+        "padding": [
+          "44px",
+          "44px"
+        ]
+      },
+      {
+        "class": "aj-section aj-gaia",
+        "x": 0,
+        "y": 6778.671875,
+        "w": 360,
+        "h": 1167.921875,
+        "padding": [
+          "44px",
+          "44px"
+        ]
+      },
+      {
+        "class": "aj-section aj-ending",
+        "x": 0,
+        "y": 7946.59375,
+        "w": 360,
+        "h": 707.265625,
+        "padding": [
+          "44px",
+          "44px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLiens\n\n© 2026 GAIA by Lauriane\nPratiques complémentaires, sans substitution au suivi médical.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Lauriane",
+          "lines": [
+            "Lauriane"
+          ]
+        },
+        {
+          "text": "Je n’ai pas commencé par l’acupuncture.",
+          "lines": [
+            "Je n’ai pas commencé",
+            "par l’acupuncture."
+          ]
+        },
+        {
+          "text": "L’intuition, les rencontres… et les “coïncidences”",
+          "lines": [
+            "L’intuition, les",
+            "rencontres… et",
+            "les “coïncidences”"
+          ]
+        },
+        {
+          "text": "La thérapeute vers laquelle je tends",
+          "lines": [
+            "La thérapeute",
+            "vers laquelle je tends"
+          ]
+        },
+        {
+          "text": "QUELQUES ÉTAPES DU CHEMIN",
+          "lines": [
+            "QUELQUES ÉTAPES DU CHEMIN"
+          ]
+        },
+        {
+          "text": "ACUPUNCTURE TRADITIONNELLE",
+          "lines": [
+            "ACUPUNCTURE TRADITIONNELLE"
+          ]
+        },
+        {
+          "text": "PRANIC HEALING",
+          "lines": [
+            "PRANIC HEALING"
+          ]
+        },
+        {
+          "text": "YOGA",
+          "lines": [
+            "YOGA"
+          ]
+        },
+        {
+          "text": "APPROCHES COMPLÉMENTAIRES",
+          "lines": [
+            "APPROCHES COMPLÉMENTAIRES"
+          ]
+        },
+        {
+          "text": "Pourquoi GAIA ?",
+          "lines": [
+            "Pourquoi GAIA ?"
+          ]
+        },
+        {
+          "text": "Découvrir mon approche.",
+          "lines": [
+            "Découvrir",
+            "mon approche."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Liens",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Santé féminine",
+          "h": 0
+        },
+        {
+          "text": "À propos",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(74, 74, 74)",
+        "rgb(255, 253, 247)",
+        "rgb(255, 255, 255)"
+      ],
+      "language": [
+        "/en/about/",
+        "/en/about/"
+      ],
+      "booking": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "captions": [
+        "14px",
+        "14px",
+        "14px",
+        "14px",
+        "14px"
+      ]
+    },
+    "nav": {
+      "w": 360,
+      "h": 439.96875,
+      "scroll": 440,
+      "client": 440,
+      "links": [
+        {
+          "label": "Acupuncture traditionnelle",
+          "height": 45.59375
+        },
+        {
+          "label": "Aculift",
+          "height": 45.59375
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 45.59375
+        },
+        {
+          "label": "Santé féminine",
+          "height": 45.59375
+        },
+        {
+          "label": "À propos",
+          "height": 45.59375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Prendre rendez-vous",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "en",
+    "path": "/en/about/",
+    "width": 1440,
+    "height": 6028,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Lauriane",
+        "x": 80,
+        "y": 262.9375,
+        "w": 315.03125,
+        "h": 85.109375,
+        "size": "76px",
+        "line": "85.12px"
+      },
+      {
+        "text": "I didn’t start with acupuncture.",
+        "x": 80,
+        "y": 870.796875,
+        "w": 538.71875,
+        "h": 94.0625,
+        "size": "42px",
+        "line": "47.04px"
+      },
+      {
+        "text": "Intuition, encounters… and “coincidences”",
+        "x": 753.671875,
+        "y": 1519.75,
+        "w": 606.328125,
+        "h": 94.0625,
+        "size": "42px",
+        "line": "47.04px"
+      },
+      {
+        "text": "The kind of practitioner I want to be",
+        "x": 80,
+        "y": 2862.015625,
+        "w": 623.375,
+        "h": 94.0625,
+        "size": "42px",
+        "line": "47.04px"
+      },
+      {
+        "text": "A FEW STEPS ALONG THE WAY",
+        "x": 80,
+        "y": 3682.328125,
+        "w": 1280,
+        "h": 21.6875,
+        "size": "14px",
+        "line": "21.7px"
+      },
+      {
+        "text": "TRADITIONAL ACUPUNCTURE",
+        "x": 80,
+        "y": 3736.015625,
+        "w": 298.453125,
+        "h": 80.34375,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "PRANIC HEALING",
+        "x": 80,
+        "y": 3852.359375,
+        "w": 298.453125,
+        "h": 237.4375,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "YOGA",
+        "x": 80,
+        "y": 4125.796875,
+        "w": 298.453125,
+        "h": 133.03125,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "COMPLEMENTARY APPROACHES",
+        "x": 80,
+        "y": 4294.828125,
+        "w": 298.453125,
+        "h": 26.34375,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "Why GAIA?",
+        "x": 80,
+        "y": 4441.171875,
+        "w": 484.15625,
+        "h": 38.078125,
+        "size": "34px",
+        "line": "38.08px"
+      },
+      {
+        "text": "Explore my approach.",
+        "x": 791.796875,
+        "y": 5342.375,
+        "w": 568.203125,
+        "h": 116.46875,
+        "size": "52px",
+        "line": "58.24px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [],
+    "images": [
+      {
+        "src": "/images/journal-hero-1200.webp",
+        "x": 759.4112548828125,
+        "y": 124.78469848632812,
+        "w": 612.364990234375,
+        "h": 583.1962890625,
+        "natural": [
+          583,
+          581
+        ],
+        "fit": "cover",
+        "position": "50% 15%"
+      },
+      {
+        "src": "/images/journal-travel-1200.webp",
+        "x": 846.63720703125,
+        "y": 814.69970703125,
+        "w": 523.4287109375,
+        "h": 523.4287109375,
+        "natural": [
+          583,
+          722
+        ],
+        "fit": "cover",
+        "position": "50% 52%"
+      },
+      {
+        "src": "/images/journal-india-1200.webp",
+        "x": 80,
+        "y": 1482.0625,
+        "w": 480.1875,
+        "h": 564.21875,
+        "natural": [
+          583,
+          1263
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-yoga-1200.webp",
+        "x": 362.84375,
+        "y": 2047.28125,
+        "w": 272.828125,
+        "h": 363.765625,
+        "natural": [
+          518,
+          691
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-practice-1200.webp",
+        "x": 841.59375,
+        "y": 2862.328125,
+        "w": 518.40625,
+        "h": 648,
+        "natural": [
+          648,
+          864
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-training-1200.webp",
+        "x": 1109.328125,
+        "y": 3736.015625,
+        "w": 250.65625,
+        "h": 334.203125,
+        "natural": [
+          648,
+          864
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/about-yoga-1200.webp",
+        "x": 80,
+        "y": 5215.125,
+        "w": 596.609375,
+        "h": 542.359375,
+        "natural": [
+          648,
+          486
+        ],
+        "fit": "cover",
+        "position": "51% 50%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "aj-section aj-hero",
+        "x": 0,
+        "y": 100,
+        "w": 1440,
+        "h": 660.765625,
+        "padding": [
+          "36px",
+          "64px"
+        ]
+      },
+      {
+        "class": "aj-section aj-origin",
+        "x": 0,
+        "y": 760.765625,
+        "w": 1440,
+        "h": 657.296875,
+        "padding": [
+          "64px",
+          "60px"
+        ]
+      },
+      {
+        "class": "aj-section aj-encounters",
+        "x": 0,
+        "y": 1418.0625,
+        "w": 1440,
+        "h": 1061.484375,
+        "padding": [
+          "64px",
+          "40px"
+        ]
+      },
+      {
+        "class": "aj-statement",
+        "x": 0,
+        "y": 2479.546875,
+        "w": 1440,
+        "h": 272.78125,
+        "padding": [
+          "52px",
+          "52px"
+        ]
+      },
+      {
+        "class": "aj-section aj-therapist",
+        "x": 0,
+        "y": 2752.328125,
+        "w": 1440,
+        "h": 882,
+        "padding": [
+          "72px",
+          "72px"
+        ]
+      },
+      {
+        "class": "aj-section aj-training",
+        "x": 0,
+        "y": 3634.328125,
+        "w": 1440,
+        "h": 742.84375,
+        "padding": [
+          "48px",
+          "56px"
+        ]
+      },
+      {
+        "class": "aj-section aj-gaia",
+        "x": 0,
+        "y": 4377.171875,
+        "w": 1440,
+        "h": 777.953125,
+        "padding": [
+          "64px",
+          "64px"
+        ]
+      },
+      {
+        "class": "aj-section aj-ending",
+        "x": 0,
+        "y": 5155.125,
+        "w": 1440,
+        "h": 692.359375,
+        "padding": [
+          "60px",
+          "60px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLinks\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Lauriane",
+          "lines": [
+            "Lauriane"
+          ]
+        },
+        {
+          "text": "I didn’t start with acupuncture.",
+          "lines": [
+            "I didn’t start with",
+            "acupuncture."
+          ]
+        },
+        {
+          "text": "Intuition, encounters… and “coincidences”",
+          "lines": [
+            "Intuition, encounters…",
+            "and “coincidences”"
+          ]
+        },
+        {
+          "text": "The kind of practitioner I want to be",
+          "lines": [
+            "The kind of practitioner",
+            "I want to be"
+          ]
+        },
+        {
+          "text": "A FEW STEPS ALONG THE WAY",
+          "lines": [
+            "A FEW STEPS ALONG THE WAY"
+          ]
+        },
+        {
+          "text": "TRADITIONAL ACUPUNCTURE",
+          "lines": [
+            "TRADITIONAL ACUPUNCTURE"
+          ]
+        },
+        {
+          "text": "PRANIC HEALING",
+          "lines": [
+            "PRANIC HEALING"
+          ]
+        },
+        {
+          "text": "YOGA",
+          "lines": [
+            "YOGA"
+          ]
+        },
+        {
+          "text": "COMPLEMENTARY APPROACHES",
+          "lines": [
+            "COMPLEMENTARY APPROACHES"
+          ]
+        },
+        {
+          "text": "Why GAIA?",
+          "lines": [
+            "Why GAIA?"
+          ]
+        },
+        {
+          "text": "Explore my approach.",
+          "lines": [
+            "Explore",
+            "my approach."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 44
+        },
+        {
+          "text": "About",
+          "h": 44
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(74, 74, 74)",
+        "rgb(255, 253, 247)"
+      ],
+      "language": [
+        "/fr/a-propos/",
+        "/fr/a-propos/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "captions": [
+        "14px",
+        "14px",
+        "13px",
+        "14px",
+        "14px"
+      ]
+    },
+    "dropdown": {
+      "x": 454.296875,
+      "y": 80,
+      "width": 262,
+      "height": 156
+    },
+    "escape": true
+  },
+  {
+    "page": "en",
+    "path": "/en/about/",
+    "width": 1280,
+    "height": 5795,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Lauriane",
+        "x": 64,
+        "y": 245.703125,
+        "w": 281.171875,
+        "h": 75.984375,
+        "size": "67.84px",
+        "line": "75.9808px"
+      },
+      {
+        "text": "I didn’t start with acupuncture.",
+        "x": 64,
+        "y": 793.578125,
+        "w": 492.546875,
+        "h": 86,
+        "size": "38.4px",
+        "line": "43.008px"
+      },
+      {
+        "text": "Intuition, encounters… and “coincidences”",
+        "x": 670.296875,
+        "y": 1413.34375,
+        "w": 545.703125,
+        "h": 86,
+        "size": "38.4px",
+        "line": "43.008px"
+      },
+      {
+        "text": "The kind of practitioner I want to be",
+        "x": 64,
+        "y": 2662.8125,
+        "w": 570.234375,
+        "h": 86,
+        "size": "38.4px",
+        "line": "43.008px"
+      },
+      {
+        "text": "A FEW STEPS ALONG THE WAY",
+        "x": 64,
+        "y": 3503.859375,
+        "w": 1152,
+        "h": 21.6875,
+        "size": "14px",
+        "line": "21.7px"
+      },
+      {
+        "text": "TRADITIONAL ACUPUNCTURE",
+        "x": 64,
+        "y": 3557.546875,
+        "w": 268.609375,
+        "h": 80.34375,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "PRANIC HEALING",
+        "x": 64,
+        "y": 3673.890625,
+        "w": 268.609375,
+        "h": 237.4375,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "YOGA",
+        "x": 64,
+        "y": 3947.328125,
+        "w": 268.609375,
+        "h": 133.03125,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "COMPLEMENTARY APPROACHES",
+        "x": 64,
+        "y": 4116.359375,
+        "w": 268.609375,
+        "h": 26.34375,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "Why GAIA?",
+        "x": 64,
+        "y": 4262.703125,
+        "w": 435.734375,
+        "h": 38.078125,
+        "size": "34px",
+        "line": "38.08px"
+      },
+      {
+        "text": "Explore my approach.",
+        "x": 704.609375,
+        "y": 5140.546875,
+        "w": 511.390625,
+        "h": 108.9375,
+        "size": "48.64px",
+        "line": "54.4768px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [],
+    "images": [
+      {
+        "src": "/images/journal-hero-1200.webp",
+        "x": 675.479736328125,
+        "y": 125.90625,
+        "w": 551.11865234375,
+        "h": 524.875,
+        "natural": [
+          576,
+          574
+        ],
+        "fit": "cover",
+        "position": "50% 15%"
+      },
+      {
+        "src": "/images/journal-travel-1200.webp",
+        "x": 753.9718627929688,
+        "y": 759.6281127929688,
+        "w": 471.08746337890625,
+        "h": 471.08746337890625,
+        "natural": [
+          576,
+          713
+        ],
+        "fit": "cover",
+        "position": "50% 52%"
+      },
+      {
+        "src": "/images/journal-india-1200.webp",
+        "x": 64,
+        "y": 1375.65625,
+        "w": 432.171875,
+        "h": 507.796875,
+        "natural": [
+          576,
+          1248
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-yoga-1200.webp",
+        "x": 319.5625,
+        "y": 1884.453125,
+        "w": 245.546875,
+        "h": 327.390625,
+        "natural": [
+          576,
+          767
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-practice-1200.webp",
+        "x": 749.421875,
+        "y": 2663.125,
+        "w": 466.578125,
+        "h": 583.21875,
+        "natural": [
+          576,
+          767
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-training-1200.webp",
+        "x": 990.390625,
+        "y": 3557.546875,
+        "w": 225.59375,
+        "h": 300.78125,
+        "natural": [
+          576,
+          767
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/about-yoga-1200.webp",
+        "x": 64,
+        "y": 5036.65625,
+        "w": 536.9375,
+        "h": 488.125,
+        "natural": [
+          576,
+          432
+        ],
+        "fit": "cover",
+        "position": "51% 50%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "aj-section aj-hero",
+        "x": 0,
+        "y": 100,
+        "w": 1280,
+        "h": 604.6875,
+        "padding": [
+          "36px",
+          "64px"
+        ]
+      },
+      {
+        "class": "aj-section aj-origin",
+        "x": 0,
+        "y": 704.6875,
+        "w": 1280,
+        "h": 606.96875,
+        "padding": [
+          "64px",
+          "60px"
+        ]
+      },
+      {
+        "class": "aj-section aj-encounters",
+        "x": 0,
+        "y": 1311.65625,
+        "w": 1280,
+        "h": 968.6875,
+        "padding": [
+          "64px",
+          "40px"
+        ]
+      },
+      {
+        "class": "aj-statement",
+        "x": 0,
+        "y": 2280.34375,
+        "w": 1280,
+        "h": 272.78125,
+        "padding": [
+          "52px",
+          "52px"
+        ]
+      },
+      {
+        "class": "aj-section aj-therapist",
+        "x": 0,
+        "y": 2553.125,
+        "w": 1280,
+        "h": 902.734375,
+        "padding": [
+          "72px",
+          "72px"
+        ]
+      },
+      {
+        "class": "aj-section aj-training",
+        "x": 0,
+        "y": 3455.859375,
+        "w": 1280,
+        "h": 742.84375,
+        "padding": [
+          "48px",
+          "56px"
+        ]
+      },
+      {
+        "class": "aj-section aj-gaia",
+        "x": 0,
+        "y": 4198.703125,
+        "w": 1280,
+        "h": 777.953125,
+        "padding": [
+          "64px",
+          "64px"
+        ]
+      },
+      {
+        "class": "aj-section aj-ending",
+        "x": 0,
+        "y": 4976.65625,
+        "w": 1280,
+        "h": 638.125,
+        "padding": [
+          "60px",
+          "60px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLinks\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Lauriane",
+          "lines": [
+            "Lauriane"
+          ]
+        },
+        {
+          "text": "I didn’t start with acupuncture.",
+          "lines": [
+            "I didn’t start with",
+            "acupuncture."
+          ]
+        },
+        {
+          "text": "Intuition, encounters… and “coincidences”",
+          "lines": [
+            "Intuition, encounters…",
+            "and “coincidences”"
+          ]
+        },
+        {
+          "text": "The kind of practitioner I want to be",
+          "lines": [
+            "The kind of practitioner",
+            "I want to be"
+          ]
+        },
+        {
+          "text": "A FEW STEPS ALONG THE WAY",
+          "lines": [
+            "A FEW STEPS ALONG THE WAY"
+          ]
+        },
+        {
+          "text": "TRADITIONAL ACUPUNCTURE",
+          "lines": [
+            "TRADITIONAL ACUPUNCTURE"
+          ]
+        },
+        {
+          "text": "PRANIC HEALING",
+          "lines": [
+            "PRANIC HEALING"
+          ]
+        },
+        {
+          "text": "YOGA",
+          "lines": [
+            "YOGA"
+          ]
+        },
+        {
+          "text": "COMPLEMENTARY APPROACHES",
+          "lines": [
+            "COMPLEMENTARY APPROACHES"
+          ]
+        },
+        {
+          "text": "Why GAIA?",
+          "lines": [
+            "Why GAIA?"
+          ]
+        },
+        {
+          "text": "Explore my approach.",
+          "lines": [
+            "Explore",
+            "my approach."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 44
+        },
+        {
+          "text": "About",
+          "h": 44
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(74, 74, 74)",
+        "rgb(255, 253, 247)"
+      ],
+      "language": [
+        "/fr/a-propos/",
+        "/fr/a-propos/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "captions": [
+        "14px",
+        "14px",
+        "13px",
+        "14px",
+        "14px"
+      ]
+    },
+    "dropdown": {
+      "x": 380.4375,
+      "y": 80,
+      "width": 262,
+      "height": 156
+    },
+    "escape": true
+  },
+  {
+    "page": "en",
+    "path": "/en/about/",
+    "width": 1024,
+    "height": 5648,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Lauriane",
+        "x": 40,
+        "y": 213.0625,
+        "w": 265.296875,
+        "h": 71.671875,
+        "size": "64px",
+        "line": "71.68px"
+      },
+      {
+        "text": "I didn’t start with acupuncture.",
+        "x": 40,
+        "y": 661.5625,
+        "w": 436.109375,
+        "h": 76.15625,
+        "size": "34px",
+        "line": "38.08px"
+      },
+      {
+        "text": "Intuition, encounters… and “coincidences”",
+        "x": 521.921875,
+        "y": 1320.96875,
+        "w": 462.078125,
+        "h": 76.15625,
+        "size": "34px",
+        "line": "38.08px"
+      },
+      {
+        "text": "The kind of practitioner I want to be",
+        "x": 40,
+        "y": 2439.296875,
+        "w": 482.84375,
+        "h": 76.15625,
+        "size": "34px",
+        "line": "38.08px"
+      },
+      {
+        "text": "A FEW STEPS ALONG THE WAY",
+        "x": 40,
+        "y": 3377.6875,
+        "w": 944,
+        "h": 21.6875,
+        "size": "14px",
+        "line": "21.7px"
+      },
+      {
+        "text": "TRADITIONAL ACUPUNCTURE",
+        "x": 40,
+        "y": 3431.375,
+        "w": 245.265625,
+        "h": 80.34375,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "PRANIC HEALING",
+        "x": 40,
+        "y": 3547.71875,
+        "w": 245.265625,
+        "h": 237.4375,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "YOGA",
+        "x": 40,
+        "y": 3821.15625,
+        "w": 245.265625,
+        "h": 133.03125,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "COMPLEMENTARY APPROACHES",
+        "x": 40,
+        "y": 3990.1875,
+        "w": 245.265625,
+        "h": 52.6875,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "Why GAIA?",
+        "x": 40,
+        "y": 4154.875,
+        "w": 357.0625,
+        "h": 38.078125,
+        "size": "34px",
+        "line": "38.08px"
+      },
+      {
+        "text": "Explore my approach.",
+        "x": 564.9375,
+        "y": 4998.359375,
+        "w": 419.0625,
+        "h": 87.125,
+        "size": "38.912px",
+        "line": "43.5814px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Practices",
+        "x": 964.46875,
+        "y": 158,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Traditional Acupuncture",
+        "x": 982.46875,
+        "y": 206,
+        "w": 125.296875,
+        "h": 71.1875
+      },
+      {
+        "text": "Aculift",
+        "x": 982.46875,
+        "y": 277.1875,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 982.46875,
+        "y": 322.78125,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Women’s Health",
+        "x": 964.46875,
+        "y": 206,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "About",
+        "x": 964.46875,
+        "y": 255.59375,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "FR/EN",
+        "x": 964.46875,
+        "y": 305.1875,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Book an appointment",
+        "x": 964.46875,
+        "y": 361.1875,
+        "w": 143.296875,
+        "h": 71.59375
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/journal-hero-1200.webp",
+        "x": 541.0650024414062,
+        "y": 127.728759765625,
+        "w": 451.6199951171875,
+        "h": 430.10498046875,
+        "natural": [
+          460,
+          459
+        ],
+        "fit": "cover",
+        "position": "50% 15%"
+      },
+      {
+        "src": "/images/journal-travel-1200.webp",
+        "x": 605.3890380859375,
+        "y": 708.4046630859375,
+        "w": 386.018798828125,
+        "h": 386.018798828125,
+        "natural": [
+          460,
+          570
+        ],
+        "fit": "cover",
+        "position": "50% 52%"
+      },
+      {
+        "src": "/images/journal-india-1200.webp",
+        "x": 40,
+        "y": 1283.28125,
+        "w": 365.9375,
+        "h": 429.96875,
+        "natural": [
+          460,
+          998
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-yoga-1200.webp",
+        "x": 257.921875,
+        "y": 1735.25,
+        "w": 207.921875,
+        "h": 277.21875,
+        "natural": [
+          460,
+          614
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-practice-1200.webp",
+        "x": 588.921875,
+        "y": 2439.609375,
+        "w": 395.078125,
+        "h": 493.84375,
+        "natural": [
+          460,
+          614
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-training-1200.webp",
+        "x": 797.15625,
+        "y": 3431.375,
+        "w": 186.84375,
+        "h": 249.125,
+        "natural": [
+          460,
+          614
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/about-yoga-1200.webp",
+        "x": 40,
+        "y": 4981.625,
+        "w": 439.984375,
+        "h": 399.984375,
+        "natural": [
+          460,
+          345
+        ],
+        "fit": "cover",
+        "position": "51% 50%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "aj-section aj-hero",
+        "x": 0,
+        "y": 80,
+        "w": 1024,
+        "h": 525.5625,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      },
+      {
+        "class": "aj-section aj-origin",
+        "x": 0,
+        "y": 605.5625,
+        "w": 1024,
+        "h": 621.71875,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      },
+      {
+        "class": "aj-section aj-encounters",
+        "x": 0,
+        "y": 1227.28125,
+        "w": 1024,
+        "h": 867.390625,
+        "padding": [
+          "56px",
+          "40px"
+        ]
+      },
+      {
+        "class": "aj-statement",
+        "x": 0,
+        "y": 2094.671875,
+        "w": 1024,
+        "h": 250.9375,
+        "padding": [
+          "52px",
+          "52px"
+        ]
+      },
+      {
+        "class": "aj-section aj-therapist",
+        "x": 0,
+        "y": 2345.609375,
+        "w": 1024,
+        "h": 976.078125,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      },
+      {
+        "class": "aj-section aj-training",
+        "x": 0,
+        "y": 3321.6875,
+        "w": 1024,
+        "h": 777.1875,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      },
+      {
+        "class": "aj-section aj-gaia",
+        "x": 0,
+        "y": 4098.875,
+        "w": 1024,
+        "h": 826.75,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      },
+      {
+        "class": "aj-section aj-ending",
+        "x": 0,
+        "y": 4925.625,
+        "w": 1024,
+        "h": 541.984375,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLinks\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Lauriane",
+          "lines": [
+            "Lauriane"
+          ]
+        },
+        {
+          "text": "I didn’t start with acupuncture.",
+          "lines": [
+            "I didn’t start with",
+            "acupuncture."
+          ]
+        },
+        {
+          "text": "Intuition, encounters… and “coincidences”",
+          "lines": [
+            "Intuition, encounters…",
+            "and “coincidences”"
+          ]
+        },
+        {
+          "text": "The kind of practitioner I want to be",
+          "lines": [
+            "The kind of practitioner",
+            "I want to be"
+          ]
+        },
+        {
+          "text": "A FEW STEPS ALONG THE WAY",
+          "lines": [
+            "A FEW STEPS ALONG THE WAY"
+          ]
+        },
+        {
+          "text": "TRADITIONAL ACUPUNCTURE",
+          "lines": [
+            "TRADITIONAL ACUPUNCTURE"
+          ]
+        },
+        {
+          "text": "PRANIC HEALING",
+          "lines": [
+            "PRANIC HEALING"
+          ]
+        },
+        {
+          "text": "YOGA",
+          "lines": [
+            "YOGA"
+          ]
+        },
+        {
+          "text": "COMPLEMENTARY APPROACHES",
+          "lines": [
+            "COMPLEMENTARY",
+            "APPROACHES"
+          ]
+        },
+        {
+          "text": "Why GAIA?",
+          "lines": [
+            "Why GAIA?"
+          ]
+        },
+        {
+          "text": "Explore my approach.",
+          "lines": [
+            "Explore",
+            "my approach."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 0
+        },
+        {
+          "text": "About",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(74, 74, 74)",
+        "rgb(255, 253, 247)",
+        "rgb(255, 255, 255)"
+      ],
+      "language": [
+        "/fr/a-propos/",
+        "/fr/a-propos/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "captions": [
+        "14px",
+        "14px",
+        "13px",
+        "14px",
+        "14px"
+      ]
+    },
+    "nav": {
+      "w": 1024,
+      "h": 439.96875,
+      "scroll": 440,
+      "client": 440,
+      "links": [
+        {
+          "label": "Traditional Acupuncture",
+          "height": 45.59375
+        },
+        {
+          "label": "Aculift",
+          "height": 45.59375
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 45.59375
+        },
+        {
+          "label": "Women’s Health",
+          "height": 45.59375
+        },
+        {
+          "label": "About",
+          "height": 45.59375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Book an appointment",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "en",
+    "path": "/en/about/",
+    "width": 768,
+    "height": 7050,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Lauriane",
+        "x": 24,
+        "y": 181.6875,
+        "w": 265.296875,
+        "h": 71.671875,
+        "size": "64px",
+        "line": "71.68px"
+      },
+      {
+        "text": "I didn’t start with acupuncture.",
+        "x": 24,
+        "y": 634.75,
+        "w": 333.421875,
+        "h": 76.15625,
+        "size": "34px",
+        "line": "38.08px"
+      },
+      {
+        "text": "Intuition, encounters… and “coincidences”",
+        "x": 24,
+        "y": 1351.75,
+        "w": 688.59375,
+        "h": 38.078125,
+        "size": "34px",
+        "line": "38.08px"
+      },
+      {
+        "text": "The kind of practitioner I want to be",
+        "x": 24,
+        "y": 3623.015625,
+        "w": 368.28125,
+        "h": 76.15625,
+        "size": "34px",
+        "line": "38.08px"
+      },
+      {
+        "text": "A FEW STEPS ALONG THE WAY",
+        "x": 24,
+        "y": 4590.203125,
+        "w": 720,
+        "h": 21.6875,
+        "size": "14px",
+        "line": "21.7px"
+      },
+      {
+        "text": "TRADITIONAL ACUPUNCTURE",
+        "x": 24,
+        "y": 4643.890625,
+        "w": 187.0625,
+        "h": 106.6875,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "PRANIC HEALING",
+        "x": 24,
+        "y": 4786.578125,
+        "w": 187.0625,
+        "h": 263.78125,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "YOGA",
+        "x": 24,
+        "y": 5086.359375,
+        "w": 187.0625,
+        "h": 133.03125,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "COMPLEMENTARY APPROACHES",
+        "x": 24,
+        "y": 5255.390625,
+        "w": 187.0625,
+        "h": 52.6875,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "Why GAIA?",
+        "x": 24,
+        "y": 5420.078125,
+        "w": 272.34375,
+        "h": 38.078125,
+        "size": "34px",
+        "line": "38.08px"
+      },
+      {
+        "text": "Explore my approach.",
+        "x": 424.375,
+        "y": 6419.609375,
+        "w": 319.625,
+        "h": 85.09375,
+        "size": "38px",
+        "line": "42.56px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Practices",
+        "x": 708.46875,
+        "y": 158,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Traditional Acupuncture",
+        "x": 726.46875,
+        "y": 206,
+        "w": 125.296875,
+        "h": 71.1875
+      },
+      {
+        "text": "Aculift",
+        "x": 726.46875,
+        "y": 277.1875,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 726.46875,
+        "y": 322.78125,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Women’s Health",
+        "x": 708.46875,
+        "y": 206,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "About",
+        "x": 708.46875,
+        "y": 255.59375,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "FR/EN",
+        "x": 708.46875,
+        "y": 305.1875,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Book an appointment",
+        "x": 708.46875,
+        "y": 361.1875,
+        "w": 143.296875,
+        "h": 71.59375
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/journal-hero-1200.webp",
+        "x": 406.1728210449219,
+        "y": 165.3478240966797,
+        "w": 344.4512023925781,
+        "h": 328.0386962890625,
+        "natural": [
+          345,
+          344
+        ],
+        "fit": "cover",
+        "position": "50% 15%"
+      },
+      {
+        "src": "/images/journal-travel-1200.webp",
+        "x": 455.22845458984375,
+        "y": 756.1815795898438,
+        "w": 294.4337158203125,
+        "h": 294.43365478515625,
+        "natural": [
+          345,
+          428
+        ],
+        "fit": "cover",
+        "position": "50% 52%"
+      },
+      {
+        "src": "/images/journal-india-1200.webp",
+        "x": 24,
+        "y": 1988.984375,
+        "w": 633.59375,
+        "h": 744.46875,
+        "natural": [
+          345,
+          748
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-yoga-1200.webp",
+        "x": 394,
+        "y": 2734.453125,
+        "w": 360,
+        "h": 480,
+        "natural": [
+          345,
+          460
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-practice-1200.webp",
+        "x": 442.671875,
+        "y": 3623.328125,
+        "w": 301.328125,
+        "h": 376.65625,
+        "natural": [
+          345,
+          460
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-training-1200.webp",
+        "x": 601.5,
+        "y": 4643.890625,
+        "w": 142.5,
+        "h": 190,
+        "natural": [
+          345,
+          460
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/about-yoga-1200.webp",
+        "x": 24,
+        "y": 6449.3125,
+        "w": 335.578125,
+        "h": 305.0625,
+        "natural": [
+          345,
+          259
+        ],
+        "fit": "cover",
+        "position": "51% 50%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "aj-section aj-hero",
+        "x": 0,
+        "y": 80,
+        "w": 768,
+        "h": 498.75,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      },
+      {
+        "class": "aj-section aj-origin",
+        "x": 0,
+        "y": 578.75,
+        "w": 768,
+        "h": 679.3125,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      },
+      {
+        "class": "aj-section aj-encounters",
+        "x": 0,
+        "y": 1258.0625,
+        "w": 768,
+        "h": 2024.890625,
+        "padding": [
+          "56px",
+          "40px"
+        ]
+      },
+      {
+        "class": "aj-statement",
+        "x": 0,
+        "y": 3282.953125,
+        "w": 768,
+        "h": 246.375,
+        "padding": [
+          "52px",
+          "52px"
+        ]
+      },
+      {
+        "class": "aj-section aj-therapist",
+        "x": 0,
+        "y": 3529.328125,
+        "w": 768,
+        "h": 1004.875,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      },
+      {
+        "class": "aj-section aj-training",
+        "x": 0,
+        "y": 4534.203125,
+        "w": 768,
+        "h": 829.875,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      },
+      {
+        "class": "aj-section aj-gaia",
+        "x": 0,
+        "y": 5364.078125,
+        "w": 768,
+        "h": 999.53125,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      },
+      {
+        "class": "aj-section aj-ending",
+        "x": 0,
+        "y": 6363.609375,
+        "w": 768,
+        "h": 506.484375,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLinks\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Lauriane",
+          "lines": [
+            "Lauriane"
+          ]
+        },
+        {
+          "text": "I didn’t start with acupuncture.",
+          "lines": [
+            "I didn’t start with",
+            "acupuncture."
+          ]
+        },
+        {
+          "text": "Intuition, encounters… and “coincidences”",
+          "lines": [
+            "Intuition, encounters… and “coincidences”"
+          ]
+        },
+        {
+          "text": "The kind of practitioner I want to be",
+          "lines": [
+            "The kind of practitioner",
+            "I want to be"
+          ]
+        },
+        {
+          "text": "A FEW STEPS ALONG THE WAY",
+          "lines": [
+            "A FEW STEPS ALONG THE WAY"
+          ]
+        },
+        {
+          "text": "TRADITIONAL ACUPUNCTURE",
+          "lines": [
+            "TRADITIONAL",
+            "ACUPUNCTURE"
+          ]
+        },
+        {
+          "text": "PRANIC HEALING",
+          "lines": [
+            "PRANIC HEALING"
+          ]
+        },
+        {
+          "text": "YOGA",
+          "lines": [
+            "YOGA"
+          ]
+        },
+        {
+          "text": "COMPLEMENTARY APPROACHES",
+          "lines": [
+            "COMPLEMENTARY",
+            "APPROACHES"
+          ]
+        },
+        {
+          "text": "Why GAIA?",
+          "lines": [
+            "Why GAIA?"
+          ]
+        },
+        {
+          "text": "Explore my approach.",
+          "lines": [
+            "Explore",
+            "my approach."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 0
+        },
+        {
+          "text": "About",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(74, 74, 74)",
+        "rgb(255, 253, 247)",
+        "rgb(255, 255, 255)"
+      ],
+      "language": [
+        "/fr/a-propos/",
+        "/fr/a-propos/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "captions": [
+        "14px",
+        "14px",
+        "13px",
+        "14px",
+        "14px"
+      ]
+    },
+    "nav": {
+      "w": 768,
+      "h": 439.96875,
+      "scroll": 440,
+      "client": 440,
+      "links": [
+        {
+          "label": "Traditional Acupuncture",
+          "height": 45.59375
+        },
+        {
+          "label": "Aculift",
+          "height": 45.59375
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 45.59375
+        },
+        {
+          "label": "Women’s Health",
+          "height": 45.59375
+        },
+        {
+          "label": "About",
+          "height": 45.59375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Book an appointment",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "en",
+    "path": "/en/about/",
+    "width": 430,
+    "height": 8797,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Lauriane",
+        "x": 20,
+        "y": 144.140625,
+        "w": 231.71875,
+        "h": 62.609375,
+        "size": "55.9px",
+        "line": "62.608px"
+      },
+      {
+        "text": "I didn’t start with acupuncture.",
+        "x": 20,
+        "y": 900.71875,
+        "w": 390,
+        "h": 76.15625,
+        "size": "34px",
+        "line": "38.08px"
+      },
+      {
+        "text": "Intuition, encounters… and “coincidences”",
+        "x": 20,
+        "y": 1909.265625,
+        "w": 390,
+        "h": 76.15625,
+        "size": "34px",
+        "line": "38.08px"
+      },
+      {
+        "text": "The kind of practitioner I want to be",
+        "x": 20,
+        "y": 3998.15625,
+        "w": 390,
+        "h": 76.15625,
+        "size": "34px",
+        "line": "38.08px"
+      },
+      {
+        "text": "A FEW STEPS ALONG THE WAY",
+        "x": 20,
+        "y": 5398.625,
+        "w": 390,
+        "h": 20.140625,
+        "size": "13px",
+        "line": "20.15px"
+      },
+      {
+        "text": "TRADITIONAL ACUPUNCTURE",
+        "x": 20,
+        "y": 5438.765625,
+        "w": 265.25,
+        "h": 21,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "PRANIC HEALING",
+        "x": 20,
+        "y": 5594.109375,
+        "w": 265.25,
+        "h": 21,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "YOGA",
+        "x": 20,
+        "y": 5914.546875,
+        "w": 265.25,
+        "h": 21,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "COMPLEMENTARY APPROACHES",
+        "x": 20,
+        "y": 6122.578125,
+        "w": 265.25,
+        "h": 21,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "Why GAIA?",
+        "x": 20,
+        "y": 6709.046875,
+        "w": 390,
+        "h": 33.59375,
+        "size": "30px",
+        "line": "33.6px"
+      },
+      {
+        "text": "Explore my approach.",
+        "x": 20,
+        "y": 8113.765625,
+        "w": 390,
+        "h": 91.46875,
+        "size": "40.85px",
+        "line": "45.752px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "ABOUT",
+        "size": "13px"
+      },
+      {
+        "text": "Paris · Val-d’Oise · Goa",
+        "size": "13px"
+      },
+      {
+        "text": "THE PATH",
+        "size": "13px"
+      },
+      {
+        "text": "IN MY PRACTICE",
+        "size": "13px"
+      },
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Practices",
+        "x": 370.46875,
+        "y": 158,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Traditional Acupuncture",
+        "x": 388.46875,
+        "y": 206,
+        "w": 125.296875,
+        "h": 71.1875
+      },
+      {
+        "text": "Aculift",
+        "x": 388.46875,
+        "y": 277.1875,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 388.46875,
+        "y": 322.78125,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Women’s Health",
+        "x": 370.46875,
+        "y": 206,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "About",
+        "x": 370.46875,
+        "y": 255.59375,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "FR/EN",
+        "x": 370.46875,
+        "y": 305.1875,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Book an appointment",
+        "x": 370.46875,
+        "y": 361.1875,
+        "w": 143.296875,
+        "h": 71.59375
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/journal-hero-1200.webp",
+        "x": 12.20001220703125,
+        "y": 445.8684387207031,
+        "w": 405.5999755859375,
+        "h": 386.2787780761719,
+        "natural": [
+          430,
+          428
+        ],
+        "fit": "cover",
+        "position": "50% 15%"
+      },
+      {
+        "src": "/images/journal-travel-1200.webp",
+        "x": 51.980010986328125,
+        "y": 1400.10498046875,
+        "w": 365.03997802734375,
+        "h": 365.0400390625,
+        "natural": [
+          430,
+          532
+        ],
+        "fit": "cover",
+        "position": "50% 52%"
+      },
+      {
+        "src": "/images/journal-india-1200.webp",
+        "x": 20,
+        "y": 2656.796875,
+        "w": 390,
+        "h": 487.5,
+        "natural": [
+          430,
+          931
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-yoga-1200.webp",
+        "x": 121.40625,
+        "y": 3212.296875,
+        "w": 288.59375,
+        "h": 384.78125,
+        "natural": [
+          430,
+          573
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-practice-1200.webp",
+        "x": 20,
+        "y": 4794.125,
+        "w": 390,
+        "h": 487.5,
+        "natural": [
+          430,
+          573
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-training-1200.webp",
+        "x": 121.40625,
+        "y": 6236.265625,
+        "w": 288.59375,
+        "h": 384.78125,
+        "natural": [
+          430,
+          573
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/about-yoga-1200.webp",
+        "x": 20,
+        "y": 7711.640625,
+        "w": 390,
+        "h": 339.125,
+        "natural": [
+          430,
+          322
+        ],
+        "fit": "cover",
+        "position": "51% 50%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "aj-section aj-hero",
+        "x": 0,
+        "y": 80,
+        "w": 430,
+        "h": 780.71875,
+        "padding": [
+          "26px",
+          "36px"
+        ]
+      },
+      {
+        "class": "aj-section aj-origin",
+        "x": 0,
+        "y": 860.71875,
+        "w": 430,
+        "h": 966.40625,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "aj-section aj-encounters",
+        "x": 0,
+        "y": 1827.125,
+        "w": 430,
+        "h": 1830.953125,
+        "padding": [
+          "44px",
+          "32px"
+        ]
+      },
+      {
+        "class": "aj-statement",
+        "x": 0,
+        "y": 3658.078125,
+        "w": 430,
+        "h": 257.9375,
+        "padding": [
+          "42px",
+          "42px"
+        ]
+      },
+      {
+        "class": "aj-section aj-therapist",
+        "x": 0,
+        "y": 3916.015625,
+        "w": 430,
+        "h": 1438.609375,
+        "padding": [
+          "44px",
+          "44px"
+        ]
+      },
+      {
+        "class": "aj-section aj-training",
+        "x": 0,
+        "y": 5354.625,
+        "w": 430,
+        "h": 1310.421875,
+        "padding": [
+          "44px",
+          "44px"
+        ]
+      },
+      {
+        "class": "aj-section aj-gaia",
+        "x": 0,
+        "y": 6665.046875,
+        "w": 430,
+        "h": 1002.59375,
+        "padding": [
+          "44px",
+          "44px"
+        ]
+      },
+      {
+        "class": "aj-section aj-ending",
+        "x": 0,
+        "y": 7667.640625,
+        "w": 430,
+        "h": 778.984375,
+        "padding": [
+          "44px",
+          "44px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLinks\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Lauriane",
+          "lines": [
+            "Lauriane"
+          ]
+        },
+        {
+          "text": "I didn’t start with acupuncture.",
+          "lines": [
+            "I didn’t start with",
+            "acupuncture."
+          ]
+        },
+        {
+          "text": "Intuition, encounters… and “coincidences”",
+          "lines": [
+            "Intuition, encounters…",
+            "and “coincidences”"
+          ]
+        },
+        {
+          "text": "The kind of practitioner I want to be",
+          "lines": [
+            "The kind of practitioner",
+            "I want to be"
+          ]
+        },
+        {
+          "text": "A FEW STEPS ALONG THE WAY",
+          "lines": [
+            "A FEW STEPS ALONG THE WAY"
+          ]
+        },
+        {
+          "text": "TRADITIONAL ACUPUNCTURE",
+          "lines": [
+            "TRADITIONAL ACUPUNCTURE"
+          ]
+        },
+        {
+          "text": "PRANIC HEALING",
+          "lines": [
+            "PRANIC HEALING"
+          ]
+        },
+        {
+          "text": "YOGA",
+          "lines": [
+            "YOGA"
+          ]
+        },
+        {
+          "text": "COMPLEMENTARY APPROACHES",
+          "lines": [
+            "COMPLEMENTARY APPROACHES"
+          ]
+        },
+        {
+          "text": "Why GAIA?",
+          "lines": [
+            "Why GAIA?"
+          ]
+        },
+        {
+          "text": "Explore my approach.",
+          "lines": [
+            "Explore",
+            "my approach."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 0
+        },
+        {
+          "text": "About",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(74, 74, 74)",
+        "rgb(255, 253, 247)",
+        "rgb(255, 255, 255)"
+      ],
+      "language": [
+        "/fr/a-propos/",
+        "/fr/a-propos/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "captions": [
+        "14px",
+        "14px",
+        "14px",
+        "14px",
+        "14px"
+      ]
+    },
+    "nav": {
+      "w": 430,
+      "h": 439.96875,
+      "scroll": 440,
+      "client": 440,
+      "links": [
+        {
+          "label": "Traditional Acupuncture",
+          "height": 45.59375
+        },
+        {
+          "label": "Aculift",
+          "height": 45.59375
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 45.59375
+        },
+        {
+          "label": "Women’s Health",
+          "height": 45.59375
+        },
+        {
+          "label": "About",
+          "height": 45.59375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Book an appointment",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "en",
+    "path": "/en/about/",
+    "width": 390,
+    "height": 8710,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Lauriane",
+        "x": 20,
+        "y": 144.140625,
+        "w": 210.15625,
+        "h": 56.78125,
+        "size": "50.7px",
+        "line": "56.784px"
+      },
+      {
+        "text": "I didn’t start with acupuncture.",
+        "x": 20,
+        "y": 856.796875,
+        "w": 350,
+        "h": 69.875,
+        "size": "31.2px",
+        "line": "34.944px"
+      },
+      {
+        "text": "Intuition, encounters… and “coincidences”",
+        "x": 20,
+        "y": 1850.25,
+        "w": 350,
+        "h": 69.875,
+        "size": "31.2px",
+        "line": "34.944px"
+      },
+      {
+        "text": "The kind of practitioner I want to be",
+        "x": 20,
+        "y": 3915.125,
+        "w": 350,
+        "h": 69.875,
+        "size": "31.2px",
+        "line": "34.944px"
+      },
+      {
+        "text": "A FEW STEPS ALONG THE WAY",
+        "x": 20,
+        "y": 5286.5,
+        "w": 350,
+        "h": 20.140625,
+        "size": "13px",
+        "line": "20.15px"
+      },
+      {
+        "text": "TRADITIONAL ACUPUNCTURE",
+        "x": 20,
+        "y": 5326.640625,
+        "w": 265.25,
+        "h": 21,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "PRANIC HEALING",
+        "x": 20,
+        "y": 5481.984375,
+        "w": 265.25,
+        "h": 21,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "YOGA",
+        "x": 20,
+        "y": 5828.765625,
+        "w": 265.25,
+        "h": 21,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "COMPLEMENTARY APPROACHES",
+        "x": 20,
+        "y": 6036.796875,
+        "w": 265.25,
+        "h": 21,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "Why GAIA?",
+        "x": 20,
+        "y": 6583.8125,
+        "w": 350,
+        "h": 33.59375,
+        "size": "30px",
+        "line": "33.6px"
+      },
+      {
+        "text": "Explore my approach.",
+        "x": 20,
+        "y": 8035.3125,
+        "w": 350,
+        "h": 82.96875,
+        "size": "37.05px",
+        "line": "41.496px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "ABOUT",
+        "size": "13px"
+      },
+      {
+        "text": "Paris · Val-d’Oise · Goa",
+        "size": "13px"
+      },
+      {
+        "text": "THE PATH",
+        "size": "13px"
+      },
+      {
+        "text": "IN MY PRACTICE",
+        "size": "13px"
+      },
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Practices",
+        "x": 330.46875,
+        "y": 158,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Traditional Acupuncture",
+        "x": 348.46875,
+        "y": 206,
+        "w": 125.296875,
+        "h": 71.1875
+      },
+      {
+        "text": "Aculift",
+        "x": 348.46875,
+        "y": 277.1875,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 348.46875,
+        "y": 322.78125,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Women’s Health",
+        "x": 330.46875,
+        "y": 206,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "About",
+        "x": 330.46875,
+        "y": 255.59375,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "FR/EN",
+        "x": 330.46875,
+        "y": 305.1875,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Book an appointment",
+        "x": 330.46875,
+        "y": 361.1875,
+        "w": 143.296875,
+        "h": 71.59375
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/journal-hero-1200.webp",
+        "x": 13,
+        "y": 440.80218505859375,
+        "w": 364,
+        "h": 346.6612548828125,
+        "natural": [
+          390,
+          388
+        ],
+        "fit": "cover",
+        "position": "50% 15%"
+      },
+      {
+        "src": "/images/journal-travel-1200.webp",
+        "x": 48.70001220703125,
+        "y": 1377.809326171875,
+        "w": 327.5999755859375,
+        "h": 327.60009765625,
+        "natural": [
+          390,
+          483
+        ],
+        "fit": "cover",
+        "position": "50% 52%"
+      },
+      {
+        "src": "/images/journal-india-1200.webp",
+        "x": 20,
+        "y": 2673.0625,
+        "w": 350,
+        "h": 437.5,
+        "natural": [
+          390,
+          845
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-yoga-1200.webp",
+        "x": 111,
+        "y": 3178.5625,
+        "w": 259,
+        "h": 345.328125,
+        "natural": [
+          390,
+          519
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-practice-1200.webp",
+        "x": 20,
+        "y": 4732,
+        "w": 350,
+        "h": 437.5,
+        "natural": [
+          390,
+          519
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-training-1200.webp",
+        "x": 111,
+        "y": 6150.484375,
+        "w": 259,
+        "h": 345.328125,
+        "natural": [
+          390,
+          519
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/about-yoga-1200.webp",
+        "x": 20,
+        "y": 7667.96875,
+        "w": 350,
+        "h": 304.34375,
+        "natural": [
+          390,
+          292
+        ],
+        "fit": "cover",
+        "position": "51% 50%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "aj-section aj-hero",
+        "x": 0,
+        "y": 80,
+        "w": 390,
+        "h": 736.796875,
+        "padding": [
+          "26px",
+          "36px"
+        ]
+      },
+      {
+        "class": "aj-section aj-origin",
+        "x": 0,
+        "y": 816.796875,
+        "w": 390,
+        "h": 951.3125,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "aj-section aj-encounters",
+        "x": 0,
+        "y": 1768.109375,
+        "w": 390,
+        "h": 1816.78125,
+        "padding": [
+          "44px",
+          "32px"
+        ]
+      },
+      {
+        "class": "aj-statement",
+        "x": 0,
+        "y": 3584.890625,
+        "w": 390,
+        "h": 248.09375,
+        "padding": [
+          "42px",
+          "42px"
+        ]
+      },
+      {
+        "class": "aj-section aj-therapist",
+        "x": 0,
+        "y": 3832.984375,
+        "w": 390,
+        "h": 1409.515625,
+        "padding": [
+          "44px",
+          "44px"
+        ]
+      },
+      {
+        "class": "aj-section aj-training",
+        "x": 0,
+        "y": 5242.5,
+        "w": 390,
+        "h": 1297.3125,
+        "padding": [
+          "44px",
+          "44px"
+        ]
+      },
+      {
+        "class": "aj-section aj-gaia",
+        "x": 0,
+        "y": 6539.8125,
+        "w": 390,
+        "h": 1084.15625,
+        "padding": [
+          "44px",
+          "44px"
+        ]
+      },
+      {
+        "class": "aj-section aj-ending",
+        "x": 0,
+        "y": 7623.96875,
+        "w": 390,
+        "h": 735.703125,
+        "padding": [
+          "44px",
+          "44px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLinks\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Lauriane",
+          "lines": [
+            "Lauriane"
+          ]
+        },
+        {
+          "text": "I didn’t start with acupuncture.",
+          "lines": [
+            "I didn’t start with",
+            "acupuncture."
+          ]
+        },
+        {
+          "text": "Intuition, encounters… and “coincidences”",
+          "lines": [
+            "Intuition, encounters…",
+            "and “coincidences”"
+          ]
+        },
+        {
+          "text": "The kind of practitioner I want to be",
+          "lines": [
+            "The kind of practitioner",
+            "I want to be"
+          ]
+        },
+        {
+          "text": "A FEW STEPS ALONG THE WAY",
+          "lines": [
+            "A FEW STEPS ALONG THE WAY"
+          ]
+        },
+        {
+          "text": "TRADITIONAL ACUPUNCTURE",
+          "lines": [
+            "TRADITIONAL ACUPUNCTURE"
+          ]
+        },
+        {
+          "text": "PRANIC HEALING",
+          "lines": [
+            "PRANIC HEALING"
+          ]
+        },
+        {
+          "text": "YOGA",
+          "lines": [
+            "YOGA"
+          ]
+        },
+        {
+          "text": "COMPLEMENTARY APPROACHES",
+          "lines": [
+            "COMPLEMENTARY APPROACHES"
+          ]
+        },
+        {
+          "text": "Why GAIA?",
+          "lines": [
+            "Why GAIA?"
+          ]
+        },
+        {
+          "text": "Explore my approach.",
+          "lines": [
+            "Explore",
+            "my approach."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 0
+        },
+        {
+          "text": "About",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(74, 74, 74)",
+        "rgb(255, 253, 247)",
+        "rgb(255, 255, 255)"
+      ],
+      "language": [
+        "/fr/a-propos/",
+        "/fr/a-propos/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "captions": [
+        "14px",
+        "14px",
+        "14px",
+        "14px",
+        "14px"
+      ]
+    },
+    "nav": {
+      "w": 390,
+      "h": 439.96875,
+      "scroll": 440,
+      "client": 440,
+      "links": [
+        {
+          "label": "Traditional Acupuncture",
+          "height": 45.59375
+        },
+        {
+          "label": "Aculift",
+          "height": 45.59375
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 45.59375
+        },
+        {
+          "label": "Women’s Health",
+          "height": 45.59375
+        },
+        {
+          "label": "About",
+          "height": 45.59375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Book an appointment",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "en",
+    "path": "/en/about/",
+    "width": 360,
+    "height": 8782,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Lauriane",
+        "x": 20,
+        "y": 144.140625,
+        "w": 198.96875,
+        "h": 53.75,
+        "size": "48px",
+        "line": "53.76px"
+      },
+      {
+        "text": "I didn’t start with acupuncture.",
+        "x": 20,
+        "y": 859.90625,
+        "w": 320,
+        "h": 64.9375,
+        "size": "29px",
+        "line": "32.48px"
+      },
+      {
+        "text": "Intuition, encounters… and “coincidences”",
+        "x": 20,
+        "y": 1848.609375,
+        "w": 320,
+        "h": 64.9375,
+        "size": "29px",
+        "line": "32.48px"
+      },
+      {
+        "text": "The kind of practitioner I want to be",
+        "x": 20,
+        "y": 3892.09375,
+        "w": 320,
+        "h": 64.9375,
+        "size": "29px",
+        "line": "32.48px"
+      },
+      {
+        "text": "A FEW STEPS ALONG THE WAY",
+        "x": 20,
+        "y": 5329.78125,
+        "w": 320,
+        "h": 20.140625,
+        "size": "13px",
+        "line": "20.15px"
+      },
+      {
+        "text": "TRADITIONAL ACUPUNCTURE",
+        "x": 20,
+        "y": 5369.921875,
+        "w": 265.25,
+        "h": 21,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "PRANIC HEALING",
+        "x": 20,
+        "y": 5551.609375,
+        "w": 265.25,
+        "h": 21,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "YOGA",
+        "x": 20,
+        "y": 5898.390625,
+        "w": 265.25,
+        "h": 21,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "COMPLEMENTARY APPROACHES",
+        "x": 20,
+        "y": 6106.421875,
+        "w": 265.25,
+        "h": 21,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "Why GAIA?",
+        "x": 20,
+        "y": 6623.828125,
+        "w": 320,
+        "h": 33.59375,
+        "size": "30px",
+        "line": "33.6px"
+      },
+      {
+        "text": "Explore my approach.",
+        "x": 20,
+        "y": 8103.609375,
+        "w": 320,
+        "h": 80.625,
+        "size": "36px",
+        "line": "40.32px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "ABOUT",
+        "size": "13px"
+      },
+      {
+        "text": "Paris · Val-d’Oise · Goa",
+        "size": "13px"
+      },
+      {
+        "text": "THE PATH",
+        "size": "13px"
+      },
+      {
+        "text": "IN MY PRACTICE",
+        "size": "13px"
+      },
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Practices",
+        "x": 300.46875,
+        "y": 158,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Traditional Acupuncture",
+        "x": 318.46875,
+        "y": 206,
+        "w": 125.296875,
+        "h": 71.1875
+      },
+      {
+        "text": "Aculift",
+        "x": 318.46875,
+        "y": 277.1875,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 318.46875,
+        "y": 322.78125,
+        "w": 125.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "Women’s Health",
+        "x": 300.46875,
+        "y": 206,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "About",
+        "x": 300.46875,
+        "y": 255.59375,
+        "w": 143.296875,
+        "h": 45.59375
+      },
+      {
+        "text": "FR/EN",
+        "x": 300.46875,
+        "y": 305.1875,
+        "w": 143.296875,
+        "h": 44
+      },
+      {
+        "text": "Book an appointment",
+        "x": 300.46875,
+        "y": 361.1875,
+        "w": 143.296875,
+        "h": 71.59375
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/journal-hero-1200.webp",
+        "x": 13.600006103515625,
+        "y": 473.0612487792969,
+        "w": 332.79998779296875,
+        "h": 316.9399719238281,
+        "natural": [
+          360,
+          358
+        ],
+        "fit": "cover",
+        "position": "50% 15%"
+      },
+      {
+        "src": "/images/journal-travel-1200.webp",
+        "x": 46.24000549316406,
+        "y": 1403.708740234375,
+        "w": 299.52001953125,
+        "h": 299.52001953125,
+        "natural": [
+          360,
+          446
+        ],
+        "fit": "cover",
+        "position": "50% 52%"
+      },
+      {
+        "src": "/images/journal-india-1200.webp",
+        "x": 20,
+        "y": 2720.859375,
+        "w": 320,
+        "h": 400,
+        "natural": [
+          360,
+          780
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-yoga-1200.webp",
+        "x": 103.203125,
+        "y": 3188.859375,
+        "w": 236.796875,
+        "h": 315.71875,
+        "natural": [
+          360,
+          479
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-practice-1200.webp",
+        "x": 20,
+        "y": 4812.78125,
+        "w": 320,
+        "h": 400,
+        "natural": [
+          360,
+          479
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/journal-training-1200.webp",
+        "x": 103.203125,
+        "y": 6220.109375,
+        "w": 236.796875,
+        "h": 315.71875,
+        "natural": [
+          360,
+          479
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/about-yoga-1200.webp",
+        "x": 20,
+        "y": 7762.359375,
+        "w": 320,
+        "h": 278.25,
+        "natural": [
+          360,
+          270
+        ],
+        "fit": "cover",
+        "position": "51% 50%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "aj-section aj-hero",
+        "x": 0,
+        "y": 80,
+        "w": 360,
+        "h": 739.90625,
+        "padding": [
+          "26px",
+          "36px"
+        ]
+      },
+      {
+        "class": "aj-section aj-origin",
+        "x": 0,
+        "y": 819.90625,
+        "w": 360,
+        "h": 946.5625,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "aj-section aj-encounters",
+        "x": 0,
+        "y": 1766.46875,
+        "w": 360,
+        "h": 1799.109375,
+        "padding": [
+          "44px",
+          "32px"
+        ]
+      },
+      {
+        "class": "aj-statement",
+        "x": 0,
+        "y": 3565.578125,
+        "w": 360,
+        "h": 244.375,
+        "padding": [
+          "42px",
+          "42px"
+        ]
+      },
+      {
+        "class": "aj-section aj-therapist",
+        "x": 0,
+        "y": 3809.953125,
+        "w": 360,
+        "h": 1475.828125,
+        "padding": [
+          "44px",
+          "44px"
+        ]
+      },
+      {
+        "class": "aj-section aj-training",
+        "x": 0,
+        "y": 5285.78125,
+        "w": 360,
+        "h": 1294.046875,
+        "padding": [
+          "44px",
+          "44px"
+        ]
+      },
+      {
+        "class": "aj-section aj-gaia",
+        "x": 0,
+        "y": 6579.828125,
+        "w": 360,
+        "h": 1138.53125,
+        "padding": [
+          "44px",
+          "44px"
+        ]
+      },
+      {
+        "class": "aj-section aj-ending",
+        "x": 0,
+        "y": 7718.359375,
+        "w": 360,
+        "h": 713.640625,
+        "padding": [
+          "44px",
+          "44px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLinks\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Lauriane",
+          "lines": [
+            "Lauriane"
+          ]
+        },
+        {
+          "text": "I didn’t start with acupuncture.",
+          "lines": [
+            "I didn’t start with",
+            "acupuncture."
+          ]
+        },
+        {
+          "text": "Intuition, encounters… and “coincidences”",
+          "lines": [
+            "Intuition, encounters…",
+            "and “coincidences”"
+          ]
+        },
+        {
+          "text": "The kind of practitioner I want to be",
+          "lines": [
+            "The kind of practitioner",
+            "I want to be"
+          ]
+        },
+        {
+          "text": "A FEW STEPS ALONG THE WAY",
+          "lines": [
+            "A FEW STEPS ALONG THE WAY"
+          ]
+        },
+        {
+          "text": "TRADITIONAL ACUPUNCTURE",
+          "lines": [
+            "TRADITIONAL ACUPUNCTURE"
+          ]
+        },
+        {
+          "text": "PRANIC HEALING",
+          "lines": [
+            "PRANIC HEALING"
+          ]
+        },
+        {
+          "text": "YOGA",
+          "lines": [
+            "YOGA"
+          ]
+        },
+        {
+          "text": "COMPLEMENTARY APPROACHES",
+          "lines": [
+            "COMPLEMENTARY APPROACHES"
+          ]
+        },
+        {
+          "text": "Why GAIA?",
+          "lines": [
+            "Why GAIA?"
+          ]
+        },
+        {
+          "text": "Explore my approach.",
+          "lines": [
+            "Explore",
+            "my approach."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 0
+        },
+        {
+          "text": "About",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(74, 74, 74)",
+        "rgb(255, 253, 247)",
+        "rgb(255, 255, 255)"
+      ],
+      "language": [
+        "/fr/a-propos/",
+        "/fr/a-propos/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "captions": [
+        "14px",
+        "14px",
+        "14px",
+        "14px",
+        "14px"
+      ]
+    },
+    "nav": {
+      "w": 360,
+      "h": 439.96875,
+      "scroll": 440,
+      "client": 440,
+      "links": [
+        {
+          "label": "Traditional Acupuncture",
+          "height": 45.59375
+        },
+        {
+          "label": "Aculift",
+          "height": 45.59375
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 45.59375
+        },
+        {
+          "label": "Women’s Health",
+          "height": 45.59375
+        },
+        {
+          "label": "About",
+          "height": 45.59375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Book an appointment",
+          "height": 48
+        }
+      ]
+    }
+  }
+]

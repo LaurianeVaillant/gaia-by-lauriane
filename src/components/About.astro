@@ -29,3 +29,7 @@ const external={target:'_blank',rel:'noopener noreferrer'};
 <section class="aj-section aj-gaia" aria-labelledby="about-gaia"><div class="aj-gaia-heading"><h2 id="about-gaia">Pourquoi GAIA ?</h2><div class="aj-gaia-wordmark" aria-hidden="true">Gaia</div></div><div class="aj-gaia-copy">{gaia.map((p,i)=><p class:list={{'aj-gaia-lead':i===0,'aj-gaia-power':i===3,'aj-gaia-closing':i===gaia.length-1}}>{p}</p>)}</div></section>
 <section class="aj-section aj-ending" aria-labelledby="about-ending"><AboutPhoto slotName="ABOUT_NOW_01" name="about-yoga" width={1448} height={1086} alt="Lauriane dans une posture de yoga sur la plage, face à la mer au coucher du soleil" caption="Le mouvement continue." class="aj-now"/><div class="aj-ending-copy"><h2 id="about-ending">Découvrir<br/> mon approche<span>.</span></h2><ul class="aj-service-links"><li><a href={url('fr','acupuncture')}>Acupuncture <span aria-hidden="true">↗</span></a></li><li><a href={url('fr','aculift')}>Aculift <span aria-hidden="true">↗</span></a></li><li><a href={url('fr','pranic')}>Pranic Healing <span aria-hidden="true">↗</span></a></li><li><a href={url('fr','women')}>Santé féminine <span aria-hidden="true">↗</span></a></li></ul><a class="button" href="/prendre-rendez-vous/">Prendre rendez-vous</a></div></section>
 </div>
+
+<style is:inline>
+@media(max-width:700px){.about-journal .aj-training-item:not(:first-child){margin-top:36px}}
+</style>
