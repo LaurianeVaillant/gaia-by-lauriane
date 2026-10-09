@@ -42,7 +42,7 @@ const clues=clueList.split(', ');
   </section>
 
   <section class="section acupuncture-session">
-    <h2 class="eyebrow">Comment se déroule une séance ?</h2>
+    <h2 class="eyebrow">Comment se déroule <span class="keep-together">une séance ?</span></h2>
     <div class="session-journey">
       <svg class="session-path" viewBox="0 0 1200 70" preserveAspectRatio="none" aria-hidden="true"><path d="M20 24C176 2 288 44 432 32C594 17 714 8 846 24C970 41 1080 31 1180 24"/></svg>
       <ol class="session-steps">{c.steps.map(step=><li><h3>{step.title}</h3><p>{step.copy}</p></li>)}</ol>
@@ -50,7 +50,7 @@ const clues=clueList.split(', ');
   </section>
 
   <section class="section acupuncture-reasons">
-    <div class="reasons-heading"><h2 class="eyebrow">Pourquoi consulter ?</h2><p>{c.reasonsIntro}</p></div>
+    <div class="reasons-heading"><h2 class="eyebrow">Pourquoi <span class="keep-together">consulter ?</span></h2><p>{c.reasonsIntro}</p></div>
     <ul class="consultation-reasons">{c.reasons.map((reason,i)=><li class={`reason-${i}`}>{reason==='Santé féminine'?<a href={url('fr','women')}>{reason}</a>:reason}</li>)}</ul>
     <p class="care-note"><em>{c.careNote}</em></p>
   </section>

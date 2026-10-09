@@ -1,0 +1,64 @@
+{
+  "headings": [
+    {
+      "text": "Aculift",
+      "lines": [
+        "Aculift"
+      ]
+    },
+    {
+      "text": "Qu’est-ce que l’Aculift ?",
+      "lines": [
+        "Qu’est-ce que",
+        "l’Aculift ?"
+      ]
+    },
+    {
+      "text": "Pourquoi venir ?",
+      "lines": [
+        "Pourquoi venir ?"
+      ]
+    },
+    {
+      "text": "Une approche personnalisée",
+      "lines": [
+        "Une approche",
+        "personnalisée"
+      ]
+    },
+    {
+      "text": "Comment se déroule une séance ?",
+      "lines": [
+        "Comment se",
+        "déroule une séance",
+        "?"
+      ]
+    },
+    {
+      "text": "Échanger",
+      "lines": [
+        "Échanger"
+      ]
+    },
+    {
+      "text": "Adapter le soin",
+      "lines": [
+        "Adapter le soin"
+      ]
+    },
+    {
+      "text": "Prendre rendez-vous.",
+      "lines": [
+        "Prendre",
+        "rendez-vous."
+      ]
+    }
+  ],
+  "orange": [
+    {
+      "tag": "SPAN",
+      "text": ".",
+      "size": "46px"
+    }
+  ]
+}

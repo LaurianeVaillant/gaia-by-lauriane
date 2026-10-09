@@ -1,0 +1,55 @@
+{
+  "headings": [
+    {
+      "text": "Santé féminine",
+      "lines": [
+        "Santé féminine"
+      ]
+    },
+    {
+      "text": "Pourquoi la santé féminine ?",
+      "lines": [
+        "Pourquoi la",
+        "santé féminine ?"
+      ]
+    },
+    {
+      "text": "Se reconnecter à son cycle",
+      "lines": [
+        "Se reconnecter",
+        "à son cycle"
+      ]
+    },
+    {
+      "text": "Les sujets que j’approfondis.",
+      "lines": [
+        "Les sujets que j’approfondis."
+      ]
+    },
+    {
+      "text": "Une spécialisation en développement",
+      "lines": [
+        "Une spécialisation en développement"
+      ]
+    },
+    {
+      "text": "Prendre rendez-vous.",
+      "lines": [
+        "Prendre",
+        "rendez-vous."
+      ]
+    }
+  ],
+  "orange": [
+    {
+      "tag": "SPAN",
+      "text": ".",
+      "size": "13px"
+    },
+    {
+      "tag": "SPAN",
+      "text": ".",
+      "size": "44px"
+    }
+  ]
+}

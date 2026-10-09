@@ -1,0 +1,37 @@
+/* Targeted corrections from the October 2026 responsive audit. */
+body .header .desktop-nav>a{display:inline-flex;align-items:center;min-height:44px}
+body.gaia-internal-shell footer>div:nth-child(2){display:flex;align-items:center;gap:6px}
+body.gaia-internal-shell footer>div:nth-child(2)>a{display:inline-flex;align-items:center;min-height:44px;padding:0 6px}
+.keep-together{white-space:nowrap}
+/* Orange remains unchanged in artwork; only readable text uses these tones. */
+body .gaia-home .hero .hero-statement em,
+body .gaia-home .project-display-title span{color:#B63A12}
+body .womens-health-page .feminine-why-statement span{color:var(--violet)}
+body .about-journal .aj-gaia-wordmark,
+body .about-journal .aj-gaia .aj-gaia-power{color:#FFC6A4}
+body .aculift-page .aculift-closing h2 .cta-word,
+body .pranic-page .final-cta h2 .cta-word{color:inherit}
+body .pranic-page .pranic-origin h2:after{display:inline-block;vertical-align:middle;margin:0 0 0 10px}
+body .pranic-page .pranic-combined h2,
+body .pranic-page .pranic-understanding h2,
+body .pranic-page .pranic-format-panel h3{text-wrap:balance}
+@media(max-width:800px){
+  body .womens-health-page .feminine-hero{grid-template-columns:1fr;gap:28px}
+  body .womens-health-page .feminine-hero-photo{height:auto;aspect-ratio:4/3;max-height:500px;width:100%}
+  body .womens-health-page .feminine-hero-photo img{object-position:45% 50%}
+  body .aculift-page .aculift-photo{height:auto;aspect-ratio:3/2;max-height:420px}
+  body .about-journal .aj-encounters-layout{display:flex;flex-direction:column;gap:28px}
+  body .about-journal .aj-encounters-copy{order:0;width:100%}
+  body .about-journal .aj-archive{order:1;width:100%}
+  body .about-journal .aj-encounters-heading h2{max-width:30ch;text-wrap:balance}
+  body .about-journal .aj-encounters-break{display:none}
+}
+@media(max-width:700px){
+  body .womens-health-page .feminine-hero-photo{aspect-ratio:4/5;max-height:460px}
+  body .womens-health-page .feminine-cycle h2{text-wrap:balance}
+  body .about-journal .aj-photo figcaption{font-size:14px}
+  body .pranic-page .pranic-combined h2{font-size:clamp(30px,8.2vw,36px)}
+  body .aculift-page .aculift-closing h2,
+  body .pranic-page .final-cta h2{font-size:clamp(42px,11.5vw,64px);text-wrap:balance}
+}
+@media(max-width:480px){body .aculift-page .aculift-photo{aspect-ratio:4/5;max-height:none}}

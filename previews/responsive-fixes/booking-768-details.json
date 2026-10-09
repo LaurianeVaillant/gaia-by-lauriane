@@ -1,0 +1,55 @@
+{
+  "headings": [
+    {
+      "text": "Prendre rendez-vous.",
+      "lines": [
+        "Prendre rendez-vous."
+      ]
+    },
+    {
+      "text": "Pour quelle pratique ?",
+      "lines": [
+        "Pour quelle pratique ?"
+      ]
+    },
+    {
+      "text": "Comment ça se passe ?",
+      "lines": [
+        "Comment ça se passe ?"
+      ]
+    },
+    {
+      "text": "On en parle ?",
+      "lines": [
+        "On en parle ?"
+      ]
+    }
+  ],
+  "orange": [
+    {
+      "tag": "SPAN",
+      "text": ".",
+      "size": "48px"
+    },
+    {
+      "tag": "SPAN",
+      "text": "↗",
+      "size": "19px"
+    },
+    {
+      "tag": "SPAN",
+      "text": "↗",
+      "size": "19px"
+    },
+    {
+      "tag": "SPAN",
+      "text": "↗",
+      "size": "19px"
+    },
+    {
+      "tag": "SPAN",
+      "text": "↗",
+      "size": "19px"
+    }
+  ]
+}
