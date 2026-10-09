@@ -3,12 +3,12 @@ body .header .desktop-nav>a{display:inline-flex;align-items:center;min-height:44
 body.gaia-internal-shell footer>div:nth-child(2){display:flex;align-items:center;gap:6px}
 body.gaia-internal-shell footer>div:nth-child(2)>a{display:inline-flex;align-items:center;min-height:44px;padding:0 6px}
 .keep-together{white-space:nowrap}
-/* Orange remains unchanged in artwork; only readable text uses these tones. */
-body .gaia-home .hero .hero-statement em,
-body .gaia-home .project-display-title span{color:#B63A12}
+/* One brand orange; readable emphasis uses the existing text palette. */
+body .gaia-home .hero .hero-statement em{color:#5E1AF4}
+body .gaia-home .project-display-title span{color:#FF6230}
 body .womens-health-page .feminine-why-statement span{color:var(--violet)}
-body .about-journal .aj-gaia-wordmark,
-body .about-journal .aj-gaia .aj-gaia-power{color:#FFC6A4}
+body .about-journal .aj-gaia-wordmark{color:#FF6230}
+body .about-journal .aj-gaia .aj-gaia-power{color:inherit}
 body .aculift-page .aculift-closing h2 .cta-word,
 body .pranic-page .final-cta h2 .cta-word{color:inherit}
 body .pranic-page .pranic-origin h2:after{display:inline-block;vertical-align:middle;margin:0 0 0 10px}
