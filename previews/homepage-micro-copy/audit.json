@@ -1,0 +1,7072 @@
+[
+  {
+    "page": "fr",
+    "path": "/fr/",
+    "width": 1440,
+    "height": 7093,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Lauriane — Praticienne en acupuncture traditionnelle",
+        "x": 80,
+        "y": 675.625,
+        "w": 479.515625,
+        "h": 28.796875,
+        "size": "18px",
+        "line": "28.8px"
+      },
+      {
+        "text": "Nothing works in silos.",
+        "x": 752,
+        "y": 1232.3125,
+        "w": 435.859375,
+        "h": 142.53125,
+        "size": "64.8px",
+        "line": "71.28px"
+      },
+      {
+        "text": "Your system is a network.",
+        "x": 80,
+        "y": 1663.171875,
+        "w": 608,
+        "h": 142.53125,
+        "size": "64.8px",
+        "line": "71.28px"
+      },
+      {
+        "text": "AUJOURD’HUI, JE VOUS ACCOMPAGNE À TRAVERS CES PRATIQUES",
+        "x": 80,
+        "y": 2430.078125,
+        "w": 1280,
+        "h": 21.6875,
+        "size": "14px",
+        "line": "21.7px"
+      },
+      {
+        "text": "Acupuncture traditionnelle",
+        "x": 80,
+        "y": 2625.765625,
+        "w": 394.65625,
+        "h": 72.859375,
+        "size": "33.12px",
+        "line": "36.432px"
+      },
+      {
+        "text": "Aculift",
+        "x": 522.65625,
+        "y": 2625.765625,
+        "w": 394.671875,
+        "h": 72.859375,
+        "size": "33.12px",
+        "line": "36.432px"
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 965.328125,
+        "y": 2625.765625,
+        "w": 394.65625,
+        "h": 72.859375,
+        "size": "33.12px",
+        "line": "36.432px"
+      },
+      {
+        "text": "Vivre sa féminité, pas la subir.",
+        "x": 752,
+        "y": 3038.21875,
+        "w": 608,
+        "h": 114.03125,
+        "size": "51.84px",
+        "line": "57.024px"
+      },
+      {
+        "text": "I WAS LOOKING FOR A WAY TO CONNECT THE DOTS.",
+        "x": 116,
+        "y": 4081.40625,
+        "w": 594.140625,
+        "h": 39.703125,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "Power & Softness",
+        "x": 80,
+        "y": 4757.78125,
+        "w": 608,
+        "h": 71.265625,
+        "size": "64.8px",
+        "line": "71.28px"
+      },
+      {
+        "text": "The GAIA Project",
+        "x": 80,
+        "y": 5447.421875,
+        "w": 663.265625,
+        "h": 83.9375,
+        "size": "76.32px",
+        "line": "83.952px"
+      },
+      {
+        "text": "OÙ ME TROUVER",
+        "x": 80,
+        "y": 5945.375,
+        "w": 1280,
+        "h": 21.6875,
+        "size": "14px",
+        "line": "21.7px"
+      },
+      {
+        "text": "RECONNECT.",
+        "x": 80,
+        "y": 6515.453125,
+        "w": 1280,
+        "h": 105.59375,
+        "size": "96px",
+        "line": "105.6px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "© 2026 GAIA by LaurianePratiques complémentaires, sans substitution au suivi médical.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [],
+    "images": [
+      {
+        "src": "/images/portrait-1200.webp",
+        "x": 691.203125,
+        "y": 100,
+        "w": 748.796875,
+        "h": 830,
+        "natural": [
+          748,
+          1123
+        ],
+        "fit": "cover",
+        "position": "55% 46%"
+      },
+      {
+        "src": "/images/hands-1200.webp",
+        "x": 80,
+        "y": 3038.21875,
+        "w": 608,
+        "h": 600,
+        "natural": [
+          604,
+          907
+        ],
+        "fit": "cover",
+        "position": "50% 42%"
+      },
+      {
+        "src": "/images/movement-1200.webp",
+        "x": 758.140625,
+        "y": 4081.40625,
+        "w": 565.859375,
+        "h": 480,
+        "natural": [
+          604,
+          447
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/gaia-symbol.png",
+        "x": 819.1875,
+        "y": 4758.59375,
+        "w": 273.59375,
+        "h": 322.359375,
+        "natural": [
+          460,
+          542
+        ],
+        "fit": "fill",
+        "position": "50% 50%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "hero",
+        "x": 0,
+        "y": 100,
+        "w": 1440,
+        "h": 830,
+        "padding": [
+          "0px",
+          "0px"
+        ]
+      },
+      {
+        "class": "manifesto section",
+        "x": 0,
+        "y": 1058,
+        "w": 1440,
+        "h": 491.171875,
+        "padding": [
+          "80px",
+          "80px"
+        ]
+      },
+      {
+        "class": "network section",
+        "x": 0,
+        "y": 1603.171875,
+        "w": 1440,
+        "h": 692.90625,
+        "padding": [
+          "60px",
+          "60px"
+        ]
+      },
+      {
+        "class": "practices section",
+        "x": 0,
+        "y": 2350.078125,
+        "w": 1440,
+        "h": 538.140625,
+        "padding": [
+          "80px",
+          "48px"
+        ]
+      },
+      {
+        "class": "women section",
+        "x": 0,
+        "y": 2942.21875,
+        "w": 1440,
+        "h": 981.1875,
+        "padding": [
+          "96px",
+          "96px"
+        ]
+      },
+      {
+        "class": "about section",
+        "x": 0,
+        "y": 3977.40625,
+        "w": 1440,
+        "h": 688,
+        "padding": [
+          "68px",
+          "68px"
+        ]
+      },
+      {
+        "class": "power section",
+        "x": 0,
+        "y": 4695.40625,
+        "w": 1440,
+        "h": 472,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      },
+      {
+        "class": "project section",
+        "x": 0,
+        "y": 5221.40625,
+        "w": 1440,
+        "h": 535.96875,
+        "padding": [
+          "64px",
+          "64px"
+        ]
+      },
+      {
+        "class": "locations section",
+        "x": 0,
+        "y": 5885.375,
+        "w": 1440,
+        "h": 400.078125,
+        "padding": [
+          "60px",
+          "60px"
+        ]
+      },
+      {
+        "class": "final-cta section",
+        "x": 0,
+        "y": 6387.453125,
+        "w": 1440,
+        "h": 501.59375,
+        "padding": [
+          "128px",
+          "128px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact · Liens\n\n© 2026 GAIA by Lauriane\nPratiques complémentaires, sans substitution au suivi médical.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Lauriane — Praticienne en acupuncture traditionnelle",
+          "lines": [
+            "Lauriane — Praticienne en acupuncture traditionnelle"
+          ]
+        },
+        {
+          "text": "Nothing works in silos.",
+          "lines": [
+            "Nothing works",
+            "in silos."
+          ]
+        },
+        {
+          "text": "Your system is a network.",
+          "lines": [
+            "Your system",
+            "is a network."
+          ]
+        },
+        {
+          "text": "AUJOURD’HUI, JE VOUS ACCOMPAGNE À TRAVERS CES PRATIQUES",
+          "lines": [
+            "AUJOURD’HUI, JE VOUS ACCOMPAGNE À TRAVERS CES PRATIQUES"
+          ]
+        },
+        {
+          "text": "Acupuncture traditionnelle",
+          "lines": [
+            "Acupuncture traditionnelle"
+          ]
+        },
+        {
+          "text": "Aculift",
+          "lines": [
+            "Aculift"
+          ]
+        },
+        {
+          "text": "Pranic Healing",
+          "lines": [
+            "Pranic Healing"
+          ]
+        },
+        {
+          "text": "Vivre sa féminité, pas la subir.",
+          "lines": [
+            "Vivre sa féminité, pas la",
+            "subir."
+          ]
+        },
+        {
+          "text": "I WAS LOOKING FOR A WAY TO CONNECT THE DOTS.",
+          "lines": [
+            "I WAS LOOKING FOR A WAY TO CONNECT THE DOTS."
+          ]
+        },
+        {
+          "text": "Power & Softness",
+          "lines": [
+            "Power & Softness"
+          ]
+        },
+        {
+          "text": "The GAIA Project",
+          "lines": [
+            "The GAIA Project"
+          ]
+        },
+        {
+          "text": "OÙ ME TROUVER",
+          "lines": [
+            "OÙ ME TROUVER"
+          ]
+        },
+        {
+          "text": "RECONNECT.",
+          "lines": [
+            "RECONNECT."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Liens",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Santé féminine",
+          "h": 44
+        },
+        {
+          "text": "À propos",
+          "h": 44
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(17, 17, 17)",
+        "rgb(78, 18, 208)",
+        "rgb(255, 253, 247)",
+        "rgb(74, 74, 74)"
+      ],
+      "language": [
+        "/en/",
+        "/en/"
+      ],
+      "booking": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "captions": []
+    },
+    "dropdown": {
+      "x": 433.34375,
+      "y": 80,
+      "width": 262,
+      "height": 156
+    },
+    "escape": true
+  },
+  {
+    "page": "fr",
+    "path": "/fr/",
+    "width": 1280,
+    "height": 6988,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Lauriane — Praticienne en acupuncture traditionnelle",
+        "x": 71.15625,
+        "y": 655.328125,
+        "w": 452.875,
+        "h": 27.1875,
+        "size": "17px",
+        "line": "27.2px"
+      },
+      {
+        "text": "Nothing works in silos.",
+        "x": 668.46875,
+        "y": 1233,
+        "w": 387.421875,
+        "h": 126.6875,
+        "size": "57.6px",
+        "line": "63.36px"
+      },
+      {
+        "text": "Your system is a network.",
+        "x": 71.15625,
+        "y": 1648.6875,
+        "w": 540.359375,
+        "h": 126.6875,
+        "size": "57.6px",
+        "line": "63.36px"
+      },
+      {
+        "text": "AUJOURD’HUI, JE VOUS ACCOMPAGNE À TRAVERS CES PRATIQUES",
+        "x": 71.15625,
+        "y": 2386.875,
+        "w": 1137.6875,
+        "h": 21.6875,
+        "size": "14px",
+        "line": "21.7px"
+      },
+      {
+        "text": "Acupuncture traditionnelle",
+        "x": 71.15625,
+        "y": 2582.5625,
+        "w": 347.21875,
+        "h": 64.765625,
+        "size": "29.44px",
+        "line": "32.384px"
+      },
+      {
+        "text": "Aculift",
+        "x": 466.375,
+        "y": 2582.5625,
+        "w": 347.234375,
+        "h": 64.765625,
+        "size": "29.44px",
+        "line": "32.384px"
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 861.609375,
+        "y": 2582.5625,
+        "w": 347.21875,
+        "h": 64.765625,
+        "size": "29.44px",
+        "line": "32.384px"
+      },
+      {
+        "text": "Vivre sa féminité, pas la subir.",
+        "x": 668.46875,
+        "y": 2983.703125,
+        "w": 540.375,
+        "h": 101.34375,
+        "size": "46.08px",
+        "line": "50.688px"
+      },
+      {
+        "text": "I WAS LOOKING FOR A WAY TO CONNECT THE DOTS.",
+        "x": 107.15625,
+        "y": 4018.859375,
+        "w": 521.25,
+        "h": 47.21875,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "Power & Softness",
+        "x": 71.15625,
+        "y": 4702.421875,
+        "w": 540.359375,
+        "h": 63.34375,
+        "size": "57.6px",
+        "line": "63.36px"
+      },
+      {
+        "text": "The GAIA Project",
+        "x": 71.15625,
+        "y": 5381.484375,
+        "w": 585.640625,
+        "h": 74.625,
+        "size": "67.84px",
+        "line": "74.624px"
+      },
+      {
+        "text": "OÙ ME TROUVER",
+        "x": 71.15625,
+        "y": 5866.734375,
+        "w": 1137.6875,
+        "h": 21.6875,
+        "size": "14px",
+        "line": "21.7px"
+      },
+      {
+        "text": "RECONNECT.",
+        "x": 71.15625,
+        "y": 6425.90625,
+        "w": 1137.6875,
+        "h": 93.90625,
+        "size": "85.376px",
+        "line": "93.9136px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "© 2026 GAIA by LaurianePratiques complémentaires, sans substitution au suivi médical.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [],
+    "images": [
+      {
+        "src": "/images/portrait-1200.webp",
+        "x": 614.40625,
+        "y": 100,
+        "w": 665.59375,
+        "h": 830,
+        "natural": [
+          665,
+          998
+        ],
+        "fit": "cover",
+        "position": "55% 46%"
+      },
+      {
+        "src": "/images/hands-1200.webp",
+        "x": 71.15625,
+        "y": 2983.703125,
+        "w": 540.359375,
+        "h": 600,
+        "natural": [
+          537,
+          806
+        ],
+        "fit": "cover",
+        "position": "50% 42%"
+      },
+      {
+        "src": "/images/movement-1200.webp",
+        "x": 676.40625,
+        "y": 4018.859375,
+        "w": 496.4375,
+        "h": 480,
+        "natural": [
+          537,
+          398
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/gaia-symbol.png",
+        "x": 735.65625,
+        "y": 4696.046875,
+        "w": 273.59375,
+        "h": 322.359375,
+        "natural": [
+          460,
+          542
+        ],
+        "fit": "fill",
+        "position": "50% 50%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "hero",
+        "x": 0,
+        "y": 100,
+        "w": 1280,
+        "h": 830,
+        "padding": [
+          "0px",
+          "0px"
+        ]
+      },
+      {
+        "class": "manifesto section",
+        "x": 0,
+        "y": 1058,
+        "w": 1280,
+        "h": 476.6875,
+        "padding": [
+          "80px",
+          "80px"
+        ]
+      },
+      {
+        "class": "network section",
+        "x": 0,
+        "y": 1588.6875,
+        "w": 1280,
+        "h": 664.1875,
+        "padding": [
+          "60px",
+          "60px"
+        ]
+      },
+      {
+        "class": "practices section",
+        "x": 0,
+        "y": 2306.875,
+        "w": 1280,
+        "h": 526.828125,
+        "padding": [
+          "80px",
+          "48px"
+        ]
+      },
+      {
+        "class": "women section",
+        "x": 0,
+        "y": 2887.703125,
+        "w": 1280,
+        "h": 973.15625,
+        "padding": [
+          "96px",
+          "96px"
+        ]
+      },
+      {
+        "class": "about section",
+        "x": 0,
+        "y": 3914.859375,
+        "w": 1280,
+        "h": 688,
+        "padding": [
+          "68px",
+          "68px"
+        ]
+      },
+      {
+        "class": "power section",
+        "x": 0,
+        "y": 4632.859375,
+        "w": 1280,
+        "h": 472,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      },
+      {
+        "class": "project section",
+        "x": 0,
+        "y": 5158.859375,
+        "w": 1280,
+        "h": 519.875,
+        "padding": [
+          "64px",
+          "64px"
+        ]
+      },
+      {
+        "class": "locations section",
+        "x": 0,
+        "y": 5806.734375,
+        "w": 1280,
+        "h": 389.171875,
+        "padding": [
+          "60px",
+          "60px"
+        ]
+      },
+      {
+        "class": "final-cta section",
+        "x": 0,
+        "y": 6297.90625,
+        "w": 1280,
+        "h": 486.546875,
+        "padding": [
+          "128px",
+          "128px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact · Liens\n\n© 2026 GAIA by Lauriane\nPratiques complémentaires, sans substitution au suivi médical.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Lauriane — Praticienne en acupuncture traditionnelle",
+          "lines": [
+            "Lauriane — Praticienne en acupuncture traditionnelle"
+          ]
+        },
+        {
+          "text": "Nothing works in silos.",
+          "lines": [
+            "Nothing works",
+            "in silos."
+          ]
+        },
+        {
+          "text": "Your system is a network.",
+          "lines": [
+            "Your system",
+            "is a network."
+          ]
+        },
+        {
+          "text": "AUJOURD’HUI, JE VOUS ACCOMPAGNE À TRAVERS CES PRATIQUES",
+          "lines": [
+            "AUJOURD’HUI, JE VOUS ACCOMPAGNE À TRAVERS CES PRATIQUES"
+          ]
+        },
+        {
+          "text": "Acupuncture traditionnelle",
+          "lines": [
+            "Acupuncture traditionnelle"
+          ]
+        },
+        {
+          "text": "Aculift",
+          "lines": [
+            "Aculift"
+          ]
+        },
+        {
+          "text": "Pranic Healing",
+          "lines": [
+            "Pranic Healing"
+          ]
+        },
+        {
+          "text": "Vivre sa féminité, pas la subir.",
+          "lines": [
+            "Vivre sa féminité, pas la",
+            "subir."
+          ]
+        },
+        {
+          "text": "I WAS LOOKING FOR A WAY TO CONNECT THE DOTS.",
+          "lines": [
+            "I WAS LOOKING FOR A WAY TO CONNECT THE DOTS."
+          ]
+        },
+        {
+          "text": "Power & Softness",
+          "lines": [
+            "Power & Softness"
+          ]
+        },
+        {
+          "text": "The GAIA Project",
+          "lines": [
+            "The GAIA Project"
+          ]
+        },
+        {
+          "text": "OÙ ME TROUVER",
+          "lines": [
+            "OÙ ME TROUVER"
+          ]
+        },
+        {
+          "text": "RECONNECT.",
+          "lines": [
+            "RECONNECT."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Liens",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Santé féminine",
+          "h": 44
+        },
+        {
+          "text": "À propos",
+          "h": 44
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(17, 17, 17)",
+        "rgb(78, 18, 208)",
+        "rgb(255, 253, 247)",
+        "rgb(74, 74, 74)"
+      ],
+      "language": [
+        "/en/",
+        "/en/"
+      ],
+      "booking": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "captions": []
+    },
+    "dropdown": {
+      "x": 369.34375,
+      "y": 80,
+      "width": 262,
+      "height": 156
+    },
+    "escape": true
+  },
+  {
+    "page": "fr",
+    "path": "/fr/",
+    "width": 1024,
+    "height": 6869,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Lauriane — Praticienne en acupuncture traditionnelle",
+        "x": 48,
+        "y": 569.28125,
+        "w": 452.875,
+        "h": 27.1875,
+        "size": "17px",
+        "line": "27.2px"
+      },
+      {
+        "text": "Nothing works in silos.",
+        "x": 536,
+        "y": 1172.5625,
+        "w": 358.09375,
+        "h": 117.125,
+        "size": "53.248px",
+        "line": "58.5728px"
+      },
+      {
+        "text": "Your system is a network.",
+        "x": 48,
+        "y": 1608.25,
+        "w": 440,
+        "h": 117.125,
+        "size": "53.248px",
+        "line": "58.5728px"
+      },
+      {
+        "text": "AUJOURD’HUI, JE VOUS ACCOMPAGNE À TRAVERS CES PRATIQUES",
+        "x": 48,
+        "y": 2348.0625,
+        "w": 928,
+        "h": 21.6875,
+        "size": "14px",
+        "line": "21.7px"
+      },
+      {
+        "text": "Acupuncture traditionnelle",
+        "x": 48,
+        "y": 2543.75,
+        "w": 288,
+        "h": 61.59375,
+        "size": "28px",
+        "line": "30.8px"
+      },
+      {
+        "text": "Aculift",
+        "x": 368,
+        "y": 2543.75,
+        "w": 288,
+        "h": 61.59375,
+        "size": "28px",
+        "line": "30.8px"
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 688,
+        "y": 2543.75,
+        "w": 288,
+        "h": 61.59375,
+        "size": "28px",
+        "line": "30.8px"
+      },
+      {
+        "text": "Vivre sa féminité, pas la subir.",
+        "x": 536,
+        "y": 2952.90625,
+        "w": 440,
+        "h": 81.0625,
+        "size": "36.864px",
+        "line": "40.5504px"
+      },
+      {
+        "text": "I WAS LOOKING FOR A WAY TO CONNECT THE DOTS.",
+        "x": 80,
+        "y": 3943.78125,
+        "w": 426.140625,
+        "h": 35.34375,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "Power & Softness",
+        "x": 48,
+        "y": 4603.734375,
+        "w": 440,
+        "h": 58.5625,
+        "size": "53.248px",
+        "line": "58.5728px"
+      },
+      {
+        "text": "The GAIA Project",
+        "x": 48,
+        "y": 5292.5,
+        "w": 484.359375,
+        "h": 52.796875,
+        "size": "48px",
+        "line": "52.8px"
+      },
+      {
+        "text": "OÙ ME TROUVER",
+        "x": 48,
+        "y": 5782.03125,
+        "w": 928,
+        "h": 21.6875,
+        "size": "14px",
+        "line": "21.7px"
+      },
+      {
+        "text": "RECONNECT.",
+        "x": 48,
+        "y": 6323.375,
+        "w": 928,
+        "h": 79.1875,
+        "size": "72px",
+        "line": "79.2px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "© 2026 GAIA by LaurianePratiques complémentaires, sans substitution au suivi médical.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Pratiques",
+        "x": 957.390625,
+        "y": 158,
+        "w": 195.09375,
+        "h": 45.59375
+      },
+      {
+        "text": "Acupuncture traditionnelle",
+        "x": 975.390625,
+        "y": 207.59375,
+        "w": 177.09375,
+        "h": 70.375
+      },
+      {
+        "text": "Aculift",
+        "x": 975.390625,
+        "y": 277.96875,
+        "w": 177.09375,
+        "h": 44.78125
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 975.390625,
+        "y": 322.75,
+        "w": 177.09375,
+        "h": 44.78125
+      },
+      {
+        "text": "Santé féminine",
+        "x": 957.390625,
+        "y": 207.59375,
+        "w": 195.09375,
+        "h": 47.1875
+      },
+      {
+        "text": "À propos",
+        "x": 957.390625,
+        "y": 258.78125,
+        "w": 195.09375,
+        "h": 47.1875
+      },
+      {
+        "text": "FR/EN",
+        "x": 957.390625,
+        "y": 309.96875,
+        "w": 195.09375,
+        "h": 44
+      },
+      {
+        "text": "Prendre rendez-vous",
+        "x": 957.390625,
+        "y": 365.96875,
+        "w": 195.09375,
+        "h": 48
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/portrait-1200.webp",
+        "x": 491.53125,
+        "y": 80,
+        "w": 532.46875,
+        "h": 760,
+        "natural": [
+          532,
+          798
+        ],
+        "fit": "cover",
+        "position": "55% 46%"
+      },
+      {
+        "src": "/images/hands-1200.webp",
+        "x": 48,
+        "y": 2952.90625,
+        "w": 440,
+        "h": 550,
+        "natural": [
+          440,
+          660
+        ],
+        "fit": "cover",
+        "position": "50% 42%"
+      },
+      {
+        "src": "/images/movement-1200.webp",
+        "x": 538.140625,
+        "y": 3943.78125,
+        "w": 405.859375,
+        "h": 480,
+        "natural": [
+          440,
+          325
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/gaia-symbol.png",
+        "x": 576.796875,
+        "y": 4604.578125,
+        "w": 258.390625,
+        "h": 304.4375,
+        "natural": [
+          460,
+          542
+        ],
+        "fit": "fill",
+        "position": "50% 50%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "hero",
+        "x": 0,
+        "y": 80,
+        "w": 1024,
+        "h": 760,
+        "padding": [
+          "0px",
+          "0px"
+        ]
+      },
+      {
+        "class": "manifesto section",
+        "x": 0,
+        "y": 968,
+        "w": 1024,
+        "h": 526.25,
+        "padding": [
+          "64px",
+          "64px"
+        ]
+      },
+      {
+        "class": "network section",
+        "x": 0,
+        "y": 1548.25,
+        "w": 1024,
+        "h": 681.8125,
+        "padding": [
+          "60px",
+          "60px"
+        ]
+      },
+      {
+        "class": "practices section",
+        "x": 0,
+        "y": 2284.0625,
+        "w": 1024,
+        "h": 534.84375,
+        "padding": [
+          "64px",
+          "48px"
+        ]
+      },
+      {
+        "class": "women section",
+        "x": 0,
+        "y": 2872.90625,
+        "w": 1024,
+        "h": 920.875,
+        "padding": [
+          "80px",
+          "80px"
+        ]
+      },
+      {
+        "class": "about section",
+        "x": 0,
+        "y": 3847.78125,
+        "w": 1024,
+        "h": 672,
+        "padding": [
+          "64px",
+          "64px"
+        ]
+      },
+      {
+        "class": "power section",
+        "x": 0,
+        "y": 4549.78125,
+        "w": 1024,
+        "h": 436,
+        "padding": [
+          "48px",
+          "48px"
+        ]
+      },
+      {
+        "class": "project section",
+        "x": 0,
+        "y": 5039.78125,
+        "w": 1024,
+        "h": 558.25,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      },
+      {
+        "class": "locations section",
+        "x": 0,
+        "y": 5726.03125,
+        "w": 1024,
+        "h": 367.34375,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      },
+      {
+        "class": "final-cta section",
+        "x": 0,
+        "y": 6195.375,
+        "w": 1024,
+        "h": 469.1875,
+        "padding": [
+          "128px",
+          "128px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact · Liens\n\n© 2026 GAIA by Lauriane\nPratiques complémentaires, sans substitution au suivi médical.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Lauriane — Praticienne en acupuncture traditionnelle",
+          "lines": [
+            "Lauriane — Praticienne en acupuncture traditionnelle"
+          ]
+        },
+        {
+          "text": "Nothing works in silos.",
+          "lines": [
+            "Nothing works",
+            "in silos."
+          ]
+        },
+        {
+          "text": "Your system is a network.",
+          "lines": [
+            "Your system",
+            "is a network."
+          ]
+        },
+        {
+          "text": "AUJOURD’HUI, JE VOUS ACCOMPAGNE À TRAVERS CES PRATIQUES",
+          "lines": [
+            "AUJOURD’HUI, JE VOUS ACCOMPAGNE À TRAVERS CES PRATIQUES"
+          ]
+        },
+        {
+          "text": "Acupuncture traditionnelle",
+          "lines": [
+            "Acupuncture",
+            "traditionnelle"
+          ]
+        },
+        {
+          "text": "Aculift",
+          "lines": [
+            "Aculift"
+          ]
+        },
+        {
+          "text": "Pranic Healing",
+          "lines": [
+            "Pranic Healing"
+          ]
+        },
+        {
+          "text": "Vivre sa féminité, pas la subir.",
+          "lines": [
+            "Vivre sa féminité, pas la",
+            "subir."
+          ]
+        },
+        {
+          "text": "I WAS LOOKING FOR A WAY TO CONNECT THE DOTS.",
+          "lines": [
+            "I WAS LOOKING FOR A WAY TO CONNECT THE DOTS."
+          ]
+        },
+        {
+          "text": "Power & Softness",
+          "lines": [
+            "Power & Softness"
+          ]
+        },
+        {
+          "text": "The GAIA Project",
+          "lines": [
+            "The GAIA Project"
+          ]
+        },
+        {
+          "text": "OÙ ME TROUVER",
+          "lines": [
+            "OÙ ME TROUVER"
+          ]
+        },
+        {
+          "text": "RECONNECT.",
+          "lines": [
+            "RECONNECT."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Liens",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Santé féminine",
+          "h": 0
+        },
+        {
+          "text": "À propos",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(17, 17, 17)",
+        "rgb(78, 18, 208)",
+        "rgb(255, 253, 247)",
+        "rgb(74, 74, 74)"
+      ],
+      "language": [
+        "/en/",
+        "/en/"
+      ],
+      "booking": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "captions": []
+    },
+    "nav": {
+      "w": 1024,
+      "h": 442.3125,
+      "scroll": 442,
+      "client": 442,
+      "links": [
+        {
+          "label": "Acupuncture traditionnelle",
+          "height": 44.78125
+        },
+        {
+          "label": "Aculift",
+          "height": 44.78125
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 44.78125
+        },
+        {
+          "label": "Santé féminine",
+          "height": 47.1875
+        },
+        {
+          "label": "À propos",
+          "height": 47.1875
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Prendre rendez-vous",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "fr",
+    "path": "/fr/",
+    "width": 768,
+    "height": 8238,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Lauriane — Praticienne en acupuncture traditionnelle",
+        "x": 32,
+        "y": 525.78125,
+        "w": 452.875,
+        "h": 27.1875,
+        "size": "17px",
+        "line": "27.2px"
+      },
+      {
+        "text": "Nothing works in silos.",
+        "x": 32,
+        "y": 1246.15625,
+        "w": 309.40625,
+        "h": 101.1875,
+        "size": "46px",
+        "line": "50.6px"
+      },
+      {
+        "text": "Your system is a network.",
+        "x": 32,
+        "y": 1755.65625,
+        "w": 704,
+        "h": 101.1875,
+        "size": "46px",
+        "line": "50.6px"
+      },
+      {
+        "text": "AUJOURD’HUI, JE VOUS ACCOMPAGNE À TRAVERS CES PRATIQUES",
+        "x": 32,
+        "y": 2740.359375,
+        "w": 704,
+        "h": 20.140625,
+        "size": "13px",
+        "line": "20.15px"
+      },
+      {
+        "text": "Acupuncture traditionnelle",
+        "x": 156,
+        "y": 2826.40625,
+        "w": 580,
+        "h": 32.1875,
+        "size": "28px",
+        "line": "32.2px"
+      },
+      {
+        "text": "Aculift",
+        "x": 156,
+        "y": 3065.59375,
+        "w": 580,
+        "h": 32.1875,
+        "size": "28px",
+        "line": "32.2px"
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 156,
+        "y": 3304.78125,
+        "w": 580,
+        "h": 32.1875,
+        "size": "28px",
+        "line": "32.2px"
+      },
+      {
+        "text": "Vivre sa féminité, pas la subir.",
+        "x": 32,
+        "y": 3596.0625,
+        "w": 614.34375,
+        "h": 48.15625,
+        "size": "43.776px",
+        "line": "48.1536px"
+      },
+      {
+        "text": "I WAS LOOKING FOR A WAY TO CONNECT THE DOTS.",
+        "x": 60,
+        "y": 4995.46875,
+        "w": 648,
+        "h": 19.5,
+        "size": "13px",
+        "line": "19.5px"
+      },
+      {
+        "text": "Power & Softness",
+        "x": 32,
+        "y": 6035.875,
+        "w": 704,
+        "h": 50.59375,
+        "size": "46px",
+        "line": "50.6px"
+      },
+      {
+        "text": "The GAIA Project",
+        "x": 32,
+        "y": 6707.625,
+        "w": 704,
+        "h": 48.15625,
+        "size": "43.776px",
+        "line": "48.1536px"
+      },
+      {
+        "text": "OÙ ME TROUVER",
+        "x": 32,
+        "y": 7259.28125,
+        "w": 704,
+        "h": 20.140625,
+        "size": "13px",
+        "line": "20.15px"
+      },
+      {
+        "text": "RECONNECT.",
+        "x": 32,
+        "y": 7666.46875,
+        "w": 704,
+        "h": 70.125,
+        "size": "63.744px",
+        "line": "70.1184px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "Yin / Yang",
+        "size": "13px"
+      },
+      {
+        "text": "Shiva / Shakti",
+        "size": "13px"
+      },
+      {
+        "text": "Ha / Tha",
+        "size": "13px"
+      },
+      {
+        "text": "© 2026 GAIA by LaurianePratiques complémentaires, sans substitution au suivi médical.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Pratiques",
+        "x": 693.390625,
+        "y": 158,
+        "w": 195.09375,
+        "h": 45.59375
+      },
+      {
+        "text": "Acupuncture traditionnelle",
+        "x": 711.390625,
+        "y": 207.59375,
+        "w": 177.09375,
+        "h": 70.375
+      },
+      {
+        "text": "Aculift",
+        "x": 711.390625,
+        "y": 277.96875,
+        "w": 177.09375,
+        "h": 44.78125
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 711.390625,
+        "y": 322.75,
+        "w": 177.09375,
+        "h": 44.78125
+      },
+      {
+        "text": "Santé féminine",
+        "x": 693.390625,
+        "y": 207.59375,
+        "w": 195.09375,
+        "h": 47.1875
+      },
+      {
+        "text": "À propos",
+        "x": 693.390625,
+        "y": 258.78125,
+        "w": 195.09375,
+        "h": 47.1875
+      },
+      {
+        "text": "FR/EN",
+        "x": 693.390625,
+        "y": 309.96875,
+        "w": 195.09375,
+        "h": 44
+      },
+      {
+        "text": "Prendre rendez-vous",
+        "x": 693.390625,
+        "y": 365.96875,
+        "w": 195.09375,
+        "h": 48
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/portrait-1200.webp",
+        "x": 44,
+        "y": 676.15625,
+        "w": 680,
+        "h": 460,
+        "natural": [
+          768,
+          1152
+        ],
+        "fit": "cover",
+        "position": "50% 43%"
+      },
+      {
+        "src": "/images/hands-1200.webp",
+        "x": 154,
+        "y": 4266.46875,
+        "w": 460,
+        "h": 575,
+        "natural": [
+          519,
+          779
+        ],
+        "fit": "cover",
+        "position": "50% 42%"
+      },
+      {
+        "src": "/images/movement-1200.webp",
+        "x": 60,
+        "y": 5417.28125,
+        "w": 648,
+        "h": 480.59375,
+        "natural": [
+          640,
+          474
+        ],
+        "fit": "contain",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/gaia-symbol.png",
+        "x": 277.59375,
+        "y": 6319.21875,
+        "w": 212.796875,
+        "h": 250.71875,
+        "natural": [
+          460,
+          542
+        ],
+        "fit": "fill",
+        "position": "50% 50%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "hero",
+        "x": 0,
+        "y": 80,
+        "w": 768,
+        "h": 1056.15625,
+        "padding": [
+          "0px",
+          "0px"
+        ]
+      },
+      {
+        "class": "manifesto section",
+        "x": 0,
+        "y": 1206.15625,
+        "w": 768,
+        "h": 467.5,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "network section",
+        "x": 0,
+        "y": 1711.65625,
+        "w": 768,
+        "h": 950.703125,
+        "padding": [
+          "44px",
+          "36px"
+        ]
+      },
+      {
+        "class": "practices section",
+        "x": 0,
+        "y": 2700.359375,
+        "w": 768,
+        "h": 809.703125,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "women section",
+        "x": 0,
+        "y": 3548.0625,
+        "w": 768,
+        "h": 1337.40625,
+        "padding": [
+          "48px",
+          "44px"
+        ]
+      },
+      {
+        "class": "about section",
+        "x": 0,
+        "y": 4923.46875,
+        "w": 768,
+        "h": 1046.40625,
+        "padding": [
+          "44px",
+          "44px"
+        ]
+      },
+      {
+        "class": "power section",
+        "x": 0,
+        "y": 5991.875,
+        "w": 768,
+        "h": 637.75,
+        "padding": [
+          "44px",
+          "36px"
+        ]
+      },
+      {
+        "class": "project section",
+        "x": 0,
+        "y": 6667.625,
+        "w": 768,
+        "h": 485.65625,
+        "padding": [
+          "40px",
+          "36px"
+        ]
+      },
+      {
+        "class": "locations section",
+        "x": 0,
+        "y": 7223.28125,
+        "w": 768,
+        "h": 317.1875,
+        "padding": [
+          "36px",
+          "36px"
+        ]
+      },
+      {
+        "class": "final-cta section",
+        "x": 0,
+        "y": 7602.46875,
+        "w": 768,
+        "h": 317.125,
+        "padding": [
+          "64px",
+          "64px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLiens\n\n© 2026 GAIA by Lauriane\nPratiques complémentaires, sans substitution au suivi médical.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Lauriane — Praticienne en acupuncture traditionnelle",
+          "lines": [
+            "Lauriane — Praticienne en acupuncture traditionnelle"
+          ]
+        },
+        {
+          "text": "Nothing works in silos.",
+          "lines": [
+            "Nothing works",
+            "in silos."
+          ]
+        },
+        {
+          "text": "Your system is a network.",
+          "lines": [
+            "Your system",
+            "is a network."
+          ]
+        },
+        {
+          "text": "AUJOURD’HUI, JE VOUS ACCOMPAGNE À TRAVERS CES PRATIQUES",
+          "lines": [
+            "AUJOURD’HUI, JE VOUS ACCOMPAGNE À TRAVERS CES PRATIQUES"
+          ]
+        },
+        {
+          "text": "Acupuncture traditionnelle",
+          "lines": [
+            "Acupuncture traditionnelle"
+          ]
+        },
+        {
+          "text": "Aculift",
+          "lines": [
+            "Aculift"
+          ]
+        },
+        {
+          "text": "Pranic Healing",
+          "lines": [
+            "Pranic Healing"
+          ]
+        },
+        {
+          "text": "Vivre sa féminité, pas la subir.",
+          "lines": [
+            "Vivre sa féminité, pas la subir."
+          ]
+        },
+        {
+          "text": "I WAS LOOKING FOR A WAY TO CONNECT THE DOTS.",
+          "lines": [
+            "I WAS LOOKING FOR A WAY TO CONNECT THE DOTS."
+          ]
+        },
+        {
+          "text": "Power & Softness",
+          "lines": [
+            "Power & Softness"
+          ]
+        },
+        {
+          "text": "The GAIA Project",
+          "lines": [
+            "The GAIA Project"
+          ]
+        },
+        {
+          "text": "OÙ ME TROUVER",
+          "lines": [
+            "OÙ ME TROUVER"
+          ]
+        },
+        {
+          "text": "RECONNECT.",
+          "lines": [
+            "RECONNECT."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Liens",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Santé féminine",
+          "h": 0
+        },
+        {
+          "text": "À propos",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(17, 17, 17)",
+        "rgb(78, 18, 208)",
+        "rgb(255, 253, 247)",
+        "rgb(74, 74, 74)"
+      ],
+      "language": [
+        "/en/",
+        "/en/"
+      ],
+      "booking": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "captions": []
+    },
+    "nav": {
+      "w": 768,
+      "h": 442.3125,
+      "scroll": 442,
+      "client": 442,
+      "links": [
+        {
+          "label": "Acupuncture traditionnelle",
+          "height": 44.78125
+        },
+        {
+          "label": "Aculift",
+          "height": 44.78125
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 44.78125
+        },
+        {
+          "label": "Santé féminine",
+          "height": 47.1875
+        },
+        {
+          "label": "À propos",
+          "height": 47.1875
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Prendre rendez-vous",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "fr",
+    "path": "/fr/",
+    "width": 430,
+    "height": 8309,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Lauriane — Praticienne en acupuncture traditionnelle",
+        "x": 24,
+        "y": 433.890625,
+        "w": 382,
+        "h": 54.375,
+        "size": "17px",
+        "line": "27.2px"
+      },
+      {
+        "text": "Nothing works in silos.",
+        "x": 24,
+        "y": 1100.453125,
+        "w": 296.421875,
+        "h": 96.96875,
+        "size": "44.075px",
+        "line": "48.4825px"
+      },
+      {
+        "text": "Your system is a network.",
+        "x": 24,
+        "y": 1718.921875,
+        "w": 382,
+        "h": 96.96875,
+        "size": "44.075px",
+        "line": "48.4825px"
+      },
+      {
+        "text": "AUJOURD’HUI, JE VOUS ACCOMPAGNE À TRAVERS CES PRATIQUES",
+        "x": 24,
+        "y": 2665.296875,
+        "w": 382,
+        "h": 37.1875,
+        "size": "12px",
+        "line": "18.6px"
+      },
+      {
+        "text": "Acupuncture traditionnelle",
+        "x": 128,
+        "y": 2744.296875,
+        "w": 278,
+        "h": 64.375,
+        "size": "28px",
+        "line": "32.2px"
+      },
+      {
+        "text": "Aculift",
+        "x": 128,
+        "y": 2978.734375,
+        "w": 278,
+        "h": 32.1875,
+        "size": "28px",
+        "line": "32.2px"
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 128,
+        "y": 3223.421875,
+        "w": 278,
+        "h": 32.1875,
+        "size": "28px",
+        "line": "32.2px"
+      },
+      {
+        "text": "Vivre sa féminité, pas la subir.",
+        "x": 24,
+        "y": 3532.203125,
+        "w": 382,
+        "h": 87.03125,
+        "size": "39.56px",
+        "line": "43.516px"
+      },
+      {
+        "text": "I WAS LOOKING FOR A WAY TO CONNECT THE DOTS.",
+        "x": 32,
+        "y": 5049.953125,
+        "w": 366,
+        "h": 18,
+        "size": "12px",
+        "line": "18px"
+      },
+      {
+        "text": "Power & Softness",
+        "x": 24,
+        "y": 5960.53125,
+        "w": 382,
+        "h": 48.484375,
+        "size": "44.075px",
+        "line": "48.4825px"
+      },
+      {
+        "text": "The GAIA Project",
+        "x": 24,
+        "y": 6633.984375,
+        "w": 382,
+        "h": 45.859375,
+        "size": "41.71px",
+        "line": "45.881px"
+      },
+      {
+        "text": "OÙ ME TROUVER",
+        "x": 24,
+        "y": 7276.3125,
+        "w": 382,
+        "h": 18.59375,
+        "size": "12px",
+        "line": "18.6px"
+      },
+      {
+        "text": "RECONNECT.",
+        "x": 24,
+        "y": 7720.53125,
+        "w": 382,
+        "h": 67.15625,
+        "size": "61.06px",
+        "line": "67.166px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "Yin / Yang",
+        "size": "13px"
+      },
+      {
+        "text": "Shiva / Shakti",
+        "size": "13px"
+      },
+      {
+        "text": "Ha / Tha",
+        "size": "13px"
+      },
+      {
+        "text": "© 2026 GAIA by LaurianePratiques complémentaires, sans substitution au suivi médical.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Pratiques",
+        "x": 349.625,
+        "y": 158,
+        "w": 195.09375,
+        "h": 44.796875
+      },
+      {
+        "text": "Acupuncture traditionnelle",
+        "x": 367.625,
+        "y": 206.796875,
+        "w": 177.09375,
+        "h": 68.78125
+      },
+      {
+        "text": "Aculift",
+        "x": 367.625,
+        "y": 275.578125,
+        "w": 177.09375,
+        "h": 44
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 367.625,
+        "y": 319.578125,
+        "w": 177.09375,
+        "h": 44
+      },
+      {
+        "text": "Santé féminine",
+        "x": 349.625,
+        "y": 206.796875,
+        "w": 195.09375,
+        "h": 46.34375
+      },
+      {
+        "text": "À propos",
+        "x": 349.625,
+        "y": 257.140625,
+        "w": 195.09375,
+        "h": 46.34375
+      },
+      {
+        "text": "FR/EN",
+        "x": 349.625,
+        "y": 307.484375,
+        "w": 195.09375,
+        "h": 44
+      },
+      {
+        "text": "Prendre rendez-vous",
+        "x": 349.625,
+        "y": 363.484375,
+        "w": 195.09375,
+        "h": 48
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/portrait-1200.webp",
+        "x": 0,
+        "y": 611.453125,
+        "w": 430,
+        "h": 387,
+        "natural": [
+          430,
+          645
+        ],
+        "fit": "cover",
+        "position": "50% 43%"
+      },
+      {
+        "src": "/images/hands-1200.webp",
+        "x": 24,
+        "y": 4428.453125,
+        "w": 382,
+        "h": 477.5,
+        "natural": [
+          382,
+          573
+        ],
+        "fit": "cover",
+        "position": "50% 42%"
+      },
+      {
+        "src": "/images/movement-1200.webp",
+        "x": 26,
+        "y": 5552.1875,
+        "w": 378,
+        "h": 280.34375,
+        "natural": [
+          382,
+          282
+        ],
+        "fit": "contain",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/gaia-symbol.png",
+        "x": 103,
+        "y": 6243.984375,
+        "w": 224,
+        "h": 263.921875,
+        "natural": [
+          460,
+          542
+        ],
+        "fit": "fill",
+        "position": "50% 50%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "hero",
+        "x": 0,
+        "y": 80,
+        "w": 430,
+        "h": 918.453125,
+        "padding": [
+          "0px",
+          "0px"
+        ]
+      },
+      {
+        "class": "manifesto section",
+        "x": 0,
+        "y": 1060.453125,
+        "w": 430,
+        "h": 576.46875,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "network section",
+        "x": 0,
+        "y": 1674.921875,
+        "w": 430,
+        "h": 912.375,
+        "padding": [
+          "44px",
+          "36px"
+        ]
+      },
+      {
+        "class": "practices section",
+        "x": 0,
+        "y": 2625.296875,
+        "w": 430,
+        "h": 820.90625,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "women section",
+        "x": 0,
+        "y": 3484.203125,
+        "w": 430,
+        "h": 1465.75,
+        "padding": [
+          "48px",
+          "44px"
+        ]
+      },
+      {
+        "class": "about section",
+        "x": 0,
+        "y": 4987.953125,
+        "w": 430,
+        "h": 906.578125,
+        "padding": [
+          "44px",
+          "44px"
+        ]
+      },
+      {
+        "class": "power section",
+        "x": 0,
+        "y": 5916.53125,
+        "w": 430,
+        "h": 639.453125,
+        "padding": [
+          "44px",
+          "32px"
+        ]
+      },
+      {
+        "class": "project section",
+        "x": 0,
+        "y": 6593.984375,
+        "w": 430,
+        "h": 584.328125,
+        "padding": [
+          "40px",
+          "36px"
+        ]
+      },
+      {
+        "class": "locations section",
+        "x": 0,
+        "y": 7240.3125,
+        "w": 430,
+        "h": 354.21875,
+        "padding": [
+          "36px",
+          "36px"
+        ]
+      },
+      {
+        "class": "final-cta section",
+        "x": 0,
+        "y": 7656.53125,
+        "w": 430,
+        "h": 314.15625,
+        "padding": [
+          "64px",
+          "64px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLiens\n\n© 2026 GAIA by Lauriane\nPratiques complémentaires, sans substitution au suivi médical.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Lauriane — Praticienne en acupuncture traditionnelle",
+          "lines": [
+            "Lauriane — Praticienne en acupuncture",
+            "traditionnelle"
+          ]
+        },
+        {
+          "text": "Nothing works in silos.",
+          "lines": [
+            "Nothing works",
+            "in silos."
+          ]
+        },
+        {
+          "text": "Your system is a network.",
+          "lines": [
+            "Your system",
+            "is a network."
+          ]
+        },
+        {
+          "text": "AUJOURD’HUI, JE VOUS ACCOMPAGNE À TRAVERS CES PRATIQUES",
+          "lines": [
+            "AUJOURD’HUI, JE VOUS ACCOMPAGNE À TRAVERS CES",
+            "PRATIQUES"
+          ]
+        },
+        {
+          "text": "Acupuncture traditionnelle",
+          "lines": [
+            "Acupuncture",
+            "traditionnelle"
+          ]
+        },
+        {
+          "text": "Aculift",
+          "lines": [
+            "Aculift"
+          ]
+        },
+        {
+          "text": "Pranic Healing",
+          "lines": [
+            "Pranic Healing"
+          ]
+        },
+        {
+          "text": "Vivre sa féminité, pas la subir.",
+          "lines": [
+            "Vivre sa féminité, pas",
+            "la subir."
+          ]
+        },
+        {
+          "text": "I WAS LOOKING FOR A WAY TO CONNECT THE DOTS.",
+          "lines": [
+            "I WAS LOOKING FOR A WAY TO CONNECT THE DOTS."
+          ]
+        },
+        {
+          "text": "Power & Softness",
+          "lines": [
+            "Power & Softness"
+          ]
+        },
+        {
+          "text": "The GAIA Project",
+          "lines": [
+            "The GAIA Project"
+          ]
+        },
+        {
+          "text": "OÙ ME TROUVER",
+          "lines": [
+            "OÙ ME TROUVER"
+          ]
+        },
+        {
+          "text": "RECONNECT.",
+          "lines": [
+            "RECONNECT."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Liens",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Santé féminine",
+          "h": 0
+        },
+        {
+          "text": "À propos",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(17, 17, 17)",
+        "rgb(78, 18, 208)",
+        "rgb(255, 253, 247)",
+        "rgb(74, 74, 74)"
+      ],
+      "language": [
+        "/en/",
+        "/en/"
+      ],
+      "booking": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "captions": []
+    },
+    "nav": {
+      "w": 430,
+      "h": 437.484375,
+      "scroll": 437,
+      "client": 437,
+      "links": [
+        {
+          "label": "Acupuncture traditionnelle",
+          "height": 44
+        },
+        {
+          "label": "Aculift",
+          "height": 44
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 44
+        },
+        {
+          "label": "Santé féminine",
+          "height": 46.34375
+        },
+        {
+          "label": "À propos",
+          "height": 46.34375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Prendre rendez-vous",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "fr",
+    "path": "/fr/",
+    "width": 390,
+    "height": 8350,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Lauriane — Praticienne en acupuncture traditionnelle",
+        "x": 21.828125,
+        "y": 410.390625,
+        "w": 346.34375,
+        "h": 54.375,
+        "size": "17px",
+        "line": "27.2px"
+      },
+      {
+        "text": "Nothing works in silos.",
+        "x": 21.828125,
+        "y": 1040.953125,
+        "w": 268.84375,
+        "h": 87.90625,
+        "size": "39.975px",
+        "line": "43.9725px"
+      },
+      {
+        "text": "Your system is a network.",
+        "x": 21.828125,
+        "y": 1650.359375,
+        "w": 346.34375,
+        "h": 87.90625,
+        "size": "39.975px",
+        "line": "43.9725px"
+      },
+      {
+        "text": "AUJOURD’HUI, JE VOUS ACCOMPAGNE À TRAVERS CES PRATIQUES",
+        "x": 21.828125,
+        "y": 2636.75,
+        "w": 346.34375,
+        "h": 37.1875,
+        "size": "12px",
+        "line": "18.6px"
+      },
+      {
+        "text": "Acupuncture traditionnelle",
+        "x": 125.828125,
+        "y": 2717.90625,
+        "w": 242.34375,
+        "h": 60.0625,
+        "size": "26.13px",
+        "line": "30.0495px"
+      },
+      {
+        "text": "Aculift",
+        "x": 125.828125,
+        "y": 2951.265625,
+        "w": 242.34375,
+        "h": 30.03125,
+        "size": "26.13px",
+        "line": "30.0495px"
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 125.828125,
+        "y": 3195.953125,
+        "w": 242.34375,
+        "h": 30.03125,
+        "size": "26.13px",
+        "line": "30.0495px"
+      },
+      {
+        "text": "Vivre sa féminité, pas la subir.",
+        "x": 21.828125,
+        "y": 3503.65625,
+        "w": 346.34375,
+        "h": 78.90625,
+        "size": "35.88px",
+        "line": "39.468px"
+      },
+      {
+        "text": "I WAS LOOKING FOR A WAY TO CONNECT THE DOTS.",
+        "x": 32,
+        "y": 4995.046875,
+        "w": 326,
+        "h": 36,
+        "size": "12px",
+        "line": "18px"
+      },
+      {
+        "text": "Power & Softness",
+        "x": 21.828125,
+        "y": 5946.640625,
+        "w": 346.34375,
+        "h": 43.953125,
+        "size": "39.975px",
+        "line": "43.9725px"
+      },
+      {
+        "text": "The GAIA Project",
+        "x": 21.828125,
+        "y": 6641.90625,
+        "w": 346.34375,
+        "h": 41.609375,
+        "size": "37.83px",
+        "line": "41.613px"
+      },
+      {
+        "text": "OÙ ME TROUVER",
+        "x": 21.828125,
+        "y": 7306.328125,
+        "w": 346.34375,
+        "h": 18.59375,
+        "size": "12px",
+        "line": "18.6px"
+      },
+      {
+        "text": "RECONNECT.",
+        "x": 21.828125,
+        "y": 7768.046875,
+        "w": 346.34375,
+        "h": 60.90625,
+        "size": "55.38px",
+        "line": "60.918px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "Yin / Yang",
+        "size": "13px"
+      },
+      {
+        "text": "Shiva / Shakti",
+        "size": "13px"
+      },
+      {
+        "text": "Ha / Tha",
+        "size": "13px"
+      },
+      {
+        "text": "© 2026 GAIA by LaurianePratiques complémentaires, sans substitution au suivi médical.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Pratiques",
+        "x": 309.625,
+        "y": 158,
+        "w": 195.09375,
+        "h": 44.796875
+      },
+      {
+        "text": "Acupuncture traditionnelle",
+        "x": 327.625,
+        "y": 206.796875,
+        "w": 177.09375,
+        "h": 68.78125
+      },
+      {
+        "text": "Aculift",
+        "x": 327.625,
+        "y": 275.578125,
+        "w": 177.09375,
+        "h": 44
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 327.625,
+        "y": 319.578125,
+        "w": 177.09375,
+        "h": 44
+      },
+      {
+        "text": "Santé féminine",
+        "x": 309.625,
+        "y": 206.796875,
+        "w": 195.09375,
+        "h": 46.34375
+      },
+      {
+        "text": "À propos",
+        "x": 309.625,
+        "y": 257.140625,
+        "w": 195.09375,
+        "h": 46.34375
+      },
+      {
+        "text": "FR/EN",
+        "x": 309.625,
+        "y": 307.484375,
+        "w": 195.09375,
+        "h": 44
+      },
+      {
+        "text": "Prendre rendez-vous",
+        "x": 309.625,
+        "y": 363.484375,
+        "w": 195.09375,
+        "h": 48
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/portrait-1200.webp",
+        "x": 0,
+        "y": 587.953125,
+        "w": 390,
+        "h": 351,
+        "natural": [
+          390,
+          585
+        ],
+        "fit": "cover",
+        "position": "50% 43%"
+      },
+      {
+        "src": "/images/hands-1200.webp",
+        "x": 21.828125,
+        "y": 4418.125,
+        "w": 346.34375,
+        "h": 432.921875,
+        "natural": [
+          342,
+          513
+        ],
+        "fit": "cover",
+        "position": "50% 42%"
+      },
+      {
+        "src": "/images/movement-1200.webp",
+        "x": 26,
+        "y": 5567.96875,
+        "w": 338,
+        "h": 250.671875,
+        "natural": [
+          342,
+          253
+        ],
+        "fit": "contain",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/gaia-symbol.png",
+        "x": 83,
+        "y": 6251.90625,
+        "w": 224,
+        "h": 263.921875,
+        "natural": [
+          460,
+          542
+        ],
+        "fit": "fill",
+        "position": "50% 50%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "hero",
+        "x": 0,
+        "y": 80,
+        "w": 390,
+        "h": 858.953125,
+        "padding": [
+          "0px",
+          "0px"
+        ]
+      },
+      {
+        "class": "manifesto section",
+        "x": 0,
+        "y": 1000.953125,
+        "w": 390,
+        "h": 567.40625,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "network section",
+        "x": 0,
+        "y": 1606.359375,
+        "w": 390,
+        "h": 952.390625,
+        "padding": [
+          "44px",
+          "36px"
+        ]
+      },
+      {
+        "class": "practices section",
+        "x": 0,
+        "y": 2596.75,
+        "w": 390,
+        "h": 820.90625,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "women section",
+        "x": 0,
+        "y": 3455.65625,
+        "w": 390,
+        "h": 1439.390625,
+        "padding": [
+          "48px",
+          "44px"
+        ]
+      },
+      {
+        "class": "about section",
+        "x": 0,
+        "y": 4933.046875,
+        "w": 390,
+        "h": 947.59375,
+        "padding": [
+          "44px",
+          "44px"
+        ]
+      },
+      {
+        "class": "power section",
+        "x": 0,
+        "y": 5902.640625,
+        "w": 390,
+        "h": 661.265625,
+        "padding": [
+          "44px",
+          "32px"
+        ]
+      },
+      {
+        "class": "project section",
+        "x": 0,
+        "y": 6601.90625,
+        "w": 390,
+        "h": 606.421875,
+        "padding": [
+          "40px",
+          "36px"
+        ]
+      },
+      {
+        "class": "locations section",
+        "x": 0,
+        "y": 7270.328125,
+        "w": 390,
+        "h": 371.71875,
+        "padding": [
+          "36px",
+          "36px"
+        ]
+      },
+      {
+        "class": "final-cta section",
+        "x": 0,
+        "y": 7704.046875,
+        "w": 390,
+        "h": 307.90625,
+        "padding": [
+          "64px",
+          "64px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLiens\n\n© 2026 GAIA by Lauriane\nPratiques complémentaires, sans substitution au suivi médical.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Lauriane — Praticienne en acupuncture traditionnelle",
+          "lines": [
+            "Lauriane — Praticienne en acupuncture",
+            "traditionnelle"
+          ]
+        },
+        {
+          "text": "Nothing works in silos.",
+          "lines": [
+            "Nothing works",
+            "in silos."
+          ]
+        },
+        {
+          "text": "Your system is a network.",
+          "lines": [
+            "Your system",
+            "is a network."
+          ]
+        },
+        {
+          "text": "AUJOURD’HUI, JE VOUS ACCOMPAGNE À TRAVERS CES PRATIQUES",
+          "lines": [
+            "AUJOURD’HUI, JE VOUS ACCOMPAGNE À TRAVERS",
+            "CES PRATIQUES"
+          ]
+        },
+        {
+          "text": "Acupuncture traditionnelle",
+          "lines": [
+            "Acupuncture",
+            "traditionnelle"
+          ]
+        },
+        {
+          "text": "Aculift",
+          "lines": [
+            "Aculift"
+          ]
+        },
+        {
+          "text": "Pranic Healing",
+          "lines": [
+            "Pranic Healing"
+          ]
+        },
+        {
+          "text": "Vivre sa féminité, pas la subir.",
+          "lines": [
+            "Vivre sa féminité, pas",
+            "la subir."
+          ]
+        },
+        {
+          "text": "I WAS LOOKING FOR A WAY TO CONNECT THE DOTS.",
+          "lines": [
+            "I WAS LOOKING FOR A WAY TO CONNECT THE",
+            "DOTS."
+          ]
+        },
+        {
+          "text": "Power & Softness",
+          "lines": [
+            "Power & Softness"
+          ]
+        },
+        {
+          "text": "The GAIA Project",
+          "lines": [
+            "The GAIA Project"
+          ]
+        },
+        {
+          "text": "OÙ ME TROUVER",
+          "lines": [
+            "OÙ ME TROUVER"
+          ]
+        },
+        {
+          "text": "RECONNECT.",
+          "lines": [
+            "RECONNECT."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Liens",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Santé féminine",
+          "h": 0
+        },
+        {
+          "text": "À propos",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(17, 17, 17)",
+        "rgb(78, 18, 208)",
+        "rgb(255, 253, 247)",
+        "rgb(74, 74, 74)"
+      ],
+      "language": [
+        "/en/",
+        "/en/"
+      ],
+      "booking": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "captions": []
+    },
+    "nav": {
+      "w": 390,
+      "h": 437.484375,
+      "scroll": 437,
+      "client": 437,
+      "links": [
+        {
+          "label": "Acupuncture traditionnelle",
+          "height": 44
+        },
+        {
+          "label": "Aculift",
+          "height": 44
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 44
+        },
+        {
+          "label": "Santé féminine",
+          "height": 46.34375
+        },
+        {
+          "label": "À propos",
+          "height": 46.34375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Prendre rendez-vous",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "fr",
+    "path": "/fr/",
+    "width": 360,
+    "height": 8211,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Lauriane — Praticienne en acupuncture traditionnelle",
+        "x": 20.15625,
+        "y": 392.84375,
+        "w": 319.6875,
+        "h": 52.78125,
+        "size": "16.5px",
+        "line": "26.4px"
+      },
+      {
+        "text": "Nothing works in silos.",
+        "x": 20.15625,
+        "y": 1000.015625,
+        "w": 248.203125,
+        "h": 81.1875,
+        "size": "36.9px",
+        "line": "40.59px"
+      },
+      {
+        "text": "Your system is a network.",
+        "x": 20.15625,
+        "y": 1645.21875,
+        "w": 319.6875,
+        "h": 81.1875,
+        "size": "36.9px",
+        "line": "40.59px"
+      },
+      {
+        "text": "AUJOURD’HUI, JE VOUS ACCOMPAGNE À TRAVERS CES PRATIQUES",
+        "x": 20.15625,
+        "y": 2593.125,
+        "w": 319.6875,
+        "h": 37.1875,
+        "size": "12px",
+        "line": "18.6px"
+      },
+      {
+        "text": "Acupuncture traditionnelle",
+        "x": 124.15625,
+        "y": 2676.578125,
+        "w": 215.6875,
+        "h": 55.46875,
+        "size": "24.12px",
+        "line": "27.738px"
+      },
+      {
+        "text": "Aculift",
+        "x": 124.15625,
+        "y": 2908,
+        "w": 215.6875,
+        "h": 27.734375,
+        "size": "24.12px",
+        "line": "27.738px"
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 124.15625,
+        "y": 3151.125,
+        "w": 215.6875,
+        "h": 27.734375,
+        "size": "24.12px",
+        "line": "27.738px"
+      },
+      {
+        "text": "Vivre sa féminité, pas la subir.",
+        "x": 20.15625,
+        "y": 3481.6875,
+        "w": 319.6875,
+        "h": 74.78125,
+        "size": "34px",
+        "line": "37.4px"
+      },
+      {
+        "text": "I WAS LOOKING FOR A WAY TO CONNECT THE DOTS.",
+        "x": 32,
+        "y": 4918.453125,
+        "w": 296,
+        "h": 36,
+        "size": "12px",
+        "line": "18px"
+      },
+      {
+        "text": "Power & Softness",
+        "x": 20.15625,
+        "y": 5838.421875,
+        "w": 319.6875,
+        "h": 40.59375,
+        "size": "36.9px",
+        "line": "40.59px"
+      },
+      {
+        "text": "The GAIA Project",
+        "x": 20.15625,
+        "y": 6526.421875,
+        "w": 319.6875,
+        "h": 39.59375,
+        "size": "36px",
+        "line": "39.6px"
+      },
+      {
+        "text": "OÙ ME TROUVER",
+        "x": 20.15625,
+        "y": 7177.890625,
+        "w": 319.6875,
+        "h": 18.59375,
+        "size": "12px",
+        "line": "18.6px"
+      },
+      {
+        "text": "RECONNECT.",
+        "x": 20.15625,
+        "y": 7632.765625,
+        "w": 319.6875,
+        "h": 57.1875,
+        "size": "52px",
+        "line": "57.2px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "Yin / Yang",
+        "size": "13px"
+      },
+      {
+        "text": "Shiva / Shakti",
+        "size": "13px"
+      },
+      {
+        "text": "Ha / Tha",
+        "size": "13px"
+      },
+      {
+        "text": "© 2026 GAIA by LaurianePratiques complémentaires, sans substitution au suivi médical.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Pratiques",
+        "x": 279.625,
+        "y": 158,
+        "w": 195.09375,
+        "h": 44.796875
+      },
+      {
+        "text": "Acupuncture traditionnelle",
+        "x": 297.625,
+        "y": 206.796875,
+        "w": 177.09375,
+        "h": 68.78125
+      },
+      {
+        "text": "Aculift",
+        "x": 297.625,
+        "y": 275.578125,
+        "w": 177.09375,
+        "h": 44
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 297.625,
+        "y": 319.578125,
+        "w": 177.09375,
+        "h": 44
+      },
+      {
+        "text": "Santé féminine",
+        "x": 279.625,
+        "y": 206.796875,
+        "w": 195.09375,
+        "h": 45.5625
+      },
+      {
+        "text": "À propos",
+        "x": 279.625,
+        "y": 256.359375,
+        "w": 195.09375,
+        "h": 45.5625
+      },
+      {
+        "text": "FR/EN",
+        "x": 279.625,
+        "y": 305.921875,
+        "w": 195.09375,
+        "h": 44
+      },
+      {
+        "text": "Prendre rendez-vous",
+        "x": 279.625,
+        "y": 361.921875,
+        "w": 195.09375,
+        "h": 48
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/portrait-1200.webp",
+        "x": 0,
+        "y": 568.015625,
+        "w": 360,
+        "h": 330,
+        "natural": [
+          360,
+          540
+        ],
+        "fit": "cover",
+        "position": "50% 43%"
+      },
+      {
+        "src": "/images/hands-1200.webp",
+        "x": 20.15625,
+        "y": 4374.84375,
+        "w": 319.6875,
+        "h": 399.609375,
+        "natural": [
+          312,
+          467
+        ],
+        "fit": "cover",
+        "position": "50% 42%"
+      },
+      {
+        "src": "/images/movement-1200.webp",
+        "x": 26,
+        "y": 5482,
+        "w": 308,
+        "h": 228.421875,
+        "natural": [
+          312,
+          231
+        ],
+        "fit": "contain",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/gaia-symbol.png",
+        "x": 68,
+        "y": 6136.421875,
+        "w": 224,
+        "h": 263.921875,
+        "natural": [
+          460,
+          542
+        ],
+        "fit": "fill",
+        "position": "50% 50%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "hero",
+        "x": 0,
+        "y": 80,
+        "w": 360,
+        "h": 818.015625,
+        "padding": [
+          "0px",
+          "0px"
+        ]
+      },
+      {
+        "class": "manifesto section",
+        "x": 0,
+        "y": 960.015625,
+        "w": 360,
+        "h": 603.203125,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "network section",
+        "x": 0,
+        "y": 1601.21875,
+        "w": 360,
+        "h": 913.90625,
+        "padding": [
+          "44px",
+          "36px"
+        ]
+      },
+      {
+        "class": "practices section",
+        "x": 0,
+        "y": 2553.125,
+        "w": 360,
+        "h": 842.5625,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "women section",
+        "x": 0,
+        "y": 3433.6875,
+        "w": 360,
+        "h": 1384.765625,
+        "padding": [
+          "48px",
+          "44px"
+        ]
+      },
+      {
+        "class": "about section",
+        "x": 0,
+        "y": 4856.453125,
+        "w": 360,
+        "h": 915.96875,
+        "padding": [
+          "44px",
+          "44px"
+        ]
+      },
+      {
+        "class": "power section",
+        "x": 0,
+        "y": 5794.421875,
+        "w": 360,
+        "h": 654,
+        "padding": [
+          "44px",
+          "32px"
+        ]
+      },
+      {
+        "class": "project section",
+        "x": 0,
+        "y": 6486.421875,
+        "w": 360,
+        "h": 593.46875,
+        "padding": [
+          "40px",
+          "36px"
+        ]
+      },
+      {
+        "class": "locations section",
+        "x": 0,
+        "y": 7141.890625,
+        "w": 360,
+        "h": 364.875,
+        "padding": [
+          "36px",
+          "36px"
+        ]
+      },
+      {
+        "class": "final-cta section",
+        "x": 0,
+        "y": 7568.765625,
+        "w": 360,
+        "h": 304.1875,
+        "padding": [
+          "64px",
+          "64px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLiens\n\n© 2026 GAIA by Lauriane\nPratiques complémentaires, sans substitution au suivi médical.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Lauriane — Praticienne en acupuncture traditionnelle",
+          "lines": [
+            "Lauriane — Praticienne en acupuncture",
+            "traditionnelle"
+          ]
+        },
+        {
+          "text": "Nothing works in silos.",
+          "lines": [
+            "Nothing works",
+            "in silos."
+          ]
+        },
+        {
+          "text": "Your system is a network.",
+          "lines": [
+            "Your system",
+            "is a network."
+          ]
+        },
+        {
+          "text": "AUJOURD’HUI, JE VOUS ACCOMPAGNE À TRAVERS CES PRATIQUES",
+          "lines": [
+            "AUJOURD’HUI, JE VOUS ACCOMPAGNE À",
+            "TRAVERS CES PRATIQUES"
+          ]
+        },
+        {
+          "text": "Acupuncture traditionnelle",
+          "lines": [
+            "Acupuncture",
+            "traditionnelle"
+          ]
+        },
+        {
+          "text": "Aculift",
+          "lines": [
+            "Aculift"
+          ]
+        },
+        {
+          "text": "Pranic Healing",
+          "lines": [
+            "Pranic Healing"
+          ]
+        },
+        {
+          "text": "Vivre sa féminité, pas la subir.",
+          "lines": [
+            "Vivre sa féminité,",
+            "pas la subir."
+          ]
+        },
+        {
+          "text": "I WAS LOOKING FOR A WAY TO CONNECT THE DOTS.",
+          "lines": [
+            "I WAS LOOKING FOR A WAY TO CONNECT",
+            "THE DOTS."
+          ]
+        },
+        {
+          "text": "Power & Softness",
+          "lines": [
+            "Power & Softness"
+          ]
+        },
+        {
+          "text": "The GAIA Project",
+          "lines": [
+            "The GAIA Project"
+          ]
+        },
+        {
+          "text": "OÙ ME TROUVER",
+          "lines": [
+            "OÙ ME TROUVER"
+          ]
+        },
+        {
+          "text": "RECONNECT.",
+          "lines": [
+            "RECONNECT."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Liens",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Santé féminine",
+          "h": 0
+        },
+        {
+          "text": "À propos",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(17, 17, 17)",
+        "rgb(78, 18, 208)",
+        "rgb(255, 253, 247)",
+        "rgb(74, 74, 74)"
+      ],
+      "language": [
+        "/en/",
+        "/en/"
+      ],
+      "booking": [
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/",
+        "/prendre-rendez-vous/"
+      ],
+      "captions": []
+    },
+    "nav": {
+      "w": 360,
+      "h": 435.921875,
+      "scroll": 436,
+      "client": 436,
+      "links": [
+        {
+          "label": "Acupuncture traditionnelle",
+          "height": 44
+        },
+        {
+          "label": "Aculift",
+          "height": 44
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 44
+        },
+        {
+          "label": "Santé féminine",
+          "height": 45.5625
+        },
+        {
+          "label": "À propos",
+          "height": 45.5625
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Prendre rendez-vous",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "en",
+    "path": "/en/",
+    "width": 1440,
+    "height": 7064,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Lauriane — Traditional Acupuncture Practitioner",
+        "x": 80,
+        "y": 675.625,
+        "w": 479.515625,
+        "h": 28.796875,
+        "size": "18px",
+        "line": "28.8px"
+      },
+      {
+        "text": "Nothing works in silos.",
+        "x": 752,
+        "y": 1246.71875,
+        "w": 435.859375,
+        "h": 142.53125,
+        "size": "64.8px",
+        "line": "71.28px"
+      },
+      {
+        "text": "Your system is a network.",
+        "x": 80,
+        "y": 1691.96875,
+        "w": 608,
+        "h": 142.53125,
+        "size": "64.8px",
+        "line": "71.28px"
+      },
+      {
+        "text": "TODAY, I WORK WITH YOU THROUGH THESE PRACTICES",
+        "x": 80,
+        "y": 2401.28125,
+        "w": 1280,
+        "h": 21.6875,
+        "size": "14px",
+        "line": "21.7px"
+      },
+      {
+        "text": "Traditional Acupuncture",
+        "x": 80,
+        "y": 2596.96875,
+        "w": 394.65625,
+        "h": 72.859375,
+        "size": "33.12px",
+        "line": "36.432px"
+      },
+      {
+        "text": "Aculift",
+        "x": 522.65625,
+        "y": 2596.96875,
+        "w": 394.671875,
+        "h": 72.859375,
+        "size": "33.12px",
+        "line": "36.432px"
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 965.328125,
+        "y": 2596.96875,
+        "w": 394.65625,
+        "h": 72.859375,
+        "size": "33.12px",
+        "line": "36.432px"
+      },
+      {
+        "text": "Live your femininity, don’t just put up with it.",
+        "x": 752,
+        "y": 3009.421875,
+        "w": 608,
+        "h": 114.03125,
+        "size": "51.84px",
+        "line": "57.024px"
+      },
+      {
+        "text": "I WAS LOOKING FOR A WAY TO CONNECT THE DOTS.",
+        "x": 116,
+        "y": 4052.609375,
+        "w": 594.140625,
+        "h": 39.703125,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "Power & Softness",
+        "x": 80,
+        "y": 4728.984375,
+        "w": 608,
+        "h": 71.265625,
+        "size": "64.8px",
+        "line": "71.28px"
+      },
+      {
+        "text": "The GAIA Project",
+        "x": 80,
+        "y": 5418.625,
+        "w": 663.265625,
+        "h": 83.9375,
+        "size": "76.32px",
+        "line": "83.952px"
+      },
+      {
+        "text": "WHERE TO FIND ME",
+        "x": 80,
+        "y": 5916.578125,
+        "w": 1280,
+        "h": 21.6875,
+        "size": "14px",
+        "line": "21.7px"
+      },
+      {
+        "text": "RECONNECT.",
+        "x": 80,
+        "y": 6486.65625,
+        "w": 1280,
+        "h": 105.59375,
+        "size": "96px",
+        "line": "105.6px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [],
+    "images": [
+      {
+        "src": "/images/portrait-1200.webp",
+        "x": 691.203125,
+        "y": 100,
+        "w": 748.796875,
+        "h": 830,
+        "natural": [
+          748,
+          1123
+        ],
+        "fit": "cover",
+        "position": "55% 46%"
+      },
+      {
+        "src": "/images/hands-1200.webp",
+        "x": 80,
+        "y": 3009.421875,
+        "w": 608,
+        "h": 600,
+        "natural": [
+          604,
+          907
+        ],
+        "fit": "cover",
+        "position": "50% 42%"
+      },
+      {
+        "src": "/images/movement-1200.webp",
+        "x": 758.140625,
+        "y": 4052.609375,
+        "w": 565.859375,
+        "h": 480,
+        "natural": [
+          604,
+          447
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/gaia-symbol.png",
+        "x": 819.1875,
+        "y": 4729.796875,
+        "w": 273.59375,
+        "h": 322.359375,
+        "natural": [
+          460,
+          542
+        ],
+        "fit": "fill",
+        "position": "50% 50%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "hero",
+        "x": 0,
+        "y": 100,
+        "w": 1440,
+        "h": 830,
+        "padding": [
+          "0px",
+          "0px"
+        ]
+      },
+      {
+        "class": "manifesto section",
+        "x": 0,
+        "y": 1058,
+        "w": 1440,
+        "h": 519.96875,
+        "padding": [
+          "80px",
+          "80px"
+        ]
+      },
+      {
+        "class": "network section",
+        "x": 0,
+        "y": 1631.96875,
+        "w": 1440,
+        "h": 635.3125,
+        "padding": [
+          "60px",
+          "60px"
+        ]
+      },
+      {
+        "class": "practices section",
+        "x": 0,
+        "y": 2321.28125,
+        "w": 1440,
+        "h": 538.140625,
+        "padding": [
+          "80px",
+          "48px"
+        ]
+      },
+      {
+        "class": "women section",
+        "x": 0,
+        "y": 2913.421875,
+        "w": 1440,
+        "h": 981.1875,
+        "padding": [
+          "96px",
+          "96px"
+        ]
+      },
+      {
+        "class": "about section",
+        "x": 0,
+        "y": 3948.609375,
+        "w": 1440,
+        "h": 688,
+        "padding": [
+          "68px",
+          "68px"
+        ]
+      },
+      {
+        "class": "power section",
+        "x": 0,
+        "y": 4666.609375,
+        "w": 1440,
+        "h": 472,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      },
+      {
+        "class": "project section",
+        "x": 0,
+        "y": 5192.609375,
+        "w": 1440,
+        "h": 535.96875,
+        "padding": [
+          "64px",
+          "64px"
+        ]
+      },
+      {
+        "class": "locations section",
+        "x": 0,
+        "y": 5856.578125,
+        "w": 1440,
+        "h": 400.078125,
+        "padding": [
+          "60px",
+          "60px"
+        ]
+      },
+      {
+        "class": "final-cta section",
+        "x": 0,
+        "y": 6358.65625,
+        "w": 1440,
+        "h": 501.59375,
+        "padding": [
+          "128px",
+          "128px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact · Links\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Lauriane — Traditional Acupuncture Practitioner",
+          "lines": [
+            "Lauriane — Traditional Acupuncture Practitioner"
+          ]
+        },
+        {
+          "text": "Nothing works in silos.",
+          "lines": [
+            "Nothing works",
+            "in silos."
+          ]
+        },
+        {
+          "text": "Your system is a network.",
+          "lines": [
+            "Your system",
+            "is a network."
+          ]
+        },
+        {
+          "text": "TODAY, I WORK WITH YOU THROUGH THESE PRACTICES",
+          "lines": [
+            "TODAY, I WORK WITH YOU THROUGH THESE PRACTICES"
+          ]
+        },
+        {
+          "text": "Traditional Acupuncture",
+          "lines": [
+            "Traditional Acupuncture"
+          ]
+        },
+        {
+          "text": "Aculift",
+          "lines": [
+            "Aculift"
+          ]
+        },
+        {
+          "text": "Pranic Healing",
+          "lines": [
+            "Pranic Healing"
+          ]
+        },
+        {
+          "text": "Live your femininity, don’t just put up with it.",
+          "lines": [
+            "Live your femininity,",
+            "don’t just put up with it."
+          ]
+        },
+        {
+          "text": "I WAS LOOKING FOR A WAY TO CONNECT THE DOTS.",
+          "lines": [
+            "I WAS LOOKING FOR A WAY TO CONNECT THE DOTS."
+          ]
+        },
+        {
+          "text": "Power & Softness",
+          "lines": [
+            "Power & Softness"
+          ]
+        },
+        {
+          "text": "The GAIA Project",
+          "lines": [
+            "The GAIA Project"
+          ]
+        },
+        {
+          "text": "WHERE TO FIND ME",
+          "lines": [
+            "WHERE TO FIND ME"
+          ]
+        },
+        {
+          "text": "RECONNECT.",
+          "lines": [
+            "RECONNECT."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 44
+        },
+        {
+          "text": "About",
+          "h": 44
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(17, 17, 17)",
+        "rgb(78, 18, 208)",
+        "rgb(255, 253, 247)",
+        "rgb(74, 74, 74)"
+      ],
+      "language": [
+        "/fr/",
+        "/fr/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "captions": []
+    },
+    "dropdown": {
+      "x": 437.390625,
+      "y": 80,
+      "width": 262,
+      "height": 156
+    },
+    "escape": true
+  },
+  {
+    "page": "en",
+    "path": "/en/",
+    "width": 1280,
+    "height": 7016,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Lauriane — Traditional Acupuncture Practitioner",
+        "x": 71.15625,
+        "y": 655.328125,
+        "w": 452.875,
+        "h": 27.1875,
+        "size": "17px",
+        "line": "27.2px"
+      },
+      {
+        "text": "Nothing works in silos.",
+        "x": 668.46875,
+        "y": 1246.59375,
+        "w": 387.421875,
+        "h": 126.6875,
+        "size": "57.6px",
+        "line": "63.36px"
+      },
+      {
+        "text": "Your system is a network.",
+        "x": 71.15625,
+        "y": 1675.875,
+        "w": 540.359375,
+        "h": 126.6875,
+        "size": "57.6px",
+        "line": "63.36px"
+      },
+      {
+        "text": "TODAY, I WORK WITH YOU THROUGH THESE PRACTICES",
+        "x": 71.15625,
+        "y": 2414.0625,
+        "w": 1137.6875,
+        "h": 21.6875,
+        "size": "14px",
+        "line": "21.7px"
+      },
+      {
+        "text": "Traditional Acupuncture",
+        "x": 71.15625,
+        "y": 2609.75,
+        "w": 347.21875,
+        "h": 64.765625,
+        "size": "29.44px",
+        "line": "32.384px"
+      },
+      {
+        "text": "Aculift",
+        "x": 466.375,
+        "y": 2609.75,
+        "w": 347.234375,
+        "h": 64.765625,
+        "size": "29.44px",
+        "line": "32.384px"
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 861.609375,
+        "y": 2609.75,
+        "w": 347.21875,
+        "h": 64.765625,
+        "size": "29.44px",
+        "line": "32.384px"
+      },
+      {
+        "text": "Live your femininity, don’t just put up with it.",
+        "x": 668.46875,
+        "y": 3010.890625,
+        "w": 540.375,
+        "h": 101.34375,
+        "size": "46.08px",
+        "line": "50.688px"
+      },
+      {
+        "text": "I WAS LOOKING FOR A WAY TO CONNECT THE DOTS.",
+        "x": 107.15625,
+        "y": 4046.046875,
+        "w": 521.25,
+        "h": 33.625,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "Power & Softness",
+        "x": 71.15625,
+        "y": 4729.609375,
+        "w": 540.359375,
+        "h": 63.34375,
+        "size": "57.6px",
+        "line": "63.36px"
+      },
+      {
+        "text": "The GAIA Project",
+        "x": 71.15625,
+        "y": 5408.671875,
+        "w": 585.640625,
+        "h": 74.625,
+        "size": "67.84px",
+        "line": "74.624px"
+      },
+      {
+        "text": "WHERE TO FIND ME",
+        "x": 71.15625,
+        "y": 5893.921875,
+        "w": 1137.6875,
+        "h": 21.6875,
+        "size": "14px",
+        "line": "21.7px"
+      },
+      {
+        "text": "RECONNECT.",
+        "x": 71.15625,
+        "y": 6453.09375,
+        "w": 1137.6875,
+        "h": 93.90625,
+        "size": "85.376px",
+        "line": "93.9136px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [],
+    "images": [
+      {
+        "src": "/images/portrait-1200.webp",
+        "x": 614.40625,
+        "y": 100,
+        "w": 665.59375,
+        "h": 830,
+        "natural": [
+          665,
+          998
+        ],
+        "fit": "cover",
+        "position": "55% 46%"
+      },
+      {
+        "src": "/images/hands-1200.webp",
+        "x": 71.15625,
+        "y": 3010.890625,
+        "w": 540.359375,
+        "h": 600,
+        "natural": [
+          537,
+          806
+        ],
+        "fit": "cover",
+        "position": "50% 42%"
+      },
+      {
+        "src": "/images/movement-1200.webp",
+        "x": 676.40625,
+        "y": 4046.046875,
+        "w": 496.4375,
+        "h": 480,
+        "natural": [
+          537,
+          398
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/gaia-symbol.png",
+        "x": 735.65625,
+        "y": 4723.234375,
+        "w": 273.59375,
+        "h": 322.359375,
+        "natural": [
+          460,
+          542
+        ],
+        "fit": "fill",
+        "position": "50% 50%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "hero",
+        "x": 0,
+        "y": 100,
+        "w": 1280,
+        "h": 830,
+        "padding": [
+          "0px",
+          "0px"
+        ]
+      },
+      {
+        "class": "manifesto section",
+        "x": 0,
+        "y": 1058,
+        "w": 1280,
+        "h": 503.875,
+        "padding": [
+          "80px",
+          "80px"
+        ]
+      },
+      {
+        "class": "network section",
+        "x": 0,
+        "y": 1615.875,
+        "w": 1280,
+        "h": 664.1875,
+        "padding": [
+          "60px",
+          "60px"
+        ]
+      },
+      {
+        "class": "practices section",
+        "x": 0,
+        "y": 2334.0625,
+        "w": 1280,
+        "h": 526.828125,
+        "padding": [
+          "80px",
+          "48px"
+        ]
+      },
+      {
+        "class": "women section",
+        "x": 0,
+        "y": 2914.890625,
+        "w": 1280,
+        "h": 973.15625,
+        "padding": [
+          "96px",
+          "96px"
+        ]
+      },
+      {
+        "class": "about section",
+        "x": 0,
+        "y": 3942.046875,
+        "w": 1280,
+        "h": 688,
+        "padding": [
+          "68px",
+          "68px"
+        ]
+      },
+      {
+        "class": "power section",
+        "x": 0,
+        "y": 4660.046875,
+        "w": 1280,
+        "h": 472,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      },
+      {
+        "class": "project section",
+        "x": 0,
+        "y": 5186.046875,
+        "w": 1280,
+        "h": 519.875,
+        "padding": [
+          "64px",
+          "64px"
+        ]
+      },
+      {
+        "class": "locations section",
+        "x": 0,
+        "y": 5833.921875,
+        "w": 1280,
+        "h": 389.171875,
+        "padding": [
+          "60px",
+          "60px"
+        ]
+      },
+      {
+        "class": "final-cta section",
+        "x": 0,
+        "y": 6325.09375,
+        "w": 1280,
+        "h": 486.546875,
+        "padding": [
+          "128px",
+          "128px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact · Links\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Lauriane — Traditional Acupuncture Practitioner",
+          "lines": [
+            "Lauriane — Traditional Acupuncture Practitioner"
+          ]
+        },
+        {
+          "text": "Nothing works in silos.",
+          "lines": [
+            "Nothing works",
+            "in silos."
+          ]
+        },
+        {
+          "text": "Your system is a network.",
+          "lines": [
+            "Your system",
+            "is a network."
+          ]
+        },
+        {
+          "text": "TODAY, I WORK WITH YOU THROUGH THESE PRACTICES",
+          "lines": [
+            "TODAY, I WORK WITH YOU THROUGH THESE PRACTICES"
+          ]
+        },
+        {
+          "text": "Traditional Acupuncture",
+          "lines": [
+            "Traditional Acupuncture"
+          ]
+        },
+        {
+          "text": "Aculift",
+          "lines": [
+            "Aculift"
+          ]
+        },
+        {
+          "text": "Pranic Healing",
+          "lines": [
+            "Pranic Healing"
+          ]
+        },
+        {
+          "text": "Live your femininity, don’t just put up with it.",
+          "lines": [
+            "Live your femininity,",
+            "don’t just put up with it."
+          ]
+        },
+        {
+          "text": "I WAS LOOKING FOR A WAY TO CONNECT THE DOTS.",
+          "lines": [
+            "I WAS LOOKING FOR A WAY TO CONNECT THE DOTS."
+          ]
+        },
+        {
+          "text": "Power & Softness",
+          "lines": [
+            "Power & Softness"
+          ]
+        },
+        {
+          "text": "The GAIA Project",
+          "lines": [
+            "The GAIA Project"
+          ]
+        },
+        {
+          "text": "WHERE TO FIND ME",
+          "lines": [
+            "WHERE TO FIND ME"
+          ]
+        },
+        {
+          "text": "RECONNECT.",
+          "lines": [
+            "RECONNECT."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 44
+        },
+        {
+          "text": "About",
+          "h": 44
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(17, 17, 17)",
+        "rgb(78, 18, 208)",
+        "rgb(255, 253, 247)",
+        "rgb(74, 74, 74)"
+      ],
+      "language": [
+        "/fr/",
+        "/fr/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "captions": []
+    },
+    "dropdown": {
+      "x": 373.390625,
+      "y": 80,
+      "width": 262,
+      "height": 156
+    },
+    "escape": true
+  },
+  {
+    "page": "en",
+    "path": "/en/",
+    "width": 1024,
+    "height": 6896,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Lauriane — Traditional Acupuncture Practitioner",
+        "x": 48,
+        "y": 569.28125,
+        "w": 452.875,
+        "h": 27.1875,
+        "size": "17px",
+        "line": "27.2px"
+      },
+      {
+        "text": "Nothing works in silos.",
+        "x": 536,
+        "y": 1172.5625,
+        "w": 358.09375,
+        "h": 117.125,
+        "size": "53.248px",
+        "line": "58.5728px"
+      },
+      {
+        "text": "Your system is a network.",
+        "x": 48,
+        "y": 1608.25,
+        "w": 440,
+        "h": 117.125,
+        "size": "53.248px",
+        "line": "58.5728px"
+      },
+      {
+        "text": "TODAY, I WORK WITH YOU THROUGH THESE PRACTICES",
+        "x": 48,
+        "y": 2348.0625,
+        "w": 928,
+        "h": 21.6875,
+        "size": "14px",
+        "line": "21.7px"
+      },
+      {
+        "text": "Traditional Acupuncture",
+        "x": 48,
+        "y": 2543.75,
+        "w": 288,
+        "h": 61.59375,
+        "size": "28px",
+        "line": "30.8px"
+      },
+      {
+        "text": "Aculift",
+        "x": 368,
+        "y": 2543.75,
+        "w": 288,
+        "h": 61.59375,
+        "size": "28px",
+        "line": "30.8px"
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 688,
+        "y": 2543.75,
+        "w": 288,
+        "h": 61.59375,
+        "size": "28px",
+        "line": "30.8px"
+      },
+      {
+        "text": "Live your femininity, don’t just put up with it.",
+        "x": 536,
+        "y": 2925.71875,
+        "w": 440,
+        "h": 81.0625,
+        "size": "36.864px",
+        "line": "40.5504px"
+      },
+      {
+        "text": "I WAS LOOKING FOR A WAY TO CONNECT THE DOTS.",
+        "x": 80,
+        "y": 3943.78125,
+        "w": 426.140625,
+        "h": 35.34375,
+        "size": "14px",
+        "line": "21px"
+      },
+      {
+        "text": "Power & Softness",
+        "x": 48,
+        "y": 4603.734375,
+        "w": 440,
+        "h": 58.5625,
+        "size": "53.248px",
+        "line": "58.5728px"
+      },
+      {
+        "text": "The GAIA Project",
+        "x": 48,
+        "y": 5306.09375,
+        "w": 484.359375,
+        "h": 52.796875,
+        "size": "48px",
+        "line": "52.8px"
+      },
+      {
+        "text": "WHERE TO FIND ME",
+        "x": 48,
+        "y": 5809.21875,
+        "w": 928,
+        "h": 21.6875,
+        "size": "14px",
+        "line": "21.7px"
+      },
+      {
+        "text": "RECONNECT.",
+        "x": 48,
+        "y": 6350.5625,
+        "w": 928,
+        "h": 79.1875,
+        "size": "72px",
+        "line": "79.2px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Practices",
+        "x": 957.390625,
+        "y": 158,
+        "w": 199.828125,
+        "h": 45.59375
+      },
+      {
+        "text": "Traditional Acupuncture",
+        "x": 975.390625,
+        "y": 207.59375,
+        "w": 181.828125,
+        "h": 44.78125
+      },
+      {
+        "text": "Aculift",
+        "x": 975.390625,
+        "y": 252.375,
+        "w": 181.828125,
+        "h": 44.78125
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 975.390625,
+        "y": 297.15625,
+        "w": 181.828125,
+        "h": 44.78125
+      },
+      {
+        "text": "Women’s Health",
+        "x": 957.390625,
+        "y": 207.59375,
+        "w": 199.828125,
+        "h": 47.1875
+      },
+      {
+        "text": "About",
+        "x": 957.390625,
+        "y": 258.78125,
+        "w": 199.828125,
+        "h": 47.1875
+      },
+      {
+        "text": "FR/EN",
+        "x": 957.390625,
+        "y": 309.96875,
+        "w": 199.828125,
+        "h": 44
+      },
+      {
+        "text": "Book an appointment",
+        "x": 957.390625,
+        "y": 365.96875,
+        "w": 199.828125,
+        "h": 48
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/portrait-1200.webp",
+        "x": 491.53125,
+        "y": 80,
+        "w": 532.46875,
+        "h": 760,
+        "natural": [
+          532,
+          798
+        ],
+        "fit": "cover",
+        "position": "55% 46%"
+      },
+      {
+        "src": "/images/hands-1200.webp",
+        "x": 48,
+        "y": 2925.71875,
+        "w": 440,
+        "h": 550,
+        "natural": [
+          440,
+          660
+        ],
+        "fit": "cover",
+        "position": "50% 42%"
+      },
+      {
+        "src": "/images/movement-1200.webp",
+        "x": 538.140625,
+        "y": 3943.78125,
+        "w": 405.859375,
+        "h": 480,
+        "natural": [
+          440,
+          325
+        ],
+        "fit": "cover",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/gaia-symbol.png",
+        "x": 576.796875,
+        "y": 4604.578125,
+        "w": 258.390625,
+        "h": 304.4375,
+        "natural": [
+          460,
+          542
+        ],
+        "fit": "fill",
+        "position": "50% 50%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "hero",
+        "x": 0,
+        "y": 80,
+        "w": 1024,
+        "h": 760,
+        "padding": [
+          "0px",
+          "0px"
+        ]
+      },
+      {
+        "class": "manifesto section",
+        "x": 0,
+        "y": 968,
+        "w": 1024,
+        "h": 526.25,
+        "padding": [
+          "64px",
+          "64px"
+        ]
+      },
+      {
+        "class": "network section",
+        "x": 0,
+        "y": 1548.25,
+        "w": 1024,
+        "h": 681.8125,
+        "padding": [
+          "60px",
+          "60px"
+        ]
+      },
+      {
+        "class": "practices section",
+        "x": 0,
+        "y": 2284.0625,
+        "w": 1024,
+        "h": 507.65625,
+        "padding": [
+          "64px",
+          "48px"
+        ]
+      },
+      {
+        "class": "women section",
+        "x": 0,
+        "y": 2845.71875,
+        "w": 1024,
+        "h": 948.0625,
+        "padding": [
+          "80px",
+          "80px"
+        ]
+      },
+      {
+        "class": "about section",
+        "x": 0,
+        "y": 3847.78125,
+        "w": 1024,
+        "h": 672,
+        "padding": [
+          "64px",
+          "64px"
+        ]
+      },
+      {
+        "class": "power section",
+        "x": 0,
+        "y": 4549.78125,
+        "w": 1024,
+        "h": 436,
+        "padding": [
+          "48px",
+          "48px"
+        ]
+      },
+      {
+        "class": "project section",
+        "x": 0,
+        "y": 5039.78125,
+        "w": 1024,
+        "h": 585.4375,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      },
+      {
+        "class": "locations section",
+        "x": 0,
+        "y": 5753.21875,
+        "w": 1024,
+        "h": 367.34375,
+        "padding": [
+          "56px",
+          "56px"
+        ]
+      },
+      {
+        "class": "final-cta section",
+        "x": 0,
+        "y": 6222.5625,
+        "w": 1024,
+        "h": 469.1875,
+        "padding": [
+          "128px",
+          "128px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact · Links\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Lauriane — Traditional Acupuncture Practitioner",
+          "lines": [
+            "Lauriane — Traditional Acupuncture Practitioner"
+          ]
+        },
+        {
+          "text": "Nothing works in silos.",
+          "lines": [
+            "Nothing works",
+            "in silos."
+          ]
+        },
+        {
+          "text": "Your system is a network.",
+          "lines": [
+            "Your system",
+            "is a network."
+          ]
+        },
+        {
+          "text": "TODAY, I WORK WITH YOU THROUGH THESE PRACTICES",
+          "lines": [
+            "TODAY, I WORK WITH YOU THROUGH THESE PRACTICES"
+          ]
+        },
+        {
+          "text": "Traditional Acupuncture",
+          "lines": [
+            "Traditional",
+            "Acupuncture"
+          ]
+        },
+        {
+          "text": "Aculift",
+          "lines": [
+            "Aculift"
+          ]
+        },
+        {
+          "text": "Pranic Healing",
+          "lines": [
+            "Pranic Healing"
+          ]
+        },
+        {
+          "text": "Live your femininity, don’t just put up with it.",
+          "lines": [
+            "Live your femininity, don’t",
+            "just put up with it."
+          ]
+        },
+        {
+          "text": "I WAS LOOKING FOR A WAY TO CONNECT THE DOTS.",
+          "lines": [
+            "I WAS LOOKING FOR A WAY TO CONNECT THE DOTS."
+          ]
+        },
+        {
+          "text": "Power & Softness",
+          "lines": [
+            "Power & Softness"
+          ]
+        },
+        {
+          "text": "The GAIA Project",
+          "lines": [
+            "The GAIA Project"
+          ]
+        },
+        {
+          "text": "WHERE TO FIND ME",
+          "lines": [
+            "WHERE TO FIND ME"
+          ]
+        },
+        {
+          "text": "RECONNECT.",
+          "lines": [
+            "RECONNECT."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 0
+        },
+        {
+          "text": "About",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(17, 17, 17)",
+        "rgb(78, 18, 208)",
+        "rgb(255, 253, 247)",
+        "rgb(74, 74, 74)"
+      ],
+      "language": [
+        "/fr/",
+        "/fr/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "captions": []
+    },
+    "nav": {
+      "w": 1024,
+      "h": 442.3125,
+      "scroll": 442,
+      "client": 442,
+      "links": [
+        {
+          "label": "Traditional Acupuncture",
+          "height": 44.78125
+        },
+        {
+          "label": "Aculift",
+          "height": 44.78125
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 44.78125
+        },
+        {
+          "label": "Women’s Health",
+          "height": 47.1875
+        },
+        {
+          "label": "About",
+          "height": 47.1875
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Book an appointment",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "en",
+    "path": "/en/",
+    "width": 768,
+    "height": 8259,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Lauriane — Traditional Acupuncture Practitioner",
+        "x": 32,
+        "y": 525.78125,
+        "w": 452.875,
+        "h": 27.1875,
+        "size": "17px",
+        "line": "27.2px"
+      },
+      {
+        "text": "Nothing works in silos.",
+        "x": 32,
+        "y": 1246.15625,
+        "w": 309.40625,
+        "h": 101.1875,
+        "size": "46px",
+        "line": "50.6px"
+      },
+      {
+        "text": "Your system is a network.",
+        "x": 32,
+        "y": 1755.65625,
+        "w": 704,
+        "h": 101.1875,
+        "size": "46px",
+        "line": "50.6px"
+      },
+      {
+        "text": "TODAY, I WORK WITH YOU THROUGH THESE PRACTICES",
+        "x": 32,
+        "y": 2713.171875,
+        "w": 704,
+        "h": 20.140625,
+        "size": "13px",
+        "line": "20.15px"
+      },
+      {
+        "text": "Traditional Acupuncture",
+        "x": 156,
+        "y": 2799.21875,
+        "w": 580,
+        "h": 32.1875,
+        "size": "28px",
+        "line": "32.2px"
+      },
+      {
+        "text": "Aculift",
+        "x": 156,
+        "y": 3038.40625,
+        "w": 580,
+        "h": 32.1875,
+        "size": "28px",
+        "line": "32.2px"
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 156,
+        "y": 3277.59375,
+        "w": 580,
+        "h": 32.1875,
+        "size": "28px",
+        "line": "32.2px"
+      },
+      {
+        "text": "Live your femininity, don’t just put up with it.",
+        "x": 32,
+        "y": 3568.875,
+        "w": 614.34375,
+        "h": 96.3125,
+        "size": "43.776px",
+        "line": "48.1536px"
+      },
+      {
+        "text": "I WAS LOOKING FOR A WAY TO CONNECT THE DOTS.",
+        "x": 60,
+        "y": 5016.4375,
+        "w": 648,
+        "h": 19.5,
+        "size": "13px",
+        "line": "19.5px"
+      },
+      {
+        "text": "Power & Softness",
+        "x": 32,
+        "y": 6056.84375,
+        "w": 704,
+        "h": 50.59375,
+        "size": "46px",
+        "line": "50.6px"
+      },
+      {
+        "text": "The GAIA Project",
+        "x": 32,
+        "y": 6701.40625,
+        "w": 704,
+        "h": 48.15625,
+        "size": "43.776px",
+        "line": "48.1536px"
+      },
+      {
+        "text": "WHERE TO FIND ME",
+        "x": 32,
+        "y": 7253.0625,
+        "w": 704,
+        "h": 20.140625,
+        "size": "13px",
+        "line": "20.15px"
+      },
+      {
+        "text": "RECONNECT.",
+        "x": 32,
+        "y": 7660.25,
+        "w": 704,
+        "h": 70.125,
+        "size": "63.744px",
+        "line": "70.1184px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "Yin / Yang",
+        "size": "13px"
+      },
+      {
+        "text": "Shiva / Shakti",
+        "size": "13px"
+      },
+      {
+        "text": "Ha / Tha",
+        "size": "13px"
+      },
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Practices",
+        "x": 693.390625,
+        "y": 158,
+        "w": 199.828125,
+        "h": 45.59375
+      },
+      {
+        "text": "Traditional Acupuncture",
+        "x": 711.390625,
+        "y": 207.59375,
+        "w": 181.828125,
+        "h": 44.78125
+      },
+      {
+        "text": "Aculift",
+        "x": 711.390625,
+        "y": 252.375,
+        "w": 181.828125,
+        "h": 44.78125
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 711.390625,
+        "y": 297.15625,
+        "w": 181.828125,
+        "h": 44.78125
+      },
+      {
+        "text": "Women’s Health",
+        "x": 693.390625,
+        "y": 207.59375,
+        "w": 199.828125,
+        "h": 47.1875
+      },
+      {
+        "text": "About",
+        "x": 693.390625,
+        "y": 258.78125,
+        "w": 199.828125,
+        "h": 47.1875
+      },
+      {
+        "text": "FR/EN",
+        "x": 693.390625,
+        "y": 309.96875,
+        "w": 199.828125,
+        "h": 44
+      },
+      {
+        "text": "Book an appointment",
+        "x": 693.390625,
+        "y": 365.96875,
+        "w": 199.828125,
+        "h": 48
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/portrait-1200.webp",
+        "x": 44,
+        "y": 676.15625,
+        "w": 680,
+        "h": 460,
+        "natural": [
+          768,
+          1152
+        ],
+        "fit": "cover",
+        "position": "50% 43%"
+      },
+      {
+        "src": "/images/hands-1200.webp",
+        "x": 154,
+        "y": 4287.4375,
+        "w": 460,
+        "h": 575,
+        "natural": [
+          519,
+          779
+        ],
+        "fit": "cover",
+        "position": "50% 42%"
+      },
+      {
+        "src": "/images/movement-1200.webp",
+        "x": 60,
+        "y": 5438.25,
+        "w": 648,
+        "h": 480.59375,
+        "natural": [
+          640,
+          474
+        ],
+        "fit": "contain",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/gaia-symbol.png",
+        "x": 277.59375,
+        "y": 6313,
+        "w": 212.796875,
+        "h": 250.71875,
+        "natural": [
+          460,
+          542
+        ],
+        "fit": "fill",
+        "position": "50% 50%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "hero",
+        "x": 0,
+        "y": 80,
+        "w": 768,
+        "h": 1056.15625,
+        "padding": [
+          "0px",
+          "0px"
+        ]
+      },
+      {
+        "class": "manifesto section",
+        "x": 0,
+        "y": 1206.15625,
+        "w": 768,
+        "h": 467.5,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "network section",
+        "x": 0,
+        "y": 1711.65625,
+        "w": 768,
+        "h": 923.515625,
+        "padding": [
+          "44px",
+          "36px"
+        ]
+      },
+      {
+        "class": "practices section",
+        "x": 0,
+        "y": 2673.171875,
+        "w": 768,
+        "h": 809.703125,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "women section",
+        "x": 0,
+        "y": 3520.875,
+        "w": 768,
+        "h": 1385.5625,
+        "padding": [
+          "48px",
+          "44px"
+        ]
+      },
+      {
+        "class": "about section",
+        "x": 0,
+        "y": 4944.4375,
+        "w": 768,
+        "h": 1046.40625,
+        "padding": [
+          "44px",
+          "44px"
+        ]
+      },
+      {
+        "class": "power section",
+        "x": 0,
+        "y": 6012.84375,
+        "w": 768,
+        "h": 610.5625,
+        "padding": [
+          "44px",
+          "36px"
+        ]
+      },
+      {
+        "class": "project section",
+        "x": 0,
+        "y": 6661.40625,
+        "w": 768,
+        "h": 485.65625,
+        "padding": [
+          "40px",
+          "36px"
+        ]
+      },
+      {
+        "class": "locations section",
+        "x": 0,
+        "y": 7217.0625,
+        "w": 768,
+        "h": 317.1875,
+        "padding": [
+          "36px",
+          "36px"
+        ]
+      },
+      {
+        "class": "final-cta section",
+        "x": 0,
+        "y": 7596.25,
+        "w": 768,
+        "h": 344.125,
+        "padding": [
+          "64px",
+          "64px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLinks\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Lauriane — Traditional Acupuncture Practitioner",
+          "lines": [
+            "Lauriane — Traditional Acupuncture Practitioner"
+          ]
+        },
+        {
+          "text": "Nothing works in silos.",
+          "lines": [
+            "Nothing works",
+            "in silos."
+          ]
+        },
+        {
+          "text": "Your system is a network.",
+          "lines": [
+            "Your system",
+            "is a network."
+          ]
+        },
+        {
+          "text": "TODAY, I WORK WITH YOU THROUGH THESE PRACTICES",
+          "lines": [
+            "TODAY, I WORK WITH YOU THROUGH THESE PRACTICES"
+          ]
+        },
+        {
+          "text": "Traditional Acupuncture",
+          "lines": [
+            "Traditional Acupuncture"
+          ]
+        },
+        {
+          "text": "Aculift",
+          "lines": [
+            "Aculift"
+          ]
+        },
+        {
+          "text": "Pranic Healing",
+          "lines": [
+            "Pranic Healing"
+          ]
+        },
+        {
+          "text": "Live your femininity, don’t just put up with it.",
+          "lines": [
+            "Live your femininity, don’t just",
+            "put up with it."
+          ]
+        },
+        {
+          "text": "I WAS LOOKING FOR A WAY TO CONNECT THE DOTS.",
+          "lines": [
+            "I WAS LOOKING FOR A WAY TO CONNECT THE DOTS."
+          ]
+        },
+        {
+          "text": "Power & Softness",
+          "lines": [
+            "Power & Softness"
+          ]
+        },
+        {
+          "text": "The GAIA Project",
+          "lines": [
+            "The GAIA Project"
+          ]
+        },
+        {
+          "text": "WHERE TO FIND ME",
+          "lines": [
+            "WHERE TO FIND ME"
+          ]
+        },
+        {
+          "text": "RECONNECT.",
+          "lines": [
+            "RECONNECT."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 0
+        },
+        {
+          "text": "About",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(17, 17, 17)",
+        "rgb(78, 18, 208)",
+        "rgb(255, 253, 247)",
+        "rgb(74, 74, 74)"
+      ],
+      "language": [
+        "/fr/",
+        "/fr/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "captions": []
+    },
+    "nav": {
+      "w": 768,
+      "h": 442.3125,
+      "scroll": 442,
+      "client": 442,
+      "links": [
+        {
+          "label": "Traditional Acupuncture",
+          "height": 44.78125
+        },
+        {
+          "label": "Aculift",
+          "height": 44.78125
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 44.78125
+        },
+        {
+          "label": "Women’s Health",
+          "height": 47.1875
+        },
+        {
+          "label": "About",
+          "height": 47.1875
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Book an appointment",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "en",
+    "path": "/en/",
+    "width": 430,
+    "height": 8286,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Lauriane — Traditional Acupuncture Practitioner",
+        "x": 24,
+        "y": 433.890625,
+        "w": 382,
+        "h": 27.1875,
+        "size": "17px",
+        "line": "27.2px"
+      },
+      {
+        "text": "Nothing works in silos.",
+        "x": 24,
+        "y": 1073.265625,
+        "w": 296.421875,
+        "h": 96.96875,
+        "size": "44.075px",
+        "line": "48.4825px"
+      },
+      {
+        "text": "Your system is a network.",
+        "x": 24,
+        "y": 1718.078125,
+        "w": 382,
+        "h": 96.96875,
+        "size": "44.075px",
+        "line": "48.4825px"
+      },
+      {
+        "text": "TODAY, I WORK WITH YOU THROUGH THESE PRACTICES",
+        "x": 24,
+        "y": 2664.453125,
+        "w": 382,
+        "h": 18.59375,
+        "size": "12px",
+        "line": "18.6px"
+      },
+      {
+        "text": "Traditional Acupuncture",
+        "x": 128,
+        "y": 2724.859375,
+        "w": 278,
+        "h": 64.375,
+        "size": "28px",
+        "line": "32.2px"
+      },
+      {
+        "text": "Aculift",
+        "x": 128,
+        "y": 2959.296875,
+        "w": 278,
+        "h": 32.1875,
+        "size": "28px",
+        "line": "32.2px"
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 128,
+        "y": 3203.984375,
+        "w": 278,
+        "h": 32.1875,
+        "size": "28px",
+        "line": "32.2px"
+      },
+      {
+        "text": "Live your femininity, don’t just put up with it.",
+        "x": 24,
+        "y": 3512.765625,
+        "w": 382,
+        "h": 130.546875,
+        "size": "39.56px",
+        "line": "43.516px"
+      },
+      {
+        "text": "I WAS LOOKING FOR A WAY TO CONNECT THE DOTS.",
+        "x": 32,
+        "y": 5021.34375,
+        "w": 366,
+        "h": 18,
+        "size": "12px",
+        "line": "18px"
+      },
+      {
+        "text": "Power & Softness",
+        "x": 24,
+        "y": 5931.921875,
+        "w": 382,
+        "h": 48.484375,
+        "size": "44.075px",
+        "line": "48.4825px"
+      },
+      {
+        "text": "The GAIA Project",
+        "x": 24,
+        "y": 6605.375,
+        "w": 382,
+        "h": 45.859375,
+        "size": "41.71px",
+        "line": "45.881px"
+      },
+      {
+        "text": "WHERE TO FIND ME",
+        "x": 24,
+        "y": 7247.703125,
+        "w": 382,
+        "h": 18.59375,
+        "size": "12px",
+        "line": "18.6px"
+      },
+      {
+        "text": "RECONNECT.",
+        "x": 24,
+        "y": 7691.921875,
+        "w": 382,
+        "h": 67.15625,
+        "size": "61.06px",
+        "line": "67.166px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "Yin / Yang",
+        "size": "13px"
+      },
+      {
+        "text": "Shiva / Shakti",
+        "size": "13px"
+      },
+      {
+        "text": "Ha / Tha",
+        "size": "13px"
+      },
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Practices",
+        "x": 349.625,
+        "y": 158,
+        "w": 199.828125,
+        "h": 44.796875
+      },
+      {
+        "text": "Traditional Acupuncture",
+        "x": 367.625,
+        "y": 206.796875,
+        "w": 181.828125,
+        "h": 44
+      },
+      {
+        "text": "Aculift",
+        "x": 367.625,
+        "y": 250.796875,
+        "w": 181.828125,
+        "h": 44
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 367.625,
+        "y": 294.796875,
+        "w": 181.828125,
+        "h": 44
+      },
+      {
+        "text": "Women’s Health",
+        "x": 349.625,
+        "y": 206.796875,
+        "w": 199.828125,
+        "h": 46.34375
+      },
+      {
+        "text": "About",
+        "x": 349.625,
+        "y": 257.140625,
+        "w": 199.828125,
+        "h": 46.34375
+      },
+      {
+        "text": "FR/EN",
+        "x": 349.625,
+        "y": 307.484375,
+        "w": 199.828125,
+        "h": 44
+      },
+      {
+        "text": "Book an appointment",
+        "x": 349.625,
+        "y": 363.484375,
+        "w": 199.828125,
+        "h": 48
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/portrait-1200.webp",
+        "x": 0,
+        "y": 584.265625,
+        "w": 430,
+        "h": 387,
+        "natural": [
+          430,
+          645
+        ],
+        "fit": "cover",
+        "position": "50% 43%"
+      },
+      {
+        "src": "/images/hands-1200.webp",
+        "x": 24,
+        "y": 4399.84375,
+        "w": 382,
+        "h": 477.5,
+        "natural": [
+          382,
+          573
+        ],
+        "fit": "cover",
+        "position": "50% 42%"
+      },
+      {
+        "src": "/images/movement-1200.webp",
+        "x": 26,
+        "y": 5523.578125,
+        "w": 378,
+        "h": 280.34375,
+        "natural": [
+          382,
+          282
+        ],
+        "fit": "contain",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/gaia-symbol.png",
+        "x": 103,
+        "y": 6215.375,
+        "w": 224,
+        "h": 263.921875,
+        "natural": [
+          460,
+          542
+        ],
+        "fit": "fill",
+        "position": "50% 50%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "hero",
+        "x": 0,
+        "y": 80,
+        "w": 430,
+        "h": 891.265625,
+        "padding": [
+          "0px",
+          "0px"
+        ]
+      },
+      {
+        "class": "manifesto section",
+        "x": 0,
+        "y": 1033.265625,
+        "w": 430,
+        "h": 602.8125,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "network section",
+        "x": 0,
+        "y": 1674.078125,
+        "w": 430,
+        "h": 912.375,
+        "padding": [
+          "44px",
+          "36px"
+        ]
+      },
+      {
+        "class": "practices section",
+        "x": 0,
+        "y": 2624.453125,
+        "w": 430,
+        "h": 802.3125,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "women section",
+        "x": 0,
+        "y": 3464.765625,
+        "w": 430,
+        "h": 1456.578125,
+        "padding": [
+          "48px",
+          "44px"
+        ]
+      },
+      {
+        "class": "about section",
+        "x": 0,
+        "y": 4959.34375,
+        "w": 430,
+        "h": 906.578125,
+        "padding": [
+          "44px",
+          "44px"
+        ]
+      },
+      {
+        "class": "power section",
+        "x": 0,
+        "y": 5887.921875,
+        "w": 430,
+        "h": 639.453125,
+        "padding": [
+          "44px",
+          "32px"
+        ]
+      },
+      {
+        "class": "project section",
+        "x": 0,
+        "y": 6565.375,
+        "w": 430,
+        "h": 584.328125,
+        "padding": [
+          "40px",
+          "36px"
+        ]
+      },
+      {
+        "class": "locations section",
+        "x": 0,
+        "y": 7211.703125,
+        "w": 430,
+        "h": 354.21875,
+        "padding": [
+          "36px",
+          "36px"
+        ]
+      },
+      {
+        "class": "final-cta section",
+        "x": 0,
+        "y": 7627.921875,
+        "w": 430,
+        "h": 341.15625,
+        "padding": [
+          "64px",
+          "64px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLinks\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Lauriane — Traditional Acupuncture Practitioner",
+          "lines": [
+            "Lauriane — Traditional Acupuncture Practitioner"
+          ]
+        },
+        {
+          "text": "Nothing works in silos.",
+          "lines": [
+            "Nothing works",
+            "in silos."
+          ]
+        },
+        {
+          "text": "Your system is a network.",
+          "lines": [
+            "Your system",
+            "is a network."
+          ]
+        },
+        {
+          "text": "TODAY, I WORK WITH YOU THROUGH THESE PRACTICES",
+          "lines": [
+            "TODAY, I WORK WITH YOU THROUGH THESE PRACTICES"
+          ]
+        },
+        {
+          "text": "Traditional Acupuncture",
+          "lines": [
+            "Traditional",
+            "Acupuncture"
+          ]
+        },
+        {
+          "text": "Aculift",
+          "lines": [
+            "Aculift"
+          ]
+        },
+        {
+          "text": "Pranic Healing",
+          "lines": [
+            "Pranic Healing"
+          ]
+        },
+        {
+          "text": "Live your femininity, don’t just put up with it.",
+          "lines": [
+            "Live your femininity,",
+            "don’t just put up",
+            "with it."
+          ]
+        },
+        {
+          "text": "I WAS LOOKING FOR A WAY TO CONNECT THE DOTS.",
+          "lines": [
+            "I WAS LOOKING FOR A WAY TO CONNECT THE DOTS."
+          ]
+        },
+        {
+          "text": "Power & Softness",
+          "lines": [
+            "Power & Softness"
+          ]
+        },
+        {
+          "text": "The GAIA Project",
+          "lines": [
+            "The GAIA Project"
+          ]
+        },
+        {
+          "text": "WHERE TO FIND ME",
+          "lines": [
+            "WHERE TO FIND ME"
+          ]
+        },
+        {
+          "text": "RECONNECT.",
+          "lines": [
+            "RECONNECT."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 0
+        },
+        {
+          "text": "About",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(17, 17, 17)",
+        "rgb(78, 18, 208)",
+        "rgb(255, 253, 247)",
+        "rgb(74, 74, 74)"
+      ],
+      "language": [
+        "/fr/",
+        "/fr/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "captions": []
+    },
+    "nav": {
+      "w": 430,
+      "h": 437.484375,
+      "scroll": 437,
+      "client": 437,
+      "links": [
+        {
+          "label": "Traditional Acupuncture",
+          "height": 44
+        },
+        {
+          "label": "Aculift",
+          "height": 44
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 44
+        },
+        {
+          "label": "Women’s Health",
+          "height": 46.34375
+        },
+        {
+          "label": "About",
+          "height": 46.34375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Book an appointment",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "en",
+    "path": "/en/",
+    "width": 390,
+    "height": 8285,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Lauriane — Traditional Acupuncture Practitioner",
+        "x": 21.828125,
+        "y": 410.390625,
+        "w": 346.34375,
+        "h": 54.375,
+        "size": "17px",
+        "line": "27.2px"
+      },
+      {
+        "text": "Nothing works in silos.",
+        "x": 21.828125,
+        "y": 1040.953125,
+        "w": 268.84375,
+        "h": 87.90625,
+        "size": "39.975px",
+        "line": "43.9725px"
+      },
+      {
+        "text": "Your system is a network.",
+        "x": 21.828125,
+        "y": 1703.046875,
+        "w": 346.34375,
+        "h": 87.90625,
+        "size": "39.975px",
+        "line": "43.9725px"
+      },
+      {
+        "text": "TODAY, I WORK WITH YOU THROUGH THESE PRACTICES",
+        "x": 21.828125,
+        "y": 2610.40625,
+        "w": 346.34375,
+        "h": 37.1875,
+        "size": "12px",
+        "line": "18.6px"
+      },
+      {
+        "text": "Traditional Acupuncture",
+        "x": 125.828125,
+        "y": 2691.5625,
+        "w": 242.34375,
+        "h": 60.0625,
+        "size": "26.13px",
+        "line": "30.0495px"
+      },
+      {
+        "text": "Aculift",
+        "x": 125.828125,
+        "y": 2924.921875,
+        "w": 242.34375,
+        "h": 30.03125,
+        "size": "26.13px",
+        "line": "30.0495px"
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 125.828125,
+        "y": 3169.609375,
+        "w": 242.34375,
+        "h": 30.03125,
+        "size": "26.13px",
+        "line": "30.0495px"
+      },
+      {
+        "text": "Live your femininity, don’t just put up with it.",
+        "x": 21.828125,
+        "y": 3477.3125,
+        "w": 346.34375,
+        "h": 118.359375,
+        "size": "35.88px",
+        "line": "39.468px"
+      },
+      {
+        "text": "I WAS LOOKING FOR A WAY TO CONNECT THE DOTS.",
+        "x": 32,
+        "y": 4981.8125,
+        "w": 326,
+        "h": 36,
+        "size": "12px",
+        "line": "18px"
+      },
+      {
+        "text": "Power & Softness",
+        "x": 21.828125,
+        "y": 5880.71875,
+        "w": 346.34375,
+        "h": 43.953125,
+        "size": "39.975px",
+        "line": "43.9725px"
+      },
+      {
+        "text": "The GAIA Project",
+        "x": 21.828125,
+        "y": 6549.640625,
+        "w": 346.34375,
+        "h": 41.609375,
+        "size": "37.83px",
+        "line": "41.613px"
+      },
+      {
+        "text": "WHERE TO FIND ME",
+        "x": 21.828125,
+        "y": 7240.40625,
+        "w": 346.34375,
+        "h": 18.59375,
+        "size": "12px",
+        "line": "18.6px"
+      },
+      {
+        "text": "RECONNECT.",
+        "x": 21.828125,
+        "y": 7675.78125,
+        "w": 346.34375,
+        "h": 60.90625,
+        "size": "55.38px",
+        "line": "60.918px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "Yin / Yang",
+        "size": "13px"
+      },
+      {
+        "text": "Shiva / Shakti",
+        "size": "13px"
+      },
+      {
+        "text": "Ha / Tha",
+        "size": "13px"
+      },
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Practices",
+        "x": 309.625,
+        "y": 158,
+        "w": 199.828125,
+        "h": 44.796875
+      },
+      {
+        "text": "Traditional Acupuncture",
+        "x": 327.625,
+        "y": 206.796875,
+        "w": 181.828125,
+        "h": 44
+      },
+      {
+        "text": "Aculift",
+        "x": 327.625,
+        "y": 250.796875,
+        "w": 181.828125,
+        "h": 44
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 327.625,
+        "y": 294.796875,
+        "w": 181.828125,
+        "h": 44
+      },
+      {
+        "text": "Women’s Health",
+        "x": 309.625,
+        "y": 206.796875,
+        "w": 199.828125,
+        "h": 46.34375
+      },
+      {
+        "text": "About",
+        "x": 309.625,
+        "y": 257.140625,
+        "w": 199.828125,
+        "h": 46.34375
+      },
+      {
+        "text": "FR/EN",
+        "x": 309.625,
+        "y": 307.484375,
+        "w": 199.828125,
+        "h": 44
+      },
+      {
+        "text": "Book an appointment",
+        "x": 309.625,
+        "y": 363.484375,
+        "w": 199.828125,
+        "h": 48
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/portrait-1200.webp",
+        "x": 0,
+        "y": 587.953125,
+        "w": 390,
+        "h": 351,
+        "natural": [
+          390,
+          585
+        ],
+        "fit": "cover",
+        "position": "50% 43%"
+      },
+      {
+        "src": "/images/hands-1200.webp",
+        "x": 21.828125,
+        "y": 4404.890625,
+        "w": 346.34375,
+        "h": 432.921875,
+        "natural": [
+          342,
+          513
+        ],
+        "fit": "cover",
+        "position": "50% 42%"
+      },
+      {
+        "src": "/images/movement-1200.webp",
+        "x": 26,
+        "y": 5502.046875,
+        "w": 338,
+        "h": 250.671875,
+        "natural": [
+          342,
+          253
+        ],
+        "fit": "contain",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/gaia-symbol.png",
+        "x": 83,
+        "y": 6159.640625,
+        "w": 224,
+        "h": 263.921875,
+        "natural": [
+          460,
+          542
+        ],
+        "fit": "fill",
+        "position": "50% 50%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "hero",
+        "x": 0,
+        "y": 80,
+        "w": 390,
+        "h": 858.953125,
+        "padding": [
+          "0px",
+          "0px"
+        ]
+      },
+      {
+        "class": "manifesto section",
+        "x": 0,
+        "y": 1000.953125,
+        "w": 390,
+        "h": 620.09375,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "network section",
+        "x": 0,
+        "y": 1659.046875,
+        "w": 390,
+        "h": 873.359375,
+        "padding": [
+          "44px",
+          "36px"
+        ]
+      },
+      {
+        "class": "practices section",
+        "x": 0,
+        "y": 2570.40625,
+        "w": 390,
+        "h": 820.90625,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "women section",
+        "x": 0,
+        "y": 3429.3125,
+        "w": 390,
+        "h": 1452.5,
+        "padding": [
+          "48px",
+          "44px"
+        ]
+      },
+      {
+        "class": "about section",
+        "x": 0,
+        "y": 4919.8125,
+        "w": 390,
+        "h": 894.90625,
+        "padding": [
+          "44px",
+          "44px"
+        ]
+      },
+      {
+        "class": "power section",
+        "x": 0,
+        "y": 5836.71875,
+        "w": 390,
+        "h": 634.921875,
+        "padding": [
+          "44px",
+          "32px"
+        ]
+      },
+      {
+        "class": "project section",
+        "x": 0,
+        "y": 6509.640625,
+        "w": 390,
+        "h": 632.765625,
+        "padding": [
+          "40px",
+          "36px"
+        ]
+      },
+      {
+        "class": "locations section",
+        "x": 0,
+        "y": 7204.40625,
+        "w": 390,
+        "h": 345.375,
+        "padding": [
+          "36px",
+          "36px"
+        ]
+      },
+      {
+        "class": "final-cta section",
+        "x": 0,
+        "y": 7611.78125,
+        "w": 390,
+        "h": 334.90625,
+        "padding": [
+          "64px",
+          "64px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLinks\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Lauriane — Traditional Acupuncture Practitioner",
+          "lines": [
+            "Lauriane — Traditional Acupuncture",
+            "Practitioner"
+          ]
+        },
+        {
+          "text": "Nothing works in silos.",
+          "lines": [
+            "Nothing works",
+            "in silos."
+          ]
+        },
+        {
+          "text": "Your system is a network.",
+          "lines": [
+            "Your system",
+            "is a network."
+          ]
+        },
+        {
+          "text": "TODAY, I WORK WITH YOU THROUGH THESE PRACTICES",
+          "lines": [
+            "TODAY, I WORK WITH YOU THROUGH THESE",
+            "PRACTICES"
+          ]
+        },
+        {
+          "text": "Traditional Acupuncture",
+          "lines": [
+            "Traditional",
+            "Acupuncture"
+          ]
+        },
+        {
+          "text": "Aculift",
+          "lines": [
+            "Aculift"
+          ]
+        },
+        {
+          "text": "Pranic Healing",
+          "lines": [
+            "Pranic Healing"
+          ]
+        },
+        {
+          "text": "Live your femininity, don’t just put up with it.",
+          "lines": [
+            "Live your femininity,",
+            "don’t just put up",
+            "with it."
+          ]
+        },
+        {
+          "text": "I WAS LOOKING FOR A WAY TO CONNECT THE DOTS.",
+          "lines": [
+            "I WAS LOOKING FOR A WAY TO CONNECT THE",
+            "DOTS."
+          ]
+        },
+        {
+          "text": "Power & Softness",
+          "lines": [
+            "Power & Softness"
+          ]
+        },
+        {
+          "text": "The GAIA Project",
+          "lines": [
+            "The GAIA Project"
+          ]
+        },
+        {
+          "text": "WHERE TO FIND ME",
+          "lines": [
+            "WHERE TO FIND ME"
+          ]
+        },
+        {
+          "text": "RECONNECT.",
+          "lines": [
+            "RECONNECT."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 0
+        },
+        {
+          "text": "About",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(17, 17, 17)",
+        "rgb(78, 18, 208)",
+        "rgb(255, 253, 247)",
+        "rgb(74, 74, 74)"
+      ],
+      "language": [
+        "/fr/",
+        "/fr/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "captions": []
+    },
+    "nav": {
+      "w": 390,
+      "h": 437.484375,
+      "scroll": 437,
+      "client": 437,
+      "links": [
+        {
+          "label": "Traditional Acupuncture",
+          "height": 44
+        },
+        {
+          "label": "Aculift",
+          "height": 44
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 44
+        },
+        {
+          "label": "Women’s Health",
+          "height": 46.34375
+        },
+        {
+          "label": "About",
+          "height": 46.34375
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Book an appointment",
+          "height": 48
+        }
+      ]
+    }
+  },
+  {
+    "page": "en",
+    "path": "/en/",
+    "width": 360,
+    "height": 8147,
+    "overflow": 0,
+    "h1": 1,
+    "headings": [
+      {
+        "text": "Lauriane — Traditional Acupuncture Practitioner",
+        "x": 20.15625,
+        "y": 392.84375,
+        "w": 319.6875,
+        "h": 52.78125,
+        "size": "16.5px",
+        "line": "26.4px"
+      },
+      {
+        "text": "Nothing works in silos.",
+        "x": 20.15625,
+        "y": 1000.015625,
+        "w": 248.203125,
+        "h": 81.1875,
+        "size": "36.9px",
+        "line": "40.59px"
+      },
+      {
+        "text": "Your system is a network.",
+        "x": 20.15625,
+        "y": 1644.390625,
+        "w": 319.6875,
+        "h": 81.1875,
+        "size": "36.9px",
+        "line": "40.59px"
+      },
+      {
+        "text": "TODAY, I WORK WITH YOU THROUGH THESE PRACTICES",
+        "x": 20.15625,
+        "y": 2541.171875,
+        "w": 319.6875,
+        "h": 37.1875,
+        "size": "12px",
+        "line": "18.6px"
+      },
+      {
+        "text": "Traditional Acupuncture",
+        "x": 124.15625,
+        "y": 2624.625,
+        "w": 215.6875,
+        "h": 55.46875,
+        "size": "24.12px",
+        "line": "27.738px"
+      },
+      {
+        "text": "Aculift",
+        "x": 124.15625,
+        "y": 2856.046875,
+        "w": 215.6875,
+        "h": 27.734375,
+        "size": "24.12px",
+        "line": "27.738px"
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 124.15625,
+        "y": 3099.171875,
+        "w": 215.6875,
+        "h": 27.734375,
+        "size": "24.12px",
+        "line": "27.738px"
+      },
+      {
+        "text": "Live your femininity, don’t just put up with it.",
+        "x": 20.15625,
+        "y": 3404.171875,
+        "w": 319.6875,
+        "h": 112.171875,
+        "size": "34px",
+        "line": "37.4px"
+      },
+      {
+        "text": "I WAS LOOKING FOR A WAY TO CONNECT THE DOTS.",
+        "x": 32,
+        "y": 4903.890625,
+        "w": 296,
+        "h": 36,
+        "size": "12px",
+        "line": "18px"
+      },
+      {
+        "text": "Power & Softness",
+        "x": 20.15625,
+        "y": 5772.734375,
+        "w": 319.6875,
+        "h": 40.59375,
+        "size": "36.9px",
+        "line": "40.59px"
+      },
+      {
+        "text": "The GAIA Project",
+        "x": 20.15625,
+        "y": 6435.171875,
+        "w": 319.6875,
+        "h": 39.59375,
+        "size": "36px",
+        "line": "39.6px"
+      },
+      {
+        "text": "WHERE TO FIND ME",
+        "x": 20.15625,
+        "y": 7112.203125,
+        "w": 319.6875,
+        "h": 18.59375,
+        "size": "12px",
+        "line": "18.6px"
+      },
+      {
+        "text": "RECONNECT.",
+        "x": 20.15625,
+        "y": 7541.515625,
+        "w": 319.6875,
+        "h": 57.1875,
+        "size": "52px",
+        "line": "57.2px"
+      }
+    ],
+    "smallText": [
+      {
+        "text": "Yin / Yang",
+        "size": "13px"
+      },
+      {
+        "text": "Shiva / Shakti",
+        "size": "13px"
+      },
+      {
+        "text": "Ha / Tha",
+        "size": "13px"
+      },
+      {
+        "text": "© 2026 GAIA by LaurianeComplementary practices, not a substitute for medical care.",
+        "size": "13.6px"
+      }
+    ],
+    "smallLinks": [],
+    "offscreen": [
+      {
+        "text": "Practices",
+        "x": 279.625,
+        "y": 158,
+        "w": 199.828125,
+        "h": 44.796875
+      },
+      {
+        "text": "Traditional Acupuncture",
+        "x": 297.625,
+        "y": 206.796875,
+        "w": 181.828125,
+        "h": 44
+      },
+      {
+        "text": "Aculift",
+        "x": 297.625,
+        "y": 250.796875,
+        "w": 181.828125,
+        "h": 44
+      },
+      {
+        "text": "Pranic Healing",
+        "x": 297.625,
+        "y": 294.796875,
+        "w": 181.828125,
+        "h": 44
+      },
+      {
+        "text": "Women’s Health",
+        "x": 279.625,
+        "y": 206.796875,
+        "w": 199.828125,
+        "h": 45.5625
+      },
+      {
+        "text": "About",
+        "x": 279.625,
+        "y": 256.359375,
+        "w": 199.828125,
+        "h": 45.5625
+      },
+      {
+        "text": "FR/EN",
+        "x": 279.625,
+        "y": 305.921875,
+        "w": 199.828125,
+        "h": 44
+      },
+      {
+        "text": "Book an appointment",
+        "x": 279.625,
+        "y": 361.921875,
+        "w": 199.828125,
+        "h": 48
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/portrait-1200.webp",
+        "x": 0,
+        "y": 568.015625,
+        "w": 360,
+        "h": 330,
+        "natural": [
+          360,
+          540
+        ],
+        "fit": "cover",
+        "position": "50% 43%"
+      },
+      {
+        "src": "/images/hands-1200.webp",
+        "x": 20.15625,
+        "y": 4360.28125,
+        "w": 319.6875,
+        "h": 399.609375,
+        "natural": [
+          312,
+          467
+        ],
+        "fit": "cover",
+        "position": "50% 42%"
+      },
+      {
+        "src": "/images/movement-1200.webp",
+        "x": 26,
+        "y": 5416.3125,
+        "w": 308,
+        "h": 228.421875,
+        "natural": [
+          312,
+          231
+        ],
+        "fit": "contain",
+        "position": "50% 50%"
+      },
+      {
+        "src": "/images/gaia-symbol.png",
+        "x": 68,
+        "y": 6045.171875,
+        "w": 224,
+        "h": 263.921875,
+        "natural": [
+          460,
+          542
+        ],
+        "fit": "fill",
+        "position": "50% 50%"
+      }
+    ],
+    "sections": [
+      {
+        "class": "hero",
+        "x": 0,
+        "y": 80,
+        "w": 360,
+        "h": 818.015625,
+        "padding": [
+          "0px",
+          "0px"
+        ]
+      },
+      {
+        "class": "manifesto section",
+        "x": 0,
+        "y": 960.015625,
+        "w": 360,
+        "h": 602.375,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "network section",
+        "x": 0,
+        "y": 1600.390625,
+        "w": 360,
+        "h": 862.78125,
+        "padding": [
+          "44px",
+          "36px"
+        ]
+      },
+      {
+        "class": "practices section",
+        "x": 0,
+        "y": 2501.171875,
+        "w": 360,
+        "h": 817,
+        "padding": [
+          "40px",
+          "40px"
+        ]
+      },
+      {
+        "class": "women section",
+        "x": 0,
+        "y": 3356.171875,
+        "w": 360,
+        "h": 1447.71875,
+        "padding": [
+          "48px",
+          "44px"
+        ]
+      },
+      {
+        "class": "about section",
+        "x": 0,
+        "y": 4841.890625,
+        "w": 360,
+        "h": 864.84375,
+        "padding": [
+          "44px",
+          "44px"
+        ]
+      },
+      {
+        "class": "power section",
+        "x": 0,
+        "y": 5728.734375,
+        "w": 360,
+        "h": 628.4375,
+        "padding": [
+          "44px",
+          "32px"
+        ]
+      },
+      {
+        "class": "project section",
+        "x": 0,
+        "y": 6395.171875,
+        "w": 360,
+        "h": 619.03125,
+        "padding": [
+          "40px",
+          "36px"
+        ]
+      },
+      {
+        "class": "locations section",
+        "x": 0,
+        "y": 7076.203125,
+        "w": 360,
+        "h": 339.3125,
+        "padding": [
+          "36px",
+          "36px"
+        ]
+      },
+      {
+        "class": "final-cta section",
+        "x": 0,
+        "y": 7477.515625,
+        "w": 360,
+        "h": 331.1875,
+        "padding": [
+          "64px",
+          "64px"
+        ]
+      }
+    ],
+    "footer": "Gaia\nby Lauriane\nContact\n·\nLinks\n\n© 2026 GAIA by Lauriane\nComplementary practices, not a substitute for medical care.",
+    "extra": {
+      "lines": [
+        {
+          "text": "Lauriane — Traditional Acupuncture Practitioner",
+          "lines": [
+            "Lauriane — Traditional Acupuncture",
+            "Practitioner"
+          ]
+        },
+        {
+          "text": "Nothing works in silos.",
+          "lines": [
+            "Nothing works",
+            "in silos."
+          ]
+        },
+        {
+          "text": "Your system is a network.",
+          "lines": [
+            "Your system",
+            "is a network."
+          ]
+        },
+        {
+          "text": "TODAY, I WORK WITH YOU THROUGH THESE PRACTICES",
+          "lines": [
+            "TODAY, I WORK WITH YOU THROUGH THESE",
+            "PRACTICES"
+          ]
+        },
+        {
+          "text": "Traditional Acupuncture",
+          "lines": [
+            "Traditional",
+            "Acupuncture"
+          ]
+        },
+        {
+          "text": "Aculift",
+          "lines": [
+            "Aculift"
+          ]
+        },
+        {
+          "text": "Pranic Healing",
+          "lines": [
+            "Pranic Healing"
+          ]
+        },
+        {
+          "text": "Live your femininity, don’t just put up with it.",
+          "lines": [
+            "Live your femininity,",
+            "don’t just put up",
+            "with it."
+          ]
+        },
+        {
+          "text": "I WAS LOOKING FOR A WAY TO CONNECT THE DOTS.",
+          "lines": [
+            "I WAS LOOKING FOR A WAY TO CONNECT",
+            "THE DOTS."
+          ]
+        },
+        {
+          "text": "Power & Softness",
+          "lines": [
+            "Power & Softness"
+          ]
+        },
+        {
+          "text": "The GAIA Project",
+          "lines": [
+            "The GAIA Project"
+          ]
+        },
+        {
+          "text": "WHERE TO FIND ME",
+          "lines": [
+            "WHERE TO FIND ME"
+          ]
+        },
+        {
+          "text": "RECONNECT.",
+          "lines": [
+            "RECONNECT."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "text": "Contact",
+          "h": 44
+        },
+        {
+          "text": "Links",
+          "h": 44
+        }
+      ],
+      "header": [
+        {
+          "text": "Women’s Health",
+          "h": 0
+        },
+        {
+          "text": "About",
+          "h": 0
+        }
+      ],
+      "colors": [
+        "rgb(94, 26, 244)",
+        "rgb(255, 98, 48)",
+        "rgb(23, 23, 23)",
+        "rgb(255, 255, 255)",
+        "rgb(17, 17, 17)",
+        "rgb(78, 18, 208)",
+        "rgb(255, 253, 247)",
+        "rgb(74, 74, 74)"
+      ],
+      "language": [
+        "/fr/",
+        "/fr/"
+      ],
+      "booking": [
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/",
+        "/en/book-an-appointment/"
+      ],
+      "captions": []
+    },
+    "nav": {
+      "w": 360,
+      "h": 435.921875,
+      "scroll": 436,
+      "client": 436,
+      "links": [
+        {
+          "label": "Traditional Acupuncture",
+          "height": 44
+        },
+        {
+          "label": "Aculift",
+          "height": 44
+        },
+        {
+          "label": "Pranic Healing",
+          "height": 44
+        },
+        {
+          "label": "Women’s Health",
+          "height": 45.5625
+        },
+        {
+          "label": "About",
+          "height": 45.5625
+        },
+        {
+          "label": "FR/EN",
+          "height": 44
+        },
+        {
+          "label": "Book an appointment",
+          "height": 48
+        }
+      ]
+    }
+  }
+]
