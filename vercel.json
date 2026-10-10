@@ -2,6 +2,11 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "redirects": [
     {
+      "source": "/",
+      "destination": "/fr/",
+      "statusCode": 301
+    },
+    {
       "source": "/fr/contact",
       "destination": "/prendre-rendez-vous/",
       "statusCode": 301
