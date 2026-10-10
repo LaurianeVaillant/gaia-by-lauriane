@@ -1,0 +1,45 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "redirects": [
+    {
+      "source": "/fr/contact",
+      "destination": "/prendre-rendez-vous/",
+      "statusCode": 301
+    },
+    {
+      "source": "/fr/contact/",
+      "destination": "/prendre-rendez-vous/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/contact",
+      "destination": "/en/book-an-appointment/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/contact/",
+      "destination": "/en/book-an-appointment/",
+      "statusCode": 301
+    },
+    {
+      "source": "/fr/links",
+      "destination": "/links/",
+      "statusCode": 301
+    },
+    {
+      "source": "/fr/links/",
+      "destination": "/links/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/links",
+      "destination": "/links/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/links/",
+      "destination": "/links/",
+      "statusCode": 301
+    }
+  ]
+}

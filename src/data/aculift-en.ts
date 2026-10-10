@@ -7,7 +7,7 @@ export const aculiftEn = {
     "Aculift is a facial approach inspired by traditional acupuncture.",
     "Fine needles are placed in specific areas of the face to work with facial tone, glow and relaxation of the features.",
     "It is a natural approach designed for the face, without injections or medication.",
-    "The session adapts to what your face is expressing and what you are looking for at that moment."
+    "I do not follow the exact same protocol for everyone. The session is adapted to your face, your expectations and what I observe."
   ],
   "reasonsIntro": "Some of the reasons you might want to explore this approach:",
   "reasons": [
@@ -24,8 +24,8 @@ export const aculiftEn = {
   ],
   "steps": [
     {
-      "title": "Talk",
-      "copy": "Each session begins with a short conversation about your expectations, your habits and what your face is expressing that day."
+      "title": "TALK",
+      "copy": "Each session starts with a short conversation about your expectations, your habits and what brings you in."
     },
     {
       "title": "Tailor the session",
