@@ -3,8 +3,7 @@ export const pranicFr = {
   "subtitle": "Une approche énergétique qui travaille sur la circulation, l’aura et vos différentes couches énergétiques.",
   "intro": "Physique, émotionnel, mental.",
   "understanding": [
-    "Le Pranic Healing est une pratique énergétique qui travaille sur la circulation de l’énergie à différents niveaux.",
-    "Je l’utilise parfois seul, parfois en complément de l’acupuncture, selon ce qui me semble pertinent.",
+    "Le Pranic Healing propose une lecture énergétique du fonctionnement global de la personne.",
     "Le langage est différent de celui de l’acupuncture, mais l’idée reste assez proche : observer où ça circule bien, où ça bloque et où il y a besoin de rééquilibrer."
   ],
   "framework": "L’aura et les chakras sont les repères utilisés dans cette méthode. Ce sont des concepts propres au Pranic Healing, pas une description de l’anatomie médicale.",
