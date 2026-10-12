@@ -1,5 +1,6 @@
 /* Vertical-screen composition. Desktop styling above 900px is unchanged. */
 .gaia-home .gaia-soft-boundary .boundary-mobile {display:none}
+.gaia-home .locations-title .location-name {color:inherit}
 @media (max-width:900px) {
   body.gaia-home-shell {
     --home-pad:32px;--home-gap:32px;--home-body:17px;
@@ -124,7 +125,10 @@
   .gaia-home .story-statement {font-size:24px}
   .gaia-home .about .editorial-collage {width:calc(100% + 12px);margin:20px -6px 0;border-radius:6px}
   .gaia-home .power-dialogue {max-width:280px}
-  .gaia-home .project-display-title {font-size:clamp(36px,9.7vw,42px)}
-  .gaia-home .locations-title {font-size:clamp(34px,9.2vw,40px)}
+  .gaia-home .project-display-title {font-size:clamp(33.84px,9.118vw,39.48px)}
+  .gaia-home .project-copy p:not(:last-child) {margin-bottom:17px}
+  .gaia-home .locations-title {font-size:clamp(33px,9vw,39px);text-wrap:balance}
+  .gaia-home .locations-title .location-name {white-space:nowrap}
+  .gaia-home .final-cta {padding-bottom:76px}
   .gaia-home .final-cta h2 {font-size:clamp(52px,14.2vw,64px);letter-spacing:-.07em}
 }

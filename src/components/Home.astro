@@ -39,7 +39,7 @@ const {lang} = Astro.props as {lang:Lang}; const fr=lang==='fr'; const t=labels[
 <SoftBoundary from="var(--chapter-peach)" to="var(--chapter-cream)" reverse/>
 <section class="project section"><h2 class="eyebrow project-display-title">The <span>GAIA</span> Project</h2><div class="project-copy">{(Array.isArray(c.project)?c.project:[c.project]).map(p=><p>{p}</p>)}</div></section>
 <FlowTransition id={`project-flow-${lang}`} text="GAIA creates spaces for reconnection." decorative={false} to="var(--locations-white)" variant="calm" class="project-flow"/>
-<section class="locations section"><h2 class="eyebrow">{c.locationsLabel}</h2><p class="locations-title">Paris <span>·</span> Val-d’Oise <span>·</span> Goa</p><p>{c.locations}</p><a class="text-link" href={fr?'/prendre-rendez-vous/':'/en/book-an-appointment/'}>{c.locationsCta}</a></section>
+<section class="locations section"><h2 class="eyebrow">{c.locationsLabel}</h2><p class="locations-title">Paris <span>·</span> <span class="location-name">Val-d’Oise</span> <span>·</span> Goa</p><p>{c.locations}</p><a class="text-link" href={fr?'/prendre-rendez-vous/':'/en/book-an-appointment/'}>{c.locationsCta}</a></section>
 <SoftBoundary from="var(--locations-white)" to="var(--chapter-violet)" intensity="strong"/>
 <section class="final-cta section"><h2>RECONNECT<span class="closing-dot">.</span></h2><div class="closing-actions"><a class="button" href={fr?'/prendre-rendez-vous/':'/en/book-an-appointment/'}>{t.book}</a><p class="serif">{c.closing}</p></div></section>
 
