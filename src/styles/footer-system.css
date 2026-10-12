@@ -1,0 +1,7 @@
+/* Shared mobile footer rhythm. Desktop and tablet retain their current styling. */
+@media(max-width:700px){
+  body footer.site-footer{flex-direction:column;align-items:flex-start;justify-content:flex-start;gap:0;padding-top:40px;padding-bottom:40px}
+  body footer.site-footer>.footer-brand{margin:0 0 20px}
+  body footer.site-footer>div:nth-child(2){margin-top:0;margin-bottom:24px}
+  body footer.site-footer>.legal{margin-top:0;margin-bottom:0}
+}
