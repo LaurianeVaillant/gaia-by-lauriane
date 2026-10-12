@@ -27,3 +27,10 @@
 .booking-page .bk-closing .bk-whatsapp:hover{background:#FFE6AE;color:var(--violet)}
 @media(max-width:800px){.bk-how ol{row-gap:22px}.bk-how li{padding-right:0}.booking-page .bk-cities{line-height:1.5;max-width:360px}}
 @media(prefers-reduced-motion:reduce){.bk-practices a span,.booking-page .bk-whatsapp{transition:none}.bk-practices a:hover span,.bk-practices a:focus-visible span{transform:none}}
+
+/* Balanced mobile transitions; the consultation steps retain their inner spacing. */
+@media(max-width:700px){
+  .booking-page .bk-hero{padding-bottom:32px}
+  .booking-page .bk-practices{padding-top:32px;padding-bottom:32px}
+  .booking-page .bk-how{padding-top:32px}
+}
