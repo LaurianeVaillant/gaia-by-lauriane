@@ -30,15 +30,14 @@ export const aboutFr = {
       "J’ai envie de comprendre la personne que j’ai devant moi, les liens entre ce qu’elle ressent, son histoire et son contexte."
     ],
     [
-      "GAIA a toujours été une évidence.",
+      "GAIA a toujours été une évidence pour moi.",
       "Je crois beaucoup à la symbolique des choses.",
-      "Donner à ma marque le nom de Gaïa, figure primordiale de la Terre dans la mythologie, fait vraiment sens.",
+      "Donner à ma marque le nom de Gaïa, figure primordiale de la Terre dans la mythologie, fait vraiment sens !",
       "D’abord : sa puissance.",
-      "Mais aussi l’ancrage, la création, le vivant, les cycles et l’idée que rien n’existe complètement tout seul.",
+      "Mais aussi l’ancrage, la création, le vivant, les cycles et l’idée que tout existe en relation avec autre chose.",
       "C’est exactement ce que j’ai envie de construire avec GAIA.",
-      "Aujourd’hui, GAIA prend forme autour de mes pratiques : acupuncture, Pranic Healing, Aculift.",
-      "Et demain ? J’ai encore beaucoup d’idées.",
-      "J’aimerais qu’un jour GAIA devienne un espace où plusieurs disciplines, différentes approches et différentes personnes puissent travailler ensemble.",
+      "Aujourd’hui, GAIA prend forme autour de ma pratique. Acupuncture, Pranic Healing, Aculift, santé féminine.",
+      "Demain, j’aimerais que ce soit encore plus large : un espace où différentes disciplines, différentes approches et différentes personnes puissent dialoguer.",
       "GAIA creates spaces for reconnection."
     ]
   ]

@@ -110,3 +110,18 @@
 .about-journal .aj-gaia-copy>.aj-gaia-power{margin-top:4px;margin-bottom:27px}
 .about-journal .aj-gaia-copy>.aj-gaia-closing{margin-top:40px;margin-bottom:0}
 @media(max-width:700px){.about-journal .aj-gaia-copy>p{margin-bottom:20px}.about-journal .aj-gaia-copy>.aj-gaia-power{margin-top:3px;margin-bottom:24px}.about-journal .aj-gaia-copy>.aj-gaia-closing{margin-top:32px;margin-bottom:0}}
+
+/* Selective emphasis keeps the personal voice legible in both languages. */
+.about-journal .aj-therapist .aj-intimate{color:var(--ink)}
+.about-journal .aj-therapist .aj-intimate strong{color:var(--violet);font-weight:700}
+.about-journal .aj-therapist .aj-listening{color:var(--violet)}
+.about-journal .aj-therapist .aj-qualities{color:var(--ink);font-weight:500}
+.about-journal .aj-training-item:not(:first-child){margin-top:40px}
+@media(max-width:700px){
+ .about-journal .aj-hero{padding-top:18px}
+ .about-journal .aj-hero .aj-hero-quote{font-size:26px}
+ .about-journal .aj-origin{row-gap:20px;padding-bottom:36px}
+ .about-journal .aj-origin figcaption{margin-top:6px}
+ .about-journal .aj-training-item:not(:first-child){margin-top:42px}
+ .about-journal .aj-ending{padding-bottom:14px}
+}

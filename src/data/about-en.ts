@@ -30,15 +30,14 @@ export const aboutEn = {
       "I want to understand the person in front of me: the connections between what they feel, their story and their circumstances."
     ],
     [
-      "GAIA always felt obvious to me.",
+      "GAIA has always felt obvious to me.",
       "I care a lot about the symbolism behind things.",
-      "Naming the brand after Gaia, the primordial figure of the Earth in mythology, just made sense to me.",
+      "Naming my brand after Gaia, the primordial figure of the Earth in mythology, really makes sense!",
       "First of all: her power.",
-      "But also grounding, creation, the living world, cycles and the idea that nothing really exists on its own.",
+      "But also grounding, creation, the living world, cycles and the idea that everything exists in relation to something else.",
       "That is exactly what I want to build with GAIA.",
-      "Today, GAIA is taking shape around my current practices: Traditional Acupuncture, Pranic Healing and Aculift.",
-      "And tomorrow? I still have plenty of ideas.",
-      "One day, I’d love GAIA to become a space where different disciplines, different approaches and different people can actually work together.",
+      "Today, GAIA is taking shape around my practice. Acupuncture, Pranic Healing, Aculift, Women’s Health.",
+      "Tomorrow, I’d love it to become something broader: a space where different disciplines, different approaches and different people can be in dialogue.",
       "GAIA creates spaces for reconnection."
     ]
   ]
