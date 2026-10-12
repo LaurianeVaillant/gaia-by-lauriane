@@ -133,7 +133,7 @@
   .gaia-home .final-cta h2 {font-size:clamp(52px,14.2vw,64px);letter-spacing:-.07em}
 }
 
-/* Crop only the empty tail of the unchanged mobile boundary. */
+/* Leave a clear gap between the normal HTML label and the unchanged wave. */
 @media(max-width:700px){
-  .gaia-home .project-flow{height:56px}
+  .gaia-home .project-flow{height:78px;padding-top:22px}
 }
