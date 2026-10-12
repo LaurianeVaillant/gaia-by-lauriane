@@ -1,0 +1,6 @@
+---
+interface Props {paragraphs:readonly string[];}
+const {paragraphs}=Astro.props;
+const groups=[paragraphs.slice(0,4),paragraphs.slice(4)];
+---
+{groups.map(group=><p>{group.map((text,i)=><>{i>0&&<><br/><br/></>}<span class="feminine-why-paragraph">{text}</span></>)}</p>)}

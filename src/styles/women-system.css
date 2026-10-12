@@ -122,3 +122,21 @@
 .womens-health-page .feminine-cycle-composition{row-gap:34px}
 .womens-health-page .feminine-topics h2{letter-spacing:.12em}
 @media(max-width:700px){.womens-health-page .feminine-cycle-composition{row-gap:20px}.womens-health-page .feminine-cycle .feminine-pull{margin-top:5px}.womens-health-page .feminine-topics h2{letter-spacing:.1em}}
+
+/* Page-only boundary sizing: one approved SVG variant per viewport. */
+.womens-health-page .gaia-soft-boundary{overflow:hidden;line-height:0}
+.womens-health-page .gaia-soft-boundary>svg{display:block;width:100%;height:100%}
+.womens-health-page .gaia-soft-boundary>.boundary-mobile{display:none}
+@media(max-width:700px){
+ .womens-health-page{--gutter:clamp(36px,10.25vw,40px)}
+ .womens-health-page .feminine-hero .feminine-hero-photo{width:calc(100% + (var(--gutter) - 20px)*2);margin-inline:calc(20px - var(--gutter))}
+ .womens-health-page .gaia-soft-boundary>svg:not(.boundary-mobile){display:none}
+ .womens-health-page .gaia-soft-boundary>.boundary-mobile{display:block}
+ .womens-health-page .feminine-cycle-trajectory path:not(:first-child){display:none}
+ .womens-health-page .feminine-why .feminine-editorial p{line-height:1.55;margin-bottom:14px}
+ .womens-health-page .feminine-why .feminine-editorial br{display:none}
+ .womens-health-page .feminine-why-paragraph{display:block}
+ .womens-health-page .feminine-why-paragraph:not(:last-child){margin-bottom:14px}
+ .womens-health-page .feminine-cycle .feminine-pull{font-size:clamp(21px,5.6vw,24px)}
+ .womens-health-page .feminine-topic-grid{row-gap:13px;margin-top:18px}
+}
