@@ -132,3 +132,10 @@
   .gaia-home .final-cta {padding-bottom:76px}
   .gaia-home .final-cta h2 {font-size:clamp(52px,14.2vw,64px);letter-spacing:-.07em}
 }
+
+/* Lift the mobile transition phrase without changing the boundary geometry. */
+.gaia-home .project-flow .project-phone-text{display:none}
+@media(max-width:700px){
+  .gaia-home .project-flow .project-standard-text{display:none}
+  .gaia-home .project-flow .project-phone-text{display:block}
+}
