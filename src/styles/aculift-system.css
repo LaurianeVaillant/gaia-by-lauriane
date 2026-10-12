@@ -70,3 +70,9 @@
 @media(max-width:800px){.aculift-page .section.aculift-definition,.aculift-page .section.aculift-session{padding-top:32px;padding-bottom:32px}.aculift-page .aculift-closing h2{margin-bottom:20px}}
 
 @media(max-width:800px){.aculift-page .aculift-face{transform:none}.aculift-page .aculift-step-grid{gap:0}.aculift-page .aculift-step-grid>div:first-of-type{grid-row:1}.aculift-page .aculift-step-grid>div:last-of-type{grid-row:3}}
+
+/* Final mobile reading rhythm; hero, session steps and closing stay unchanged. */
+@media(max-width:430px){
+ .aculift-page .aculift-definition-copy p:not(:last-of-type){margin-bottom:16px}
+ .aculift-page .aculift-personal p:first-of-type{margin-bottom:18px}
+}

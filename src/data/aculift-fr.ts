@@ -4,10 +4,10 @@ export const aculiftFr = {
  intro:'Un soin personnalisé autour de la tonicité, de l’éclat et de la détente des traits.',
  factual:'Une approche naturelle, sans injection et sans médicaments.',
  definition:[
- 'L’Aculift est une approche du visage inspirée de l’acupuncture traditionnelle.',
- 'De fines aiguilles sont placées sur des zones spécifiques du visage afin de travailler autour de la tonicité, de l’éclat et de la détente des traits.',
+ 'L’Aculift utilise de fines aiguilles sur des zones spécifiques du visage.',
+ 'Le soin est pensé autour de la tonicité, de l’éclat et de la détente des traits.',
  'C’est une approche naturelle, pensée pour le visage, sans injection et sans médicaments.',
- 'Je n’applique pas un protocole identique à tout le monde. La séance s’adapte à votre visage, à vos attentes et à ce que j’observe.'
+ 'La séance s’adapte à votre visage, à vos attentes et à ce que j’observe.'
  ],
  reasonsIntro:'Quelques raisons pour lesquelles vous pouvez avoir envie d’explorer cette approche :',
  reasons:['Traits tirés','Teint terne','Tensions de la mâchoire','Tensions du front','Sensation de visage fatigué','Envie d’une approche douce du visage'],
