@@ -133,9 +133,10 @@
   .gaia-home .final-cta h2 {font-size:clamp(52px,14.2vw,64px);letter-spacing:-.07em}
 }
 
-/* Lift the mobile transition phrase without changing the boundary geometry. */
+/* Keep the mobile signature attached to the unchanged boundary curve. */
 .gaia-home .project-flow .project-phone-text{display:none}
 @media(max-width:700px){
   .gaia-home .project-flow .project-standard-text{display:none}
-  .gaia-home .project-flow .project-phone-text{display:block}
+  .gaia-home .project-flow .project-phone-text{display:block;font-size:clamp(14.65px,calc(25.9px - 2.63vw),16.43px);font-weight:500}
+  .gaia-home .project-flow{height:56px}
 }
