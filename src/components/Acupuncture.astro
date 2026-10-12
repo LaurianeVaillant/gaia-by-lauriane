@@ -1,6 +1,7 @@
 ---
 import '../styles/acupuncture-system.css';
 import TextEmphasis from './TextEmphasis.astro';
+import AcupunctureNetworkText from './AcupunctureNetworkText.astro';
 import SoftBoundary from './SoftBoundary.astro';
 import Photo from './Photo.astro';
 import NetworkGraphic from './NetworkGraphic.astro';
@@ -39,7 +40,7 @@ const clues=[...entries.slice(0,3),entries.slice(3,5).join(', '),entries[5],entr
     <h2 class="eyebrow">Your system is a network.</h2>
     <div class="network-investigation">
       <NetworkGraphic lang="fr"/>
-      <div class="network-reading">{c.network.map(p=><p><TextEmphasis text={p} phrases={c.networkEmphasis}/></p>)}</div>
+      <div class="network-reading">{c.network.map(p=><p><AcupunctureNetworkText text={p} desktopPhrases={c.networkEmphasis} mobilePhrases={c.networkMobileEmphasis}/></p>)}</div>
     </div>
   </section>
 

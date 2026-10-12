@@ -1,0 +1,15 @@
+---
+interface Props {text:string;desktopPhrases:readonly string[];mobilePhrases:readonly string[];}
+const {text,desktopPhrases,mobilePhrases}=Astro.props;
+const phrases=[...new Set([...desktopPhrases,...mobilePhrases])];
+const parts:{text:string;desktop:boolean;mobile:boolean}[]=[];
+let cursor=0;
+while(cursor<text.length){
+ const match=phrases.map(phrase=>({phrase,index:text.indexOf(phrase,cursor)})).filter(m=>m.index>=0).sort((a,b)=>a.index-b.index)[0];
+ if(!match){parts.push({text:text.slice(cursor),desktop:false,mobile:false});break;}
+ if(match.index>cursor)parts.push({text:text.slice(cursor,match.index),desktop:false,mobile:false});
+ parts.push({text:match.phrase,desktop:desktopPhrases.includes(match.phrase),mobile:mobilePhrases.includes(match.phrase)});
+ cursor=match.index+match.phrase.length;
+}
+---
+{parts.map(part=>part.desktop||part.mobile?<strong class:list={{'network-desktop-emphasis':part.desktop,'network-mobile-emphasis':part.mobile}}>{part.text}</strong>:part.text)}

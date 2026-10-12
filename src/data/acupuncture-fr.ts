@@ -1,11 +1,11 @@
 export const acupunctureFr = {
   "title": "Acupuncture traditionnelle",
   "subtitle": "Le corps, les émotions et leurs interactions comme un réseau interconnecté.",
-  "intro": "Comprendre, relier, construire autour de ce qui s’exprime pour vous aujourd’hui.",
+  "intro": "Une séance construite à partir du bilan du jour, pas d’un protocole tout fait.",
   "approach": [
     "J’aime décrire mon approche de l’acupuncture comme celle d’une détective.",
     "Pendant la séance, je cherche à faire le lien entre les différentes pièces du puzzle : ce que vous ressentez, votre histoire, votre rythme de vie, votre énergie, votre sommeil, votre digestion, vos cycles… bref, vous !",
-    "Une douleur, une fatigue, un stress qui s’installe ou un inconfort fonctionnel ne sortent pas forcément de nulle part.",
+    "Une douleur, une fatigue, un stress qui s’installe ou un inconfort fonctionnel ne sortent pas de nulle part.",
     "Je m’appuie pour cela sur l’échange, l’observation, la prise des pouls et de la langue.",
     "L’idée n’est pas juste de faire taire un symptôme, mais de comprendre ce qu’il raconte.",
     "Et c’est cette lecture d’ensemble qui guide ensuite ma façon de construire la séance."
@@ -68,5 +68,11 @@ export const acupunctureFr = {
     "les méridiens",
     "L’acupuncture cherche à lire ce réseau, pas seulement un symptôme isolé."
   ],
-  "closingSupport": "Comprendre, relier, construire autour de ce qui s’exprime pour vous aujourd’hui."
+  "closingSupport": "Une séance construite à partir du bilan du jour, pas d’un protocole tout fait.",
+  "networkMobileEmphasis": [
+    "les méridiens",
+    "blocages énergétiques",
+    "le déséquilibre ne se manifeste pas forcément exactement là où il commence",
+    "on ne regarde pas seulement “où ça fait mal”"
+  ]
 };

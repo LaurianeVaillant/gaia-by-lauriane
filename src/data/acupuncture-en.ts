@@ -1,11 +1,11 @@
 export const acupunctureEn = {
   "title": "Traditional Acupuncture",
   "subtitle": "The body, emotions and the way they interact can be understood as one interconnected network.",
-  "intro": "The idea is to understand, connect the dots and build the session around what your body is expressing today.",
+  "intro": "A session built around that day’s assessment, not a one-size-fits-all protocol.",
   "approach": [
     "I like to describe my approach to acupuncture as a bit like being a detective.",
     "During a session, I try to connect the different pieces of the puzzle: what you are feeling, your story, your lifestyle, your energy, your sleep, your digestion, your cycle… basically, you.",
-    "Pain, fatigue, ongoing stress or functional discomfort rarely exist in isolation.",
+    "Pain, fatigue, ongoing stress or functional discomfort do not come out of nowhere.",
     "I use conversation, observation, pulse-taking and tongue observation to help me understand the bigger picture.",
     "The idea is not simply to silence a symptom, but to understand what it may be telling us.",
     "And that overall reading is what guides the way I build the session."
@@ -68,5 +68,11 @@ export const acupunctureEn = {
     "the meridians",
     "Acupuncture tries to read this network, not just an isolated symptom."
   ],
-  "closingSupport": "Understand, connect the dots and build the session around what your body is expressing today."
+  "closingSupport": "A session built around that day’s assessment, not a one-size-fits-all protocol.",
+  "networkMobileEmphasis": [
+    "the meridians",
+    "energetic blockages",
+    "the imbalance does not necessarily show up exactly where it started",
+    "we do not only look at “where it hurts”"
+  ]
 };

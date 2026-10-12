@@ -100,3 +100,11 @@
  .acupuncture-page .reasons-heading p{margin-bottom:24px}
  .acupuncture-page .consultation-reasons{row-gap:20px;margin-bottom:24px}
 }
+
+/* Network emphasis changes presentation only; copy stays in a single text stream. */
+.acupuncture-page .network-reading .network-mobile-emphasis:where(:not(.network-desktop-emphasis)){font-weight:400}
+@media(max-width:430px){
+ .acupuncture-page .network-reading p:not(:last-child){margin-bottom:20px}
+ .acupuncture-page .network-reading .network-mobile-emphasis{font-weight:600}
+ .acupuncture-page .network-reading .network-desktop-emphasis:not(.network-mobile-emphasis){font-weight:400}
+}
