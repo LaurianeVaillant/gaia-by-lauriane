@@ -16,7 +16,7 @@
   .gaia-home .hero-details {margin-bottom:24px}
   .gaia-home .manifesto {align-items:center}
   .gaia-home .manifesto-copy {max-width:56ch}
-  .gaia-home .manifesto>.eyebrow {justify-self:start}
+  .gaia-home .manifesto .eyebrow {justify-self:start}
   .gaia-home .network-copy p {max-width:54ch}
   .gaia-home .home-network-art {max-width:540px;margin:0;justify-self:end}
   .gaia-home .network-title {margin-bottom:28px}
@@ -76,7 +76,8 @@
   .gaia-home .manifesto-copy p{margin-bottom:16px}
   .gaia-home .manifesto-copy .separated{margin-top:24px;margin-bottom:0}
   .gaia-home .manifesto-copy{max-width:600px}
-  .gaia-home .manifesto>.eyebrow{justify-self:start;align-self:center;position:relative;top:8px}
+  .gaia-home .manifesto-slogan{display:flex;align-items:center;justify-content:center;align-self:stretch;min-width:0}
+  .gaia-home .manifesto-slogan>.eyebrow{margin:0;max-width:min(100%,440px);font-size:clamp(38px,4vw,56px);text-align:center;line-height:1.1;letter-spacing:-.05em;text-transform:none;font-family:var(--display);font-weight:700;font-variation-settings:'wght' 700,'SOFT' 70,'WONK' 1;position:static}
   .gaia-home .network{align-items:center}
   .gaia-home .network-copy p{max-width:580px}
   .gaia-home .manifesto-copy p,.gaia-home .network-copy p,.gaia-home .women p,.gaia-home .story-module p,.gaia-home .project-copy p,.gaia-home .locations>p:not(.locations-title){text-wrap:pretty}

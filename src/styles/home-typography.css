@@ -106,7 +106,7 @@
 }
 
 @media (max-width:1050px) {
-  .gaia-home .manifesto>.eyebrow {
+  .gaia-home .manifesto .eyebrow {
     font-size: 2.6rem;
   }
   .gaia-home .power .eyebrow {
@@ -118,7 +118,7 @@
 }
 
 @media (max-width:700px) {
-  .gaia-home .manifesto>.eyebrow {
+  .gaia-home .manifesto .eyebrow {
     font-size: 2.6rem;
     line-height: 1.12;
   }
@@ -284,7 +284,7 @@ body.gaia-home-shell {
   line-height: 1.6;
 }
 
-.gaia-home .manifesto>.eyebrow {
+.gaia-home .manifesto .eyebrow {
   font-size: var(--home-display);
   line-height: 1.1;
   letter-spacing: -.05em;
@@ -494,7 +494,7 @@ body.gaia-home-shell {
   line-height: 1.1;
 }
 
-.gaia-home .manifesto>.eyebrow,
+.gaia-home .manifesto .eyebrow,
 .gaia-home .network-title,
 .gaia-home .women-title,
 .gaia-home .power .eyebrow,
