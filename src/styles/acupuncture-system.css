@@ -108,3 +108,33 @@
  .acupuncture-page .network-reading .network-mobile-emphasis{font-weight:600}
  .acupuncture-page .network-reading .network-desktop-emphasis:not(.network-mobile-emphasis){font-weight:400}
 }
+
+/* Two desktop chapters; the approved mobile composition and text stay intact. */
+.acupuncture-page .clue-desktop-lead,.acupuncture-page .network-desktop-reading{display:none}
+@media(min-width:1000px){
+  .acupuncture-page .acupuncture-approach{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.1fr);column-gap:48px;row-gap:16px;align-items:start}
+  .acupuncture-page .acupuncture-approach>h2{grid-column:1;margin:0 0 8px}
+  .acupuncture-page .approach-investigation{display:contents}
+  .acupuncture-page .approach-opening,.acupuncture-page .clue-reading,.acupuncture-page .approach-closing{grid-column:1;max-width:560px;margin:0;padding:0;font-size:18px;line-height:1.6;text-wrap:pretty}
+  .acupuncture-page .approach-closing{font-size:16px;margin-top:8px}
+  .acupuncture-page .approach-clues{grid-column:2;grid-row:1 / 7;align-self:start;min-width:0}
+  .acupuncture-page .clue-sentence{margin:0;max-width:none}
+  .acupuncture-page .clue-lead{display:none}
+  .acupuncture-page .clue-desktop-lead{display:block;font:500 14px/1.5 var(--sans);letter-spacing:.015em;color:var(--violet);max-width:none;margin:0 0 24px}
+  .acupuncture-page .clue-map{height:340px;max-width:640px}
+  .acupuncture-page .clue{font-size:16px}
+  .acupuncture-page .clue-label strong{white-space:nowrap}
+  .acupuncture-page .network-investigation{grid-template-columns:minmax(0,1fr) minmax(0,1.15fr);gap:48px;align-items:center}
+  .acupuncture-page .network-original-reading{display:none}
+  .acupuncture-page .network-desktop-reading{display:block;min-width:0}
+  .acupuncture-page .network-ideas{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px 32px}
+  .acupuncture-page .network-idea h3{font:500 14px/1.4 var(--sans);color:var(--violet);letter-spacing:.025em;margin:0 0 12px}
+  .acupuncture-page .network-idea p{font-size:17px;line-height:1.55;margin:0;max-width:none;text-wrap:pretty}
+  .acupuncture-page .network-desktop-reading strong{font-weight:600;color:inherit}
+  .acupuncture-page .network-conclusion{font-size:20px;line-height:1.45;color:var(--violet);margin:28px 0 0;max-width:none;text-wrap:pretty}
+  .acupuncture-page .acupuncture-route-map{max-width:560px;align-self:center}
+}
+@media(min-width:1000px) and (max-width:1100px){
+  .acupuncture-page .acupuncture-approach,.acupuncture-page .network-investigation{column-gap:32px}
+  .acupuncture-page .network-ideas{column-gap:24px}
+}

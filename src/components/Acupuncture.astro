@@ -7,6 +7,7 @@ import Photo from './Photo.astro';
 import NetworkGraphic from './NetworkGraphic.astro';
 import {acupunctureFr as c} from '../data/acupuncture-fr';
 import {url} from '../data/site';
+import AcupunctureDesktopNetwork from './AcupunctureDesktopNetwork.astro';
 const [clueLead,clueList]=c.approach[1].split(" : ");
 const entries=clueList.split(', ');
 // Keep the existing six points while preserving every word in reading order.
@@ -28,7 +29,7 @@ const clues=[...entries.slice(0,3),entries.slice(3,5).join(', '),entries[5],entr
     <div class="approach-investigation">
       <p class="approach-opening">{c.approach[0]}</p>
       <div class="approach-clues">
-        <p class="clue-sentence"><span class="clue-lead">{clueLead} : </span><span class="clue-map"><svg class="clue-path clue-path-desktop" viewBox="0 0 600 340" preserveAspectRatio="none" aria-hidden="true"><path d="M42 54C123 18 205 44 276 20C356 2 394 60 432 116M42 54C94 119 104 154 18 190C70 249 146 244 228 255C314 274 352 240 432 221M276 20C280 98 224 160 228 255M432 116C461 145 465 174 432 221"/></svg><svg class="clue-path clue-path-mobile" viewBox="0 0 600 340" preserveAspectRatio="none" aria-hidden="true"><path d="M42 41C120 13 200 29 348 14C364 45 356 78 348 109M42 41C106 89 98 122 18 143C32 173 42 204 42 245M348 109C354 143 352 185 348 218M18 143C162 123 250 162 348 218"/></svg>{clues.map((clue,i)=><span class="clue"><span class="clue-label"><TextEmphasis text={clue} phrases={c.approachEmphasis}/>{i===clues.length-1?'':', '} </span></span>)}</span></p>
+        <p class="clue-sentence"><span class="clue-desktop-lead">Pendant la séance, je relie différentes pièces du puzzle.</span><span class="clue-lead">{clueLead} : </span><span class="clue-map"><svg class="clue-path clue-path-desktop" viewBox="0 0 600 340" preserveAspectRatio="none" aria-hidden="true"><path d="M42 54C123 18 205 44 276 20C356 2 394 60 432 116M42 54C94 119 104 154 18 190C70 249 146 244 228 255C314 274 352 240 432 221M276 20C280 98 224 160 228 255M432 116C461 145 465 174 432 221"/></svg><svg class="clue-path clue-path-mobile" viewBox="0 0 600 340" preserveAspectRatio="none" aria-hidden="true"><path d="M42 41C120 13 200 29 348 14C364 45 356 78 348 109M42 41C106 89 98 122 18 143C32 173 42 204 42 245M348 109C354 143 352 185 348 218M18 143C162 123 250 162 348 218"/></svg>{clues.map((clue,i)=><span class="clue"><span class="clue-label"><TextEmphasis text={clue} phrases={c.approachEmphasis}/>{i===clues.length-1?'':', '} </span></span>)}</span></p>
       </div>
       {c.approach.slice(2,5).map(p=><p class="clue-reading"><TextEmphasis text={p} phrases={c.approachEmphasis}/></p>)}
       <p class="approach-closing">{c.approach[5]}</p>
@@ -40,7 +41,8 @@ const clues=[...entries.slice(0,3),entries.slice(3,5).join(', '),entries[5],entr
     <h2 class="eyebrow">Your system is a network.</h2>
     <div class="network-investigation">
       <NetworkGraphic lang="fr"/>
-      <div class="network-reading">{c.network.map(p=><p><AcupunctureNetworkText text={p} desktopPhrases={c.networkEmphasis} mobilePhrases={c.networkMobileEmphasis}/></p>)}</div>
+      <div class="network-reading network-original-reading">{c.network.map(p=><p><AcupunctureNetworkText text={p} desktopPhrases={c.networkEmphasis} mobilePhrases={c.networkMobileEmphasis}/></p>)}</div>
+      <AcupunctureDesktopNetwork lang="fr"/>
     </div>
   </section>
 

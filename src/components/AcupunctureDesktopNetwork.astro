@@ -1,0 +1,22 @@
+---
+import TextEmphasis from './TextEmphasis.astro';
+const {lang='fr'}=Astro.props;
+const fr=lang==='fr';
+const ideas=fr?[
+ {title:'Plan de transport',copy:'Quand j’explique l’acupuncture, je la compare souvent au plan des transports parisiens : plusieurs lignes, plusieurs trajets pour relier un point A à un point B.'},
+ {title:'Méridiens',copy:'En acupuncture traditionnelle, ces lignes sont les méridiens : des trajets qui relient les différentes parties du réseau.'},
+ {title:'Qi',copy:'On y décrit la circulation du Qi, l’énergie vitale dans la lecture traditionnelle chinoise.'},
+ {title:'Lire l’ensemble',copy:'Quand quelque chose se bloque, le déséquilibre ne se manifeste pas forcément là où il commence. On regarde donc l’ensemble : histoire, sommeil, digestion, émotions, cycle, énergie, rythme de vie, saisons et environnement.'}
+]:[
+ {title:'Transport map',copy:'When I explain acupuncture, I often compare it to the Paris transport map: several lines and routes connecting point A to point B.'},
+ {title:'Meridians',copy:'In traditional acupuncture, these lines are the meridians: pathways connecting the different parts of the network.'},
+ {title:'Qi',copy:'Qi, the vital energy described in traditional Chinese theory, is said to circulate through these pathways.'},
+ {title:'Reading the whole',copy:'When something becomes blocked, the imbalance does not necessarily show up where it started. We look at the whole: history, sleep, digestion, emotions, cycle, energy, lifestyle, seasons and environment.'}
+];
+const phrases=fr?['méridiens','Qi','réseau','symptôme isolé']:['meridians','Qi','network','isolated symptom'];
+const conclusion=fr?'L’acupuncture cherche à lire ce réseau, pas seulement un symptôme isolé.':'Acupuncture tries to read this network, not just an isolated symptom.';
+---
+<div class="network-desktop-reading">
+  <div class="network-ideas">{ideas.map(idea=><div class="network-idea"><h3>{idea.title}</h3><p><TextEmphasis text={idea.copy} phrases={phrases}/></p></div>)}</div>
+  <p class="network-conclusion"><TextEmphasis text={conclusion} phrases={phrases}/></p>
+</div>
