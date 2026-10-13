@@ -76,7 +76,7 @@
   .gaia-home .manifesto-copy p{margin-bottom:16px}
   .gaia-home .manifesto-copy .separated{margin-top:24px;margin-bottom:0}
   .gaia-home .manifesto-copy{max-width:600px}
-  .gaia-home .manifesto>.eyebrow{justify-self:start}
+  .gaia-home .manifesto>.eyebrow{justify-self:start;align-self:center;position:relative;top:8px}
   .gaia-home .network{align-items:center}
   .gaia-home .network-copy p{max-width:580px}
   .gaia-home .manifesto-copy p,.gaia-home .network-copy p,.gaia-home .women p,.gaia-home .story-module p,.gaia-home .project-copy p,.gaia-home .locations>p:not(.locations-title){text-wrap:pretty}
@@ -95,7 +95,7 @@
   .gaia-home .power{--section-top:48px;--section-bottom:48px;align-items:center}
   .gaia-home .power-dialogue{justify-self:center;margin-left:0}
   .gaia-home .project{grid-template-columns:minmax(0,1.1fr) minmax(0,1fr);column-gap:48px;align-items:start;--section-top:48px;--section-bottom:40px}
-  .gaia-home .project-display-title{align-self:start;margin-top:8px}
+  .gaia-home .project-display-title{align-self:center;margin-top:0}
   .gaia-home .project-copy{max-width:580px}
   .gaia-home .project-copy p{max-width:580px;margin-bottom:16px}
   .gaia-home .project-copy p:last-child{margin-bottom:0}
