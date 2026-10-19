@@ -78,3 +78,26 @@
  .pranic-page .pranic-network p:not(:last-child){margin-bottom:14px}
  .pranic-page .pranic-topic-grid{row-gap:13px}
 }
+
+/* Final desktop alignment, shared across French and English. */
+@media(min-width:1000px){
+  .pranic-page .pranic-understanding .pranic-editorial{align-items:start;column-gap:5%}
+  .pranic-page .pranic-understanding h2{margin-top:0}
+  .pranic-page .pranic-understanding .pranic-editorial>div{padding-top:clamp(2px,.22vw,3px)}
+  .pranic-page .pranic-origin-module{align-items:start}
+  .pranic-page .pranic-origin h2{margin:0;text-wrap:balance}
+  .pranic-page .pranic-origin-copy{padding-top:2px}
+  .pranic-page .pranic-network{align-items:center}
+  .pranic-page .pranic-hub{align-self:center;margin-top:0;margin-bottom:0}
+  .pranic-page .pranic-topic-grid{grid-template-columns:repeat(3,minmax(0,1fr));column-gap:40px;row-gap:20px}
+  .pranic-page .pranic-combined h2{font-size:clamp(34px,3.3vw,48px);max-width:none;text-wrap:balance;margin-bottom:28px}
+  .pranic-page .pranic-format-panel{padding:40px}
+  .pranic-page .pranic-format-panel h3{min-height:1.2em;max-width:none;margin-top:0;margin-bottom:24px;text-wrap:pretty}
+  .pranic-page .pranic-format-flow{width:32px;right:-16px}
+  .pranic-page .final-cta h2{margin-left:auto;margin-right:auto}
+  .pranic-page .pranic-final-support{max-width:44ch}
+}
+@media(min-width:1000px) and (max-width:1100px){
+  .pranic-page .pranic-topic-grid{column-gap:28px}
+  .pranic-page .pranic-format-panel{padding:32px}
+}
