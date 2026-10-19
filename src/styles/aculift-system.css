@@ -76,3 +76,19 @@
  .aculift-page .aculift-definition-copy p:not(:last-of-type){margin-bottom:16px}
  .aculift-page .aculift-personal p:first-of-type{margin-bottom:18px}
 }
+
+/* Desktop-only optical alignment, shared by the French and English pages. */
+@media(min-width:1000px){
+  .aculift-page .aculift-editorial{align-items:start}
+  .aculift-page .aculift-editorial>h2{margin-top:0}
+  .aculift-page .aculift-definition-copy{padding-top:clamp(2px,.28vw,4px)}
+  .aculift-page .aculift-face{transform:none;align-self:center}
+  .aculift-page .aculift-step-grid{grid-template-columns:repeat(2,minmax(0,1fr));column-gap:96px;align-items:start}
+  .aculift-page .aculift-step-grid>div{min-width:0}
+  .aculift-page .aculift-step-grid h3{margin-top:0;margin-bottom:16px}
+  .aculift-page .aculift-session-contour{left:calc(50% - 36px);top:0;width:72px;height:31.2px}
+}
+@media(min-width:1000px) and (max-width:1100px){
+  .aculift-page .aculift-step-grid{column-gap:80px}
+  .aculift-page .aculift-session-contour{left:calc(50% - 32px);width:64px}
+}
