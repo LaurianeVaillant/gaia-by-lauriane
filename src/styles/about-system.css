@@ -125,3 +125,49 @@
  .about-journal .aj-training-item:not(:first-child){margin-top:42px}
  .about-journal .aj-ending{padding-bottom:14px}
 }
+
+/* Shared desktop editorial grid; smaller screens retain the approved composition. */
+@media(min-width:1000px){
+ .about-journal .aj-section{padding-top:64px;padding-bottom:64px}
+ .about-journal .aj-hero{align-items:start;column-gap:7%;padding-top:36px;padding-bottom:60px}
+ .aj-hero .aj-label{margin-bottom:20px}
+ .aj-hero .aj-profession{margin-bottom:26px}
+ .aj-hero .aj-hero-quote{margin-bottom:24px}
+ .aj-origin{align-items:start;column-gap:7%}
+ .aj-origin-copy{max-width:53ch}
+ .aj-origin-copy h2{margin-top:0}
+ .aj-encounters-layout{grid-template-columns:1fr 1fr;gap:7%;align-items:start}
+ .about-journal .aj-encounters{padding-bottom:48px}
+ .aj-encounters-copy{max-width:53ch}
+ .aj-small-archive{width:48%;transform:none;margin-top:-36px!important}
+ .aj-ceremony figcaption{max-width:54%}
+ .aj-statement{padding-top:48px;padding-bottom:48px}
+ .aj-statement .aj-statement-support{transform:none}
+ .aj-therapist-layout{grid-template-columns:1.1fr 1fr;gap:7%;align-items:start}
+ .aj-practice{margin-top:0!important}
+ .aj-therapist-heading{margin-bottom:28px}
+ .about-journal .aj-training{padding-top:48px;padding-bottom:52px}
+ .aj-training-layout{grid-template-columns:minmax(0,3.2fr) minmax(0,1fr);gap:40px}
+ .aj-training-item{grid-template-columns:minmax(0,.9fr) minmax(0,1.6fr);gap:32px;align-items:start}
+ .aj-training-item:first-child{margin-top:0}
+ .about-journal .aj-training-item:not(:first-child){margin-top:32px}
+ .aj-training-item h3{margin:0}
+ .aj-study{margin-top:0!important}
+ .about-journal .aj-gaia{grid-template-columns:1fr 1.2fr;gap:8%;align-items:center}
+ .aj-gaia-heading{align-self:center}
+ .aj-gaia-copy{transform:none;align-self:center;max-width:51ch}
+ .aj-gaia-wordmark{margin-top:28px}
+ .about-journal .aj-ending{grid-template-columns:1.05fr 1fr;gap:7%;align-items:center;padding-top:56px;padding-bottom:56px}
+ .aj-service-links{grid-template-columns:1fr 1fr;column-gap:24px;row-gap:12px;max-width:none;margin-bottom:28px}
+ .aj-service-links li{min-width:0}
+ .aj-service-links a{height:100%;align-items:baseline}
+}
+@media(min-width:1000px) and (max-width:1300px){
+ .about-journal .aj-section{padding-top:56px;padding-bottom:56px}
+ .about-journal .aj-hero{padding-top:32px;padding-bottom:52px}
+ .about-journal .aj-encounters{padding-bottom:40px}
+ .aj-training-layout{gap:28px}
+ .aj-training-item{gap:24px}
+ .about-journal .aj-training{padding-top:44px;padding-bottom:48px}
+ .aj-statement{padding-top:44px;padding-bottom:44px}
+}
