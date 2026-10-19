@@ -39,7 +39,7 @@
 @media(min-width:1000px){
  .booking-page{--bk-flow-space:40px;--bk-step-gap:40px}
  .bk-hero h1{align-self:center}
- .bk-practices{padding-bottom:var(--bk-flow-space)}
+ .bk-practices{padding-bottom:calc(var(--bk-flow-space) - 12px)}
  .bk-practices a{min-height:50px}
  .bk-practices .bk-note{margin-top:18px}
  .bk-how{padding-top:var(--bk-flow-space)}
