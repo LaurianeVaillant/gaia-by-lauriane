@@ -140,3 +140,29 @@
  .womens-health-page .feminine-cycle .feminine-pull{font-size:clamp(21px,5.6vw,24px)}
  .womens-health-page .feminine-topic-grid{row-gap:13px;margin-top:18px}
 }
+
+/* The closing points to acupuncture; keep the same GAIA field and centred hierarchy. */
+.womens-health-page .final-cta h2{max-width:22ch;margin-left:auto;margin-right:auto}
+.womens-health-page .final-cta .button{max-width:100%;white-space:normal;text-align:center}
+@media(max-width:700px){
+  .womens-health-page .final-cta h2{font-size:clamp(32px,8.8vw,40px)}
+  .womens-health-page .feminine-closing-orbit{left:-155px}
+}
+/* Desktop editorial measures shared by the French and English versions. */
+@media(min-width:1000px){
+  .womens-health-page .feminine-hero{align-items:center}
+  .womens-health-page .feminine-why .feminine-editorial>div{grid-template-columns:repeat(2,minmax(0,1fr));column-gap:48px;align-items:start}
+  .womens-health-page .feminine-why .feminine-editorial p{max-width:580px}
+  .womens-health-page .feminine-why-statement{max-width:30ch;text-wrap:balance}
+  .womens-health-page .feminine-topic-grid{grid-template-columns:repeat(3,minmax(0,1fr));row-gap:20px}
+  .womens-health-page .feminine-development .feminine-editorial{align-items:start;column-gap:48px}
+  .womens-health-page .feminine-development .feminine-editorial>div{max-width:600px}
+  .womens-health-page .feminine-development p{max-width:600px}
+  .womens-health-page .feminine-development h2{margin-top:0}
+  .womens-health-page .final-cta h2{font-size:clamp(44px,4.8vw,68px)}
+  .womens-health-page .final-cta .feminine-final-support{max-width:54ch}
+}
+@media(min-width:1000px) and (max-width:1100px){
+  .womens-health-page .feminine-why .feminine-editorial>div,.womens-health-page .feminine-development .feminine-editorial{column-gap:32px}
+  .womens-health-page .feminine-topic-grid{column-gap:28px}
+}
