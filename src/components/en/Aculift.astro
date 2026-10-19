@@ -8,7 +8,7 @@ import {url} from '../../data/site';
 <div class="aculift-page">
   <section class="section aculift-hero">
     <div class="aculift-hero-copy"><h1>{c.title}</h1><p class="aculift-subtitle">{c.subtitle}</p><p class="aculift-intro">{c.intro}</p><p class="aculift-factual">{c.factual}</p><a class="button" href="/en/book-an-appointment/">Book an appointment</a></div>
-    <div class="aculift-photo"><Photo name="about-portrait" hero width={1024} height={1536} alt="Close-up portrait of Lauriane in golden natural light, with a hand near her face"/></div>
+    <div class="aculift-photo"><Photo name="about-portrait" hero sizes="(max-width:480px) calc(100vw - 40px), (max-width:800px) calc(100vw - 48px), 50vw" width={1024} height={1536} alt="Close-up portrait of Lauriane in golden natural light, with a hand near her face"/></div>
   </section>
   <section class="section aculift-definition">
     <div class="aculift-editorial"><h2>What is Aculift?</h2><div class="aculift-definition-copy">{c.definition.map(p=><p>{p}</p>)}<a class="text-link" href={url('en','acupuncture')}>Explore Traditional Acupuncture</a></div></div>

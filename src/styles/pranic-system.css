@@ -101,3 +101,9 @@
   .pranic-page .pranic-topic-grid{column-gap:28px}
   .pranic-page .pranic-format-panel{padding:32px}
 }
+
+/* Keep the practical comparison readable at the shared tablet stacking width. */
+@media(max-width:800px){
+ .pranic-page .pranic-format-block{grid-template-columns:1fr}
+ .pranic-page .pranic-format-flow{display:none}
+}
