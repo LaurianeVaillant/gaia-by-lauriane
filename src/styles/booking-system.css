@@ -34,3 +34,22 @@
   .booking-page .bk-practices{padding-top:32px;padding-bottom:32px}
   .booking-page .bk-how{padding-top:32px}
 }
+
+/* One desktop flow rhythm shared by the French and English booking pages. */
+@media(min-width:1000px){
+ .booking-page{--bk-flow-space:40px;--bk-step-gap:40px}
+ .bk-hero h1{align-self:center}
+ .bk-practices{padding-bottom:var(--bk-flow-space)}
+ .bk-practices a{min-height:50px}
+ .bk-practices .bk-note{margin-top:18px}
+ .bk-how{padding-top:var(--bk-flow-space)}
+ .bk-how ol{grid-template-columns:repeat(3,minmax(0,1fr));column-gap:var(--bk-step-gap);align-items:start}
+ .bk-how li{margin-top:0;margin-bottom:0}
+ .bk-closing{padding-top:56px;padding-bottom:56px}
+}
+@media(min-width:1000px) and (max-width:1300px){
+ .booking-page{--bk-flow-space:36px;--bk-step-gap:32px}
+}
+@media(min-width:1000px) and (max-width:1100px){
+ .booking-page{--bk-flow-space:32px;--bk-step-gap:28px}
+}
